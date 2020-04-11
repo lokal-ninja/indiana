@@ -1,0 +1,4 @@
+---
+title: "The Little Store"
+url: /lowell/the-little-store/
+---

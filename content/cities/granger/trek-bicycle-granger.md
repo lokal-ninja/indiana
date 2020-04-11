@@ -1,0 +1,4 @@
+---
+title: "Trek Bicycle Granger"
+url: /granger/trek-bicycle-granger/
+---
