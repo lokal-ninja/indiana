@@ -1,6 +1,6 @@
 ---
 title: Mishawaka
 url: /mishawaka/
-latitude: 41.661992700000006
-longitude: -86.1586156
+latitude: 41.6611642
+longitude: -86.1807031
 ---
