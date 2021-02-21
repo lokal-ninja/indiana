@@ -1,12 +1,11 @@
-id: 499126473
-type: way
-shop: hairdresser
-latitude: 39.8659898
-longitude: -86.14580670000001
-postcode: "46220"
+id: 8391092529
+type: node
+latitude: 39.840034200000005
+longitude: -86.1269664
+postcode: "46205"
 city: Indianapolis
-street: "North College Avenue"
-housenumber: 6111
+street: "East 46th Street"
+housenumber: 2019
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.shinetwentynine.com"

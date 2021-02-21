@@ -1,6 +1,5 @@
 id: 115420574
 type: way
-shop: supermarket
 latitude: 40.455019400000005
 longitude: -86.91678370000001
 postcode: "47906"
@@ -8,5 +7,5 @@ city: West Lafayette
 street: "Sagamore Parkway West"
 housenumber: 1024
 phone: ""
-opening_hours: ""
+opening_hours: "Su 11:00-18:00; Mo-Sa 09:00-20:00"
 website: ""

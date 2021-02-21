@@ -1,12 +1,11 @@
-id: 499201408
-type: way
-shop: car repair
-latitude: 39.872925
-longitude: -86.1459389
-postcode: "46220"
+id: 8347223345
+type: node
+latitude: 39.775770300000005
+longitude: -85.9793028
+postcode: "46229"
 city: Indianapolis
-street: "North College Avenue"
-housenumber: 6401
-phone: ""
+street: "East Washington Street"
+housenumber: 10520
+phone: "+13178992600"
 opening_hours: ""
-website: ""
+website: "https://www.jiffylube.com/locations/in/indianapolis/3329"
