@@ -1,5 +1,5 @@
 ---
-title: "Z gallerie"
+title: "Z Gallerie"
 url: /carmel/z-gallerie/
-shop: houseware
+shop: furniture
 ---
