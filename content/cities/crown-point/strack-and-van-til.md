@@ -1,5 +1,5 @@
 ---
-title: "Strack and Van Til"
+title: "Strack & Van Til"
 url: /crown-point/strack-and-van-til/
 shop: supermarket
 ---

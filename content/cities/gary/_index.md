@@ -1,6 +1,6 @@
 ---
 title: Gary
 url: /gary/
-latitude: 41.6021292
-longitude: -87.3371372
+latitude: 41.602096200000005
+longitude: -87.3370647
 ---
