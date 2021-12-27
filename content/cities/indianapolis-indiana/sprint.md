@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /indianapolis-indiana/sprint/
-shop: mobile phone
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS"
 url: /crown-point/cvs/
-shop: convenience
+shop: Lebensmittel
 ---

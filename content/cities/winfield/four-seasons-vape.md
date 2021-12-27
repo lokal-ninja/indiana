@@ -1,5 +1,5 @@
 ---
 title: "Four Seasons Vape"
 url: /winfield/four-seasons-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

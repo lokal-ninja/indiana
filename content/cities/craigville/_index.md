@@ -1,6 +1,6 @@
 ---
 title: Craigville
 url: /craigville/
-latitude: 40.7783802
-longitude: -85.0908026
+latitude: 40.778
+longitude: -85.091
 ---

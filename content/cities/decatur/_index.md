@@ -1,6 +1,6 @@
 ---
 title: decatur
 url: /decatur/
-latitude: 
-longitude: 
+latitude: 40.847
+longitude: -84.94
 ---

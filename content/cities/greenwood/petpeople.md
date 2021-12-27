@@ -1,5 +1,5 @@
 ---
 title: "PetPeople"
 url: /greenwood/petpeople/
-shop: pet
+shop: Tiere
 ---

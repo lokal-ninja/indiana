@@ -1,6 +1,6 @@
 ---
 title: Crown Point
 url: /crown-point/
-latitude: 41.4169806
-longitude: -87.36531360000001
+latitude: 41.414
+longitude: -87.334
 ---

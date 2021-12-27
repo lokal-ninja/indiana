@@ -1,6 +1,6 @@
 ---
 title: Shoals
 url: /shoals/
-latitude: 38.666440200000004
-longitude: -86.7911096
+latitude: 38.667
+longitude: -86.79
 ---

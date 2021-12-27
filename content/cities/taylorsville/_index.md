@@ -1,6 +1,6 @@
 ---
 title: Taylorsville
 url: /taylorsville/
-latitude: 39.295884400000006
-longitude: -85.95082640000001
+latitude: 39.302
+longitude: -85.958
 ---

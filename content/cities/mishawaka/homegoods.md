@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /mishawaka/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

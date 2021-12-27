@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hammond/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

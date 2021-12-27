@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /linton/caseys-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grabill
 url: /grabill/
-latitude: 41.2108829
-longitude: -84.9669112
+latitude: 41.213
+longitude: -84.973
 ---

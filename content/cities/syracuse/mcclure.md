@@ -1,5 +1,5 @@
 ---
 title: "McClure"
 url: /syracuse/mcclure/
-shop: convenience
+shop: Lebensmittel
 ---

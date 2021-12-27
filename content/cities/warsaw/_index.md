@@ -1,6 +1,6 @@
 ---
 title: Warsaw
 url: /warsaw/
-latitude: 41.2381017
-longitude: -85.8530544
+latitude: 41.273
+longitude: -85.855
 ---

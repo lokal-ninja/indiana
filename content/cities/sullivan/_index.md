@@ -1,6 +1,6 @@
 ---
 title: Sullivan
 url: /sullivan/
-latitude: 39.049272200000004
-longitude: -87.41726440000001
+latitude: 39.101
+longitude: -87.425
 ---

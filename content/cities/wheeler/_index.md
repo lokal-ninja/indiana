@@ -1,6 +1,6 @@
 ---
 title: Wheeler
 url: /wheeler/
-latitude: 41.5117046
-longitude: -87.1792001
+latitude: 41.512
+longitude: -87.18
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /noblesville/maurices/
-shop: clothes
+shop: Kleidung
 ---

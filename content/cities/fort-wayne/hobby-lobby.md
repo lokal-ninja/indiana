@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /fort-wayne/hobby-lobby/
-shop: craft
+shop: Basteln
 ---

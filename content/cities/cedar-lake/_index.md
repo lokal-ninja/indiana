@@ -1,6 +1,6 @@
 ---
 title: Cedar Lake
 url: /cedar-lake/
-latitude: 41.3647578
-longitude: -87.44114730000001
+latitude: 41.375
+longitude: -87.452
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bowles Mattress Showroom"
 url: /jeffersonville/bowles-mattress-showroom/
-shop: bed
+shop: Betten
 ---

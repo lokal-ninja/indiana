@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /angola/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

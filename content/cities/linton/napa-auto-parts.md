@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /linton/napa-auto-parts/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Merriville
 url: /merriville/
-latitude: 
-longitude: 
+latitude: 41.47
+longitude: -87.373
 ---

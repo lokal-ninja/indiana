@@ -1,6 +1,6 @@
 ---
 title: Indianapolis, Indiana
 url: /indianapolis-indiana/
-latitude: 
-longitude: 
+latitude: 39.777
+longitude: -85.981
 ---

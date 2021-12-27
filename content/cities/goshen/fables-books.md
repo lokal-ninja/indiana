@@ -1,5 +1,5 @@
 ---
 title: "Fables Books"
 url: /goshen/fables-books/
-shop: books
+shop: Bücher
 ---

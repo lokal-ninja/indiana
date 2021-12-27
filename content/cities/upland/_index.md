@@ -1,6 +1,6 @@
 ---
 title: Upland
 url: /upland/
-latitude: 40.475597400000005
-longitude: -85.49441680000001
+latitude: 40.459
+longitude: -85.497
 ---

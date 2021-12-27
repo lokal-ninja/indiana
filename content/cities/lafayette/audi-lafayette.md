@@ -1,5 +1,5 @@
 ---
 title: "Audi Lafayette"
 url: /lafayette/audi-lafayette/
-shop: car
+shop: Autohaus
 ---

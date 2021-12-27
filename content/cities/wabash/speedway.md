@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wabash/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Delphi
 url: /delphi/
-latitude: 40.587537100000006
-longitude: -86.6750059
+latitude: 40.587
+longitude: -86.674
 ---

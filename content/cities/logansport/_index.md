@@ -1,6 +1,6 @@
 ---
 title: Logansport
 url: /logansport/
-latitude: 
-longitude: 
+latitude: 40.753
+longitude: -86.366
 ---

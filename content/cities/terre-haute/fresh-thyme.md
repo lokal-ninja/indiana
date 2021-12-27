@@ -1,5 +1,5 @@
 ---
 title: "Fresh Thyme"
 url: /terre-haute/fresh-thyme/
-shop: supermarket
+shop: Supermarkt
 ---

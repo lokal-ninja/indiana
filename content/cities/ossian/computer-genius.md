@@ -1,5 +1,5 @@
 ---
 title: "Computer Genius"
 url: /ossian/computer-genius/
-shop: electronics
+shop: Elektronik
 ---

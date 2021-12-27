@@ -1,6 +1,6 @@
 ---
 title: Wakarusa
 url: /wakarusa/
-latitude: 41.536159700000006
-longitude: -86.0208334
+latitude: 41.525
+longitude: -86.004
 ---

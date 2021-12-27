@@ -1,5 +1,5 @@
 ---
 title: "Victoria's Secret"
 url: /noblesville/victorias-secret/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Crawfordsville
 url: /crawfordsville/
-latitude: 40.0401991
-longitude: -86.8990249
+latitude: 40.039
+longitude: -86.902
 ---

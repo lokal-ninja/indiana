@@ -1,6 +1,6 @@
 ---
 title: Brookston
 url: /brookston/
-latitude: 40.6028144
-longitude: -86.8672339
+latitude: 40.603
+longitude: -86.868
 ---

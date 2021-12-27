@@ -1,5 +1,5 @@
 ---
 title: "iMechanic"
 url: /bloomington/imechanic/
-shop: mobile phone
+shop: Handy
 ---

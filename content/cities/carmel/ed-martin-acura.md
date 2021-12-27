@@ -1,5 +1,5 @@
 ---
 title: "Ed Martin Acura"
 url: /carmel/ed-martin-acura/
-shop: car
+shop: Autohaus
 ---

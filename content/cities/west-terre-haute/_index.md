@@ -1,6 +1,6 @@
 ---
 title: West Terre Haute
 url: /west-terre-haute/
-latitude: 39.4650363
-longitude: -87.450021
+latitude: 39.464
+longitude: -87.452
 ---

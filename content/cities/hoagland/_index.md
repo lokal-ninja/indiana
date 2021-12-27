@@ -1,6 +1,6 @@
 ---
 title: Hoagland
 url: /hoagland/
-latitude: 40.948081
-longitude: -84.99104410000001
+latitude: 40.948
+longitude: -84.998
 ---

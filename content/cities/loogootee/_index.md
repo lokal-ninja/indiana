@@ -1,6 +1,6 @@
 ---
 title: Loogootee
 url: /loogootee/
-latitude: 38.6769945
-longitude: -86.91416960000001
+latitude: 38.67
+longitude: -86.915
 ---

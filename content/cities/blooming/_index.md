@@ -1,6 +1,6 @@
 ---
 title: Blooming
 url: /blooming/
-latitude: 
-longitude: 
+latitude: 39.143
+longitude: -86.574
 ---

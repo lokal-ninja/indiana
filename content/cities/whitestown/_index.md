@@ -1,6 +1,6 @@
 ---
 title: Whitestown
 url: /whitestown/
-latitude: 39.9972626
-longitude: -86.3458296
+latitude: 39.979
+longitude: -86.395
 ---

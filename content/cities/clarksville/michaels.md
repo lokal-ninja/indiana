@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /clarksville/michaels/
-shop: craft
+shop: Basteln
 ---

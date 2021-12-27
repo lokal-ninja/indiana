@@ -1,6 +1,6 @@
 ---
 title: Brownsburg
 url: /brownsburg/
-latitude: 39.8433769
-longitude: -86.39777360000001
+latitude: 39.864
+longitude: -86.393
 ---

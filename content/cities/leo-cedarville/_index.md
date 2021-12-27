@@ -1,6 +1,6 @@
 ---
 title: Leo-Cedarville
 url: /leo-cedarville/
-latitude: 41.2125494
-longitude: -85.0166351
+latitude: 41.215
+longitude: -85.018
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /schererville/oberweis/
-shop: dairy
+shop: Milch
 ---

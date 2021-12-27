@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /terre-haute/rent-a-center/
-shop: appliance
+shop: Haushaltsgeräte
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cayuga
 url: /cayuga/
-latitude: 39.9486489
-longitude: -87.4597385
+latitude: 39.934
+longitude: -87.449
 ---

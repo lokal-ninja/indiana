@@ -1,6 +1,6 @@
 ---
 title: Scottsburg
 url: /scottsburg/
-latitude: 38.288661000000005
-longitude: -87.21917350000001
+latitude: 38.686
+longitude: -85.781
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /gary/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

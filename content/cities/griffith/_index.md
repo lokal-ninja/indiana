@@ -1,6 +1,6 @@
 ---
 title: Griffith
 url: /griffith/
-latitude: 41.534507000000005
-longitude: -87.42553050000001
+latitude: 41.554
+longitude: -87.429
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /warsaw/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

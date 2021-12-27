@@ -1,5 +1,5 @@
 ---
 title: "Once Upon A Child"
 url: /bloomington/once-upon-a-child/
-shop: charity
+shop: Gebrauchtwaren
 ---

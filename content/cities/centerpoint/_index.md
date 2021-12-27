@@ -1,6 +1,6 @@
 ---
 title: Centerpoint
 url: /centerpoint/
-latitude: 
-longitude: 
+latitude: 39.417
+longitude: -87.076
 ---

@@ -1,6 +1,6 @@
 ---
 title: Riley
 url: /riley/
-latitude: 39.390039
-longitude: -87.30001770000001
+latitude: 39.392
+longitude: -87.306
 ---

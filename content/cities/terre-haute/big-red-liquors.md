@@ -1,5 +1,5 @@
 ---
 title: "Big Red Liquors"
 url: /terre-haute/big-red-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

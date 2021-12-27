@@ -1,5 +1,5 @@
 ---
 title: "Luke"
 url: /lafayette/luke/
-shop: convenience
+shop: Lebensmittel
 ---

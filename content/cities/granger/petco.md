@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /granger/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mooresville
 url: /mooresville/
-latitude: 39.6128243
-longitude: -86.37416
+latitude: 39.616
+longitude: -86.359
 ---
