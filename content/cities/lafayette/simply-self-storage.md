@@ -1,5 +1,5 @@
 ---
 title: "Simply Self Storage"
 url: /lafayette/simply-self-storage/
-shop: Mieten
+shop: storage rental
 ---

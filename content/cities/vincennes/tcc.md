@@ -1,5 +1,5 @@
 ---
 title: "TCC"
 url: /vincennes/tcc/
-shop: Handy
+shop: mobile phone
 ---

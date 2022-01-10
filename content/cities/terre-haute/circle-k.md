@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /terre-haute/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

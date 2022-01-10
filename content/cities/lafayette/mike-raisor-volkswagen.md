@@ -1,5 +1,5 @@
 ---
 title: "Mike Raisor Volkswagen"
 url: /lafayette/mike-raisor-volkswagen/
-shop: Autohaus
+shop: car
 ---

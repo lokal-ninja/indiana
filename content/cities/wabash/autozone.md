@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /wabash/autozone/
-shop: Autoteile
+shop: car parts
 ---

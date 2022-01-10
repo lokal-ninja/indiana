@@ -1,5 +1,5 @@
 ---
 title: "Oil Exchange Inc"
 url: /lowell/oil-exchange-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

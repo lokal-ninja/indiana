@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /vincennes/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

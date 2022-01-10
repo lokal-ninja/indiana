@@ -1,5 +1,5 @@
 ---
 title: "CravinVapes"
 url: /fort-wayne/cravinvapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hubcap Express"
 url: /fort-wayne/hubcap-express/
-shop: Reifen
+shop: tyres
 ---

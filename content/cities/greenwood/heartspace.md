@@ -1,5 +1,5 @@
 ---
 title: "HeartSpace"
 url: /greenwood/heartspace/
-shop: Allgemein
+shop: shop
 ---

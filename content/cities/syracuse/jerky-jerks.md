@@ -1,5 +1,5 @@
 ---
 title: "Jerky Jerks"
 url: /syracuse/jerky-jerks/
-shop: Feinkost
+shop: deli
 ---

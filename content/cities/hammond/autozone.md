@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hammond/autozone/
-shop: Autoteile
+shop: car parts
 ---

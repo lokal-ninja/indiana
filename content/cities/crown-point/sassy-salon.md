@@ -1,5 +1,5 @@
 ---
 title: "Sassy Salon"
 url: /crown-point/sassy-salon/
-shop: Friseur
+shop: hairdresser
 ---

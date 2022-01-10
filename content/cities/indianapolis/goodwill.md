@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /indianapolis/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

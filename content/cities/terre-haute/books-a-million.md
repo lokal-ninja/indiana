@@ -1,5 +1,5 @@
 ---
 title: "Books-A-Million"
 url: /terre-haute/books-a-million/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /evansville/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

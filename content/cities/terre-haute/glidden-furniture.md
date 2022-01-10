@@ -1,5 +1,5 @@
 ---
 title: "Glidden Furniture"
 url: /terre-haute/glidden-furniture/
-shop: Möbel
+shop: furniture
 ---

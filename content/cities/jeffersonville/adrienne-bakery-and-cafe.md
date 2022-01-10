@@ -1,5 +1,5 @@
 ---
 title: "Adrienne Bakery and Cafe"
 url: /jeffersonville/adrienne-bakery-and-cafe/
-shop: Bäckerei
+shop: bakery
 ---

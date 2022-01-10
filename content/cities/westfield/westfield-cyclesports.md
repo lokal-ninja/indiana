@@ -1,5 +1,5 @@
 ---
 title: "Westfield Cyclesports"
 url: /westfield/westfield-cyclesports/
-shop: Fahrrad
+shop: bicycle
 ---

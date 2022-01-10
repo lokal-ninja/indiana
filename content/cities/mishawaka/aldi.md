@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mishawaka/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

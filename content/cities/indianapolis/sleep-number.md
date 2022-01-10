@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /indianapolis/sleep-number/
-shop: Betten
+shop: bed
 ---

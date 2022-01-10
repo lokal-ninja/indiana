@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /new-albany/visionworks/
-shop: Optiker
+shop: optician
 ---

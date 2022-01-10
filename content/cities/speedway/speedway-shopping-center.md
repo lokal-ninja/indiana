@@ -1,5 +1,5 @@
 ---
 title: "Speedway Shopping Center"
 url: /speedway/speedway-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

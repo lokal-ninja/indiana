@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /fort-wayne/hallmark/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StayLock Storage"
 url: /hebron/staylock-storage/
-shop: Mieten
+shop: storage rental
 ---

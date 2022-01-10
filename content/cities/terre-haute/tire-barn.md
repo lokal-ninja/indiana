@@ -1,5 +1,5 @@
 ---
 title: "Tire Barn"
 url: /terre-haute/tire-barn/
-shop: Reifen
+shop: tyres
 ---

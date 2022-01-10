@@ -1,5 +1,5 @@
 ---
 title: "Minglin Jewelers"
 url: /logansport/minglin-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

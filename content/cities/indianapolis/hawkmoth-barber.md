@@ -1,5 +1,5 @@
 ---
 title: "Hawkmoth Barber"
 url: /indianapolis/hawkmoth-barber/
-shop: Friseur
+shop: hairdresser
 ---

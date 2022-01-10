@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /fishers/ikea/
-shop: Möbel
+shop: furniture
 ---

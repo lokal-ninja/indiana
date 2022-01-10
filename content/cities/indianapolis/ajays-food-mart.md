@@ -1,5 +1,5 @@
 ---
 title: "Ajays food mart"
 url: /indianapolis/ajays-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

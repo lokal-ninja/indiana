@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /indianapolis/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

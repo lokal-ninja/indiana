@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /indianapolis/conoco/
-shop: Lebensmittel
+shop: convenience
 ---

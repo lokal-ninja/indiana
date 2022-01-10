@@ -1,5 +1,5 @@
 ---
 title: "Coyle"
 url: /clarksville/coyle/
-shop: Autohaus
+shop: car
 ---

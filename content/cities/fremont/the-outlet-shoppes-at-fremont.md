@@ -1,5 +1,5 @@
 ---
 title: "The Outlet Shoppes at Fremont"
 url: /fremont/the-outlet-shoppes-at-fremont/
-shop: Einkaufszentrum
+shop: mall
 ---

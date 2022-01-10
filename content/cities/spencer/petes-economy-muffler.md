@@ -1,5 +1,5 @@
 ---
 title: "Pete's Economy Muffler"
 url: /spencer/petes-economy-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

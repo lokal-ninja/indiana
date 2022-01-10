@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /terre-haute/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

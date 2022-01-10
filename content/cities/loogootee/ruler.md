@@ -1,5 +1,5 @@
 ---
 title: "Ruler"
 url: /loogootee/ruler/
-shop: Supermarkt
+shop: supermarket
 ---

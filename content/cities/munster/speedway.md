@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /munster/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

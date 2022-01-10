@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /frankfort-in-46041/sherwin-williams/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /greenwood/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

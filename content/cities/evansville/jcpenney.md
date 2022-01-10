@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /evansville/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

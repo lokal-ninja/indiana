@@ -1,5 +1,5 @@
 ---
 title: "First Harvest"
 url: /noblesville/first-harvest/
-shop: Kleidung
+shop: clothes
 ---

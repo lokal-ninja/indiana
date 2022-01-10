@@ -1,5 +1,5 @@
 ---
 title: "Habig Garden Shop"
 url: /indianapolis/habig-garden-shop/
-shop: Garten-Center
+shop: garden centre
 ---

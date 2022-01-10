@@ -1,5 +1,5 @@
 ---
 title: "Middlebury Service Center"
 url: /middlebury/middlebury-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

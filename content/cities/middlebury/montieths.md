@@ -1,5 +1,5 @@
 ---
 title: "Montieth's"
 url: /middlebury/montieths/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smith Chevy Of Lowell"
 url: /lowell/smith-chevy-of-lowell/
-shop: Autohaus
+shop: car
 ---

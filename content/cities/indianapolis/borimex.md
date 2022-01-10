@@ -1,5 +1,5 @@
 ---
 title: "Borimex"
 url: /indianapolis/borimex/
-shop: Autohaus
+shop: car
 ---

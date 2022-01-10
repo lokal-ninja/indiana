@@ -1,5 +1,5 @@
 ---
 title: "Elite Auto"
 url: /spencer/elite-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

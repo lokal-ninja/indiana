@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /noblesville/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Legacy Outfitters"
 url: /logansport/legacy-outfitters/
-shop: Andenken
+shop: gift
 ---

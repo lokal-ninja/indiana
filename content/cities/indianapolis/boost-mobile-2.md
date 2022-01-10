@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /indianapolis/boost-mobile-2/
-shop: Handy
+shop: mobile phone
 ---

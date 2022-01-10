@@ -1,5 +1,5 @@
 ---
 title: "Miller Home Furnishings"
 url: /wabash/miller-home-furnishings/
-shop: Möbel
+shop: furniture
 ---

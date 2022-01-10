@@ -1,5 +1,5 @@
 ---
 title: "Steve’s Natural Choice"
 url: /jeffersonville/steves-natural-choice/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

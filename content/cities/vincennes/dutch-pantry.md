@@ -1,5 +1,5 @@
 ---
 title: "Dutch Pantry"
 url: /vincennes/dutch-pantry/
-shop: Feinkost
+shop: deli
 ---

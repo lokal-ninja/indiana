@@ -1,5 +1,5 @@
 ---
 title: "Hunter auto body"
 url: /fort-wayne/hunter-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

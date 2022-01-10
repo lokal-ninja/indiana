@@ -1,5 +1,5 @@
 ---
 title: "Salon 6"
 url: /indianapolis/salon-6/
-shop: Friseur
+shop: hairdresser
 ---

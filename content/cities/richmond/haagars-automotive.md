@@ -1,5 +1,5 @@
 ---
 title: "Haagars Automotive"
 url: /richmond/haagars-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

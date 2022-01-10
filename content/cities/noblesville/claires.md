@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /noblesville/claires/
-shop: Allgemein
+shop: shop
 ---

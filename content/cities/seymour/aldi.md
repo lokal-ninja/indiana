@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /seymour/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

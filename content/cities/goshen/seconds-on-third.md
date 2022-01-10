@@ -1,5 +1,5 @@
 ---
 title: "Seconds on Third"
 url: /goshen/seconds-on-third/
-shop: Möbel
+shop: furniture
 ---

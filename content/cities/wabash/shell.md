@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /wabash/shell/
-shop: Lebensmittel
+shop: convenience
 ---

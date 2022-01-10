@@ -1,5 +1,5 @@
 ---
 title: "Vintage Vogue"
 url: /bloomington/vintage-vogue/
-shop: Kleidung
+shop: clothes
 ---

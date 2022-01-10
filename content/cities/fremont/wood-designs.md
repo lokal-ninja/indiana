@@ -1,5 +1,5 @@
 ---
 title: "Wood Designs"
 url: /fremont/wood-designs/
-shop: Möbel
+shop: furniture
 ---

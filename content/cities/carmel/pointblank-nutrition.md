@@ -1,5 +1,5 @@
 ---
 title: "PointBlank Nutrition"
 url: /carmel/pointblank-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

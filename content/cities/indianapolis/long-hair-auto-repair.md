@@ -1,5 +1,5 @@
 ---
 title: "Long Hair Auto Repair"
 url: /indianapolis/long-hair-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

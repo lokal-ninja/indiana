@@ -1,5 +1,5 @@
 ---
 title: "Ray Skillman Hoosier Ford"
 url: /martinsville/ray-skillman-hoosier-ford/
-shop: Autohaus
+shop: car
 ---

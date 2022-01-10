@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /carmel/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

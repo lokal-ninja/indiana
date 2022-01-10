@@ -1,5 +1,5 @@
 ---
 title: "Praxair"
 url: /terre-haute/praxair/
-shop: Allgemein
+shop: shop
 ---

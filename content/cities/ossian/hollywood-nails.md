@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Nails"
 url: /ossian/hollywood-nails/
-shop: Kosmetik
+shop: beauty
 ---

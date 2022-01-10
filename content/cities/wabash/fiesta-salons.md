@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Salons"
 url: /wabash/fiesta-salons/
-shop: Friseur
+shop: hairdresser
 ---

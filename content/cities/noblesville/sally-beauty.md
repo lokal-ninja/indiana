@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /noblesville/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

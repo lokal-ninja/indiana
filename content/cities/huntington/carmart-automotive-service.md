@@ -1,5 +1,5 @@
 ---
 title: "CarMart Automotive Service"
 url: /huntington/carmart-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

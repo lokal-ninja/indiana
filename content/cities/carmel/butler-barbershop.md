@@ -1,5 +1,5 @@
 ---
 title: "Butler Barbershop"
 url: /carmel/butler-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

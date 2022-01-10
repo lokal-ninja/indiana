@@ -1,5 +1,5 @@
 ---
 title: "Downtown selfstorage"
 url: /fort-wayne/downtown-selfstorage/
-shop: Mieten
+shop: storage rental
 ---

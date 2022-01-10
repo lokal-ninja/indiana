@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /fort-wayne/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

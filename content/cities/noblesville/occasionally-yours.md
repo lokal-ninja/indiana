@@ -1,5 +1,5 @@
 ---
 title: "Occasionally Yours"
 url: /noblesville/occasionally-yours/
-shop: Andenken
+shop: gift
 ---

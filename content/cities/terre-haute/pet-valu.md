@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /terre-haute/pet-valu/
-shop: Tiere
+shop: pet
 ---

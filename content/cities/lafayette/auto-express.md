@@ -1,5 +1,5 @@
 ---
 title: "Auto Express"
 url: /lafayette/auto-express/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quicklube"
 url: /lafayette/quicklube/
-shop: Autowerkstatt
+shop: car repair
 ---

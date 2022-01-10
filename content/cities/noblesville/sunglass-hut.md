@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /noblesville/sunglass-hut/
-shop: Optiker
+shop: optician
 ---

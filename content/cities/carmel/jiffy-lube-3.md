@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /carmel/jiffy-lube-3/
-shop: Autowerkstatt
+shop: car repair
 ---

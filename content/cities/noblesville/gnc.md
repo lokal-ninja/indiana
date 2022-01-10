@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /noblesville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

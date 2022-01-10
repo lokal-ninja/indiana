@@ -1,5 +1,5 @@
 ---
 title: "AAMCO Transmission"
 url: /lafayette/aamco-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

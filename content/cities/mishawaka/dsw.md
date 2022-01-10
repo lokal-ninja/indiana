@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /mishawaka/dsw/
-shop: Schuhe
+shop: shoes
 ---

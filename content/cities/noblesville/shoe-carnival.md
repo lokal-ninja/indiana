@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /noblesville/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

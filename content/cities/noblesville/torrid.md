@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /noblesville/torrid/
-shop: Kleidung
+shop: clothes
 ---

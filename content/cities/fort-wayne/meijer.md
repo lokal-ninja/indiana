@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /fort-wayne/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Two Sticks Bakery"
 url: /bloomington/two-sticks-bakery/
-shop: Bäckerei
+shop: bakery
 ---

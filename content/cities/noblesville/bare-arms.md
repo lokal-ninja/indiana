@@ -1,5 +1,5 @@
 ---
 title: "Bare Arms"
 url: /noblesville/bare-arms/
-shop: Waffen
+shop: weapons
 ---

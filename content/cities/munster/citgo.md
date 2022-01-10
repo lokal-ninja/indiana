@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /munster/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

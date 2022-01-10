@@ -1,5 +1,5 @@
 ---
 title: "Crossin Medical, Inc."
 url: /indianapolis/crossin-medical-inc/
-shop: Sanitätshaus
+shop: medical supply
 ---

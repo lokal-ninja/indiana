@@ -1,5 +1,5 @@
 ---
 title: "Davidson Auto Deals"
 url: /syracuse/davidson-auto-deals/
-shop: Autohaus
+shop: car
 ---

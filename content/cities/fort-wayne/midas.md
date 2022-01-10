@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /fort-wayne/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

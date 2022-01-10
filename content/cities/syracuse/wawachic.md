@@ -1,5 +1,5 @@
 ---
 title: "Wawachic"
 url: /syracuse/wawachic/
-shop: Raumausstattung
+shop: interior decoration
 ---

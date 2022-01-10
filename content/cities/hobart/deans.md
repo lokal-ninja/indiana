@@ -1,5 +1,5 @@
 ---
 title: "Dean's"
 url: /hobart/deans/
-shop: Autowerkstatt
+shop: car repair
 ---

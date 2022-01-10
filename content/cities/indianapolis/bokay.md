@@ -1,5 +1,5 @@
 ---
 title: "Bokay"
 url: /indianapolis/bokay/
-shop: Blumen
+shop: florist
 ---

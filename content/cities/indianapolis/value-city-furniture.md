@@ -1,5 +1,5 @@
 ---
 title: "Value City Furniture"
 url: /indianapolis/value-city-furniture/
-shop: Möbel
+shop: furniture
 ---

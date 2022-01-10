@@ -1,5 +1,5 @@
 ---
 title: "Carmel Cyclery"
 url: /carmel/carmel-cyclery/
-shop: Fahrrad
+shop: bicycle
 ---

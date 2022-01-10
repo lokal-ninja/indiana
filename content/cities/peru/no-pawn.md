@@ -1,5 +1,5 @@
 ---
 title: "No Pawn"
 url: /peru/no-pawn/
-shop: Gebrauchtwaren
+shop: charity
 ---
