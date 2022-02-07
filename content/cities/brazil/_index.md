@@ -1,6 +1,6 @@
 ---
 title: Brazil
 url: /brazil/
-latitude: 39.532
-longitude: -87.101
+latitude: 39.528
+longitude: -87.12
 ---
