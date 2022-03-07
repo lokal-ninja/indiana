@@ -1,6 +1,6 @@
 ---
 title: Lowell
 url: /lowell/
-latitude: 41.291
-longitude: -87.413
+latitude: 41.289
+longitude: -87.393
 ---
