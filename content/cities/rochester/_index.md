@@ -1,6 +1,6 @@
 ---
 title: Rochester
 url: /rochester/
-latitude: 41.051
-longitude: -86.215
+latitude: 41.059
+longitude: -86.216
 ---
