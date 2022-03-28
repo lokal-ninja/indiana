@@ -1,6 +1,6 @@
 ---
 title: Tipton
 url: /tipton/
-latitude: 40.287
-longitude: -86.032
+latitude: 40.283
+longitude: -86.041
 ---
