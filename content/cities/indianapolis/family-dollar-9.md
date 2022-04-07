@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /muncie/family-dollar/
+url: /indianapolis/family-dollar-9/
 shop: variety store
 ---
