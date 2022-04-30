@@ -1,6 +1,6 @@
 ---
 title: Portage
 url: /portage/
-latitude: 41.55
-longitude: -87.192
+latitude: 41.574
+longitude: -87.221
 ---
