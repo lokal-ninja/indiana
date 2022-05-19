@@ -2,5 +2,5 @@
 title: Dugger
 url: /dugger/
 latitude: 39.069
-longitude: -87.266
+longitude: -87.269
 ---
