@@ -1,6 +1,6 @@
 ---
 title: Wabash
 url: /wabash/
-latitude: 40.819
-longitude: -85.836
+latitude: 40.779
+longitude: -85.82
 ---
