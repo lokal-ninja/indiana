@@ -1,5 +1,5 @@
 ---
 title: "Saraga International Grocery"
-url: /southport/saraga-international-grocery/
+url: /indianapolis/saraga-international-grocery-2/
 shop: supermarket
 ---
