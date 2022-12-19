@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /la-porte/aldi-2/
+url: /indianapolis/aldi-4/
 shop: supermarket
 ---
