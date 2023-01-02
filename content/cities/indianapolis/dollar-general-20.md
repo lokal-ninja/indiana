@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /speedway/dollar-general/
+url: /indianapolis/dollar-general-20/
 shop: variety store
 ---
