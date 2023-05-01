@@ -1,5 +1,5 @@
 ---
 title: "Rural King"
-url: /blooming/rural-king/
+url: /bloomington/rural-king/
 shop: general
 ---
