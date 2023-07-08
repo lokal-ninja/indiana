@@ -1,6 +1,6 @@
 ---
 title: Greensburg
 url: /greensburg/
-latitude: 39.337
-longitude: -85.487
+latitude: 39.354
+longitude: -85.479
 ---
