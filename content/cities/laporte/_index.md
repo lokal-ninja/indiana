@@ -1,6 +1,6 @@
 ---
 title: Laporte
 url: /laporte/
-latitude: 41.619
-longitude: -86.707
+latitude: 41.618
+longitude: -86.706
 ---
