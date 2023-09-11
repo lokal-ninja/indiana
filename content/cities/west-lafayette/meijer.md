@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /west-lafayette/meijer/
-shop: convenience
+shop: supermarket
 ---
