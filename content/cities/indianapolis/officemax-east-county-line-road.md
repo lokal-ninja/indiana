@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
-url: /indianapolis/officemax/
+url: /indianapolis/officemax-east-county-line-road/
 shop: office supplies
 ---

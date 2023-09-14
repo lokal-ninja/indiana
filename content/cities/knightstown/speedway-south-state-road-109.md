@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /knightstown/speedway/
+url: /knightstown/speedway-south-state-road-109/
 shop: convenience
 ---

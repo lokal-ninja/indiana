@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /carmel/great-clips/
+url: /carmel/great-clips-east-greyhound-pass/
 shop: hairdresser
 ---

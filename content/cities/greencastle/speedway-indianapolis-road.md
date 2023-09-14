@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /greencastle/speedway/
+url: /greencastle/speedway-indianapolis-road/
 shop: convenience
 ---

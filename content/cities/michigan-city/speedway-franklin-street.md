@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /michigan-city/speedway/
+url: /michigan-city/speedway-franklin-street/
 shop: convenience
 ---

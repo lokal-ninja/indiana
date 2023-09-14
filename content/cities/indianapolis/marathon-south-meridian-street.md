@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /indianapolis/marathon/
+url: /indianapolis/marathon-south-meridian-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /indianapolis/atandt/
+url: /indianapolis/atandt-north-college-avenue/
 shop: mobile phone
 ---

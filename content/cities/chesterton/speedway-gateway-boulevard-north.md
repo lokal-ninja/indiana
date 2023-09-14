@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /chesterton/speedway/
+url: /chesterton/speedway-gateway-boulevard-north/
 shop: convenience
 ---

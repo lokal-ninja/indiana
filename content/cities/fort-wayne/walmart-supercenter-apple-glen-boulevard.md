@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /fort-wayne/walmart-supercenter/
+url: /fort-wayne/walmart-supercenter-apple-glen-boulevard/
 shop: supermarket
 ---

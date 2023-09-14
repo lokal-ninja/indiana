@@ -1,5 +1,5 @@
 ---
 title: "Family Express"
-url: /valparaiso/family-express/
+url: /valparaiso/family-express-calumet-avenue/
 shop: convenience
 ---

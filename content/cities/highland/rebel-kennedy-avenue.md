@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
-url: /highland/rebel/
+url: /highland/rebel-kennedy-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /indianapolis/autozone/
+url: /indianapolis/autozone-rockville-road/
 shop: car parts
 ---

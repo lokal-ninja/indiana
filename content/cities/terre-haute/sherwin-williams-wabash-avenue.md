@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /terre-haute/sherwin-williams/
+url: /terre-haute/sherwin-williams-wabash-avenue/
 shop: paint
 ---

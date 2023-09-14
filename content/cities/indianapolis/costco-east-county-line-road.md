@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /indianapolis/costco/
+url: /indianapolis/costco-east-county-line-road/
 shop: wholesale
 ---

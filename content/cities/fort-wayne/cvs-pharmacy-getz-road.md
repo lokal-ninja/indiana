@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /fort-wayne/cvs-pharmacy/
+url: /fort-wayne/cvs-pharmacy-getz-road/
 shop: chemist
 ---

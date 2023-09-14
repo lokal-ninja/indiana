@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /fort-wayne/kroger/
+url: /fort-wayne/kroger-west-state-boulevard/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /indianapolis/speedway/
+url: /indianapolis/speedway-lafayette-road-2/
 shop: convenience
 ---

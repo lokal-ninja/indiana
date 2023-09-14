@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lowell/speedway/
+url: /lowell/speedway-east-commercial-avenue/
 shop: convenience
 ---

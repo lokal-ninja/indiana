@@ -1,5 +1,5 @@
 ---
 title: "Village Pantry"
-url: /indianapolis/village-pantry/
+url: /indianapolis/village-pantry-college-avenue-north/
 shop: convenience
 ---

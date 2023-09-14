@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /indianapolis/circle-k/
+url: /indianapolis/circle-k-east-washington-street/
 shop: convenience
 ---

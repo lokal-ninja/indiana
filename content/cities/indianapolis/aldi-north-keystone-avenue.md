@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /indianapolis/aldi/
+url: /indianapolis/aldi-north-keystone-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Village Pantry"
-url: /bloomington/village-pantry/
+url: /bloomington/village-pantry-east-10th-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menards"
-url: /terre-haute/menards/
+url: /terre-haute/menards-jessica-drive/
 shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /dyer/speedway/
+url: /dyer/speedway-sheffield-avenue/
 shop: convenience
 ---

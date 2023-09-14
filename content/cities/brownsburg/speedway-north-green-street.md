@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /brownsburg/speedway/
+url: /brownsburg/speedway-north-green-street/
 shop: convenience
 ---

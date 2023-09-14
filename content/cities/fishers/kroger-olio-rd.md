@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /fishers/kroger/
+url: /fishers/kroger-olio-rd/
 shop: supermarket
 ---

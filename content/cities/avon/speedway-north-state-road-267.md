@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /avon/speedway/
+url: /avon/speedway-north-state-road-267/
 shop: convenience
 ---

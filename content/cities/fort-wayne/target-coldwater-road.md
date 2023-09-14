@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /fort-wayne/target/
+url: /fort-wayne/target-coldwater-road/
 shop: supermarket
 ---

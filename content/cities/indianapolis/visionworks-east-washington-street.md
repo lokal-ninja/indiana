@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
-url: /indianapolis/visionworks/
+url: /indianapolis/visionworks-east-washington-street/
 shop: optician
 ---

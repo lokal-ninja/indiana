@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /greenfield/speedway/
+url: /greenfield/speedway-opportunity-parkway/
 shop: convenience
 ---

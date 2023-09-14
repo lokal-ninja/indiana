@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /terre-haute/walmart-supercenter/
+url: /terre-haute/walmart-supercenter-sr-46/
 shop: supermarket
 ---

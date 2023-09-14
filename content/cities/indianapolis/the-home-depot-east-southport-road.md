@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /indianapolis/the-home-depot/
+url: /indianapolis/the-home-depot-east-southport-road/
 shop: doityourself
 ---

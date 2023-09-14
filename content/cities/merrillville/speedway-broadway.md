@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /merrillville/speedway/
+url: /merrillville/speedway-broadway/
 shop: convenience
 ---

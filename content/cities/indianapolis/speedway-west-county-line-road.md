@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /indianapolis/speedway/
+url: /indianapolis/speedway-west-county-line-road/
 shop: convenience
 ---

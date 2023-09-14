@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /indianapolis/lowes/
+url: /indianapolis/lowes-north-rural-street/
 shop: doityourself
 ---

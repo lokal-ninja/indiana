@@ -1,5 +1,5 @@
 ---
 title: "Menards"
-url: /fort-wayne/menards/
+url: /fort-wayne/menards-meijer-drive/
 shop: doityourself
 ---

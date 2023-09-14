@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /brazil/speedway/
+url: /brazil/speedway-west-national-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /westfield/meijer/
+url: /westfield/meijer-west-spring-mill-pointe-drive/
 shop: supermarket
 ---

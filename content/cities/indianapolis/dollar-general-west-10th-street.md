@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /indianapolis/dollar-general/
+url: /indianapolis/dollar-general-west-10th-street/
 shop: variety store
 ---

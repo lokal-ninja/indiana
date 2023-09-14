@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /muncie/speedway/
+url: /muncie/speedway-west-jackson-street/
 shop: convenience
 ---

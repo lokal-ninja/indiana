@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /goshen/aldi/
+url: /goshen/aldi-county-home-road/
 shop: supermarket
 ---

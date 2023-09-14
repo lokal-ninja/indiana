@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /indianapolis/speedway/
+url: /indianapolis/speedway-south-east-street-2/
 shop: convenience
 ---

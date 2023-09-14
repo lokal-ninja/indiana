@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /terre-haute/speedway/
+url: /terre-haute/speedway-hulman-street/
 shop: convenience
 ---

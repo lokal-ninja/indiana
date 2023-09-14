@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lafayette/speedway/
+url: /lafayette/speedway-south-street/
 shop: convenience
 ---

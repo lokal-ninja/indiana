@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
-url: /indianapolis/thorntons/
+url: /indianapolis/thorntons-crawfordsville-road/
 shop: convenience
 ---

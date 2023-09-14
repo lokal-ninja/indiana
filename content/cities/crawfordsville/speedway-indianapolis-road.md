@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /crawfordsville/speedway/
+url: /crawfordsville/speedway-indianapolis-road/
 shop: convenience
 ---

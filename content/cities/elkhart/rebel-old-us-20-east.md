@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
-url: /elkhart/rebel/
+url: /elkhart/rebel-old-us-20-east/
 shop: convenience
 ---

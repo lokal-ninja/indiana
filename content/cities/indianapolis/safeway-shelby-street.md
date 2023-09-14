@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /indianapolis/safeway/
+url: /indianapolis/safeway-shelby-street/
 shop: supermarket
 ---

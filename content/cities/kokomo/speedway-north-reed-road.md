@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kokomo/speedway/
+url: /kokomo/speedway-north-reed-road/
 shop: convenience
 ---

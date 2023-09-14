@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /indianapolis/speedway/
+url: /indianapolis/speedway-north-mitthoeffer-road/
 shop: convenience
 ---

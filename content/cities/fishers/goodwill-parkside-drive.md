@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /fishers/goodwill/
+url: /fishers/goodwill-parkside-drive/
 shop: charity
 ---

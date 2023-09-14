@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kendallville/speedway/
+url: /kendallville/speedway-fairview-boulevard/
 shop: convenience
 ---

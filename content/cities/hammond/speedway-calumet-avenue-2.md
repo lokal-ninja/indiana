@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hammond/speedway/
+url: /hammond/speedway-calumet-avenue-2/
 shop: convenience
 ---

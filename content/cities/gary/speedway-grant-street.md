@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /gary/speedway/
+url: /gary/speedway-grant-street/
 shop: convenience
 ---

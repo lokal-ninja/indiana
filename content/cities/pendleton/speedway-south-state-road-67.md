@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /pendleton/speedway/
+url: /pendleton/speedway-south-state-road-67/
 shop: convenience
 ---

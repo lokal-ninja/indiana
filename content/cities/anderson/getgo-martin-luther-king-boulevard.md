@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
-url: /anderson/getgo/
+url: /anderson/getgo-martin-luther-king-boulevard/
 shop: convenience
 ---

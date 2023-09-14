@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /indianapolis/shell/
+url: /indianapolis/shell-allisonville-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /indianapolis/autozone/
+url: /indianapolis/autozone-east-82nd-street/
 shop: car parts
 ---

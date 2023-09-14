@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /avon/meijer/
+url: /avon/meijer-rockville-road/
 shop: supermarket
 ---

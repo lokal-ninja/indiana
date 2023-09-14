@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /noblesville/great-clips/
+url: /noblesville/great-clips-west-logan-street/
 shop: hairdresser
 ---

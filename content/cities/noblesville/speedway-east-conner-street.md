@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /noblesville/speedway/
+url: /noblesville/speedway-east-conner-street/
 shop: convenience
 ---

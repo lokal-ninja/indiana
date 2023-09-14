@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /greenfield/speedway/
+url: /greenfield/speedway-west-us-highway-40/
 shop: convenience
 ---

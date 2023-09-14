@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
-url: /indianapolis/getgo/
+url: /indianapolis/getgo-south-meridian-street/
 shop: convenience
 ---

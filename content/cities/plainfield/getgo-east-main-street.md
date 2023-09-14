@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
-url: /plainfield/getgo/
+url: /plainfield/getgo-east-main-street/
 shop: convenience
 ---

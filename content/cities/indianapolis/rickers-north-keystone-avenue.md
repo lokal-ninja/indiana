@@ -1,5 +1,5 @@
 ---
 title: "Ricker's"
-url: /indianapolis/rickers/
+url: /indianapolis/rickers-north-keystone-avenue/
 shop: convenience
 ---

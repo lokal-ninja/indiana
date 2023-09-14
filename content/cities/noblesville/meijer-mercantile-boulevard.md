@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /noblesville/meijer/
+url: /noblesville/meijer-mercantile-boulevard/
 shop: convenience
 ---

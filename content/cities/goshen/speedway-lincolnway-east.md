@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /goshen/speedway/
+url: /goshen/speedway-lincolnway-east/
 shop: convenience
 ---

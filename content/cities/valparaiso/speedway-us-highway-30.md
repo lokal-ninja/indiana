@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /valparaiso/speedway/
+url: /valparaiso/speedway-us-highway-30/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /la-porte/speedway/
+url: /la-porte/speedway-lincolnway/
 shop: convenience
 ---

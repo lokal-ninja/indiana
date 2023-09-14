@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /noblesville/cvs-pharmacy/
+url: /noblesville/cvs-pharmacy-east-conner-street/
 shop: chemist
 ---

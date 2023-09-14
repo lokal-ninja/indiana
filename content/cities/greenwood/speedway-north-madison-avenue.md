@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /greenwood/speedway/
+url: /greenwood/speedway-north-madison-avenue/
 shop: convenience
 ---
