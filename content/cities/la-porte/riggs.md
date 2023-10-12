@@ -1,5 +1,5 @@
 ---
-title: "Riggs"
+title: "Rigg's"
 url: /la-porte/riggs/
-shop: shop
+shop: groundskeeping
 ---
