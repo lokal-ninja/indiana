@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /brownsburg/caliber-collision/
-shop: shop
+shop: car repair
 ---
