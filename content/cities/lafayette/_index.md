@@ -1,6 +1,6 @@
 ---
 title: Lafayette
 url: /lafayette/
-latitude: 40.387
-longitude: -86.906
+latitude: 40.386
+longitude: -86.903
 ---
