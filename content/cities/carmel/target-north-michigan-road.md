@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /carmel/target-east-151st-street/
+url: /carmel/target-north-michigan-road/
 shop: department store
 ---
