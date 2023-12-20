@@ -1,6 +1,6 @@
 ---
 title: Knightstown
 url: /knightstown/
-latitude: 39.795
-longitude: -85.53
+latitude: 39.843
+longitude: -85.559
 ---
