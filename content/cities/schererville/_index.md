@@ -1,6 +1,6 @@
 ---
 title: Schererville
 url: /schererville/
-latitude: 41.495
-longitude: -87.469
+latitude: 41.483
+longitude: -87.446
 ---
