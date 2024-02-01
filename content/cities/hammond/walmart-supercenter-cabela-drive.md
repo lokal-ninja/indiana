@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /hammond/walmart-supercenter-cabela-drive/
-shop: supermarket
+shop: department store
 ---
