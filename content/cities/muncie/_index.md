@@ -1,6 +1,6 @@
 ---
 title: Muncie
 url: /muncie/
-latitude: 40.08
-longitude: -85.374
+latitude: 40.22
+longitude: -85.388
 ---

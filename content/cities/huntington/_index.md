@@ -1,6 +1,6 @@
 ---
 title: Huntington
 url: /huntington/
-latitude: 40.9
-longitude: -85.516
+latitude: 40.901
+longitude: -85.508
 ---

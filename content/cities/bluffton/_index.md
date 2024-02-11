@@ -1,6 +1,6 @@
 ---
 title: Bluffton
 url: /bluffton/
-latitude: 40.772
-longitude: -85.169
+latitude: 40.72
+longitude: -85.167
 ---
