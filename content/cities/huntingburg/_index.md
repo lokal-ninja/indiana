@@ -1,6 +1,6 @@
 ---
 title: Huntingburg
 url: /huntingburg/
-latitude: 38.299
-longitude: -86.955
+latitude: 38.307
+longitude: -86.956
 ---
