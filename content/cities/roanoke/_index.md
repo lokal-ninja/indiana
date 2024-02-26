@@ -1,6 +1,6 @@
 ---
 title: Roanoke
 url: /roanoke/
-latitude: 40.967
-longitude: -85.382
+latitude: 40.962
+longitude: -85.373
 ---
