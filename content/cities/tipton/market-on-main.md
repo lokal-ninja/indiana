@@ -1,5 +1,5 @@
 ---
 title: "Market on Main"
 url: /tipton/market-on-main/
-shop: supermarket
+shop: convenience
 ---
