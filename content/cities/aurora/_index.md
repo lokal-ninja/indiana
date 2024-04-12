@@ -1,6 +1,6 @@
 ---
 title: Aurora
 url: /aurora/
-latitude: 39.079
-longitude: -84.889
+latitude: 39.077
+longitude: -84.895
 ---
