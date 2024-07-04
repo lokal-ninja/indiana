@@ -1,6 +1,6 @@
 ---
 title: Goshen
 url: /goshen/
-latitude: 41.56
-longitude: -85.793
+latitude: 41.617
+longitude: -85.896
 ---
