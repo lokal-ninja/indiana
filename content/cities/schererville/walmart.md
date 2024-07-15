@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /schererville/walmart/
-shop: department store
+shop: supermarket
 ---
