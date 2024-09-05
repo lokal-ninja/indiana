@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /valparaiso/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

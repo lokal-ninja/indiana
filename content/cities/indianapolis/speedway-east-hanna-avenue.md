@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-east-hanna-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

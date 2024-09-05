@@ -1,5 +1,5 @@
 ---
 title: "Hornaks Liquor Mart"
 url: /richmond/hornaks-liquor-mart/
-shop: convenience
+shop: Lebensmittel
 ---

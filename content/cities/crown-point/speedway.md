@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /crown-point/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
 url: /terre-haute/academy-sports-outdoors/
-shop: sports
+shop: Sport
 ---

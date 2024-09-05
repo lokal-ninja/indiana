@@ -1,5 +1,5 @@
 ---
 title: "J Nails"
 url: /bedford/j-nails/
-shop: beauty
+shop: Kosmetik
 ---

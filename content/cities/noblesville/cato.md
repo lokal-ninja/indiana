@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /noblesville/cato/
-shop: clothes
+shop: Kleidung
 ---

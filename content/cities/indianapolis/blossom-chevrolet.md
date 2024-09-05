@@ -1,5 +1,5 @@
 ---
 title: "Blossom Chevrolet"
 url: /indianapolis/blossom-chevrolet/
-shop: car
+shop: Autohaus
 ---

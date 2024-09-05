@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-south-lynhurst-drive/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /greensburg/speedway-north-lincoln-street/
-shop: convenience
+shop: Lebensmittel
 ---

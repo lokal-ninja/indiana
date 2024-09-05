@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /indianapolis/kroger-east-thompson-road/
-shop: supermarket
+shop: Supermarkt
 ---

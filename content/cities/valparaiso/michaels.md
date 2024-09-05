@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /valparaiso/michaels/
-shop: craft
+shop: Basteln
 ---

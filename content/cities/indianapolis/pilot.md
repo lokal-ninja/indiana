@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /indianapolis/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bob's Food Mart"
 url: /indianapolis/bobs-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

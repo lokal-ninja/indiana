@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /washington/hibbett-sports/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fortville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

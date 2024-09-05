@@ -1,5 +1,5 @@
 ---
 title: "Vining Slaughter Haus"
 url: /roanoke/vining-slaughter-haus/
-shop: butcher
+shop: Metzgerei
 ---

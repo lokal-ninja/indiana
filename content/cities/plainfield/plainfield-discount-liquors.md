@@ -1,5 +1,5 @@
 ---
 title: "Plainfield Discount Liquors"
 url: /plainfield/plainfield-discount-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

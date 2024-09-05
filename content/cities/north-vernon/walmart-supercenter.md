@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /north-vernon/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

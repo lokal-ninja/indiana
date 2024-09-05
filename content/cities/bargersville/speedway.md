@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bargersville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

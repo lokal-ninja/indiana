@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fishers/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

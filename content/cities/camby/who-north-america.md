@@ -1,5 +1,5 @@
 ---
 title: "Who North America"
 url: /camby/who-north-america/
-shop: books
+shop: Bücher
 ---

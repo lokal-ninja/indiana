@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /fort-wayne/aarons/
-shop: furniture
+shop: Möbel
 ---

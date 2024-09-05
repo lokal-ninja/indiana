@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /martinsville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

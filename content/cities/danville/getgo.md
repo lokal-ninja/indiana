@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /danville/getgo/
-shop: convenience
+shop: Lebensmittel
 ---

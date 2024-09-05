@@ -1,5 +1,5 @@
 ---
 title: "Saturday Sangria"
 url: /crown-point/saturday-sangria/
-shop: bakery
+shop: Bäckerei
 ---

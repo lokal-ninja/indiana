@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /granger/trek/
-shop: bicycle
+shop: Fahrrad
 ---

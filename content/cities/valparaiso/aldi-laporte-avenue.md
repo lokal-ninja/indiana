@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /valparaiso/aldi-laporte-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

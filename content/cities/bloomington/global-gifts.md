@@ -1,5 +1,5 @@
 ---
 title: "Global Gifts"
 url: /bloomington/global-gifts/
-shop: gift
+shop: Andenken
 ---

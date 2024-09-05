@@ -1,5 +1,5 @@
 ---
 title: "Kimball"
 url: /jasper/kimball/
-shop: furniture
+shop: Möbel
 ---

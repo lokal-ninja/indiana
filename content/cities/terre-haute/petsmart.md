@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /terre-haute/petsmart/
-shop: pet
+shop: Tiere
 ---

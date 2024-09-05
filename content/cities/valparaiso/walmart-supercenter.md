@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /valparaiso/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

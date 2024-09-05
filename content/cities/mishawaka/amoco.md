@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /mishawaka/amoco/
-shop: convenience
+shop: Lebensmittel
 ---

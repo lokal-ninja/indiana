@@ -1,5 +1,5 @@
 ---
 title: "Dorsett Automotive"
 url: /terre-haute/dorsett-automotive/
-shop: car
+shop: Autohaus
 ---

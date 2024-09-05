@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /shelbyville/kroger-east-michigan-road/
-shop: supermarket
+shop: Supermarkt
 ---

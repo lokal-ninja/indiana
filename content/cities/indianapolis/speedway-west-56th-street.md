@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-west-56th-street/
-shop: convenience
+shop: Lebensmittel
 ---

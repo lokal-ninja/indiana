@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /indianapolis/marathon-north-keystone-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

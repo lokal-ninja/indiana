@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /ligonier/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

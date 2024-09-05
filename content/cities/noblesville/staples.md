@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /noblesville/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

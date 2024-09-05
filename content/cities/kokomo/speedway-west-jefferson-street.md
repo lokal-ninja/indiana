@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kokomo/speedway-west-jefferson-street/
-shop: convenience
+shop: Lebensmittel
 ---

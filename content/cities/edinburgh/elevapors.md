@@ -1,5 +1,5 @@
 ---
 title: "Elevapors"
 url: /edinburgh/elevapors/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /logansport/maurices/
-shop: clothes
+shop: Kleidung
 ---

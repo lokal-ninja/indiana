@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /zionsville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JL Farm Equipment"
 url: /poseyville/jl-farm-equipment/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /bloomington/petco/
-shop: pet
+shop: Tiere
 ---

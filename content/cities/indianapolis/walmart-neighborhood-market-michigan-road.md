@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /indianapolis/walmart-neighborhood-market-michigan-road/
-shop: supermarket
+shop: Supermarkt
 ---

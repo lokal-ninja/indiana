@@ -1,5 +1,5 @@
 ---
 title: "Hammes BookStore"
 url: /south-bend/hammes-bookstore/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /chesterton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /plainfield/lenscrafters/
-shop: optician
+shop: Optiker
 ---

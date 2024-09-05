@@ -1,5 +1,5 @@
 ---
 title: "MacExperience"
 url: /indianapolis/macexperience/
-shop: computer
+shop: Computer
 ---

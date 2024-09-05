@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /indianapolis/goodwill-north-keystone-avenue/
-shop: variety store
+shop: Kramladen
 ---

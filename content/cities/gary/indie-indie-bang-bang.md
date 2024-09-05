@@ -1,5 +1,5 @@
 ---
 title: "Indie Indie Bang Bang"
 url: /gary/indie-indie-bang-bang/
-shop: gift
+shop: Andenken
 ---

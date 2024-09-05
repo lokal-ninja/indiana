@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /indianapolis/valero/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarGurus"
 url: /jeffersonville/cargurus/
-shop: car
+shop: Autohaus
 ---

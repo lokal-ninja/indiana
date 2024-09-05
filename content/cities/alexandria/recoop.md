@@ -1,5 +1,5 @@
 ---
 title: "ReCoop"
 url: /alexandria/recoop/
-shop: shop
+shop: Allgemein
 ---

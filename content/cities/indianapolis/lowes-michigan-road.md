@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /indianapolis/lowes-michigan-road/
-shop: doityourself
+shop: Baumarkt
 ---

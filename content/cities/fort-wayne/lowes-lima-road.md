@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /fort-wayne/lowes-lima-road/
-shop: doityourself
+shop: Baumarkt
 ---

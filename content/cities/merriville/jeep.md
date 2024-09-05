@@ -1,5 +1,5 @@
 ---
 title: "Jeep"
 url: /merriville/jeep/
-shop: car
+shop: Autohaus
 ---

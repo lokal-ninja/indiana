@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /indianapolis/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

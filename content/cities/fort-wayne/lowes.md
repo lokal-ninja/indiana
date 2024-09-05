@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /fort-wayne/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

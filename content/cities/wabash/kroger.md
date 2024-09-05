@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /wabash/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

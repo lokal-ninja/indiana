@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /warsaw/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

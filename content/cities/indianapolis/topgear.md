@@ -1,5 +1,5 @@
 ---
 title: "TopGear"
 url: /indianapolis/topgear/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tire Discounters"
 url: /new-albany/tire-discounters/
-shop: tyres
+shop: Reifen
 ---

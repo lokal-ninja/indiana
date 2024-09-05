@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /logansport/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

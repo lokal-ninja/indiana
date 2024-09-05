@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-southeastern-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

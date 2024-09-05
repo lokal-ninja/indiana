@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /indianapolis/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

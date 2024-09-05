@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /rochester/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

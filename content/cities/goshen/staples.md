@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /goshen/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

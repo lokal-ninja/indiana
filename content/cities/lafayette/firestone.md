@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /lafayette/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

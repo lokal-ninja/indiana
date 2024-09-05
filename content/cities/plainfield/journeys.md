@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /plainfield/journeys/
-shop: shoes
+shop: Schuhe
 ---

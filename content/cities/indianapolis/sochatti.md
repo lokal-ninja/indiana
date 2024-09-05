@@ -1,5 +1,5 @@
 ---
 title: "SoChatti"
 url: /indianapolis/sochatti/
-shop: chocolate
+shop: Schokolade
 ---

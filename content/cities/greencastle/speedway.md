@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /greencastle/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

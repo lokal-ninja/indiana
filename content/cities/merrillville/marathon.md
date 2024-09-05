@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /merrillville/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

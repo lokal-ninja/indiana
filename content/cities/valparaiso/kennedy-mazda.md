@@ -1,5 +1,5 @@
 ---
 title: "Kennedy Mazda"
 url: /valparaiso/kennedy-mazda/
-shop: car
+shop: Autohaus
 ---

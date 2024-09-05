@@ -1,5 +1,5 @@
 ---
 title: "Dubai Halal Market"
 url: /indianapolis/dubai-halal-market/
-shop: convenience
+shop: Lebensmittel
 ---

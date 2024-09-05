@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fishers/speedway-trade-center-drive/
-shop: convenience
+shop: Lebensmittel
 ---

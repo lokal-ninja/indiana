@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /greenwood/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

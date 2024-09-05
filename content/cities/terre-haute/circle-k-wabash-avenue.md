@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /terre-haute/circle-k-wabash-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

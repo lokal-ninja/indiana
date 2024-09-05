@@ -1,5 +1,5 @@
 ---
 title: "Alderman Luxury Imports"
 url: /fishers/alderman-luxury-imports/
-shop: car
+shop: Autohaus
 ---

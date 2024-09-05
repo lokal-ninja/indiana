@@ -1,5 +1,5 @@
 ---
 title: "Epic Vapes"
 url: /logansport/epic-vapes/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

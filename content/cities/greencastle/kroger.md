@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /greencastle/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

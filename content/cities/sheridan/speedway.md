@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sheridan/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

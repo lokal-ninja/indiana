@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /indianapolis/jared/
-shop: jewelry
+shop: Schmuck
 ---

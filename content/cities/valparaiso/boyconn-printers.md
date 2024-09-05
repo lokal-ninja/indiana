@@ -1,5 +1,5 @@
 ---
 title: "BoyConn Printers"
 url: /valparaiso/boyconn-printers/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sol Spa Tan"
 url: /bloomington/sol-spa-tan/
-shop: beauty
+shop: Kosmetik
 ---

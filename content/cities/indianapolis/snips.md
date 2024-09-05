@@ -1,5 +1,5 @@
 ---
 title: "Snips"
 url: /indianapolis/snips/
-shop: hairdresser
+shop: Friseur
 ---

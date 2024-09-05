@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /mishawaka/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

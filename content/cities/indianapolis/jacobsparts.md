@@ -1,5 +1,5 @@
 ---
 title: "JacobsParts"
 url: /indianapolis/jacobsparts/
-shop: electronics
+shop: Elektronik
 ---

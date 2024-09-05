@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /terre-haute/sams-club/
-shop: wholesale
+shop: Großhandel
 ---

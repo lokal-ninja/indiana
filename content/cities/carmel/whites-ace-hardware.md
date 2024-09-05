@@ -1,5 +1,5 @@
 ---
 title: "White's Ace Hardware"
 url: /carmel/whites-ace-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

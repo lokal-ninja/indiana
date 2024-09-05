@@ -1,5 +1,5 @@
 ---
 title: "Knot Eye Studio"
 url: /indianapolis/knot-eye-studio/
-shop: tattoo
+shop: Tattoo
 ---

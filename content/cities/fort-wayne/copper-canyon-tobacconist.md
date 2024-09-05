@@ -1,5 +1,5 @@
 ---
 title: "Copper Canyon Tobacconist"
 url: /fort-wayne/copper-canyon-tobacconist/
-shop: tobacco
+shop: Tabak
 ---

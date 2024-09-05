@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /carmel/justice/
-shop: clothes
+shop: Kleidung
 ---

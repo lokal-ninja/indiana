@@ -1,5 +1,5 @@
 ---
 title: "Tire Central and Service"
 url: /avon/tire-central-and-service/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DIGS"
 url: /indianapolis/digs/
-shop: garden centre
+shop: Garten-Center
 ---

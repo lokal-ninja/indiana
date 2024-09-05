@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /muncie/menards/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Performance Jags"
 url: /indianapolis/performance-jags/
-shop: vacant
+shop: Leerstehend
 ---

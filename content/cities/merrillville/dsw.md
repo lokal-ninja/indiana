@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /merrillville/dsw/
-shop: shoes
+shop: Schuhe
 ---

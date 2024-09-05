@@ -1,5 +1,5 @@
 ---
 title: "Evershine Market"
 url: /yorktown/evershine-market/
-shop: convenience
+shop: Lebensmittel
 ---

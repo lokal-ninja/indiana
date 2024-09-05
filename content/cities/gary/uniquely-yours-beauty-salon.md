@@ -1,5 +1,5 @@
 ---
 title: "Uniquely Yours Beauty Salon"
 url: /gary/uniquely-yours-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

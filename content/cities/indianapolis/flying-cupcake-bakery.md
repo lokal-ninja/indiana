@@ -1,5 +1,5 @@
 ---
 title: "Flying Cupcake Bakery"
 url: /indianapolis/flying-cupcake-bakery/
-shop: bakery
+shop: Bäckerei
 ---

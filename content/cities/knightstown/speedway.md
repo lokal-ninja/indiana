@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /knightstown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

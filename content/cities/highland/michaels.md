@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /highland/michaels/
-shop: craft
+shop: Basteln
 ---

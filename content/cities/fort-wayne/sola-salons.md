@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /fort-wayne/sola-salons/
-shop: beauty
+shop: Kosmetik
 ---

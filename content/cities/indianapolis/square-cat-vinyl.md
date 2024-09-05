@@ -1,5 +1,5 @@
 ---
 title: "Square Cat Vinyl"
 url: /indianapolis/square-cat-vinyl/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mini-Mart.us"
 url: /carmel/mini-mart-us/
-shop: convenience
+shop: Lebensmittel
 ---

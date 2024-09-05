@@ -1,5 +1,5 @@
 ---
 title: "Lafayette Auto Supply"
 url: /lafayette/lafayette-auto-supply/
-shop: car parts
+shop: Autoteile
 ---

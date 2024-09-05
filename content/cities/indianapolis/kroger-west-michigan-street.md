@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /indianapolis/kroger-west-michigan-street/
-shop: supermarket
+shop: Supermarkt
 ---

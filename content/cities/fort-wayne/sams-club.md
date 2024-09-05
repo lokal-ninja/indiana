@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /fort-wayne/sams-club/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Progressive Insurance - Zionsville Service Center"
 url: /zionsville/progressive-insurance-zionsville-service-center/
-shop: car repair
+shop: Autowerkstatt
 ---

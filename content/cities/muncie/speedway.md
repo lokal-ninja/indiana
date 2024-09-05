@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /muncie/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

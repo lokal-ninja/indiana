@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /indianapolis/ezpawn/
-shop: pawnbroker
+shop: Leiher
 ---

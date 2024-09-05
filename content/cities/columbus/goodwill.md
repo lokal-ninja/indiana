@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /columbus/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

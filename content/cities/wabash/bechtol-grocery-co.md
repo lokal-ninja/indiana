@@ -1,5 +1,5 @@
 ---
 title: "Bechtol Grocery Co"
 url: /wabash/bechtol-grocery-co/
-shop: supermarket
+shop: Supermarkt
 ---

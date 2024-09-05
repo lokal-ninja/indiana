@@ -1,5 +1,5 @@
 ---
 title: "New Age Tobacco"
 url: /hammond/new-age-tobacco/
-shop: tobacco
+shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magick Remedy"
 url: /logansport/magick-remedy/
-shop: massage
+shop: Massage
 ---

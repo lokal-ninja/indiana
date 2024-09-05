@@ -1,5 +1,5 @@
 ---
 title: "Zynergy"
 url: /syracuse/zynergy/
-shop: lamps
+shop: Lampen
 ---

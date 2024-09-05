@@ -1,5 +1,5 @@
 ---
 title: "Friendly Spot"
 url: /lafayette/friendly-spot/
-shop: convenience
+shop: Lebensmittel
 ---

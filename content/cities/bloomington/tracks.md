@@ -1,5 +1,5 @@
 ---
 title: "Tracks"
 url: /bloomington/tracks/
-shop: hifi
+shop: Hifi
 ---

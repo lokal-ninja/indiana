@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /jasper/gamestop/
-shop: video games
+shop: Videospiele
 ---

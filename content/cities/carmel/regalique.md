@@ -1,5 +1,5 @@
 ---
 title: "Regalique"
 url: /carmel/regalique/
-shop: wine
+shop: Wein
 ---

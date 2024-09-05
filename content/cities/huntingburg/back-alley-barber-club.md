@@ -1,5 +1,5 @@
 ---
 title: "Back Alley Barber Club"
 url: /huntingburg/back-alley-barber-club/
-shop: hairdresser
+shop: Friseur
 ---

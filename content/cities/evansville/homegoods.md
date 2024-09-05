@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /evansville/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

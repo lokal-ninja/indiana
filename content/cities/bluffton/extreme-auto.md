@@ -1,5 +1,5 @@
 ---
 title: "Extreme Auto"
 url: /bluffton/extreme-auto/
-shop: car
+shop: Autohaus
 ---

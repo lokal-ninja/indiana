@@ -1,5 +1,5 @@
 ---
 title: "Hot Topic"
 url: /plainfield/hot-topic/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /brownsburg/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

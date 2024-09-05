@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /muncie/walgreens/
-shop: chemist
+shop: Drogerie
 ---

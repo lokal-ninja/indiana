@@ -1,5 +1,5 @@
 ---
 title: "Avenue Bicycle Station"
 url: /mishawaka/avenue-bicycle-station/
-shop: bicycle
+shop: Fahrrad
 ---

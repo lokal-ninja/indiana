@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /angola/menards/
-shop: doityourself
+shop: Baumarkt
 ---

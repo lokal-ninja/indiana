@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /muncie/target/
-shop: supermarket
+shop: Supermarkt
 ---

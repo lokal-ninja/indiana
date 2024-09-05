@@ -1,5 +1,5 @@
 ---
 title: "Ricker's/BP"
 url: /indianapolis/rickers-bp/
-shop: convenience
+shop: Lebensmittel
 ---
