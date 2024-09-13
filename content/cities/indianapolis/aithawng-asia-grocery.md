@@ -1,5 +1,5 @@
 ---
 title: "Aithawng Asia Grocery"
 url: /indianapolis/aithawng-asia-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

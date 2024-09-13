@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /connersville/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

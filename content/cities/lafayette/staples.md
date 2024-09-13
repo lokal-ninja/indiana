@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lafayette/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

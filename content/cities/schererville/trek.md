@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /schererville/trek/
-shop: Fahrrad
+shop: bicycle
 ---

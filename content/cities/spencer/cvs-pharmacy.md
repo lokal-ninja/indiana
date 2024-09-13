@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /spencer/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

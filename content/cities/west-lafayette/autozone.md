@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /west-lafayette/autozone/
-shop: Autoteile
+shop: car parts
 ---

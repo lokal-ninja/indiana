@@ -1,5 +1,5 @@
 ---
 title: "Colfax Liquor Store"
 url: /colfax/colfax-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

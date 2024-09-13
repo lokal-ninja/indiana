@@ -1,5 +1,5 @@
 ---
 title: "Carothers Printing Co."
 url: /south-bend/carothers-printing-co/
-shop: Kopieren
+shop: copyshop
 ---

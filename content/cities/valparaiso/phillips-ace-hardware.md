@@ -1,5 +1,5 @@
 ---
 title: "Phillips Ace Hardware"
 url: /valparaiso/phillips-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

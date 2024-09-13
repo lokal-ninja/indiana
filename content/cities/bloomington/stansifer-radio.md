@@ -1,5 +1,5 @@
 ---
 title: "Stansifer Radio"
 url: /bloomington/stansifer-radio/
-shop: Elektronik
+shop: electronics
 ---

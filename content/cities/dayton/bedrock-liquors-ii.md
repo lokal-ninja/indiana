@@ -1,5 +1,5 @@
 ---
 title: "Bedrock Liquors II"
 url: /dayton/bedrock-liquors-ii/
-shop: Spirituosen
+shop: alcohol
 ---

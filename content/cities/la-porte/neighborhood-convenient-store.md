@@ -1,5 +1,5 @@
 ---
 title: "Neighborhood Convenient Store"
 url: /la-porte/neighborhood-convenient-store/
-shop: Lebensmittel
+shop: convenience
 ---

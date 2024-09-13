@@ -1,5 +1,5 @@
 ---
 title: "Massage Heights"
 url: /carmel/massage-heights/
-shop: Massage
+shop: massage
 ---

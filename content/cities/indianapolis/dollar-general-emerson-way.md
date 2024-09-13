@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /indianapolis/dollar-general-emerson-way/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garland's Auto Repair"
 url: /spencer/garlands-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

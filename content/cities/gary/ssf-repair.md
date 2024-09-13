@@ -1,5 +1,5 @@
 ---
 title: "SSF Repair"
 url: /gary/ssf-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

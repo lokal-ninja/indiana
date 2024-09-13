@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /merrillville/carmax/
-shop: Autohaus
+shop: car
 ---

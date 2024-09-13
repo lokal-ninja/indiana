@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /daleville/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

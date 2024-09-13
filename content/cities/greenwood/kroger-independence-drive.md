@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /greenwood/kroger-independence-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /hammond/xfinity/
-shop: Handy
+shop: mobile phone
 ---

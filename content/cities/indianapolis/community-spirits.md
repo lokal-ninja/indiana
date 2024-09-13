@@ -1,5 +1,5 @@
 ---
 title: "Community Spirits"
 url: /indianapolis/community-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

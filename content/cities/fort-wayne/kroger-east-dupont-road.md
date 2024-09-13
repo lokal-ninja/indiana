@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /fort-wayne/kroger-east-dupont-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promenade Self Storage"
 url: /lafayette/promenade-self-storage/
-shop: Mieten
+shop: storage rental
 ---

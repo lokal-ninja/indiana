@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /jasper/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

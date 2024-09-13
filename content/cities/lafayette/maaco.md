@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /lafayette/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

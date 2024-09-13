@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-north-keystone-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

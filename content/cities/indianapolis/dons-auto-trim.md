@@ -1,5 +1,5 @@
 ---
 title: "Don's Auto Trim"
 url: /indianapolis/dons-auto-trim/
-shop: Autowerkstatt
+shop: car repair
 ---

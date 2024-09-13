@@ -1,5 +1,5 @@
 ---
 title: "The Wellness Shoppe"
 url: /merrillville/the-wellness-shoppe/
-shop: Bioladen
+shop: health food
 ---

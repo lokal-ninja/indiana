@@ -1,5 +1,5 @@
 ---
 title: "Drive Now Loans"
 url: /logansport/drive-now-loans/
-shop: Leiher
+shop: pawnbroker
 ---

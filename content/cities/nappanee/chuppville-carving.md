@@ -1,5 +1,5 @@
 ---
 title: "Chuppville Carving"
 url: /nappanee/chuppville-carving/
-shop: Allgemein
+shop: shop
 ---

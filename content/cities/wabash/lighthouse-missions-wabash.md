@@ -1,5 +1,5 @@
 ---
 title: "Lighthouse Missions Wabash"
 url: /wabash/lighthouse-missions-wabash/
-shop: Gebrauchtwaren
+shop: charity
 ---

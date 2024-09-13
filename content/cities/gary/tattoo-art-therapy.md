@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Art Therapy"
 url: /gary/tattoo-art-therapy/
-shop: Tattoo
+shop: tattoo
 ---

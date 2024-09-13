@@ -1,5 +1,5 @@
 ---
 title: "Reed Automotive"
 url: /indianapolis/reed-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

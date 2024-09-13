@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /logansport/autozone/
-shop: Autoteile
+shop: car parts
 ---

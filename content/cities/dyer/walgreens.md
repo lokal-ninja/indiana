@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /dyer/walgreens/
-shop: Drogerie
+shop: chemist
 ---

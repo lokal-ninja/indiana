@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hammond/autozone-columbia-avenue/
-shop: Autoteile
+shop: car parts
 ---

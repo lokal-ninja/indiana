@@ -1,5 +1,5 @@
 ---
 title: "Al's Supermarket"
 url: /laporte/als-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

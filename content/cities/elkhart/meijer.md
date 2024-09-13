@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /elkhart/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

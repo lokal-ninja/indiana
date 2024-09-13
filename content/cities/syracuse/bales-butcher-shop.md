@@ -1,5 +1,5 @@
 ---
 title: "Bales Butcher Shop"
 url: /syracuse/bales-butcher-shop/
-shop: Metzgerei
+shop: butcher
 ---

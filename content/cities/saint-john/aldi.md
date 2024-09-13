@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saint-john/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

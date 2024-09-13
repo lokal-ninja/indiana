@@ -1,5 +1,5 @@
 ---
 title: "Big Red Liquors"
 url: /plainfield/big-red-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

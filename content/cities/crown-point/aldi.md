@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /crown-point/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

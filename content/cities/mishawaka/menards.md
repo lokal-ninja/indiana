@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /mishawaka/menards/
-shop: Baumarkt
+shop: doityourself
 ---

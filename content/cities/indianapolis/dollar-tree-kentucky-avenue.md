@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /indianapolis/dollar-tree-kentucky-avenue/
-shop: Kramladen
+shop: variety store
 ---

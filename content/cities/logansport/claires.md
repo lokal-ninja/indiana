@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /logansport/claires/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /indianapolis/getgo/
-shop: Lebensmittel
+shop: convenience
 ---

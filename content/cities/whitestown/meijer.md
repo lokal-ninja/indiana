@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /whitestown/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

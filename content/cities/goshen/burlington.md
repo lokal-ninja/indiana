@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /goshen/burlington/
-shop: Warenhaus
+shop: department store
 ---

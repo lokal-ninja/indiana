@@ -1,5 +1,5 @@
 ---
 title: "The Rock Shop"
 url: /logansport/the-rock-shop/
-shop: Andenken
+shop: gift
 ---

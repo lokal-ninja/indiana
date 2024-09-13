@@ -1,5 +1,5 @@
 ---
 title: "RV Dynasty"
 url: /bunker-hill/rv-dynasty/
-shop: Wohnwagen
+shop: caravan
 ---

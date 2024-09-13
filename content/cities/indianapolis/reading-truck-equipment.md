@@ -1,5 +1,5 @@
 ---
 title: "Reading Truck Equipment"
 url: /indianapolis/reading-truck-equipment/
-shop: Autoteile
+shop: car parts
 ---

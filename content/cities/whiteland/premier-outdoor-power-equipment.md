@@ -1,5 +1,5 @@
 ---
 title: "Premier Outdoor Power Equipment"
 url: /whiteland/premier-outdoor-power-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crane 1"
 url: /indianapolis/crane-1/
-shop: Allgemein
+shop: shop
 ---

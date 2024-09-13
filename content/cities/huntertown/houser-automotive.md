@@ -1,5 +1,5 @@
 ---
 title: "Houser Automotive"
 url: /huntertown/houser-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

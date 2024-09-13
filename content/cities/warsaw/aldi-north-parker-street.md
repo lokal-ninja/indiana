@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /warsaw/aldi-north-parker-street/
-shop: Supermarkt
+shop: supermarket
 ---

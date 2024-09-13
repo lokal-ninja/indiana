@@ -1,5 +1,5 @@
 ---
 title: "Family Express"
 url: /west-lafayette/family-express/
-shop: Lebensmittel
+shop: convenience
 ---

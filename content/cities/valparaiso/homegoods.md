@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /valparaiso/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

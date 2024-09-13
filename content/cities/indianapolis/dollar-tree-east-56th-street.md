@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /indianapolis/dollar-tree-east-56th-street/
-shop: Kramladen
+shop: variety store
 ---

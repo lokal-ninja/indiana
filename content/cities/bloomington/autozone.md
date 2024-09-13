@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bloomington/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teghtmeyer Ace Hardware"
 url: /columbia-city/teghtmeyer-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /griffith/autozone/
-shop: Autoteile
+shop: car parts
 ---

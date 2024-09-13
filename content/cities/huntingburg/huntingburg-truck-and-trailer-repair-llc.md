@@ -1,5 +1,5 @@
 ---
 title: "Huntingburg Truck and Trailer Repair, LLC"
 url: /huntingburg/huntingburg-truck-and-trailer-repair-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

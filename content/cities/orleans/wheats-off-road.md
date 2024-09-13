@@ -1,5 +1,5 @@
 ---
 title: "Wheat's Off-Road"
 url: /orleans/wheats-off-road/
-shop: Autowerkstatt
+shop: car repair
 ---

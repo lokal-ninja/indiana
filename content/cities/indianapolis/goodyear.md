@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /indianapolis/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

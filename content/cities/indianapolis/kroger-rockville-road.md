@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /indianapolis/kroger-rockville-road/
-shop: Supermarkt
+shop: supermarket
 ---

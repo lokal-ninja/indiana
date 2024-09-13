@@ -1,5 +1,5 @@
 ---
 title: "Little and Sons"
 url: /beech-grove/little-and-sons/
-shop: Bestattungen
+shop: funeral directors
 ---

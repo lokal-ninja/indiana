@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /la-porte/verizon-boyd-boulevard/
-shop: Handy
+shop: mobile phone
 ---

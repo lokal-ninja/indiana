@@ -1,5 +1,5 @@
 ---
 title: "Kirby Hardware"
 url: /orleans/kirby-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /fort-wayne/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

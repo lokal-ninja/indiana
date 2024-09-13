@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /valparaiso/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

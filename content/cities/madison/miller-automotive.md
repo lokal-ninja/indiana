@@ -1,5 +1,5 @@
 ---
 title: "Miller Automotive"
 url: /madison/miller-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

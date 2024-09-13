@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fort-wayne/speedway-illinois-road/
-shop: Lebensmittel
+shop: convenience
 ---

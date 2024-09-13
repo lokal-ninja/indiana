@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-allisonville-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bob's Discount Furniture"
 url: /indianapolis/bobs-discount-furniture/
-shop: Möbel
+shop: furniture
 ---

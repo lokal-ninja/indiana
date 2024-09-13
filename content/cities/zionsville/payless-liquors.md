@@ -1,5 +1,5 @@
 ---
 title: "Payless Liquors"
 url: /zionsville/payless-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

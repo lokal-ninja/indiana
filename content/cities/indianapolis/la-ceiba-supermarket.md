@@ -1,5 +1,5 @@
 ---
 title: "La Ceiba Supermarket"
 url: /indianapolis/la-ceiba-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

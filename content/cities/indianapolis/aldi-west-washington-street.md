@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /indianapolis/aldi-west-washington-street/
-shop: Supermarkt
+shop: supermarket
 ---

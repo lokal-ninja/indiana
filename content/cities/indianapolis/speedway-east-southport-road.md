@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-east-southport-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Hospital"
 url: /indianapolis/bicycle-hospital/
-shop: Fahrrad
+shop: bicycle
 ---

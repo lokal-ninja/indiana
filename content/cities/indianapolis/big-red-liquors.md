@@ -1,5 +1,5 @@
 ---
 title: "Big Red Liquors"
 url: /indianapolis/big-red-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

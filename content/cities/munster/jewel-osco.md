@@ -1,5 +1,5 @@
 ---
 title: "Jewel-Osco"
 url: /munster/jewel-osco/
-shop: Supermarkt
+shop: supermarket
 ---

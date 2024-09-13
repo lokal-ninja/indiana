@@ -1,5 +1,5 @@
 ---
 title: "RC Auto Sales"
 url: /indianapolis/rc-auto-sales/
-shop: Autohaus
+shop: car
 ---

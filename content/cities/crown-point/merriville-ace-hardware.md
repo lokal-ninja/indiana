@@ -1,5 +1,5 @@
 ---
 title: "Merriville Ace Hardware"
 url: /crown-point/merriville-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

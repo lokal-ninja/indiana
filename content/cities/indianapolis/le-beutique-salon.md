@@ -1,5 +1,5 @@
 ---
 title: "Le Beutique Salon"
 url: /indianapolis/le-beutique-salon/
-shop: Friseur
+shop: hairdresser
 ---

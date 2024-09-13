@@ -1,5 +1,5 @@
 ---
 title: "Sobiecks"
 url: /grovertown/sobiecks/
-shop: Elektronik
+shop: electronics
 ---

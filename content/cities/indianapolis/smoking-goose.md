@@ -1,5 +1,5 @@
 ---
 title: "Smoking Goose"
 url: /indianapolis/smoking-goose/
-shop: Metzgerei
+shop: butcher
 ---

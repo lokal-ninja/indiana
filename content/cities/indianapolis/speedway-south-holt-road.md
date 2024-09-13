@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-south-holt-road/
-shop: Lebensmittel
+shop: convenience
 ---

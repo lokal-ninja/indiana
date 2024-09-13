@@ -1,5 +1,5 @@
 ---
 title: "Baltus Electronics"
 url: /greensburg/baltus-electronics/
-shop: Radiotechnik
+shop: radiotechnics
 ---

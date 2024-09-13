@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fort-wayne/aldi-south-anthony-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

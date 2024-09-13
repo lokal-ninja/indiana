@@ -1,5 +1,5 @@
 ---
 title: "HairQuarters"
 url: /indianapolis/hairquarters/
-shop: Friseur
+shop: hairdresser
 ---

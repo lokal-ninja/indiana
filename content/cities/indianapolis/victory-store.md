@@ -1,5 +1,5 @@
 ---
 title: "Victory Store"
 url: /indianapolis/victory-store/
-shop: Lebensmittel
+shop: convenience
 ---

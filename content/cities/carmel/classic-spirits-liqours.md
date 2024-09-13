@@ -1,5 +1,5 @@
 ---
 title: "Classic Spirits Liqours"
 url: /carmel/classic-spirits-liqours/
-shop: Spirituosen
+shop: alcohol
 ---

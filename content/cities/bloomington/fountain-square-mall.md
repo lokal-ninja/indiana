@@ -1,5 +1,5 @@
 ---
 title: "Fountain Square Mall"
 url: /bloomington/fountain-square-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

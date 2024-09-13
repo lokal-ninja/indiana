@@ -1,5 +1,5 @@
 ---
 title: "Blast From The Past"
 url: /richmond/blast-from-the-past/
-shop: Videospiele
+shop: video games
 ---

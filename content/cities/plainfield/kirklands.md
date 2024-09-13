@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /plainfield/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

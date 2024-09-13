@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm Clearance"
 url: /indianapolis/mattress-firm-clearance/
-shop: Betten
+shop: bed
 ---

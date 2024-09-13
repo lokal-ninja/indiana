@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /michigan-city/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harvest"
 url: /anderson/harvest/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arabella Home"
 url: /indianapolis/arabella-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

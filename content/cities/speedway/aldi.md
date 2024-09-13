@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /speedway/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

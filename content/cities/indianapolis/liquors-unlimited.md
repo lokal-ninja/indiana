@@ -1,5 +1,5 @@
 ---
 title: "Liquors Unlimited"
 url: /indianapolis/liquors-unlimited/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millhousen's Hidden Gem"
 url: /millhousen/millhousens-hidden-gem/
-shop: Friseur
+shop: hairdresser
 ---

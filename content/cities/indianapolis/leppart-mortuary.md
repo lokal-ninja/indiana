@@ -1,5 +1,5 @@
 ---
 title: "Leppart Mortuary"
 url: /indianapolis/leppart-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

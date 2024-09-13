@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /west-lafayette/u-haul/
-shop: Mieten
+shop: storage rental
 ---

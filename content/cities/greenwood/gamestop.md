@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /greenwood/gamestop/
-shop: Videospiele
+shop: video games
 ---

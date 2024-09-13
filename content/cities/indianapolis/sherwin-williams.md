@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /indianapolis/sherwin-williams/
-shop: Farben
+shop: paint
 ---

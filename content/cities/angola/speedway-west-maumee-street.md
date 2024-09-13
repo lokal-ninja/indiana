@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /angola/speedway-west-maumee-street/
-shop: Lebensmittel
+shop: convenience
 ---

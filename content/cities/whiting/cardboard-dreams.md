@@ -1,5 +1,5 @@
 ---
 title: "Cardboard Dreams"
 url: /whiting/cardboard-dreams/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /hammond/family-dollar-sibley-street/
-shop: Kramladen
+shop: variety store
 ---

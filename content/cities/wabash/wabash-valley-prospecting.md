@@ -1,5 +1,5 @@
 ---
 title: "Wabash Valley Prospecting"
 url: /wabash/wabash-valley-prospecting/
-shop: Schmuck
+shop: jewelry
 ---

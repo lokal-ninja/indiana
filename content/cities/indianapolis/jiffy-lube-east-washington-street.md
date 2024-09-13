@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /indianapolis/jiffy-lube-east-washington-street/
-shop: Autowerkstatt
+shop: car repair
 ---

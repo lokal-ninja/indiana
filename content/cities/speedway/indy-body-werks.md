@@ -1,5 +1,5 @@
 ---
 title: "Indy Body Werks"
 url: /speedway/indy-body-werks/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /noblesville/ross-hoard-drive/
-shop: Warenhaus
+shop: department store
 ---

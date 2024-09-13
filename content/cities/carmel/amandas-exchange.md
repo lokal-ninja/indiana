@@ -1,5 +1,5 @@
 ---
 title: "Amanda's Exchange"
 url: /carmel/amandas-exchange/
-shop: Schmuck
+shop: jewelry
 ---

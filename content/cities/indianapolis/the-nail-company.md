@@ -1,5 +1,5 @@
 ---
 title: "The Nail Company"
 url: /indianapolis/the-nail-company/
-shop: Kosmetik
+shop: beauty
 ---

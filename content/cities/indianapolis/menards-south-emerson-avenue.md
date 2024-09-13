@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /indianapolis/menards-south-emerson-avenue/
-shop: Baumarkt
+shop: doityourself
 ---

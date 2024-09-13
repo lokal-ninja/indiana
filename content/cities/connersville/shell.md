@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /connersville/shell/
-shop: Lebensmittel
+shop: convenience
 ---

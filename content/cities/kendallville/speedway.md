@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kendallville/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

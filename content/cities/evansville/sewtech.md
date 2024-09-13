@@ -1,5 +1,5 @@
 ---
 title: "SewTech"
 url: /evansville/sewtech/
-shop: Nähzubehör
+shop: sewing
 ---

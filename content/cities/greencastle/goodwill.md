@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /greencastle/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

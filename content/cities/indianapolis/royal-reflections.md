@@ -1,5 +1,5 @@
 ---
 title: "Royal Reflections"
 url: /indianapolis/royal-reflections/
-shop: Friseur
+shop: hairdresser
 ---

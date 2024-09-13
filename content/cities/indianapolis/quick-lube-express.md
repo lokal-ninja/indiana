@@ -1,5 +1,5 @@
 ---
 title: "Quick Lube Express"
 url: /indianapolis/quick-lube-express/
-shop: Autowerkstatt
+shop: car repair
 ---

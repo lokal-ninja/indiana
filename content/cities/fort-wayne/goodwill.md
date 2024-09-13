@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /fort-wayne/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Molina Auto Technics"
 url: /indianapolis/molina-auto-technics/
-shop: Autowerkstatt
+shop: car repair
 ---

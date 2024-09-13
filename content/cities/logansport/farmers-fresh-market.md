@@ -1,5 +1,5 @@
 ---
 title: "Farmers Fresh Market"
 url: /logansport/farmers-fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

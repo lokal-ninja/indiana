@@ -1,5 +1,5 @@
 ---
 title: "South Indy Custom Automotive"
 url: /indianapolis/south-indy-custom-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

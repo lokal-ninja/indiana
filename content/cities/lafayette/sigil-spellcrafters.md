@@ -1,5 +1,5 @@
 ---
 title: "Sigil Spellcrafters"
 url: /lafayette/sigil-spellcrafters/
-shop: Religion
+shop: religion
 ---

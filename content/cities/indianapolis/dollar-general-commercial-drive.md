@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /indianapolis/dollar-general-commercial-drive/
-shop: Kramladen
+shop: variety store
 ---

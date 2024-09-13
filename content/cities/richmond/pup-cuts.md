@@ -1,5 +1,5 @@
 ---
 title: "Pup Cuts"
 url: /richmond/pup-cuts/
-shop: Tiersalon
+shop: pet grooming
 ---

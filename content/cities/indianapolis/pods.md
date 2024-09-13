@@ -1,5 +1,5 @@
 ---
-title: "PODS"
+title: "Pods"
 url: /indianapolis/pods/
-shop: Mieten
+shop: storage rental
 ---

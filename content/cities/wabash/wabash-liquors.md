@@ -1,5 +1,5 @@
 ---
 title: "Wabash Liquors"
 url: /wabash/wabash-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

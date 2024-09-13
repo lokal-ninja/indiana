@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /evansville/aldi-oak-grove-road/
-shop: Supermarkt
+shop: supermarket
 ---

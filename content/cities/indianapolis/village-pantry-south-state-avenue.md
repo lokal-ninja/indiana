@@ -1,5 +1,5 @@
 ---
 title: "Village Pantry"
 url: /indianapolis/village-pantry-south-state-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

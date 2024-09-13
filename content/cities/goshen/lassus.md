@@ -1,5 +1,5 @@
 ---
 title: "Lassus"
 url: /goshen/lassus/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KKBB Salon"
 url: /carmel/kkbb-salon/
-shop: Friseur
+shop: hairdresser
 ---

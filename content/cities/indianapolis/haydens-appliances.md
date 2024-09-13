@@ -1,5 +1,5 @@
 ---
 title: "Hayden's Appliances"
 url: /indianapolis/haydens-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

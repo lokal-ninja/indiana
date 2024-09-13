@@ -1,5 +1,5 @@
 ---
 title: "Pat Coslett's Simplicity Furniture"
 url: /evansville/pat-cosletts-simplicity-furniture/
-shop: Möbel
+shop: furniture
 ---

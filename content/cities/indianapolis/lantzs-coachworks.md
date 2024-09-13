@@ -1,5 +1,5 @@
 ---
 title: "Lantz's Coachworks"
 url: /indianapolis/lantzs-coachworks/
-shop: Autowerkstatt
+shop: car repair
 ---

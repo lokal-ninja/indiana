@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /elkhart/kroger-johnson-street/
-shop: Supermarkt
+shop: supermarket
 ---

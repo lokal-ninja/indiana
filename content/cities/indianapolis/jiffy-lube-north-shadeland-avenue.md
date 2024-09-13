@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /indianapolis/jiffy-lube-north-shadeland-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

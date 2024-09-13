@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /la-porte/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

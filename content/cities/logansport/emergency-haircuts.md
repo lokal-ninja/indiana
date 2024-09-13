@@ -1,5 +1,5 @@
 ---
 title: "Emergency Haircuts"
 url: /logansport/emergency-haircuts/
-shop: Friseur
+shop: hairdresser
 ---

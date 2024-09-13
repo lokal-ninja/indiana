@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /southport/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

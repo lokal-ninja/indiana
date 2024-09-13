@@ -1,5 +1,5 @@
 ---
 title: "Wildwood Market"
 url: /indianapolis/wildwood-market/
-shop: Leerstehend
+shop: vacant
 ---

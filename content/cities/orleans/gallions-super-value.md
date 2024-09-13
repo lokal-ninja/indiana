@@ -1,5 +1,5 @@
 ---
 title: "Gallions Super Value"
 url: /orleans/gallions-super-value/
-shop: Supermarkt
+shop: supermarket
 ---

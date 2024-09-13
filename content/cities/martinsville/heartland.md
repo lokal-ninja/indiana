@@ -1,5 +1,5 @@
 ---
 title: "Heartland"
 url: /martinsville/heartland/
-shop: Lebensmittel
+shop: convenience
 ---

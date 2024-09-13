@@ -1,5 +1,5 @@
 ---
 title: "Rule Auto Care"
 url: /rensselaer/rule-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tobacco"
 url: /indianapolis/discount-tobacco-southeastern-avenue/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /indianapolis/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /merrillville/autozone-broadway/
-shop: Autoteile
+shop: car parts
 ---

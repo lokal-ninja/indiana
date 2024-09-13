@@ -1,5 +1,5 @@
 ---
 title: "Kennedy Mazda Service Center"
 url: /valparaiso/kennedy-mazda-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

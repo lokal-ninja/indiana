@@ -1,5 +1,5 @@
 ---
 title: "Henry's Auto Sales"
 url: /indianapolis/henrys-auto-sales/
-shop: Autohaus
+shop: car
 ---

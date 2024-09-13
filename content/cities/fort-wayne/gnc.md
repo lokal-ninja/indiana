@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /fort-wayne/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

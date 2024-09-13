@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /linton/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

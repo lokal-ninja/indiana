@@ -1,5 +1,5 @@
 ---
 title: "Saraga International Grocery"
 url: /indianapolis/saraga-international-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

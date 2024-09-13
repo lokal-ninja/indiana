@@ -1,5 +1,5 @@
 ---
 title: "Vibrations"
 url: /gary/vibrations/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /carmel/sephora/
-shop: Kosmetik
+shop: beauty
 ---

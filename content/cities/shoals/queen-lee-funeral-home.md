@@ -1,5 +1,5 @@
 ---
 title: "Queen-Lee Funeral Home"
 url: /shoals/queen-lee-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /vincennes/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

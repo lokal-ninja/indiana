@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /evansville/the-home-depot-pearl-drive/
-shop: Baumarkt
+shop: doityourself
 ---

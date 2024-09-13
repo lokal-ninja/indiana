@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /plainfield/thorntons/
-shop: Lebensmittel
+shop: convenience
 ---

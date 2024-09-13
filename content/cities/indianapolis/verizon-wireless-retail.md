@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless Retail"
 url: /indianapolis/verizon-wireless-retail/
-shop: Handy
+shop: mobile phone
 ---

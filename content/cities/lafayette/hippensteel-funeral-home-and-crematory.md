@@ -1,5 +1,5 @@
 ---
 title: "Hippensteel Funeral Home and Crematory"
 url: /lafayette/hippensteel-funeral-home-and-crematory/
-shop: Bestattungen
+shop: funeral directors
 ---

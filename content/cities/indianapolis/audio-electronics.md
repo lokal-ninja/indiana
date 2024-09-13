@@ -1,5 +1,5 @@
 ---
 title: "Audio Electronics"
 url: /indianapolis/audio-electronics/
-shop: Autoteile
+shop: car parts
 ---

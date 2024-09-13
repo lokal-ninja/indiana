@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /goshen/kohls/
-shop: Warenhaus
+shop: department store
 ---

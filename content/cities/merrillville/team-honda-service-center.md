@@ -1,5 +1,5 @@
 ---
 title: "Team Honda Service Center"
 url: /merrillville/team-honda-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

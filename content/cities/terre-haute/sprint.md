@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /terre-haute/sprint/
-shop: Handy
+shop: mobile phone
 ---

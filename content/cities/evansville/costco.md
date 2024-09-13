@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /evansville/costco/
-shop: Großhandel
+shop: wholesale
 ---

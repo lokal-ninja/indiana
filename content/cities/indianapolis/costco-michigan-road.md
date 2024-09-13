@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /indianapolis/costco-michigan-road/
-shop: Großhandel
+shop: wholesale
 ---

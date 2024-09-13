@@ -1,5 +1,5 @@
 ---
 title: "Crown Autos"
 url: /indianapolis/crown-autos/
-shop: Autohaus
+shop: car
 ---

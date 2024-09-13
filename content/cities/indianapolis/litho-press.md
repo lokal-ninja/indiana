@@ -1,5 +1,5 @@
 ---
 title: "LITHO Press"
 url: /indianapolis/litho-press/
-shop: Kopieren
+shop: copyshop
 ---

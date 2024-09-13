@@ -1,5 +1,5 @@
 ---
 title: "Bear Hardware"
 url: /nashville/bear-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

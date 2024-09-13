@@ -1,5 +1,5 @@
 ---
 title: "BJ’s Lockshop"
 url: /la-porte/bjs-lockshop/
-shop: Schlüsseldienst
+shop: locksmith
 ---

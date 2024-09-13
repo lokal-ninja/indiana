@@ -1,5 +1,5 @@
 ---
 title: "Circle City Tint"
 url: /indianapolis/circle-city-tint/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gather"
 url: /bloomington/gather/
-shop: Andenken
+shop: gift
 ---

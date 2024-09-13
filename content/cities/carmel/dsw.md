@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /carmel/dsw/
-shop: Schuhe
+shop: shoes
 ---

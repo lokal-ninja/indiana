@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /valparaiso/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

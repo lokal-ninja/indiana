@@ -1,5 +1,5 @@
 ---
 title: "Fresh Thyme"
 url: /indianapolis/fresh-thyme-rockville-road/
-shop: Supermarkt
+shop: supermarket
 ---

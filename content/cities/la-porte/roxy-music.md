@@ -1,5 +1,5 @@
 ---
 title: "Roxy Music"
 url: /la-porte/roxy-music/
-shop: Instrumente
+shop: musical instrument
 ---

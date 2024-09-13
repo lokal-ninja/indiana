@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /portage/menards/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /indianapolis/ryder/
-shop: Mieten
+shop: storage rental
 ---

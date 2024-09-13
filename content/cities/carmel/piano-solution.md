@@ -1,5 +1,5 @@
 ---
 title: "Piano Solution"
 url: /carmel/piano-solution/
-shop: Instrumente
+shop: musical instrument
 ---

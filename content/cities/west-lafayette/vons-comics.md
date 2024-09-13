@@ -1,5 +1,5 @@
 ---
 title: "Von's Comics"
 url: /west-lafayette/vons-comics/
-shop: Videothek
+shop: video
 ---

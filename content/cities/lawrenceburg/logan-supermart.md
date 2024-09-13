@@ -1,5 +1,5 @@
 ---
 title: "Logan Supermart"
 url: /lawrenceburg/logan-supermart/
-shop: Lebensmittel
+shop: convenience
 ---

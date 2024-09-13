@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bremen/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

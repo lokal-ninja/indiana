@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /mishawaka/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

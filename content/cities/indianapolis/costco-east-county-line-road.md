@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /indianapolis/costco-east-county-line-road/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Express"
 url: /crown-point/family-express/
-shop: Lebensmittel
+shop: convenience
 ---

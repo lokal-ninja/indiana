@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /indianapolis/big-lots-english-avenue/
-shop: Warenhaus
+shop: department store
 ---

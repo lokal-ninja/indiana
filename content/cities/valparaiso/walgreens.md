@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /valparaiso/walgreens/
-shop: Drogerie
+shop: chemist
 ---

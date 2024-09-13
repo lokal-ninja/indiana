@@ -1,5 +1,5 @@
 ---
 title: "Nottingham Automotive"
 url: /richmond/nottingham-automotive/
-shop: Autohaus
+shop: car
 ---

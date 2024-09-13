@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hammond/walgreens-calumet-avenue/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naptown Auto"
 url: /indianapolis/naptown-auto/
-shop: Autohaus
+shop: car
 ---

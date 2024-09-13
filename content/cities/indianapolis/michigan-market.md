@@ -1,5 +1,5 @@
 ---
 title: "Michigan Market"
 url: /indianapolis/michigan-market/
-shop: Lebensmittel
+shop: convenience
 ---

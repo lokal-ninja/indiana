@@ -1,5 +1,5 @@
 ---
 title: "El Llano Market"
 url: /jasper/el-llano-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Griller's Restaurant"
 url: /whiting/grillers-restaurant/
-shop: Feinkost
+shop: deli
 ---

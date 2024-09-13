@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /gary/aldi-west-ridge-road/
-shop: Supermarkt
+shop: supermarket
 ---

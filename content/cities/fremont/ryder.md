@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /fremont/ryder/
-shop: Mieten
+shop: storage rental
 ---

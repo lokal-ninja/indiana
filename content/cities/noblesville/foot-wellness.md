@@ -1,5 +1,5 @@
 ---
 title: "Foot Wellness"
 url: /noblesville/foot-wellness/
-shop: Massage
+shop: massage
 ---

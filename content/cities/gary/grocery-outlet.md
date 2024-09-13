@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /gary/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bob Rohrman Toyota"
 url: /lafayette/bob-rohrman-toyota/
-shop: Autohaus
+shop: car
 ---

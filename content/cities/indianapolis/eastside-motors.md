@@ -1,5 +1,5 @@
 ---
 title: "Eastside Motors"
 url: /indianapolis/eastside-motors/
-shop: Autohaus
+shop: car
 ---

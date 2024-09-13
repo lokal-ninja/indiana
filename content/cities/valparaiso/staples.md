@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /valparaiso/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

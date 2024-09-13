@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /fort-wayne/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

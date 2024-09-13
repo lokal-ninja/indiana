@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /indianapolis/shell-north-illinois-street/
-shop: Lebensmittel
+shop: convenience
 ---

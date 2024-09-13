@@ -1,5 +1,5 @@
 ---
 title: "Indianapolis Auto Detailing"
 url: /indianapolis/indianapolis-auto-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

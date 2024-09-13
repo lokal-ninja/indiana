@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /scottsburg/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

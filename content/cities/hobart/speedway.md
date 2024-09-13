@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hobart/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

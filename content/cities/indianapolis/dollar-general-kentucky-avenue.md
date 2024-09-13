@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /indianapolis/dollar-general-kentucky-avenue/
-shop: Kramladen
+shop: variety store
 ---

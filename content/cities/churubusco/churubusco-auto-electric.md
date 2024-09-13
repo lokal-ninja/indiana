@@ -1,5 +1,5 @@
 ---
 title: "Churubusco Auto Electric"
 url: /churubusco/churubusco-auto-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

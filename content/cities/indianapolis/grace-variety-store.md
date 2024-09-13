@@ -1,5 +1,5 @@
 ---
 title: "Grace Variety Store"
 url: /indianapolis/grace-variety-store/
-shop: Lebensmittel
+shop: convenience
 ---

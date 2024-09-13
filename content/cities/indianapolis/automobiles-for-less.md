@@ -1,5 +1,5 @@
 ---
 title: "Automobiles For Less"
 url: /indianapolis/automobiles-for-less/
-shop: Autohaus
+shop: car
 ---

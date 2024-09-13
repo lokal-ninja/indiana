@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /gary/grainger/
-shop: Baustoffe
+shop: trade
 ---

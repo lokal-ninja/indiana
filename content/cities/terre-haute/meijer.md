@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /terre-haute/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

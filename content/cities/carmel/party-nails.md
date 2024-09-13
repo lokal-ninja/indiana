@@ -1,5 +1,5 @@
 ---
 title: "Party Nails"
 url: /carmel/party-nails/
-shop: Kosmetik
+shop: beauty
 ---

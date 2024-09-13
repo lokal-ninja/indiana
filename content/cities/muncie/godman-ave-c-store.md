@@ -1,5 +1,5 @@
 ---
 title: "Godman Ave C Store"
 url: /muncie/godman-ave-c-store/
-shop: Lebensmittel
+shop: convenience
 ---

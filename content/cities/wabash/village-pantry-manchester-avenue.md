@@ -1,5 +1,5 @@
 ---
 title: "Village Pantry"
 url: /wabash/village-pantry-manchester-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "InkTime Tattoo"
 url: /gary/inktime-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

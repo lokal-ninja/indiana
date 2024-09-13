@@ -1,5 +1,5 @@
 ---
 title: "Lassus Handy Dandy"
 url: /auburn/lassus-handy-dandy/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "People's Mart"
 url: /shelbyville/peoples-mart/
-shop: Lebensmittel
+shop: convenience
 ---

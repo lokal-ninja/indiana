@@ -1,5 +1,5 @@
 ---
 title: "Nickel Plate Saloon"
 url: /peru/nickel-plate-saloon/
-shop: Allgemein
+shop: shop
 ---

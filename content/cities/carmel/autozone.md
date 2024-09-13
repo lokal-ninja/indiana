@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /carmel/autozone/
-shop: Autoteile
+shop: car parts
 ---

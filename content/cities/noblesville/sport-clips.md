@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /noblesville/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hodson's Bay"
 url: /west-lafayette/hodsons-bay/
-shop: Outdoor
+shop: outdoor
 ---

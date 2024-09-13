@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /la-porte/sherwin-williams/
-shop: Farben
+shop: paint
 ---

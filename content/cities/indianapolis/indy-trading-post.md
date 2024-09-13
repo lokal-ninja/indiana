@@ -1,5 +1,5 @@
 ---
 title: "Indy Trading Post"
 url: /indianapolis/indy-trading-post/
-shop: Waffen
+shop: weapons
 ---

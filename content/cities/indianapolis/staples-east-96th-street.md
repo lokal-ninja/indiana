@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /indianapolis/staples-east-96th-street/
-shop: Schreibwaren
+shop: office supplies
 ---

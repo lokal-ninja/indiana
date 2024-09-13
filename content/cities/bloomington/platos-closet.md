@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
 url: /bloomington/platos-closet/
-shop: Kleidung
+shop: clothes
 ---

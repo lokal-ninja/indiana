@@ -1,5 +1,5 @@
 ---
 title: "Ortwein Woodwinds"
 url: /indianapolis/ortwein-woodwinds/
-shop: Instrumente
+shop: musical instrument
 ---

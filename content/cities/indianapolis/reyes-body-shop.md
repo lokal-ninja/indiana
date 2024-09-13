@@ -1,5 +1,5 @@
 ---
 title: "Reyes Body Shop"
 url: /indianapolis/reyes-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indiana Army Surplus"
 url: /bedford/indiana-army-surplus/
-shop: Militär
+shop: military
 ---

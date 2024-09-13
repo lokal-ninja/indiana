@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /fort-wayne/menards/
-shop: Baumarkt
+shop: doityourself
 ---

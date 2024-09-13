@@ -1,5 +1,5 @@
 ---
 title: "Lacquer"
 url: /indianapolis/lacquer/
-shop: Kosmetik
+shop: beauty
 ---

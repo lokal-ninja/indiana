@@ -1,5 +1,5 @@
 ---
 title: "Kentucky Ave Phillips"
 url: /indianapolis/kentucky-ave-phillips/
-shop: Lebensmittel
+shop: convenience
 ---

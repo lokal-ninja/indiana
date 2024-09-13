@@ -1,5 +1,5 @@
 ---
 title: "BAKK Enterprise"
 url: /plainfield/bakk-enterprise/
-shop: Kleidung
+shop: clothes
 ---

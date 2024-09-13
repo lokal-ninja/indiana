@@ -1,5 +1,5 @@
 ---
 title: "Brookville Liquors"
 url: /indianapolis/brookville-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

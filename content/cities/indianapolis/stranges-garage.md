@@ -1,5 +1,5 @@
 ---
 title: "Strange's Garage"
 url: /indianapolis/stranges-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

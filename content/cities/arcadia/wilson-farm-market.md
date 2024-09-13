@@ -1,5 +1,5 @@
 ---
 title: "Wilson Farm Market"
 url: /arcadia/wilson-farm-market/
-shop: Supermarkt
+shop: supermarket
 ---

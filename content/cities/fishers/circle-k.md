@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /fishers/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aspy Tire"
 url: /hoagland/aspy-tire/
-shop: Reifen
+shop: tyres
 ---

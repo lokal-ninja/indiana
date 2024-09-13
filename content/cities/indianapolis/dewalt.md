@@ -1,5 +1,5 @@
 ---
 title: "DeWalt"
 url: /indianapolis/dewalt/
-shop: Eisenwaren
+shop: hardware
 ---

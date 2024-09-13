@@ -1,5 +1,5 @@
 ---
 title: "Country Porch"
 url: /worthington/country-porch/
-shop: Lebensmittel
+shop: convenience
 ---

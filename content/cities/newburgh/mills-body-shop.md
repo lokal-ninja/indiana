@@ -1,5 +1,5 @@
 ---
 title: "Mills Body Shop"
 url: /newburgh/mills-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

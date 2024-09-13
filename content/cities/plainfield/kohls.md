@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /plainfield/kohls/
-shop: Warenhaus
+shop: department store
 ---

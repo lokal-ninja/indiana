@@ -1,5 +1,5 @@
 ---
 title: "Michoacán Supermarket"
 url: /south-bend/michoacan-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

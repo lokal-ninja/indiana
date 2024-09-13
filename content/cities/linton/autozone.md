@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /linton/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /logansport/verizon/
-shop: Handy
+shop: mobile phone
 ---

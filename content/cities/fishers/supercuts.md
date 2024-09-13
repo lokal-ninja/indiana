@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /fishers/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

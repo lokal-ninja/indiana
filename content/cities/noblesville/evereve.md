@@ -1,5 +1,5 @@
 ---
 title: "Evereve"
 url: /noblesville/evereve/
-shop: Kleidung
+shop: clothes
 ---

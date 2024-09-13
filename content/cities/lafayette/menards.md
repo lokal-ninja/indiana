@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /lafayette/menards/
-shop: Baumarkt
+shop: doityourself
 ---

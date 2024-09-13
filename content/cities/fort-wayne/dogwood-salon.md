@@ -1,5 +1,5 @@
 ---
 title: "Dogwood Salon"
 url: /fort-wayne/dogwood-salon/
-shop: Kosmetik
+shop: beauty
 ---

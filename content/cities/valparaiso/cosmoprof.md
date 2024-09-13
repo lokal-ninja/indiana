@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /valparaiso/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /bloomington/mattress-firm-north-jacob-drive/
-shop: Betten
+shop: bed
 ---

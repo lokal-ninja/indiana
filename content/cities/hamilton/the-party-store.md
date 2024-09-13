@@ -1,5 +1,5 @@
 ---
 title: "The Party Store"
 url: /hamilton/the-party-store/
-shop: Spirituosen
+shop: alcohol
 ---

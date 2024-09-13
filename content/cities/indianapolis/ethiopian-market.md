@@ -1,5 +1,5 @@
 ---
 title: "Ethiopian Market"
 url: /indianapolis/ethiopian-market/
-shop: Supermarkt
+shop: supermarket
 ---

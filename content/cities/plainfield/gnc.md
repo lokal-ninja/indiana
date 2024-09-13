@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /plainfield/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

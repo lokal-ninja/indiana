@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /indianapolis/dollar-general-south-meridian-street/
-shop: Kramladen
+shop: variety store
 ---

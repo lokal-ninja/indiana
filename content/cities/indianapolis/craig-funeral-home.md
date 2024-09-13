@@ -1,5 +1,5 @@
 ---
 title: "Craig Funeral Home"
 url: /indianapolis/craig-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

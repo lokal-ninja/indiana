@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /noblesville/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

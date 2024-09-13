@@ -1,5 +1,5 @@
 ---
 title: "Pearson Ford"
 url: /zionsville/pearson-ford/
-shop: Autohaus
+shop: car
 ---

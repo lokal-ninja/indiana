@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /fort-wayne/kroger-saint-joe-center-road/
-shop: Supermarkt
+shop: supermarket
 ---

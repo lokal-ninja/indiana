@@ -1,5 +1,5 @@
 ---
 title: "Nature's Corner"
 url: /fort-wayne/natures-corner/
-shop: Antiquitäten
+shop: antiques
 ---

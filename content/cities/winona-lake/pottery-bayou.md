@@ -1,5 +1,5 @@
 ---
 title: "Pottery Bayou"
 url: /winona-lake/pottery-bayou/
-shop: Töpferei
+shop: pottery
 ---

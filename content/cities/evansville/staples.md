@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /evansville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

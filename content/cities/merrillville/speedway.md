@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /merrillville/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

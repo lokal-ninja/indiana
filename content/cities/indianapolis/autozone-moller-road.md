@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /indianapolis/autozone-moller-road/
-shop: Autoteile
+shop: car parts
 ---

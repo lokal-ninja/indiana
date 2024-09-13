@@ -1,5 +1,5 @@
 ---
 title: "New Harmony Dulcimers"
 url: /new-harmony/new-harmony-dulcimers/
-shop: Instrumente
+shop: musical instrument
 ---

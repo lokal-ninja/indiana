@@ -1,5 +1,5 @@
 ---
 title: "Binny's Electronics"
 url: /gary/binnys-electronics/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /vincennes/fastenal/
-shop: Baustoffe
+shop: trade
 ---

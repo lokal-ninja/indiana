@@ -1,6 +1,6 @@
 ---
 title: Worthington
 url: /worthington/
-latitude: 39.118
-longitude: -86.979
+latitude: 39.122
+longitude: -86.974
 ---

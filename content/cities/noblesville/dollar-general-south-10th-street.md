@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /noblesville/dollar-general-south-10th-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hello Beautiful Salon"
 url: /scottsburg/hello-beautiful-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /kokomo/target/
-shop: Warenhaus
+shop: department store
 ---

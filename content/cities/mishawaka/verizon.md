@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mishawaka/verizon/
-shop: Handy
+shop: mobile phone
 ---

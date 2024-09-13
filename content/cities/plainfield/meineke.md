@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /plainfield/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /plainfield/buckle/
-shop: Kleidung
+shop: clothes
 ---

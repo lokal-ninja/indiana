@@ -1,5 +1,5 @@
 ---
 title: "Midland Arts and Antiques"
 url: /indianapolis/midland-arts-and-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /indianapolis/kroger-south-emerson-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

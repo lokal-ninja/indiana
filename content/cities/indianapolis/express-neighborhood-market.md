@@ -1,5 +1,5 @@
 ---
 title: "Express Neighborhood Market"
 url: /indianapolis/express-neighborhood-market/
-shop: Supermarkt
+shop: supermarket
 ---

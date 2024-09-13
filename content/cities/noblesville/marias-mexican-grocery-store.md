@@ -1,5 +1,5 @@
 ---
 title: "Maria's Mexican Grocery Store"
 url: /noblesville/marias-mexican-grocery-store/
-shop: Supermarkt
+shop: supermarket
 ---

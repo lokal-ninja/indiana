@@ -1,5 +1,5 @@
 ---
 title: "Naquatech"
 url: /la-porte/naquatech/
-shop: Pool
+shop: swimming pool
 ---

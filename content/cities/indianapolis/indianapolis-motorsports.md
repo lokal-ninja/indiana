@@ -1,5 +1,5 @@
 ---
 title: "Indianapolis Motorsports"
 url: /indianapolis/indianapolis-motorsports/
-shop: Autohaus
+shop: car
 ---

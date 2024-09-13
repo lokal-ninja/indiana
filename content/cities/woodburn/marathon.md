@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /woodburn/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

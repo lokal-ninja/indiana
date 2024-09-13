@@ -1,5 +1,5 @@
 ---
 title: "More 4 Less"
 url: /gary/more-4-less/
-shop: Kosmetik
+shop: beauty
 ---

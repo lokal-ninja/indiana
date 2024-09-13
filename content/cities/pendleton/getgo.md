@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /pendleton/getgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /huntertown/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

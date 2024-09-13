@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /plainfield/target/
-shop: Warenhaus
+shop: department store
 ---

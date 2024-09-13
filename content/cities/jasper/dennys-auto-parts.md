@@ -1,5 +1,5 @@
 ---
 title: "Denny's Auto Parts"
 url: /jasper/dennys-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

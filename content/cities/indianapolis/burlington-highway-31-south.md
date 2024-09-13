@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /indianapolis/burlington-highway-31-south/
-shop: Warenhaus
+shop: department store
 ---

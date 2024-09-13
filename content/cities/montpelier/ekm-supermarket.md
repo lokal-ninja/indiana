@@ -1,5 +1,5 @@
 ---
 title: "Ekm Supermarket"
 url: /montpelier/ekm-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

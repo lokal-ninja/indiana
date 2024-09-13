@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /indianapolis/cvs-pharmacy-brookville-road/
-shop: Drogerie
+shop: chemist
 ---

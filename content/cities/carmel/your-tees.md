@@ -1,5 +1,5 @@
 ---
 title: "Your Tees"
 url: /carmel/your-tees/
-shop: Kleidung
+shop: clothes
 ---

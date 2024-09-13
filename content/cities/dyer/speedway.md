@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dyer/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

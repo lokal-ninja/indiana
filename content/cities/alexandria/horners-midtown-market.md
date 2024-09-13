@@ -1,5 +1,5 @@
 ---
 title: "Horner's Midtown Market"
 url: /alexandria/horners-midtown-market/
-shop: Supermarkt
+shop: supermarket
 ---

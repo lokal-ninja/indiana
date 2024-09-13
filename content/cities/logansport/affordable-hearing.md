@@ -1,5 +1,5 @@
 ---
 title: "Affordable Hearing"
 url: /logansport/affordable-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

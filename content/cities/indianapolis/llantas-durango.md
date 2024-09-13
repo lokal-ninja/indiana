@@ -1,5 +1,5 @@
 ---
 title: "Llantas Durango"
 url: /indianapolis/llantas-durango/
-shop: Reifen
+shop: tyres
 ---

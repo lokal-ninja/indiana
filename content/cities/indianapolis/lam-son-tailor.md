@@ -1,5 +1,5 @@
 ---
 title: "Lam Son Tailor"
 url: /indianapolis/lam-son-tailor/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /bristol/rebel/
-shop: Lebensmittel
+shop: convenience
 ---

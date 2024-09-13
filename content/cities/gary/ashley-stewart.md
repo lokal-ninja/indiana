@@ -1,5 +1,5 @@
 ---
 title: "Ashley Stewart"
 url: /gary/ashley-stewart/
-shop: Kleidung
+shop: clothes
 ---

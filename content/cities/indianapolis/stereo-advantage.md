@@ -1,5 +1,5 @@
 ---
 title: "Stereo Advantage"
 url: /indianapolis/stereo-advantage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /cicero/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

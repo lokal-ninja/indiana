@@ -1,5 +1,5 @@
 ---
 title: "Community Coin Laundromat"
 url: /indianapolis/community-coin-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

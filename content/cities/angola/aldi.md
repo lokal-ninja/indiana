@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /angola/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

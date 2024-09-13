@@ -1,5 +1,5 @@
 ---
 title: "Barney's Alignment Service"
 url: /bloomington/barneys-alignment-service/
-shop: Autowerkstatt
+shop: car repair
 ---

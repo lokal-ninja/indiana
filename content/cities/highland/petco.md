@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /highland/petco/
-shop: Tiere
+shop: pet
 ---

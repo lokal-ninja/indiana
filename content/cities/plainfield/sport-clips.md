@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /plainfield/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

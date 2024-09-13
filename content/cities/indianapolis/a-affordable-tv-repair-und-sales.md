@@ -1,5 +1,0 @@
----
-title: "A Affordable TV Repair & Sales"
-url: /indianapolis/a-affordable-tv-repair-und-sales/
-shop: Elektronik
----

@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /logansport/ezpawn/
-shop: Leiher
+shop: pawnbroker
 ---

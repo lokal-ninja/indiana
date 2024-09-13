@@ -1,5 +1,5 @@
 ---
 title: "Huber's Marine"
 url: /la-porte/hubers-marine/
-shop: Boot
+shop: boat
 ---

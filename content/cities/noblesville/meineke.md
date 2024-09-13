@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /noblesville/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

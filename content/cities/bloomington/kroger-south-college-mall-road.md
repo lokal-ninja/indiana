@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /bloomington/kroger-south-college-mall-road/
-shop: Supermarkt
+shop: supermarket
 ---

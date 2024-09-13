@@ -1,5 +1,5 @@
 ---
 title: "Leo Mini Storage"
 url: /leo-cedarville/leo-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

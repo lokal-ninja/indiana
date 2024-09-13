@@ -1,5 +1,5 @@
 ---
 title: "LoganTech"
 url: /logansport/logantech/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /carmel/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

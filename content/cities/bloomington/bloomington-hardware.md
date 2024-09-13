@@ -1,5 +1,5 @@
 ---
 title: "Bloomington Hardware"
 url: /bloomington/bloomington-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

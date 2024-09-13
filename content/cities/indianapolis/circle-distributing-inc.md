@@ -1,5 +1,5 @@
 ---
 title: "Circle Distributing Inc"
 url: /indianapolis/circle-distributing-inc/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /fort-wayne/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /wabash/dollar-general-cass-street/
-shop: Kramladen
+shop: variety store
 ---

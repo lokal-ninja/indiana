@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /crown-point/walgreens-broadway/
-shop: Drogerie
+shop: chemist
 ---

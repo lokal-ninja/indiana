@@ -1,5 +1,5 @@
 ---
 title: "McNamara Florist"
 url: /greenwood/mcnamara-florist/
-shop: Blumen
+shop: florist
 ---

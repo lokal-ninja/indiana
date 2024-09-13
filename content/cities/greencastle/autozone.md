@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /greencastle/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sigma Group"
 url: /indianapolis/sigma-group/
-shop: Autohaus
+shop: car
 ---

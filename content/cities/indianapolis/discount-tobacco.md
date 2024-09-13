@@ -1,5 +1,5 @@
 ---
 title: "Discount Tobacco"
 url: /indianapolis/discount-tobacco/
-shop: Tabak
+shop: tobacco
 ---

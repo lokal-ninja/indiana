@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /plainfield/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

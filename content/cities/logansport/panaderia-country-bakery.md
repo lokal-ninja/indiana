@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Country Bakery"
 url: /logansport/panaderia-country-bakery/
-shop: Bäckerei
+shop: bakery
 ---

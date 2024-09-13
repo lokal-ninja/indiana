@@ -1,5 +1,5 @@
 ---
 title: "Reis-Nichols Jewelers"
 url: /indianapolis/reis-nichols-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mishawaka/petsmart/
-shop: Tiere
+shop: pet
 ---

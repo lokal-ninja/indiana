@@ -1,5 +1,5 @@
 ---
 title: "Speedway Auto LLC"
 url: /lafayette/speedway-auto-llc/
-shop: Autohaus
+shop: car
 ---

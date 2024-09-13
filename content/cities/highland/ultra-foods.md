@@ -1,5 +1,5 @@
 ---
 title: "Ultra Foods"
 url: /highland/ultra-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Downtown Autobody"
 url: /fort-wayne/downtown-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

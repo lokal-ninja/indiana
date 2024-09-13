@@ -1,5 +1,5 @@
 ---
 title: "Check Into Cash"
 url: /wabash/check-into-cash/
-shop: Leiher
+shop: pawnbroker
 ---

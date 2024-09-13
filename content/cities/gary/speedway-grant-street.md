@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /gary/speedway-grant-street/
-shop: Lebensmittel
+shop: convenience
 ---

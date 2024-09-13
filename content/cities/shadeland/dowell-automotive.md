@@ -1,5 +1,5 @@
 ---
 title: "Dowell Automotive"
 url: /shadeland/dowell-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

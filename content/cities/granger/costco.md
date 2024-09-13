@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /granger/costco/
-shop: Großhandel
+shop: wholesale
 ---

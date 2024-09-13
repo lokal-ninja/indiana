@@ -1,5 +1,5 @@
 ---
 title: "Bruns Auto Services"
 url: /indianapolis/bruns-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

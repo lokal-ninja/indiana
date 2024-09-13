@@ -1,5 +1,5 @@
 ---
 title: "Rite Choice Foods"
 url: /nappanee/rite-choice-foods/
-shop: Lebensmittel
+shop: convenience
 ---

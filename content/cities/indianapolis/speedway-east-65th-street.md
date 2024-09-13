@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /indianapolis/speedway-east-65th-street/
-shop: Lebensmittel
+shop: convenience
 ---

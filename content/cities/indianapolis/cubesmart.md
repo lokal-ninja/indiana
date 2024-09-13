@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /indianapolis/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

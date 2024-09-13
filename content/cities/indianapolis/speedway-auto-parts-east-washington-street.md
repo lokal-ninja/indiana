@@ -1,5 +1,5 @@
 ---
 title: "Speedway Auto Parts"
 url: /indianapolis/speedway-auto-parts-east-washington-street/
-shop: Autoteile
+shop: car parts
 ---

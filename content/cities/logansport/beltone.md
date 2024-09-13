@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /logansport/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

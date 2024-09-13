@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /mishawaka/jared/
-shop: Schmuck
+shop: jewelry
 ---

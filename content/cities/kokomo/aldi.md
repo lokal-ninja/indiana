@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kokomo/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

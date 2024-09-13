@@ -1,5 +1,5 @@
 ---
 title: "the Picnic Basket"
 url: /bloomfield/the-picnic-basket/
-shop: Lebensmittel
+shop: convenience
 ---

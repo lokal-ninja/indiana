@@ -1,5 +1,5 @@
 ---
 title: "Indiana Lutherie"
 url: /plainfield/indiana-lutherie/
-shop: Musik
+shop: music
 ---

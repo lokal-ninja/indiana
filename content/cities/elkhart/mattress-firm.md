@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /elkhart/mattress-firm/
-shop: Betten
+shop: bed
 ---

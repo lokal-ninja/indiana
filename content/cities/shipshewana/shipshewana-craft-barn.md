@@ -1,5 +1,5 @@
 ---
 title: "Shipshewana Craft Barn"
 url: /shipshewana/shipshewana-craft-barn/
-shop: Andenken
+shop: gift
 ---

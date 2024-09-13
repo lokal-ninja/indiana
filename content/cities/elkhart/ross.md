@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /elkhart/ross/
-shop: Warenhaus
+shop: department store
 ---

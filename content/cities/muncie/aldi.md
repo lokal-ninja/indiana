@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /muncie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

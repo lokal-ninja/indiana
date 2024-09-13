@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /valparaiso/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

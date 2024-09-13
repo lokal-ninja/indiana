@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /indianapolis/family-dollar-michigan-road/
-shop: Kramladen
+shop: variety store
 ---

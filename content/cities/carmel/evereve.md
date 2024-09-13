@@ -1,5 +1,5 @@
 ---
 title: "Evereve"
 url: /carmel/evereve/
-shop: Kleidung
+shop: clothes
 ---

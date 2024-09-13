@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /spencer/oreilly-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

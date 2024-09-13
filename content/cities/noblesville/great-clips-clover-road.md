@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /noblesville/great-clips-clover-road/
-shop: Friseur
+shop: hairdresser
 ---
