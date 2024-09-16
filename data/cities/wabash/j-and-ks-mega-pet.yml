@@ -1,11 +1,11 @@
 id: 551575126
-type: way
+type: node
 latitude: 40.81703
 longitude: -85.8375
 postcode: "46992"
 city: Wabash
-street: "North Cass Street"
-housenumber: 1425
+street: North Cass Street
+housenumber: "1425"
 phone: ""
 opening_hours: ""
 website: ""

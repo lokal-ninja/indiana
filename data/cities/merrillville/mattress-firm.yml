@@ -1,11 +1,11 @@
 id: 821965914
-type: way
+type: node
 latitude: 41.47353
 longitude: -87.32258
 postcode: "46410"
 city: Merrillville
-street: "East 79th Avenue"
-housenumber: 1307
-phone: "+1 219-769-5643"
+street: East 79th Avenue
+housenumber: "1307"
+phone: +1 219-769-5643
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/in/merrillville/119226/"
+website: https://www.mattressfirm.com/en-us/stores/in/merrillville/119226/

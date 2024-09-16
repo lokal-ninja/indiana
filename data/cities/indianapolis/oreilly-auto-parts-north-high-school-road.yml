@@ -1,11 +1,11 @@
 id: 387969781
-type: way
+type: node
 latitude: 39.82236
 longitude: -86.27108
 postcode: "46224"
 city: Indianapolis
-street: "North High School Road"
-housenumber: 3720
+street: North High School Road
+housenumber: "3720"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/in/indianapolis/autoparts-1454.html"
+website: https://locations.oreillyauto.com/in/indianapolis/autoparts-1454.html

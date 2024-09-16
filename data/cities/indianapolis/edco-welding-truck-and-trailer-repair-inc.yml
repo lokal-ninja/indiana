@@ -1,11 +1,11 @@
 id: 964446454
-type: way
+type: node
 latitude: 39.72018
 longitude: -86.1718
 postcode: "46217"
 city: Indianapolis
-street: "Bluff Road"
-housenumber: 3200
+street: Bluff Road
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

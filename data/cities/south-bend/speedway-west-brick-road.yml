@@ -1,11 +1,11 @@
 id: 667684121
-type: way
+type: node
 latitude: 41.73797
 longitude: -86.33487
 postcode: "46628"
 city: South Bend
-street: "West Brick Road"
-housenumber: 6161
+street: West Brick Road
+housenumber: "6161"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/South-Bend/6161-West-Brick-Road"
+website: https://www.speedway.com/locations/IN/South-Bend/6161-West-Brick-Road

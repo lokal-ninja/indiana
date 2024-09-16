@@ -1,11 +1,11 @@
 id: 684134040
-type: way
+type: node
 latitude: 39.73275
 longitude: -86.26148
 postcode: "46241"
 city: Indianapolis
-street: "Production Drive"
-housenumber: 2334
+street: Production Drive
+housenumber: "2334"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1022404046
-type: way
+type: node
 latitude: 39.78235
 longitude: -86.23432
 postcode: "46222"
 city: Speedway
-street: "Polco Street"
-housenumber: 1111
+street: Polco Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

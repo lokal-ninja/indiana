@@ -1,11 +1,11 @@
 id: 543309872
-type: way
+type: node
 latitude: 39.72339
 longitude: -86.14977
 postcode: "46225"
 city: Indianapolis
-street: "Madison Avenue"
-housenumber: 2955
-phone: "+1 844-444-1076"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/indianapolis/2955-madison-ave"
+street: Madison Avenue
+housenumber: "2955"
+phone: +1 844-444-1076
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/indianapolis/2955-madison-ave

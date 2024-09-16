@@ -1,11 +1,11 @@
 id: 240442164
-type: way
+type: node
 latitude: 39.67549
 longitude: -86.37183
 postcode: "46168"
 city: Plainfield
-street: "East Hadley Road"
-housenumber: 2068
+street: East Hadley Road
+housenumber: "2068"
 phone: ""
 opening_hours: ""
 website: ""

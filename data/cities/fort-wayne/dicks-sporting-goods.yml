@@ -1,11 +1,11 @@
 id: 110422656
-type: way
+type: node
 latitude: 41.11962
 longitude: -85.13753
 postcode: "46805"
 city: Fort Wayne
-street: "Coliseum Boulevard"
+street: Coliseum Boulevard
 housenumber: 256-309
-phone: "+1 260-470-4224"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/in/fort-wayne/228/"
+phone: +1 260-470-4224
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/in/fort-wayne/228/

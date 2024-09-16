@@ -1,11 +1,11 @@
 id: 668161946
-type: way
+type: node
 latitude: 41.36474
 longitude: -86.32964
 postcode: "46563"
 city: Plymouth
-street: "North Oak Drive"
-housenumber: 2505
-phone: "+1 574-935-9000"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1978/plymouth-in/whats-new"
+street: North Oak Drive
+housenumber: "2505"
+phone: +1 574-935-9000
+opening_hours: 24/7
+website: https://www.walmart.com/store/1978/plymouth-in/whats-new

@@ -1,11 +1,11 @@
 id: 1183915185
-type: way
+type: node
 latitude: 41.61328
 longitude: -86.71698
 postcode: "46350"
 city: La Porte
-street: "Lincolnway"
-housenumber: 322
+street: Lincolnway
+housenumber: "322"
 phone: ""
 opening_hours: ""
 website: ""

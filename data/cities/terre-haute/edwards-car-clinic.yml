@@ -1,11 +1,11 @@
 id: 770888229
-type: way
+type: node
 latitude: 39.47791
 longitude: -87.39747
 postcode: "47807"
 city: Terre Haute
-street: "North 13th Street"
-housenumber: 901
+street: North 13th Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "http://www.edwardsrickcarclinic.com/"
+website: http://www.edwardsrickcarclinic.com/

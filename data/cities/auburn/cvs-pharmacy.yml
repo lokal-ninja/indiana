@@ -1,11 +1,11 @@
 id: 666292228
-type: way
+type: node
 latitude: 41.36728
 longitude: -85.07102
 postcode: "46706"
 city: Auburn
-street: "West 7th Street"
-housenumber: 934
+street: West 7th Street
+housenumber: "934"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/auburn-in-pharmacies/934-w-7th-st-auburn-in-46706/storeid=6495"
+website: https://www.cvs.com/store-locator/auburn-in-pharmacies/934-w-7th-st-auburn-in-46706/storeid=6495

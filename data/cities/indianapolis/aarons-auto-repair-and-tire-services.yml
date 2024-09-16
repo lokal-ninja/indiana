@@ -1,11 +1,11 @@
 id: 239334051
-type: way
+type: node
 latitude: 39.72078
 longitude: -86.22608
 postcode: "46241"
 city: Indianapolis
-street: "West Troy Avenue"
-housenumber: 3812
+street: West Troy Avenue
+housenumber: "3812"
 phone: ""
 opening_hours: ""
 website: ""

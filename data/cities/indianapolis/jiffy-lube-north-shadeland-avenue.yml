@@ -1,11 +1,11 @@
 id: 422668997
-type: way
+type: node
 latitude: 39.77625
 longitude: -86.04492
 postcode: "46219"
 city: Indianapolis
-street: "North Shadeland Avenue"
-housenumber: 355
+street: North Shadeland Avenue
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

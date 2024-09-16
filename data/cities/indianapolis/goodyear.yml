@@ -1,11 +1,11 @@
 id: 448058569
-type: way
+type: node
 latitude: 39.79946
 longitude: -86.26515
 postcode: "46224"
 city: Indianapolis
-street: "Crawfordsville Road"
-housenumber: 5970
+street: Crawfordsville Road
+housenumber: "5970"
 phone: ""
 opening_hours: ""
 website: ""

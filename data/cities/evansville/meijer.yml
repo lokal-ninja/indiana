@@ -1,11 +1,11 @@
 id: 560885789
-type: way
+type: node
 latitude: 38.00101
 longitude: -87.49638
 postcode: "47715"
 city: Evansville
-street: "Menards Drive"
-housenumber: 2622
-phone: "+1-812-647-2200"
-opening_hours: "Mo-Su 06:00-24:00"
+street: Menards Drive
+housenumber: "2622"
+phone: +1-812-647-2200
+opening_hours: Mo-Su 06:00-24:00
 website: ""

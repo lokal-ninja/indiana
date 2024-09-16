@@ -1,11 +1,11 @@
 id: 1014547430
-type: way
+type: node
 latitude: 39.72343
 longitude: -86.12494
 postcode: "46203"
 city: Indianapolis
-street: "East Troy Avenue"
-housenumber: 1922
+street: East Troy Avenue
+housenumber: "1922"
 phone: ""
 opening_hours: ""
 website: ""

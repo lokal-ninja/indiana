@@ -4,8 +4,8 @@ latitude: 38.86174
 longitude: -86.50765
 postcode: "47421"
 city: Bedford
-street: "16th Street"
-housenumber: 2611
+street: 16th Street
+housenumber: "2611"
 phone: ""
-opening_hours: "Su 12:00-17:00; Mo,We,Th 08:00-19:00; Tu off"
-website: "https://www.theupsstore.com"
+opening_hours: Su 12:00-17:00; Mo,We,Th 08:00-19:00; Tu off
+website: https://www.theupsstore.com

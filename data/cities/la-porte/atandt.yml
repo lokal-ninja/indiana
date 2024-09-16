@@ -1,11 +1,11 @@
 id: 1201505374
-type: way
+type: node
 latitude: 41.6235
 longitude: -86.6912
 postcode: "46350"
 city: La Porte
-street: "East Lincolnway"
-housenumber: 1406
+street: East Lincolnway
+housenumber: "1406"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://www.att.com/stores/indiana/la-porte/112933"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-17:00
+website: https://www.att.com/stores/indiana/la-porte/112933

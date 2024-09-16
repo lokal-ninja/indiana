@@ -1,11 +1,11 @@
 id: 1199323897
-type: way
+type: node
 latitude: 41.60383
 longitude: -87.11335
 postcode: "46304"
 city: Burns Harbor
-street: "Melton Road"
-housenumber: 244
+street: Melton Road
+housenumber: "244"
 phone: "+12197878600"
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00"
-website: "https://www.bosakford.com/"
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00
+website: https://www.bosakford.com/

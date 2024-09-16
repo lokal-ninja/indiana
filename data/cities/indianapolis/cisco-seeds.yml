@@ -1,11 +1,11 @@
 id: 422668995
-type: way
+type: node
 latitude: 39.77754
 longitude: -86.04196
 postcode: "46219"
 city: Indianapolis
-street: "North Shortridge Road"
-housenumber: 602
+street: North Shortridge Road
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

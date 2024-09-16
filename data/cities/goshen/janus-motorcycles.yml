@@ -1,11 +1,11 @@
 id: 343337898
-type: way
+type: node
 latitude: 41.58458
 longitude: -85.83362
 postcode: "46528"
 city: Goshen
-street: "South 5th Street"
-housenumber: 211
-phone: "+1-574-538-1350"
+street: South 5th Street
+housenumber: "211"
+phone: +1-574-538-1350
 opening_hours: ""
 website: ""

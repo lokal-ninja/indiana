@@ -1,11 +1,11 @@
 id: 979667758
-type: way
+type: node
 latitude: 41.2107
 longitude: -84.96751
 postcode: "46741"
 city: Grabill
-street: "Main St"
-housenumber: 13531
+street: Main St
+housenumber: "13531"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

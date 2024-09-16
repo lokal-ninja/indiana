@@ -1,11 +1,11 @@
 id: 251249336
-type: way
+type: node
 latitude: 41.4513
 longitude: -85.58741
 postcode: "46767"
 city: Ligonier
-street: "West US Highway 6"
-housenumber: 101
+street: West US Highway 6
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/ligonier-in-pharmacies/101-west-us-hwy-6-ligonier-in-46767/storeid=6500"
+website: https://www.cvs.com/store-locator/ligonier-in-pharmacies/101-west-us-hwy-6-ligonier-in-46767/storeid=6500

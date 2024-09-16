@@ -1,11 +1,11 @@
 id: 731983936
-type: way
+type: node
 latitude: 39.42476
 longitude: -87.4173
 postcode: "47802"
 city: Terre Haute
-street: "US Highway 41 South"
-housenumber: 3509
-phone: "+1-812-814-9477"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.appliancefactory.com/locations/terre_haute.html"
+street: US Highway 41 South
+housenumber: "3509"
+phone: +1-812-814-9477
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.appliancefactory.com/locations/terre_haute.html

@@ -1,11 +1,11 @@
 id: 232006726
-type: way
+type: node
 latitude: 39.86931
 longitude: -86.12149
 postcode: "46220"
 city: Indianapolis
-street: "North Keystone Avenue"
-housenumber: 6201
+street: North Keystone Avenue
+housenumber: "6201"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Indianapolis/6201-N-Keystone-Ave"
+website: https://www.speedway.com/locations/IN/Indianapolis/6201-N-Keystone-Ave

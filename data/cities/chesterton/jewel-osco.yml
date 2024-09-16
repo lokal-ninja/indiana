@@ -1,11 +1,11 @@
 id: 318325004
-type: way
+type: node
 latitude: 41.61846
 longitude: -87.04024
 postcode: "46304"
 city: Chesterton
-street: "Indian Boundary Road"
-housenumber: 747
-phone: "+1 219-926-7172"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00"
-website: "https://local.jewelosco.com/in/chesterton/747-indian-boundary-rd.html"
+street: Indian Boundary Road
+housenumber: "747"
+phone: +1 219-926-7172
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-24:00; Su 06:00-24:00
+website: https://local.jewelosco.com/in/chesterton/747-indian-boundary-rd.html

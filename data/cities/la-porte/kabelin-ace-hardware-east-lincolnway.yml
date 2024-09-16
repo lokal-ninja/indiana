@@ -1,11 +1,11 @@
 id: 1201511126
-type: way
+type: node
 latitude: 41.619
 longitude: -86.70751
 postcode: "46350"
 city: La Porte
-street: "East Lincolnway"
-housenumber: 605
-phone: "+1-219-325-8066"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/store-details/11981"
+street: East Lincolnway
+housenumber: "605"
+phone: +1-219-325-8066
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00; Su 09:00-17:00
+website: https://www.acehardware.com/store-details/11981

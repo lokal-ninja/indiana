@@ -1,11 +1,11 @@
 id: 671578287
-type: way
+type: node
 latitude: 39.60942
 longitude: -86.16124
 postcode: "46142"
 city: Greenwood
-street: "South Marlin Drive"
-housenumber: 300
-phone: "+1 317-882-2703"
+street: South Marlin Drive
+housenumber: "300"
+phone: +1 317-882-2703
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3169"
+website: https://www.menards.com/store-details/store.html?store=3169

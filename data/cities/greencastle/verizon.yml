@@ -1,11 +1,11 @@
 id: 1010881812
-type: way
+type: node
 latitude: 39.64646
 longitude: -86.84207
 postcode: "46135"
 city: Greencastle
-street: "Indianapolis Rd"
-housenumber: 857
+street: Indianapolis Rd
+housenumber: "857"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-18:00
 website: ""

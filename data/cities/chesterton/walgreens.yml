@@ -1,11 +1,11 @@
 id: 318325002
-type: way
+type: node
 latitude: 41.61584
 longitude: -87.04231
 postcode: "46304"
 city: Chesterton
-street: "Indian Boundary Road"
-housenumber: 580
+street: Indian Boundary Road
+housenumber: "580"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-580+indian+boundary+rd-chesterton-in-46304/id=4946"
+website: https://www.walgreens.com/locator/walgreens-580+indian+boundary+rd-chesterton-in-46304/id=4946

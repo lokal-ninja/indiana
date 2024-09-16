@@ -1,11 +1,11 @@
 id: 193396776
-type: way
+type: node
 latitude: 39.92626
 longitude: -86.1089
 postcode: "46240"
 city: Indianapolis
-street: "East 96th Street"
-housenumber: 3473
+street: East 96th Street
+housenumber: "3473"
 phone: ""
 opening_hours: ""
 website: ""

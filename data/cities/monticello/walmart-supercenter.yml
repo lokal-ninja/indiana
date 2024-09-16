@@ -1,11 +1,11 @@
 id: 668431637
-type: way
+type: node
 latitude: 40.74741
 longitude: -86.78099
 postcode: "47960"
 city: Monticello
-street: "West Broadway Street"
-housenumber: 1088
-phone: "+1 574-583-2063"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/2771/monticello-in/whats-new"
+street: West Broadway Street
+housenumber: "1088"
+phone: +1 574-583-2063
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/2771/monticello-in/whats-new

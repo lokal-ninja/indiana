@@ -1,11 +1,11 @@
 id: 282521858
-type: way
+type: node
 latitude: 39.16468
 longitude: -86.49238
 postcode: "47401"
 city: Bloomington
-street: "East 3rd Street"
-housenumber: 3207
+street: East 3rd Street
+housenumber: "3207"
 phone: ""
 opening_hours: ""
 website: ""

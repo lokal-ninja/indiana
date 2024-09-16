@@ -1,11 +1,11 @@
 id: 751440597
-type: way
+type: node
 latitude: 39.41129
 longitude: -87.41527
 postcode: "47802"
 city: Terre Haute
-street: "US 41"
-housenumber: 4501
+street: US 41
+housenumber: "4501"
 phone: ""
 opening_hours: ""
-website: "https://www.maceford.com/"
+website: https://www.maceford.com/

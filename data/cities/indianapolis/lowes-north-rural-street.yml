@@ -1,11 +1,11 @@
 id: 279131796
-type: way
+type: node
 latitude: 39.86501
 longitude: -86.11839
 postcode: "46220"
 city: Indianapolis
-street: "North Rural Street"
-housenumber: 6002
-phone: "+1 317-202-9142"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-indianapolis/0635"
+street: North Rural Street
+housenumber: "6002"
+phone: +1 317-202-9142
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-indianapolis/0635

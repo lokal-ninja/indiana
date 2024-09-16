@@ -1,11 +1,11 @@
 id: 1148665806
-type: way
+type: node
 latitude: 41.57205
 longitude: -87.3614
 postcode: "46404"
 city: Gary
-street: "Arthur Street"
-housenumber: 2550
+street: Arthur Street
+housenumber: "2550"
 phone: ""
 opening_hours: ""
-website: "https://freshcountymarket.com/index.php"
+website: https://freshcountymarket.com/index.php

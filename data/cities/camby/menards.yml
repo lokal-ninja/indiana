@@ -1,11 +1,11 @@
 id: 262754735
-type: way
+type: node
 latitude: 39.64119
 longitude: -86.33057
 postcode: "46113"
 city: Camby
-street: "Windfall Lane"
-housenumber: 8301
+street: Windfall Lane
+housenumber: "8301"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3167"
+website: https://www.menards.com/store-details/store.html?store=3167

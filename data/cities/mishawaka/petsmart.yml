@@ -1,11 +1,11 @@
 id: 608159156
-type: way
+type: node
 latitude: 41.70061
 longitude: -86.18361
 postcode: "46545"
 city: Mishawaka
-street: "Grape Road"
-housenumber: 4540
-phone: "+1 574-243-5525"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/in/mishawaka-store0507.html"
+street: Grape Road
+housenumber: "4540"
+phone: +1 574-243-5525
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/in/mishawaka-store0507.html

@@ -1,11 +1,11 @@
 id: 619450932
-type: way
+type: node
 latitude: 39.00582
 longitude: -85.62573
 postcode: "47265"
 city: North Vernon
-street: "North Jackson Street"
-housenumber: 25
+street: North Jackson Street
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

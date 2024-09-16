@@ -1,11 +1,11 @@
 id: 732106167
-type: way
+type: node
 latitude: 38.65882
 longitude: -87.5079
 postcode: "47591"
 city: Vincennes
-street: "Hart Street"
-housenumber: 2603
-phone: "+1-812-886-9650"
+street: Hart Street
+housenumber: "2603"
+phone: +1-812-886-9650
 opening_hours: ""
-website: "https://locations.tccrocks.com/in/vincennes/2603-hart-street.html"
+website: https://locations.tccrocks.com/in/vincennes/2603-hart-street.html

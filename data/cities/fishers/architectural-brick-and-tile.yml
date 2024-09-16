@@ -1,11 +1,11 @@
 id: 188823079
-type: way
+type: node
 latitude: 39.94322
 longitude: -86.01687
 postcode: "46036"
 city: Fishers
-street: "106th Street"
-housenumber: 8610
+street: 106th Street
+housenumber: "8610"
 phone: ""
 opening_hours: ""
 website: ""

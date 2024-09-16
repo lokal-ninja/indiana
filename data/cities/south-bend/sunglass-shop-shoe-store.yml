@@ -1,11 +1,11 @@
 id: 473430583
-type: way
+type: node
 latitude: 41.69883
 longitude: -86.2167
 postcode: ""
 city: South Bend
-street: "North Ironwood Drive"
-housenumber: 1725
-phone: "+1-574-246-9700"
+street: North Ironwood Drive
+housenumber: "1725"
+phone: +1-574-246-9700
 opening_hours: ""
 website: ""

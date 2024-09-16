@@ -1,11 +1,11 @@
 id: 545272413
-type: way
+type: node
 latitude: 39.19649
 longitude: -85.9469
 postcode: "47201"
 city: Columbus
-street: "Merchant Mile"
-housenumber: 2025
-phone: "+1 812-376-8680"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4216/columbus-in/whats-new"
+street: Merchant Mile
+housenumber: "2025"
+phone: +1 812-376-8680
+opening_hours: 24/7
+website: https://www.walmart.com/store/4216/columbus-in/whats-new

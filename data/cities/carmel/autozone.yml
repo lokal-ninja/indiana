@@ -1,11 +1,11 @@
 id: 195536864
-type: way
+type: node
 latitude: 39.95821
 longitude: -86.12634
 postcode: "46032"
 city: Carmel
-street: "South Range Line Road"
-housenumber: 1445
+street: South Range Line Road
+housenumber: "1445"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/carmel/1445-s-range-line-rd.html"
+website: https://www.autozone.com/locations/in/carmel/1445-s-range-line-rd.html

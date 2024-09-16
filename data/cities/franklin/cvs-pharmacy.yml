@@ -1,11 +1,11 @@
 id: 1033480338
-type: way
+type: node
 latitude: 39.48042
 longitude: -86.06354
 postcode: "46131"
 city: Franklin
-street: "North Morton Street"
-housenumber: 11
+street: North Morton Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/franklin-in-pharmacies/11-north-morton-street-franklin-in-46131/storeid=6663"
+website: https://www.cvs.com/store-locator/franklin-in-pharmacies/11-north-morton-street-franklin-in-46131/storeid=6663

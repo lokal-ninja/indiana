@@ -1,11 +1,11 @@
 id: 555817764
-type: way
+type: node
 latitude: 41.07784
 longitude: -85.22321
 postcode: "46804"
 city: Fort Wayne
-street: "Illinois Road"
-housenumber: 6310
-phone: "+1 260-459-1840"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.menards.com/main/storedetails.html?store=3166"
+street: Illinois Road
+housenumber: "6310"
+phone: +1 260-459-1840
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.menards.com/main/storedetails.html?store=3166

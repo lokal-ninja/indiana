@@ -4,8 +4,8 @@ latitude: 39.91055
 longitude: -86.18293
 postcode: "46260"
 city: Indianapolis
-street: "86th Street West"
-housenumber: 1361
-phone: "+1 317-259-4506"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/in/indianapolis/2312/"
+street: 86th Street West
+housenumber: "1361"
+phone: +1 317-259-4506
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/in/indianapolis/2312/

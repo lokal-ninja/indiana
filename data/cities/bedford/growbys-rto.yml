@@ -4,8 +4,8 @@ latitude: 38.86202
 longitude: -86.5181
 postcode: "47421"
 city: Bedford
-street: "16th Street"
-housenumber: 3309
+street: 16th Street
+housenumber: "3309"
 phone: ""
 opening_hours: ""
-website: "https://www.growbys.com/"
+website: https://www.growbys.com/

@@ -1,11 +1,11 @@
 id: 637697119
-type: way
+type: node
 latitude: 41.07487
 longitude: -85.18084
 postcode: "46802"
 city: Fort Wayne
-street: "Illinois Road"
-housenumber: 3204
-phone: "+1 (260) 432-3570"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-15:00, Su closed"
-website: "https://poolpatioandspas.com/"
+street: Illinois Road
+housenumber: "3204"
+phone: +1 (260) 432-3570
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-15:00, Su closed
+website: https://poolpatioandspas.com/

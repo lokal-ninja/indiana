@@ -1,11 +1,11 @@
 id: 1277953306
-type: way
+type: node
 latitude: 38.29467
 longitude: -86.95501
 postcode: "47542"
 city: Huntingburg
-street: "North Main Street"
-housenumber: 301
-phone: "(812) 630-5297"
+street: North Main Street
+housenumber: "301"
+phone: (812) 630-5297
 opening_hours: ""
-website: "https://www.kelleysautorepairs.com/"
+website: https://www.kelleysautorepairs.com/

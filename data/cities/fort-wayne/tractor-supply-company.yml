@@ -1,11 +1,11 @@
 id: 533066277
-type: way
+type: node
 latitude: 41.13498
 longitude: -85.01491
 postcode: "46835"
 city: Fort Wayne
-street: "Meijer Drive"
-housenumber: 5808
-phone: "+1 260-209-0150"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Meijer Drive
+housenumber: "5808"
+phone: +1 260-209-0150
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

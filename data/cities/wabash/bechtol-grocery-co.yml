@@ -1,11 +1,11 @@
 id: 169695783
-type: way
+type: node
 latitude: 40.78165
 longitude: -85.82186
 postcode: "46992"
 city: Wabash
-street: "Hale Drive"
-housenumber: 12
+street: Hale Drive
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

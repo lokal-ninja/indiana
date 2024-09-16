@@ -1,11 +1,11 @@
 id: 352622340
-type: way
+type: node
 latitude: 38.00557
 longitude: -87.60219
 postcode: "47711"
 city: West Evansville
-street: "North Saint Joseph Avenue"
-housenumber: 2800
-phone: "+1 812 422 0445"
-opening_hours: "07:00-21:00"
-website: "https://www.ruralking.com/west-evansville-in"
+street: North Saint Joseph Avenue
+housenumber: "2800"
+phone: +1 812 422 0445
+opening_hours: 07:00-21:00
+website: https://www.ruralking.com/west-evansville-in

@@ -1,11 +1,11 @@
 id: 542359479
-type: way
+type: node
 latitude: 41.09647
 longitude: -85.13732
 postcode: "46805"
 city: Fort Wayne
-street: "Spy Run Avenue"
-housenumber: 2305
+street: Spy Run Avenue
+housenumber: "2305"
 phone: ""
 opening_hours: ""
 website: ""

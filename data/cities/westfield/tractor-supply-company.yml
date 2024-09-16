@@ -1,11 +1,11 @@
 id: 659937515
-type: way
+type: node
 latitude: 40.04102
 longitude: -86.15701
 postcode: "46074"
 city: Westfield
-street: "Austrian Pine Way"
-housenumber: 17500
-phone: "+1 317-896-1086"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Austrian Pine Way
+housenumber: "17500"
+phone: +1 317-896-1086
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

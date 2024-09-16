@@ -1,11 +1,11 @@
 id: 753803843
-type: way
+type: node
 latitude: 41.75396
 longitude: -86.11514
 postcode: "46530"
 city: Granger
-street: "Adams Road"
-housenumber: 12707
-phone: "1-574-272-2732"
-opening_hours: "Mo-Fr 07:30-17:30, Sa-Su off"
-website: "https://tmtautomotive.com"
+street: Adams Road
+housenumber: "12707"
+phone: 1-574-272-2732
+opening_hours: Mo-Fr 07:30-17:30, Sa-Su off
+website: https://tmtautomotive.com

@@ -1,11 +1,11 @@
 id: 571763417
-type: way
+type: node
 latitude: 40.87899
 longitude: -85.53393
 postcode: "46750"
 city: Huntington
-street: "West Park Drive"
-housenumber: 3030
+street: West Park Drive
+housenumber: "3030"
 phone: ""
 opening_hours: ""
 website: ""

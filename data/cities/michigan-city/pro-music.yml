@@ -1,11 +1,11 @@
 id: 914141784
-type: way
+type: node
 latitude: 41.71011
 longitude: -86.89842
 postcode: "46360"
 city: Michigan City
-street: "Franklin Street"
-housenumber: 1213
+street: Franklin Street
+housenumber: "1213"
 phone: ""
 opening_hours: ""
 website: ""

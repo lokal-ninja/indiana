@@ -1,11 +1,11 @@
 id: 1044297834
-type: way
+type: node
 latitude: 39.16621
 longitude: -86.49438
 postcode: "47408"
 city: Bloomington
-street: "South Pete Ellis Drive"
-housenumber: 223
-phone: "812-323-4263"
+street: South Pete Ellis Drive
+housenumber: "223"
+phone: 812-323-4263
 opening_hours: ""
-website: "https://www.commonroomgames.com/"
+website: https://www.commonroomgames.com/

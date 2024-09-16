@@ -1,11 +1,11 @@
 id: 846843473
-type: way
+type: node
 latitude: 40.75172
 longitude: -86.06821
 postcode: "46970"
 city: Peru
-street: "West 2nd Street"
-housenumber: 9
+street: West 2nd Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

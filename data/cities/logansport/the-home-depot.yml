@@ -1,11 +1,11 @@
 id: 584002167
-type: way
+type: node
 latitude: 40.75968
 longitude: -86.31111
 postcode: "46947"
 city: Logansport
-street: "East Market Street"
-housenumber: 4120
-phone: "+1 574-739-1337"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/logansport/in/logansport/46947/2023"
+street: East Market Street
+housenumber: "4120"
+phone: +1 574-739-1337
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/logansport/in/logansport/46947/2023

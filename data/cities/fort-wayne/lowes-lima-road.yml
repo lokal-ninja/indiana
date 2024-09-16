@@ -1,11 +1,11 @@
 id: 317572942
-type: way
+type: node
 latitude: 41.14112
 longitude: -85.16656
 postcode: "46818"
 city: Fort Wayne
-street: "Lima Road"
-housenumber: 6931
-phone: "+1 260-497-9040"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-fort-wayne/1105"
+street: Lima Road
+housenumber: "6931"
+phone: +1 260-497-9040
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-fort-wayne/1105

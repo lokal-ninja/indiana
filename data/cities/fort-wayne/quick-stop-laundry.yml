@@ -1,11 +1,11 @@
 id: 1105896154
-type: way
+type: node
 latitude: 41.08865
 longitude: -85.15386
 postcode: "46808"
 city: Fort Wayne
-street: "Spring Street"
-housenumber: 901
+street: Spring Street
+housenumber: "901"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

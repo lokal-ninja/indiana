@@ -1,11 +1,11 @@
 id: 950144676
-type: way
+type: node
 latitude: 39.35173
 longitude: -85.47868
 postcode: "47240"
 city: Greensburg
-street: "North Lincoln Street"
-housenumber: 1512
+street: North Lincoln Street
+housenumber: "1512"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/greensburg-in-pharmacies/1512-n-lincoln-ave-greensburg-in-47240/storeid=6758"
+website: https://www.cvs.com/store-locator/greensburg-in-pharmacies/1512-n-lincoln-ave-greensburg-in-47240/storeid=6758

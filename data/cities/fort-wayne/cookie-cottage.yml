@@ -1,11 +1,11 @@
 id: 314635509
-type: way
+type: node
 latitude: 41.13338
 longitude: -85.14821
 postcode: "46825"
 city: Fort Wayne
-street: "West Washington Center Road"
-housenumber: 620
+street: West Washington Center Road
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

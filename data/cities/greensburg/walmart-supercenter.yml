@@ -1,11 +1,11 @@
 id: 666679120
-type: way
+type: node
 latitude: 39.36058
 longitude: -85.47553
 postcode: "47240"
 city: Greensburg
-street: "Greensburg Commons Center"
-housenumber: 790
-phone: "+1 812-663-3434"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1180/greensburg-in/whats-new"
+street: Greensburg Commons Center
+housenumber: "790"
+phone: +1 812-663-3434
+opening_hours: 24/7
+website: https://www.walmart.com/store/1180/greensburg-in/whats-new

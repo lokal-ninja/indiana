@@ -1,11 +1,11 @@
 id: 556218162
-type: way
+type: node
 latitude: 39.68022
 longitude: -86.08329
 postcode: "46237"
 city: Indianapolis
-street: "South Emerson Avenue"
-housenumber: 6010
+street: South Emerson Avenue
+housenumber: "6010"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indianapolis-in-pharmacies/6010-south-emerson-avenue-indianapolis-in-46237/storeid=3007"
+website: https://www.cvs.com/store-locator/indianapolis-in-pharmacies/6010-south-emerson-avenue-indianapolis-in-46237/storeid=3007

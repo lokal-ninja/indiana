@@ -4,8 +4,8 @@ latitude: 40.40029
 longitude: -86.85311
 postcode: "47905"
 city: Lafayette
-street: "IN-38"
-housenumber: 3500
-phone: "+1 765-447-3306"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/in/lafayette-store0508.html"
+street: IN-38
+housenumber: "3500"
+phone: +1 765-447-3306
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/in/lafayette-store0508.html

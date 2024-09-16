@@ -1,11 +1,11 @@
 id: 390390907
-type: way
+type: node
 latitude: 39.95725
 longitude: -86.12734
 postcode: "46032"
 city: Carmel
-street: "South Range Line Road;South Rangeline Road"
-housenumber: 1424
+street: South Range Line Road;South Rangeline Road
+housenumber: "1424"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

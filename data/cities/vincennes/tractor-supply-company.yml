@@ -1,11 +1,11 @@
 id: 171892997
-type: way
+type: node
 latitude: 38.66586
 longitude: -87.51408
 postcode: "47591"
 city: Vincennes
-street: "Hart Street"
-housenumber: 1901
-phone: "+1 812-882-1955"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Hart Street
+housenumber: "1901"
+phone: +1 812-882-1955
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

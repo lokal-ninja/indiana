@@ -1,11 +1,11 @@
 id: 846843487
-type: way
+type: node
 latitude: 40.75336
 longitude: -86.07029
 postcode: "46970"
 city: Peru
-street: "West Main Street"
-housenumber: 26
+street: West Main Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

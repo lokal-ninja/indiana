@@ -1,11 +1,11 @@
 id: 604459793
-type: way
+type: node
 latitude: 41.05916
 longitude: -85.22042
 postcode: "46804"
 city: Fort Wayne
-street: "West Jefferson Boulevard"
-housenumber: 6202
+street: West Jefferson Boulevard
+housenumber: "6202"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6202+w+jefferson+blvd-fort+wayne-in-46804/id=6673"
+website: https://www.walgreens.com/locator/walgreens-6202+w+jefferson+blvd-fort+wayne-in-46804/id=6673

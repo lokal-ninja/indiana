@@ -1,11 +1,11 @@
 id: 843365166
-type: way
+type: node
 latitude: 40.75498
 longitude: -86.06756
 postcode: "46970"
 city: Peru
-street: "East Main Street"
-housenumber: 58
+street: East Main Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

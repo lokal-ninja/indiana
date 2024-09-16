@@ -1,11 +1,11 @@
 id: 1283364355
-type: way
+type: node
 latitude: 40.48028
 longitude: -85.63455
 postcode: "46938"
 city: Jonesboro
-street: "West 6th Street"
-housenumber: 511
+street: West 6th Street
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1173525964
-type: way
+type: node
 latitude: 41.7192
 longitude: -85.96986
 postcode: "46514"
 city: Elkhart
-street: "Cassopolis Street"
-housenumber: 2500
+street: Cassopolis Street
+housenumber: "2500"
 phone: ""
 opening_hours: ""
 website: ""

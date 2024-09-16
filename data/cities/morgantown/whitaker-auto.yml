@@ -1,11 +1,11 @@
 id: 173644177
-type: way
+type: node
 latitude: 39.37153
 longitude: -86.26139
 postcode: "46160"
 city: Morgantown
-street: "West Washington Street"
-housenumber: 20
+street: West Washington Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

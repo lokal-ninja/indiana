@@ -1,11 +1,11 @@
 id: 709319629
-type: way
+type: node
 latitude: 41.05478
 longitude: -86.21868
 postcode: "46975"
 city: Rochester
-street: "Main Street"
-housenumber: 1910
+street: Main Street
+housenumber: "1910"
 phone: ""
 opening_hours: ""
 website: ""

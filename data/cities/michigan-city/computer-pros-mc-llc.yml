@@ -4,8 +4,8 @@ latitude: 41.70197
 longitude: -86.89402
 postcode: "46360"
 city: Michigan City
-street: "Franklin Street"
-housenumber: 2424
-phone: "+1-219-874-5600"
-opening_hours: "Mo-Fr 09:00-18:00,Sa 09:00-13:00"
-website: "https://computerprosmc.com"
+street: Franklin Street
+housenumber: "2424"
+phone: +1-219-874-5600
+opening_hours: Mo-Fr 09:00-18:00,Sa 09:00-13:00
+website: https://computerprosmc.com

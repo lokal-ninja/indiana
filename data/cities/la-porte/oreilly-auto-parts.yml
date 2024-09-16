@@ -1,11 +1,11 @@
 id: 1084527030
-type: way
+type: node
 latitude: 41.61573
 longitude: -86.71188
 postcode: "46350"
 city: La Porte
-street: "East Lincolnway"
-housenumber: 240
-phone: "+1-219-575-6341"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/in/laporte/autoparts-5376.html"
+street: East Lincolnway
+housenumber: "240"
+phone: +1-219-575-6341
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/in/laporte/autoparts-5376.html

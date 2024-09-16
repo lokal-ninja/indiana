@@ -1,11 +1,11 @@
 id: 603516217
-type: way
+type: node
 latitude: 40.04815
 longitude: -85.98967
 postcode: "46060"
 city: Noblesville
-street: "East Conner Street"
-housenumber: 3300
-phone: "+1 317-774-8087"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Noblesville/IN/Noblesville/46060/2017"
+street: East Conner Street
+housenumber: "3300"
+phone: +1 317-774-8087
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Noblesville/IN/Noblesville/46060/2017

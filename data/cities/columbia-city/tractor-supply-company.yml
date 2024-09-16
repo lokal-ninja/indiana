@@ -1,11 +1,11 @@
 id: 906250461
-type: way
+type: node
 latitude: 41.16626
 longitude: -85.48542
 postcode: "46725"
 city: Columbia City
-street: "North Main Street"
-housenumber: 528
-phone: "+1 260-244-0060"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Main Street
+housenumber: "528"
+phone: +1 260-244-0060
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 402981441
-type: way
+type: node
 latitude: 41.6882
 longitude: -86.06361
 postcode: "46561"
 city: Osceola
-street: "McKinley Highway"
-housenumber: 10140
-phone: "+1 574 679 4992"
+street: McKinley Highway
+housenumber: "10140"
+phone: +1 574 679 4992
 opening_hours: ""
 website: ""

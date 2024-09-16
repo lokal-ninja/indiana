@@ -1,11 +1,11 @@
 id: 1037958259
-type: way
+type: node
 latitude: 41.55087
 longitude: -87.19755
 postcode: "46368"
 city: Portage
-street: "US 6"
-housenumber: 5620
+street: US 6
+housenumber: "5620"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Portage/5620-East-Us-6"
+website: https://www.speedway.com/locations/IN/Portage/5620-East-Us-6

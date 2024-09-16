@@ -1,11 +1,11 @@
 id: 1098882942
-type: way
+type: node
 latitude: 41.61614
 longitude: -86.73111
 postcode: "46350"
 city: La Porte
-street: "Pine Lake Avenue"
-housenumber: 199
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://stores.aldi.us/in/laporte/199-pine-lake-avenue"
+street: Pine Lake Avenue
+housenumber: "199"
+phone: +1 855-955-2534
+opening_hours: Mo-Sa 09:00-20:00
+website: https://stores.aldi.us/in/laporte/199-pine-lake-avenue

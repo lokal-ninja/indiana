@@ -1,11 +1,11 @@
 id: 897252820
-type: way
+type: node
 latitude: 39.95187
 longitude: -86.34854
 postcode: "46075"
 city: Whitestown
-street: "Mills Drive"
-housenumber: 6298
-phone: "+1 317-769-2530"
+street: Mills Drive
+housenumber: "6298"
+phone: +1 317-769-2530
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/indiana/whitestown/9000347158/"
+website: https://stores.ashleyfurniture.com/store/us/indiana/whitestown/9000347158/

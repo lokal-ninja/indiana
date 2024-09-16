@@ -1,11 +1,11 @@
 id: 1046260117
-type: way
+type: node
 latitude: 40.21957
 longitude: -85.43912
 postcode: "47304"
 city: Muncie
-street: "West Bethel Avenue"
-housenumber: 4551
+street: West Bethel Avenue
+housenumber: "4551"
 phone: ""
 opening_hours: ""
 website: ""

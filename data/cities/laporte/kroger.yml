@@ -1,11 +1,11 @@
 id: 1190609848
-type: way
+type: node
 latitude: 41.61474
 longitude: -86.72671
 postcode: "46350"
 city: LaPorte
-street: "Pine Lake Avenue"
-housenumber: 55
-phone: "+1 219-362-1591"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/laporte/laporte/021/00966"
+street: Pine Lake Avenue
+housenumber: "55"
+phone: +1 219-362-1591
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/in/laporte/laporte/021/00966

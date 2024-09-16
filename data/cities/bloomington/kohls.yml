@@ -1,11 +1,11 @@
 id: 282534044
-type: way
+type: node
 latitude: 39.17315
 longitude: -86.57254
 postcode: "47404"
 city: Bloomington
-street: "West Whitehall Crossing Boulevard"
-housenumber: 3140
-phone: "+1 812-331-8330"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/in/bloomington-519.shtml"
+street: West Whitehall Crossing Boulevard
+housenumber: "3140"
+phone: +1 812-331-8330
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/in/bloomington-519.shtml

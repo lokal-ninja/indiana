@@ -1,11 +1,11 @@
 id: 1081961685
-type: way
+type: node
 latitude: 41.60262
 longitude: -86.73452
 postcode: "46350"
 city: La Porte
-street: "Andrew Avenue"
-housenumber: 512
-phone: "+1 219-362-3310"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00; Su 09:00-17:00"
-website: "https://www.kabelinacehardware.com/"
+street: Andrew Avenue
+housenumber: "512"
+phone: +1 219-362-3310
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00; Su 09:00-17:00
+website: https://www.kabelinacehardware.com/

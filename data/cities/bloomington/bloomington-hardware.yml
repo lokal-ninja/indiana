@@ -1,11 +1,11 @@
 id: 29549655
-type: way
+type: node
 latitude: 39.15481
 longitude: -86.4973
-postcode: "47407-5455"
+postcode: 47407-5455
 city: Bloomington
-street: "East Covenanter Drive"
-housenumber: 2700
-phone: "+1 812-339-7575"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.truevalue.com/bloomingtonhardware"
+street: East Covenanter Drive
+housenumber: "2700"
+phone: +1 812-339-7575
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.truevalue.com/bloomingtonhardware

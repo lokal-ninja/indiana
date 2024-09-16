@@ -1,11 +1,11 @@
 id: 731936514
-type: way
+type: node
 latitude: 39.44941
 longitude: -87.33344
 postcode: "47803"
 city: Terre Haute
-street: "State Road 46"
-housenumber: 1391
-phone: "+1-812-286-0214"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-18:30"
-website: "https://www.reddotstorage.com/self-storage/terre-haute-IN-47803"
+street: State Road 46
+housenumber: "1391"
+phone: +1-812-286-0214
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-18:30
+website: https://www.reddotstorage.com/self-storage/terre-haute-IN-47803

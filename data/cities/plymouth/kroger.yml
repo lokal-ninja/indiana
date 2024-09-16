@@ -4,8 +4,8 @@ latitude: 41.35806
 longitude: -86.31355
 postcode: "46563"
 city: Plymouth
-street: "North Michigan Street"
-housenumber: 2001
-phone: "+1 574-936-2040"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/plymouth/plymouth/021/00963"
+street: North Michigan Street
+housenumber: "2001"
+phone: +1 574-936-2040
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/plymouth/plymouth/021/00963

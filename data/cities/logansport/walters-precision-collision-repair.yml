@@ -1,11 +1,11 @@
 id: 754982822
-type: way
+type: node
 latitude: 40.75419
 longitude: -86.36804
 postcode: "46947"
 city: Logansport
-street: "East Broadway Street"
-housenumber: 230
-phone: "+1-574-753-6170"
+street: East Broadway Street
+housenumber: "230"
+phone: +1-574-753-6170
 opening_hours: ""
 website: ""

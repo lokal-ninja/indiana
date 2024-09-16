@@ -1,11 +1,11 @@
 id: 616034324
-type: way
+type: node
 latitude: 41.07861
 longitude: -85.16551
 postcode: "46808"
 city: Fort Wayne
-street: "West Main Street"
-housenumber: 1804
-phone: "+1 260 424 1420"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.earthadventures.com/"
+street: West Main Street
+housenumber: "1804"
+phone: +1 260 424 1420
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.earthadventures.com/

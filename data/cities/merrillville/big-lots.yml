@@ -1,11 +1,11 @@
 id: 1037872253
-type: way
+type: node
 latitude: 41.46988
 longitude: -87.29636
 postcode: "46410"
 city: Merrillville
-street: "East Lincoln Highway"
-housenumber: 3201
-phone: "+1 219-649-7119"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/in/merrillville/3201-e-lincoln-hwy"
+street: East Lincoln Highway
+housenumber: "3201"
+phone: +1 219-649-7119
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/in/merrillville/3201-e-lincoln-hwy

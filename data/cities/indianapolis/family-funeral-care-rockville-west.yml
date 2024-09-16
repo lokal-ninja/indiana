@@ -1,11 +1,11 @@
 id: 956146520
-type: way
+type: node
 latitude: 39.76455
 longitude: -86.26154
 postcode: "46224"
 city: Indianapolis
-street: "Rockville Road"
-housenumber: 5791
+street: Rockville Road
+housenumber: "5791"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 975132357
-type: way
+type: node
 latitude: 41.60103
 longitude: -86.73277
 postcode: "46350"
 city: La Porte
-street: "State Road 2"
-housenumber: 1105
+street: State Road 2
+housenumber: "1105"
 phone: ""
 opening_hours: ""
 website: ""

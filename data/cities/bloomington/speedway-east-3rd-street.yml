@@ -1,11 +1,11 @@
 id: 282521870
-type: way
+type: node
 latitude: 39.16469
 longitude: -86.49365
 postcode: "47401"
 city: Bloomington
-street: "East 3rd Street"
-housenumber: 3021
+street: East 3rd Street
+housenumber: "3021"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Bloomington/3021-East-3rd-Street"
+website: https://www.speedway.com/locations/IN/Bloomington/3021-East-3rd-Street

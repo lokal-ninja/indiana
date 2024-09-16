@@ -1,11 +1,11 @@
 id: 997702893
-type: way
+type: node
 latitude: 41.61115
 longitude: -86.71971
 postcode: "46350"
 city: La Porte
-street: "Monroe Street"
-housenumber: 719
-phone: "+1 219 324 5025"
+street: Monroe Street
+housenumber: "719"
+phone: +1 219 324 5025
 opening_hours: ""
 website: ""

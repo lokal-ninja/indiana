@@ -1,11 +1,11 @@
 id: 356859157
-type: way
+type: node
 latitude: 39.83893
 longitude: -86.38505
 postcode: "46112"
 city: Brownsburg
-street: "East Main Street"
-housenumber: 713
+street: East Main Street
+housenumber: "713"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/in/brownsburg/2086/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/in/brownsburg/2086/

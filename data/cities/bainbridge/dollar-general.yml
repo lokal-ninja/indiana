@@ -1,11 +1,11 @@
 id: 1303750741
-type: way
+type: node
 latitude: 39.76231
 longitude: -86.80702
 postcode: "46105"
 city: Bainbridge
-street: "Ernie Pyle Memorial Highway"
-housenumber: 415
-phone: "+1-765-739-0315"
-opening_hours: "24/7"
-website: "https://www.dollargeneral.com/store-directory/in/bainbridge/12179"
+street: Ernie Pyle Memorial Highway
+housenumber: "415"
+phone: +1-765-739-0315
+opening_hours: 24/7
+website: https://www.dollargeneral.com/store-directory/in/bainbridge/12179

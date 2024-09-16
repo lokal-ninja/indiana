@@ -1,11 +1,11 @@
 id: 616336627
-type: way
+type: node
 latitude: 37.969
 longitude: -87.49349
 postcode: "47715"
 city: Evansville
-street: "South Green River Road"
-housenumber: 601
+street: South Green River Road
+housenumber: "601"
 phone: ""
 opening_hours: ""
-website: "https://www.drostes.com/"
+website: https://www.drostes.com/

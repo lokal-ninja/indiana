@@ -1,11 +1,11 @@
 id: 854281837
-type: way
+type: node
 latitude: 39.34256
 longitude: -85.49104
 postcode: "47240"
 city: Greensburg
-street: "North Michigan Avenue"
-housenumber: 715
-phone: "+1-812-663-8228"
+street: North Michigan Avenue
+housenumber: "715"
+phone: +1-812-663-8228
 opening_hours: ""
-website: "https://schreiberlumber.com/"
+website: https://schreiberlumber.com/

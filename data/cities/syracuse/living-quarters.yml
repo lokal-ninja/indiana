@@ -1,11 +1,11 @@
 id: 849563972
-type: way
+type: node
 latitude: 41.41279
 longitude: -85.74569
 postcode: "46567"
 city: Syracuse
-street: "South Huntington Street"
-housenumber: 810
+street: South Huntington Street
+housenumber: "810"
 phone: ""
 opening_hours: ""
 website: ""

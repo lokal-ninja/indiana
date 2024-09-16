@@ -1,11 +1,11 @@
 id: 544701073
-type: way
+type: node
 latitude: 38.32243
 longitude: -85.70898
 postcode: "47130"
 city: Jeffersonville
-street: "Allison Lane"
-housenumber: 2750
-phone: "+1-812-218-6600"
+street: Allison Lane
+housenumber: "2750"
+phone: +1-812-218-6600
 opening_hours: ""
 website: ""

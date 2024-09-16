@@ -1,11 +1,11 @@
 id: 82255273
-type: way
+type: node
 latitude: 39.5266
 longitude: -85.74423
 postcode: "46176"
 city: Shelbyville
-street: "Progress Parkway"
-housenumber: 2500
-phone: "+1 317-392-4940"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/884/shelbyville-in/whats-new"
+street: Progress Parkway
+housenumber: "2500"
+phone: +1 317-392-4940
+opening_hours: 24/7
+website: https://www.walmart.com/store/884/shelbyville-in/whats-new

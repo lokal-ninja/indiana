@@ -1,11 +1,11 @@
 id: 191192142
-type: way
+type: node
 latitude: 39.91469
 longitude: -86.06238
-postcode: "46250-3507"
+postcode: 46250-3507
 city: Indianapolis
-street: "East 86th Street"
-housenumber: 6110
-phone: "+1 317-558-1453"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/castleton-indianapolis-in-346.html"
+street: East 86th Street
+housenumber: "6110"
+phone: +1 317-558-1453
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/castleton-indianapolis-in-346.html

@@ -1,11 +1,11 @@
 id: 547600096
-type: way
+type: node
 latitude: 39.8002
 longitude: -85.7694
 postcode: "46140"
 city: Greenfield
-street: "North State Street"
-housenumber: 1233
+street: North State Street
+housenumber: "1233"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/greenfield-in-pharmacies/1233-north-state-st-greenfield-in-46140/storeid=4633"
+website: https://www.cvs.com/store-locator/greenfield-in-pharmacies/1233-north-state-st-greenfield-in-46140/storeid=4633

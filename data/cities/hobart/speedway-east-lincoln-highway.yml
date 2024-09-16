@@ -1,11 +1,11 @@
 id: 1037871380
-type: way
+type: node
 latitude: 41.47005
 longitude: -87.2593
 postcode: "46410"
 city: Hobart
-street: "East Lincoln Highway"
-housenumber: 6325
+street: East Lincoln Highway
+housenumber: "6325"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Hobart/6325-East-Lincoln-Highway"
+website: https://www.speedway.com/locations/IN/Hobart/6325-East-Lincoln-Highway

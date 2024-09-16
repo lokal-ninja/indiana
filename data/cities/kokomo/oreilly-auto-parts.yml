@@ -1,11 +1,11 @@
 id: 741942249
-type: way
+type: node
 latitude: 40.49105
 longitude: -86.10645
 postcode: "46901"
 city: Kokomo
-street: "East Jefferson Street"
-housenumber: 1701
+street: East Jefferson Street
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/in/kokomo/autoparts-4441.html"
+website: https://locations.oreillyauto.com/in/kokomo/autoparts-4441.html

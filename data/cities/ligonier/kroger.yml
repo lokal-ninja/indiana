@@ -1,11 +1,11 @@
 id: 251679391
-type: way
+type: node
 latitude: 41.45842
 longitude: -85.5852
 postcode: "46767"
 city: Ligonier
-street: "Lincolnway South"
-housenumber: 903
-phone: "+1 260-361-7007"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/ligonier/kroger-ligonier/021/00842"
+street: Lincolnway South
+housenumber: "903"
+phone: +1 260-361-7007
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/ligonier/kroger-ligonier/021/00842

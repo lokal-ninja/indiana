@@ -1,11 +1,11 @@
 id: 1096725192
-type: way
+type: node
 latitude: 41.6004
 longitude: -86.69196
 postcode: "46350"
 city: La Porte
-street: "Monroe Street"
-housenumber: 2900
-phone: "+1-219-362-2828"
+street: Monroe Street
+housenumber: "2900"
+phone: +1-219-362-2828
 opening_hours: ""
-website: "https://www.cutlerfuneral.com/"
+website: https://www.cutlerfuneral.com/

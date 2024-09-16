@@ -1,11 +1,11 @@
 id: 82294035
-type: way
+type: node
 latitude: 39.50612
 longitude: -86.06603
 postcode: "46131"
 city: Franklin
-street: "North Morton Street"
-housenumber: 2219
-phone: "+1 317-346-3400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-franklin/2523"
+street: North Morton Street
+housenumber: "2219"
+phone: +1 317-346-3400
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-franklin/2523

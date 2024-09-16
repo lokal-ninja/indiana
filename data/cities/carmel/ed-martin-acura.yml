@@ -1,11 +1,11 @@
 id: 194000956
-type: way
+type: node
 latitude: 39.92796
 longitude: -86.10643
 postcode: "46240"
 city: Carmel
-street: "East 96th Street"
-housenumber: 3800
+street: East 96th Street
+housenumber: "3800"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 239208480
-type: way
+type: node
 latitude: 39.72826
 longitude: -86.22456
 postcode: "46241"
 city: Indianapolis
-street: "South Holt Road"
-housenumber: 2601
+street: South Holt Road
+housenumber: "2601"
 phone: ""
 opening_hours: ""
 website: ""

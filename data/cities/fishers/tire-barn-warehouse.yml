@@ -1,11 +1,11 @@
 id: 580693475
-type: way
+type: node
 latitude: 39.99197
 longitude: -86.00349
 postcode: "46038"
 city: Fishers
-street: "Mundy Drive"
-housenumber: 14010
+street: Mundy Drive
+housenumber: "14010"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 09:00-17:00
 website: ""

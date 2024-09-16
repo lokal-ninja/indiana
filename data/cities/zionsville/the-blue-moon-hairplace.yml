@@ -4,8 +4,8 @@ latitude: 39.95233
 longitude: -86.26198
 postcode: "46077"
 city: Zionsville
-street: "North Main Street"
-housenumber: 105
-phone: "+1-317-873-9750"
-opening_hours: "Tu-We 11:00-19:00; Fr 12:00-17:00; Sa 11:00-15:00"
-website: "http://bluemoonhairplace.com"
+street: North Main Street
+housenumber: "105"
+phone: +1-317-873-9750
+opening_hours: Tu-We 11:00-19:00; Fr 12:00-17:00; Sa 11:00-15:00
+website: http://bluemoonhairplace.com

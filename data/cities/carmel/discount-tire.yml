@@ -1,11 +1,11 @@
 id: 444793285
-type: way
+type: node
 latitude: 40.00919
 longitude: -86.12702
 postcode: "46032"
 city: Carmel
-street: "North Meridian Street"
-housenumber: 15151
+street: North Meridian Street
+housenumber: "15151"
 phone: ""
 opening_hours: ""
-website: "http://stores.discounttire.com/in/carmel/ini-06/"
+website: http://stores.discounttire.com/in/carmel/ini-06/

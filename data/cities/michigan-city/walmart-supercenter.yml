@@ -1,11 +1,11 @@
 id: 494087632
-type: way
+type: node
 latitude: 41.66786
 longitude: -86.8887
 postcode: "46360"
 city: Michigan City
-street: "Franklin Street"
-housenumber: 5780
-phone: "+1 219-879-3620"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1487/michigan-city-in/whats-new"
+street: Franklin Street
+housenumber: "5780"
+phone: +1 219-879-3620
+opening_hours: 24/7
+website: https://www.walmart.com/store/1487/michigan-city-in/whats-new

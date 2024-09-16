@@ -1,11 +1,11 @@
 id: 230555814
-type: way
+type: node
 latitude: 39.81852
 longitude: -84.97861
 postcode: "47330"
 city: Centerville
-street: "East Main Street"
-housenumber: 1201
+street: East Main Street
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/centerville/11287"
+website: https://www.dollargeneral.com/store-directory/in/centerville/11287

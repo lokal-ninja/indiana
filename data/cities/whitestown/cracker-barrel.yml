@@ -1,11 +1,11 @@
 id: 897247570
-type: way
+type: node
 latitude: 39.94739
 longitude: -86.35215
 postcode: "46075"
 city: Whitestown
-street: "Crane Drive"
-housenumber: 6398
+street: Crane Drive
+housenumber: "6398"
 phone: "+13177695205"
-opening_hours: "Su-Fr 07:00-21:00, Sa 07:00-22:00"
-website: "crackerbarrel.com"
+opening_hours: Su-Fr 07:00-21:00, Sa 07:00-22:00
+website: crackerbarrel.com

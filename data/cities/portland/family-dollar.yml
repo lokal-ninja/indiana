@@ -1,11 +1,11 @@
 id: 1231160471
-type: way
+type: node
 latitude: 40.44035
 longitude: -84.97762
 postcode: "47371"
 city: Portland
-street: "North Meridian Street"
-housenumber: 703
+street: North Meridian Street
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

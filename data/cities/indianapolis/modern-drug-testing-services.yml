@@ -1,11 +1,11 @@
 id: 668889880
-type: way
+type: node
 latitude: 39.8533
 longitude: -86.12042
 postcode: "46220"
 city: Indianapolis
-street: "North Tacoma Avenue"
-housenumber: 5555
+street: North Tacoma Avenue
+housenumber: "5555"
 phone: ""
 opening_hours: ""
 website: ""

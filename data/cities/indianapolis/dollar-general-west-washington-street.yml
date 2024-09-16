@@ -1,11 +1,11 @@
 id: 955934978
-type: way
+type: node
 latitude: 39.75104
 longitude: -86.25504
 postcode: "46241"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 5519
+street: West Washington Street
+housenumber: "5519"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/indianapolis/451"
+website: https://www.dollargeneral.com/store-directory/in/indianapolis/451

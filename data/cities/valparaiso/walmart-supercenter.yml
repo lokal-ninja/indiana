@@ -1,11 +1,11 @@
 id: 41546070
-type: way
+type: node
 latitude: 41.45389
 longitude: -87.03372
 postcode: "46383"
 city: Valparaiso
-street: "Morthland Drive"
-housenumber: 2400
-phone: "+1 219-465-2799"
-opening_hours: "Mo, We-Su 06:00-23:00; Tu 07:00-23:00"
-website: "https://www.walmart.com/store/1479/valparaiso-in/whats-new"
+street: Morthland Drive
+housenumber: "2400"
+phone: +1 219-465-2799
+opening_hours: Mo, We-Su 06:00-23:00; Tu 07:00-23:00
+website: https://www.walmart.com/store/1479/valparaiso-in/whats-new

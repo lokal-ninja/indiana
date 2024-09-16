@@ -1,11 +1,11 @@
 id: 751699696
-type: way
+type: node
 latitude: 40.49244
 longitude: -86.16143
 postcode: "46901"
 city: Kokomo
-street: "Saint Joseph Drive"
-housenumber: 604
+street: Saint Joseph Drive
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

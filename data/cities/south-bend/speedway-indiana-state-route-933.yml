@@ -1,11 +1,11 @@
 id: 770443698
-type: way
+type: node
 latitude: 41.75696
 longitude: -86.25037
 postcode: "46637"
 city: South Bend
-street: "Indiana State Route 933"
-housenumber: 50724
+street: Indiana State Route 933
+housenumber: "50724"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/South-Bend/50724-State-Rd-933"
+website: https://www.speedway.com/locations/IN/South-Bend/50724-State-Rd-933

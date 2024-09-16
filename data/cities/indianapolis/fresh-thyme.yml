@@ -4,8 +4,8 @@ latitude: 39.90636
 longitude: -86.09509
 postcode: "46250"
 city: Indianapolis
-street: "East 82nd Street"
-housenumber: 4225
-phone: "+1-317-348-0254"
+street: East 82nd Street
+housenumber: "4225"
+phone: +1-317-348-0254
 opening_hours: ""
-website: "https://freshthyme.com/"
+website: https://freshthyme.com/

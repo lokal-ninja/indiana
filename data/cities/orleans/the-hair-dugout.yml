@@ -1,11 +1,11 @@
 id: 959589356
-type: way
+type: node
 latitude: 38.66035
 longitude: -86.45263
 postcode: "47452"
 city: Orleans
-street: "South Maple Street"
-housenumber: 320
-phone: "+1-812-865-3434"
+street: South Maple Street
+housenumber: "320"
+phone: +1-812-865-3434
 opening_hours: ""
 website: ""

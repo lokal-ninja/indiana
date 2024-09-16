@@ -1,11 +1,11 @@
 id: 1288449513
-type: way
+type: node
 latitude: 40.75596
 longitude: -86.36298
 postcode: "46947"
 city: Logansport
-street: "North Street"
-housenumber: 608
-phone: "574-721-0130"
+street: North Street
+housenumber: "608"
+phone: 574-721-0130
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 536680949
-type: way
+type: node
 latitude: 40.4517
 longitude: -86.85698
 postcode: "47905"
 city: Lafayette
-street: "Schuyler Avenue"
-housenumber: 2700
-phone: "+1 765 7424000"
+street: Schuyler Avenue
+housenumber: "2700"
+phone: +1 765 7424000
 opening_hours: ""
-website: "https://www.pompstire.com/"
+website: https://www.pompstire.com/

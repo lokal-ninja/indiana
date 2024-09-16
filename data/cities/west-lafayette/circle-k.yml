@@ -1,11 +1,11 @@
 id: 596675155
-type: way
+type: node
 latitude: 40.45304
 longitude: -86.92525
 postcode: "47906"
 city: West Lafayette
-street: "Sagamore Pkwy"
-housenumber: 1209
+street: Sagamore Pkwy
+housenumber: "1209"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

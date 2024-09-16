@@ -1,11 +1,11 @@
 id: 583994169
-type: way
+type: node
 latitude: 41.12484
 longitude: -84.8557
 postcode: "46797"
 city: Woodburn
-street: "Main Street"
-housenumber: 22206
+street: Main Street
+housenumber: "22206"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 868046445
-type: way
+type: node
 latitude: 41.09622
 longitude: -85.15503
 postcode: "46808"
 city: Fort Wayne
-street: "West State Boulevard"
-housenumber: 926
+street: West State Boulevard
+housenumber: "926"
 phone: "+12604260632"
-opening_hours: "Fr 12:00-16:00"
-website: "https://mr-wimps-coins-jewelry.edan.io/"
+opening_hours: Fr 12:00-16:00
+website: https://mr-wimps-coins-jewelry.edan.io/

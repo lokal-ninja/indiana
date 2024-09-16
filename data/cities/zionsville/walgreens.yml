@@ -1,11 +1,11 @@
 id: 766083105
-type: way
+type: node
 latitude: 39.94967
 longitude: -86.27964
 postcode: "46077"
 city: Zionsville
-street: "South Ford Road"
-housenumber: 200
+street: South Ford Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-200+s+ford+rd-zionsville-in-46077/id=15181"
+website: https://www.walgreens.com/locator/walgreens-200+s+ford+rd-zionsville-in-46077/id=15181

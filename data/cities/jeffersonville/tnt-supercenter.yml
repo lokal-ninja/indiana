@@ -1,11 +1,11 @@
 id: 824935576
-type: way
+type: node
 latitude: 38.27338
 longitude: -85.74521
 postcode: "47130"
 city: Jeffersonville
-street: "West Court Avenue"
-housenumber: 350
+street: West Court Avenue
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

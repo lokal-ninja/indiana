@@ -1,11 +1,11 @@
 id: 741029751
-type: way
+type: node
 latitude: 40.39889
 longitude: -86.85657
 postcode: "47905"
 city: Lafayette
-street: "Sagamore Parkway"
-housenumber: 1701
+street: Sagamore Parkway
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://www.raisorvw.com/"
+website: https://www.raisorvw.com/

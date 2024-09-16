@@ -1,11 +1,11 @@
 id: 850287971
-type: way
+type: node
 latitude: 39.0391
 longitude: -87.13383
 postcode: "47441"
 city: Linton
-street: "State Road 54 E"
-housenumber: 2190
-phone: "+1-812-847-2176"
+street: State Road 54 E
+housenumber: "2190"
+phone: +1-812-847-2176
 opening_hours: ""
 website: ""

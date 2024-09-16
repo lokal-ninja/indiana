@@ -1,11 +1,11 @@
 id: 666808542
-type: way
+type: node
 latitude: 40.44069
 longitude: -84.99086
 postcode: "47371"
 city: Portland
-street: "West Votaw Street"
-housenumber: 950
-phone: "+1 260-726-3682"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/2388/portland-in/whats-new"
+street: West Votaw Street
+housenumber: "950"
+phone: +1 260-726-3682
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/2388/portland-in/whats-new

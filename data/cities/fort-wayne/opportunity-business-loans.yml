@@ -1,11 +1,11 @@
 id: 473176245
-type: way
+type: node
 latitude: 41.07398
 longitude: -85.20185
 postcode: "46804"
 city: Fort Wayne
-street: "Illinois Road"
-housenumber: 4601
-phone: "+1-260-217-0557"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://oppbusinessloans.com/location/fort-wayne/"
+street: Illinois Road
+housenumber: "4601"
+phone: +1-260-217-0557
+opening_hours: Mo-Su 07:00-20:00
+website: https://oppbusinessloans.com/location/fort-wayne/

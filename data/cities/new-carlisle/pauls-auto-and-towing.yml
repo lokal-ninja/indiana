@@ -1,11 +1,11 @@
 id: 1303363722
-type: way
+type: node
 latitude: 41.70761
 longitude: -86.50717
 postcode: "46552"
 city: New Carlisle
-street: "East Front Street"
-housenumber: 201
+street: East Front Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

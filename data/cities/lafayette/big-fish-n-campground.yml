@@ -1,11 +1,11 @@
 id: 850357946
-type: way
+type: node
 latitude: 40.33244
 longitude: -86.73242
 postcode: "47905"
 city: Lafayette
-street: "South 900 East"
-housenumber: 5831
+street: South 900 East
+housenumber: "5831"
 phone: ""
-opening_hours: "Tu-Th 08:00-20:00; Fr,Sa 08:00-21:00; Su 08:00-17:00"
+opening_hours: Tu-Th 08:00-20:00; Fr,Sa 08:00-21:00; Su 08:00-17:00
 website: ""

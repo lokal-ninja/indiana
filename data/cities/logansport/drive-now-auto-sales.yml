@@ -1,11 +1,11 @@
 id: 625105592
-type: way
+type: node
 latitude: 40.75231
 longitude: -86.3663
 postcode: "46947"
 city: Logansport
-street: "South 3rd Street"
-housenumber: 410
+street: South 3rd Street
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

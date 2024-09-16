@@ -1,11 +1,11 @@
 id: 662261954
-type: way
+type: node
 latitude: 40.28696
 longitude: -86.0319
 postcode: "46072"
 city: Tipton
-street: "East North Street"
-housenumber: 726
+street: East North Street
+housenumber: "726"
 phone: ""
 opening_hours: ""
 website: ""

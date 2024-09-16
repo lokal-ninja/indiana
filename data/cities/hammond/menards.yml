@@ -1,11 +1,11 @@
 id: 1221816095
-type: way
+type: node
 latitude: 41.59735
 longitude: -87.49997
 postcode: "46320"
 city: Hammond
-street: "165th Street"
-housenumber: 1233
+street: 165th Street
+housenumber: "1233"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3271"
+website: https://www.menards.com/store-details/store.html?store=3271

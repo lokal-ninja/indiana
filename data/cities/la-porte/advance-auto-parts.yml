@@ -1,11 +1,11 @@
 id: 973550956
-type: way
+type: node
 latitude: 41.60032
 longitude: -86.73713
 postcode: "46350"
 city: La Porte
-street: "State Road 2"
-housenumber: 1414
+street: State Road 2
+housenumber: "1414"
 phone: "+12193247078"
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/in/laporte/1414-w-state-road-2"
+website: https://stores.advanceautoparts.com/in/laporte/1414-w-state-road-2

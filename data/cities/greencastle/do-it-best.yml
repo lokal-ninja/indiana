@@ -1,11 +1,11 @@
 id: 1010881815
-type: way
+type: node
 latitude: 39.64582
 longitude: -86.84492
 postcode: "46135"
 city: Greencastle
-street: "Indianapolis Rd"
-housenumber: 841
-phone: "+1 765 653 3010"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-16:00"
-website: "https://headleyhardware.doitbest.com/"
+street: Indianapolis Rd
+housenumber: "841"
+phone: +1 765 653 3010
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-16:00
+website: https://headleyhardware.doitbest.com/

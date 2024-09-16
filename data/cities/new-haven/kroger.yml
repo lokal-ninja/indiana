@@ -4,8 +4,8 @@ latitude: 41.06882
 longitude: -85.04124
 postcode: "46774"
 city: New Haven
-street: "West Lincoln Hwy;Lincoln Highway West"
-housenumber: 821
-phone: "+1 260-749-4828"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/new-haven/new-haven/021/00857"
+street: West Lincoln Hwy;Lincoln Highway West
+housenumber: "821"
+phone: +1 260-749-4828
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/new-haven/new-haven/021/00857

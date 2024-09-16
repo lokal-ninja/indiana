@@ -1,11 +1,11 @@
 id: 210015170
-type: way
+type: node
 latitude: 39.76568
 longitude: -86.20012
 postcode: "46222"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 2247
+street: West Washington Street
+housenumber: "2247"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-indianapolis-in-10330862/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-indianapolis-in-10330862/

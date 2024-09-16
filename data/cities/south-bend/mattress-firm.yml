@@ -1,11 +1,11 @@
 id: 827993772
-type: way
+type: node
 latitude: 41.62995
 longitude: -86.23054
 postcode: "46614"
 city: South Bend
-street: "East Ireland Road"
-housenumber: 1245
-phone: "+1 574-231-9903"
+street: East Ireland Road
+housenumber: "1245"
+phone: +1 574-231-9903
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/in/south-bend/102001/"
+website: https://www.mattressfirm.com/en-us/stores/in/south-bend/102001/

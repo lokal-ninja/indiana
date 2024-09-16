@@ -1,11 +1,11 @@
 id: 267574223
-type: way
+type: node
 latitude: 39.74943
 longitude: -86.02673
 postcode: "46239"
 city: Indianapolis
-street: "Brookville Road"
-housenumber: 7935
+street: Brookville Road
+housenumber: "7935"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indianapolis-in-pharmacies/7935-brookville-rd-indianapolis-in-46239/storeid=5423"
+website: https://www.cvs.com/store-locator/indianapolis-in-pharmacies/7935-brookville-rd-indianapolis-in-46239/storeid=5423

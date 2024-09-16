@@ -1,11 +1,11 @@
 id: 195619232
-type: way
+type: node
 latitude: 39.96163
 longitude: -86.1207
 postcode: "46032"
 city: Carmel
-street: "East Carmel Drive"
-housenumber: 313
+street: East Carmel Drive
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

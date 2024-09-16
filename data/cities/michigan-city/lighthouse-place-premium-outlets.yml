@@ -1,11 +1,11 @@
 id: 260881425
-type: way
+type: node
 latitude: 41.71433
 longitude: -86.90834
 postcode: "46360"
 city: Michigan City
-street: "Wabash Street"
-housenumber: 601
-phone: "+1 219 874 2915"
+street: Wabash Street
+housenumber: "601"
+phone: +1 219 874 2915
 opening_hours: ""
-website: "https://www.premiumoutlets.com/outlet/lighthouse-place"
+website: https://www.premiumoutlets.com/outlet/lighthouse-place

@@ -1,11 +1,11 @@
 id: 731971397
-type: way
+type: node
 latitude: 39.43422
 longitude: -87.3317
 postcode: "47803"
 city: Terre Haute
-street: "East Margaret Drive"
-housenumber: 5590
+street: East Margaret Drive
+housenumber: "5590"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://www.deansfireworks.com/locations-info"
+opening_hours: Mo-Su 11:00-19:00
+website: https://www.deansfireworks.com/locations-info

@@ -1,11 +1,11 @@
 id: 934130227
-type: way
+type: node
 latitude: 39.73936
 longitude: -86.14021
 postcode: "46203"
 city: Indianapolis
-street: "Shelby Street"
-housenumber: 2102
+street: Shelby Street
+housenumber: "2102"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-indianapolis-in-10221041/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-indianapolis-in-10221041/

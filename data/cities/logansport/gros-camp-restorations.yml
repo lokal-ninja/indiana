@@ -1,11 +1,11 @@
 id: 752714027
-type: way
+type: node
 latitude: 40.75148
 longitude: -86.3689
 postcode: "46947"
 city: Logansport
-street: "East Melbourne Avenue"
-housenumber: 118
-phone: "+1-574-992-8164"
+street: East Melbourne Avenue
+housenumber: "118"
+phone: +1-574-992-8164
 opening_hours: ""
 website: ""

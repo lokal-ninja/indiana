@@ -1,11 +1,11 @@
 id: 234913659
-type: way
+type: node
 latitude: 39.76948
 longitude: -86.14222
 postcode: "46202"
 city: Indianapolis
-street: "East Ohio Street"
-housenumber: 903
+street: East Ohio Street
+housenumber: "903"
 phone: ""
 opening_hours: ""
 website: ""

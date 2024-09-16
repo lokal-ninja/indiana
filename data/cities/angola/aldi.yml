@@ -1,11 +1,11 @@
 id: 548666918
-type: way
+type: node
 latitude: 41.65687
 longitude: -84.99868
 postcode: "46703"
 city: Angola
-street: "North Wayne Street"
-housenumber: 1806
-phone: "+1 833-462-1035"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/angola/1806-north-wayne-street"
+street: North Wayne Street
+housenumber: "1806"
+phone: +1 833-462-1035
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/angola/1806-north-wayne-street

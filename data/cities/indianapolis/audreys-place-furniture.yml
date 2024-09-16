@@ -1,11 +1,11 @@
 id: 810256792
-type: way
+type: node
 latitude: 39.7818
 longitude: -86.11067
 postcode: "46201"
 city: Indianapolis
-street: "East 10th Street"
-housenumber: 3210
+street: East 10th Street
+housenumber: "3210"
 phone: ""
 opening_hours: ""
 website: ""

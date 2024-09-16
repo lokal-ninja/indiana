@@ -1,11 +1,11 @@
 id: 1149197792
-type: way
+type: node
 latitude: 41.60176
 longitude: -87.39181
 postcode: "46406"
 city: Gary
-street: "West 5th Avenue"
-housenumber: 4413
-phone: "+1 219-977-1966"
+street: West 5th Avenue
+housenumber: "4413"
+phone: +1 219-977-1966
 opening_hours: ""
 website: ""

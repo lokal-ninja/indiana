@@ -1,11 +1,11 @@
 id: 211925136
-type: way
+type: node
 latitude: 39.99948
 longitude: -85.7365
 postcode: "46064"
 city: Pendleton
-street: "East State Street"
-housenumber: 620
+street: East State Street
+housenumber: "620"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/pendleton-in-pharmacies/620-e-state-st-pendleton-in-46064/storeid=6658"
+website: https://www.cvs.com/store-locator/pendleton-in-pharmacies/620-e-state-st-pendleton-in-46064/storeid=6658

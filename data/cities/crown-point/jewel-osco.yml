@@ -1,11 +1,11 @@
 id: 209652708
-type: way
+type: node
 latitude: 41.43149
 longitude: -87.36275
 postcode: "46307"
 city: Crown Point
-street: "North Main Street"
-housenumber: 1276
-phone: "+1 219-662-0080"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.jewelosco.com/in/crown-point/1276-n-main-st.html"
+street: North Main Street
+housenumber: "1276"
+phone: +1 219-662-0080
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.jewelosco.com/in/crown-point/1276-n-main-st.html

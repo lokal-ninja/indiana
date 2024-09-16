@@ -1,11 +1,11 @@
 id: 956126266
-type: way
+type: node
 latitude: 39.75154
 longitude: -86.25037
 postcode: "46241"
 city: Indianapolis
-street: "South Lynhurst Drive"
-housenumber: 1112
+street: South Lynhurst Drive
+housenumber: "1112"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1025054662
-type: way
+type: node
 latitude: 41.37771
 longitude: -87.45391
 postcode: "46303"
 city: Cedar Lake
-street: "West 133rd Avenue"
-housenumber: 9720
+street: West 133rd Avenue
+housenumber: "9720"
 phone: ""
 opening_hours: ""
 website: ""

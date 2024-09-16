@@ -1,11 +1,11 @@
 id: 935932744
-type: way
+type: node
 latitude: 41.07767
 longitude: -85.17039
 postcode: "46808"
 city: Fort Wayne
-street: "West Main Street"
-housenumber: 2307
-phone: "+1 260 426 1212"
+street: West Main Street
+housenumber: "2307"
+phone: +1 260 426 1212
 opening_hours: ""
-website: "http://mccombpetcremation.com/"
+website: http://mccombpetcremation.com/

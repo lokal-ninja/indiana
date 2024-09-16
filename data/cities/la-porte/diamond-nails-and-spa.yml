@@ -1,11 +1,11 @@
 id: 1201139261
-type: way
+type: node
 latitude: 41.64022
 longitude: -86.74746
 postcode: "46350"
 city: La Porte
-street: "North US Highway 35"
-housenumber: 2332
-phone: "+1 219-344-5199"
-opening_hours: "Mo off; Tu-Fr 09:30-18:00; Sa 09:30-17:00; Su 11:00-16:00"
+street: North US Highway 35
+housenumber: "2332"
+phone: +1 219-344-5199
+opening_hours: Mo off; Tu-Fr 09:30-18:00; Sa 09:30-17:00; Su 11:00-16:00
 website: ""

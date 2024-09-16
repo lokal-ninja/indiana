@@ -1,11 +1,11 @@
 id: 879506504
-type: way
+type: node
 latitude: 41.19905
 longitude: -85.13364
 postcode: "46845"
 city: Fort Wayne
-street: "Coldwater Road"
-housenumber: 12635
-phone: "+1 (260) 637-6533"
-opening_hours: "Mo-Th 05:00-22:00, Fr 05:00-23:00, Sa 06:00-23:00, Su 7:00-22:00"
-website: "https://macfoodmart.com/royville/"
+street: Coldwater Road
+housenumber: "12635"
+phone: +1 (260) 637-6533
+opening_hours: Mo-Th 05:00-22:00, Fr 05:00-23:00, Sa 06:00-23:00, Su 7:00-22:00
+website: https://macfoodmart.com/royville/

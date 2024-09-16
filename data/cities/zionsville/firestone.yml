@@ -1,11 +1,11 @@
 id: 502722093
-type: way
+type: node
 latitude: 39.94736
 longitude: -86.23911
 postcode: "46077"
 city: Zionsville
-street: "North Michigan Road"
-housenumber: 11035
+street: North Michigan Road
+housenumber: "11035"
 phone: ""
 opening_hours: ""
 website: ""

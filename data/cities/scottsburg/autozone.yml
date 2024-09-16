@@ -1,11 +1,11 @@
 id: 934478175
-type: way
+type: node
 latitude: 38.68396
 longitude: -85.7788
 postcode: "47170"
 city: Scottsburg
-street: "South Gardner Street"
-housenumber: 250
+street: South Gardner Street
+housenumber: "250"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/scottsburg/250-s-gardner-st.html"
+website: https://www.autozone.com/locations/in/scottsburg/250-s-gardner-st.html

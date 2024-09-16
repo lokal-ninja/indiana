@@ -1,11 +1,11 @@
 id: 350933545
-type: way
+type: node
 latitude: 37.98309
 longitude: -87.4707
 postcode: "47715"
 city: Evansville
-street: "East Virginia Street"
-housenumber: 6770
-phone: "+1 812-473-2518"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/evansville-in-sams-club/8123"
+street: East Virginia Street
+housenumber: "6770"
+phone: +1 812-473-2518
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/evansville-in-sams-club/8123

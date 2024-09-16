@@ -1,11 +1,11 @@
 id: 600389823
-type: way
+type: node
 latitude: 39.63377
 longitude: -86.20439
-postcode: "46142-7748"
+postcode: 46142-7748
 city: Indianapolis
-street: "North Bluff Road"
-housenumber: 1229
-phone: "+1 317-888-1241"
+street: North Bluff Road
+housenumber: "1229"
+phone: +1 317-888-1241
 opening_hours: ""
 website: ""

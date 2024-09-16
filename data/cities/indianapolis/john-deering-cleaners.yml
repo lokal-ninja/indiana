@@ -1,11 +1,11 @@
 id: 1030214764
-type: way
+type: node
 latitude: 39.78288
 longitude: -86.0649
 postcode: "46219"
 city: Indianapolis
-street: "North Arlington Avenue"
-housenumber: 1160
+street: North Arlington Avenue
+housenumber: "1160"
 phone: ""
 opening_hours: ""
 website: ""

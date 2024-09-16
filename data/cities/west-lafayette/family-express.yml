@@ -1,11 +1,11 @@
 id: 374563309
-type: way
+type: node
 latitude: 40.44548
 longitude: -86.9205
 postcode: "47906"
 city: West Lafayette
-street: "Northwestern Avenue"
-housenumber: 1812
+street: Northwestern Avenue
+housenumber: "1812"
 phone: ""
-opening_hours: "05:00-23:00"
+opening_hours: 05:00-23:00
 website: ""

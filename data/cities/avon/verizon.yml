@@ -1,11 +1,11 @@
 id: 819514556
-type: way
+type: node
 latitude: 39.76335
 longitude: -86.33343
 postcode: "46123"
 city: Avon
-street: "Rockville Road"
-housenumber: 10651
+street: Rockville Road
+housenumber: "10651"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1186132200
-type: way
+type: node
 latitude: 38.86264
 longitude: -86.51
 postcode: "47421"
 city: Bedford
-street: "16th Street"
-housenumber: 2647
-phone: "+1-812-277-9841"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.marshalls.com"
+street: 16th Street
+housenumber: "2647"
+phone: +1-812-277-9841
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.marshalls.com

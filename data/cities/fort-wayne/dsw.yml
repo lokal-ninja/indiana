@@ -1,11 +1,11 @@
 id: 951720277
-type: way
+type: node
 latitude: 41.11729
 longitude: -85.13383
 postcode: "46805"
 city: Fort Wayne
-street: "Coldwater Road"
-housenumber: 4310
-phone: "+1 260-440-7239"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://stores.dsw.com/usa/in/fortwayne/dsw-designer-shoe-warehouse-coldwater-road.html"
+street: Coldwater Road
+housenumber: "4310"
+phone: +1 260-440-7239
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://stores.dsw.com/usa/in/fortwayne/dsw-designer-shoe-warehouse-coldwater-road.html

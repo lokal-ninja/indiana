@@ -1,11 +1,11 @@
 id: 425958663
-type: way
+type: node
 latitude: 41.65392
 longitude: -86.16607
 postcode: "46544"
 city: Mishawaka
-street: "South Merrifield Avenue"
-housenumber: 906
-phone: "+1 574-256-1229"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/mishawaka/merrifield/021/00938"
+street: South Merrifield Avenue
+housenumber: "906"
+phone: +1 574-256-1229
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/mishawaka/merrifield/021/00938

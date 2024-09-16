@@ -1,11 +1,11 @@
 id: 821957155
-type: way
+type: node
 latitude: 41.5009
 longitude: -87.31705
 postcode: "46410"
 city: Merrillville
-street: "Mississippi Street"
-housenumber: 6300
+street: Mississippi Street
+housenumber: "6300"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3504"
+website: https://www.menards.com/store-details/store.html?store=3504

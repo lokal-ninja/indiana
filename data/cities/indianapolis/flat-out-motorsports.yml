@@ -1,11 +1,11 @@
 id: 189186333
-type: way
+type: node
 latitude: 39.91638
 longitude: -86.03684
 postcode: "46256"
 city: Indianapolis
-street: "East 88th Place"
-housenumber: 7525
-phone: "+1-317-890-9110"
+street: East 88th Place
+housenumber: "7525"
+phone: +1-317-890-9110
 opening_hours: ""
-website: "https://www.flatoutmotorcycles.com/"
+website: https://www.flatoutmotorcycles.com/

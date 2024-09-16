@@ -1,11 +1,11 @@
 id: 169778146
-type: way
+type: node
 latitude: 40.81601
 longitude: -85.84173
 postcode: "46992"
 city: Wabash
-street: "North Cass Street"
-housenumber: 1550
-phone: "+1 260-569-6700"
+street: North Cass Street
+housenumber: "1550"
+phone: +1 260-569-6700
 opening_hours: ""
-website: "https://www.homeandharvest.com"
+website: https://www.homeandharvest.com

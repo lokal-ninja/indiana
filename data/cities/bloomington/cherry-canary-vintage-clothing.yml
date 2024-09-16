@@ -1,11 +1,11 @@
 id: 1014570622
-type: way
+type: node
 latitude: 39.16583
 longitude: -86.53553
 postcode: "47404"
 city: Bloomington
-street: "West 4th Street"
-housenumber: 214
+street: West 4th Street
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

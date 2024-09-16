@@ -1,11 +1,11 @@
 id: 423955136
-type: way
+type: node
 latitude: 39.61506
 longitude: -86.1627
 postcode: "46142"
 city: Greenwood
-street: "Marlin Drive"
-housenumber: 150
-phone: "+1-317-885-3000"
+street: Marlin Drive
+housenumber: "150"
+phone: +1-317-885-3000
 opening_hours: ""
 website: ""

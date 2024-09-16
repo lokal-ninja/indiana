@@ -1,11 +1,11 @@
 id: 864366530
-type: way
+type: node
 latitude: 40.21738
 longitude: -85.43866
 postcode: "47304"
 city: Muncie
-street: "West Clara Lane"
-housenumber: 4401
-phone: "+1 765-287-1606"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-muncie/0116"
+street: West Clara Lane
+housenumber: "4401"
+phone: +1 765-287-1606
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-muncie/0116

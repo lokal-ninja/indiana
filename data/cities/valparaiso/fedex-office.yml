@@ -4,8 +4,8 @@ latitude: 41.46903
 longitude: -87.02987
 postcode: "46383"
 city: Valparaiso
-street: "LaPorte Avenue"
-housenumber: 2505
-phone: "+1 219 462 6270"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-18:00"
-website: "https://local.fedex.com/en-us/in/valparaiso/office-1443/"
+street: LaPorte Avenue
+housenumber: "2505"
+phone: +1 219 462 6270
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-18:00
+website: https://local.fedex.com/en-us/in/valparaiso/office-1443/

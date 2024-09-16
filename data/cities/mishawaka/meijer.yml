@@ -1,11 +1,11 @@
 id: 234342803
-type: way
+type: node
 latitude: 41.62859
 longitude: -86.17294
 postcode: "46544"
 city: Mishawaka
-street: "Bremen Highway"
-housenumber: 3610
-phone: "+1-574-254-2500"
+street: Bremen Highway
+housenumber: "3610"
+phone: +1-574-254-2500
 opening_hours: ""
 website: ""

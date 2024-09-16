@@ -1,11 +1,11 @@
 id: 1087992320
-type: way
+type: node
 latitude: 41.61477
 longitude: -86.71398
 postcode: "46350"
 city: La Porte
-street: "East Lincolnway"
-housenumber: 108
-phone: "+1-219-326-0009"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
-website: "https://apexautorepair.com/"
+street: East Lincolnway
+housenumber: "108"
+phone: +1-219-326-0009
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00
+website: https://apexautorepair.com/

@@ -1,11 +1,11 @@
 id: 1024030805
-type: way
+type: node
 latitude: 39.82401
 longitude: -86.121
 postcode: "46218"
 city: Indianapolis
-street: "North Keystone Avenue"
-housenumber: 3725
+street: North Keystone Avenue
+housenumber: "3725"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/indianapolis/13058"
+website: https://www.dollargeneral.com/store-directory/in/indianapolis/13058

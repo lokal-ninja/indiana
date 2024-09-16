@@ -1,11 +1,11 @@
 id: 1028807108
-type: way
+type: node
 latitude: 39.78841
 longitude: -86.08448
 postcode: "46201"
 city: Indianapolis
-street: "East 16th Street"
-housenumber: 5041
+street: East 16th Street
+housenumber: "5041"
 phone: ""
 opening_hours: ""
 website: ""

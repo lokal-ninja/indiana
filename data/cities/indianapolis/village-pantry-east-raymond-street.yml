@@ -1,11 +1,11 @@
 id: 958035883
-type: way
+type: node
 latitude: 39.73818
 longitude: -86.12155
 postcode: "46203"
 city: Indianapolis
-street: "East Raymond Street"
-housenumber: 2350
+street: East Raymond Street
+housenumber: "2350"
 phone: ""
 opening_hours: ""
 website: ""

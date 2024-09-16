@@ -1,11 +1,11 @@
 id: 1288203900
-type: way
+type: node
 latitude: 38.30757
 longitude: -86.95615
 postcode: "47542"
 city: Huntingburg
-street: "East 13th Street"
-housenumber: 312
+street: East 13th Street
+housenumber: "312"
 phone: "+18126393955"
 opening_hours: ""
-website: "https://www.backalleybarberclub.com/"
+website: https://www.backalleybarberclub.com/

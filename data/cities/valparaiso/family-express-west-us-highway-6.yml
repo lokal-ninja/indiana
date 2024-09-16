@@ -1,11 +1,11 @@
 id: 430470743
-type: way
+type: node
 latitude: 41.54961
 longitude: -87.12385
 postcode: "46385"
 city: Valparaiso
-street: "West US Highway 6"
-housenumber: 298
+street: West US Highway 6
+housenumber: "298"
 phone: ""
 opening_hours: ""
 website: ""

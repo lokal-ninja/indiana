@@ -1,11 +1,11 @@
 id: 1158795770
-type: way
+type: node
 latitude: 41.08395
 longitude: -85.14524
 postcode: "46808"
 city: Fort Wayne
-street: "North Wells Street"
-housenumber: 1012
+street: North Wells Street
+housenumber: "1012"
 phone: ""
 opening_hours: ""
 website: ""

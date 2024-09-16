@@ -1,11 +1,11 @@
 id: 232574089
-type: way
+type: node
 latitude: 39.88291
 longitude: -86.06624
 postcode: "46220"
 city: Indianapolis
-street: "East 71st Street"
-housenumber: 5925
+street: East 71st Street
+housenumber: "5925"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indianapolis-in-pharmacies/5925-e-71st-st-indianapolis-in-46220/storeid=6611"
+website: https://www.cvs.com/store-locator/indianapolis-in-pharmacies/5925-e-71st-st-indianapolis-in-46220/storeid=6611

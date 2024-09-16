@@ -1,11 +1,11 @@
 id: 553752405
-type: way
+type: node
 latitude: 40.79542
 longitude: -85.82112
 postcode: "46992"
 city: Wabash
-street: "West Water Street"
-housenumber: 50
+street: West Water Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

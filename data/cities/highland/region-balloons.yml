@@ -4,8 +4,8 @@ latitude: 41.53678
 longitude: -87.47669
 postcode: "46322"
 city: Highland
-street: "45th Street"
-housenumber: 2154
-phone: "+1-219-301-7935"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "rballoons.com"
+street: 45th Street
+housenumber: "2154"
+phone: +1-219-301-7935
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: rballoons.com

@@ -1,11 +1,11 @@
 id: 297977800
-type: way
+type: node
 latitude: 39.66784
 longitude: -86.08548
 postcode: "46237"
 city: Indianapolis
-street: "East Southport Road"
-housenumber: 4850
-phone: "+1 317-782-3616"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/in/indianapolis-558.shtml"
+street: East Southport Road
+housenumber: "4850"
+phone: +1 317-782-3616
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/in/indianapolis-558.shtml

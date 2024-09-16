@@ -1,11 +1,11 @@
 id: 855953225
-type: way
+type: node
 latitude: 40.36881
 longitude: -86.86199
 postcode: "47909"
 city: Lafayette
-street: "Builder Drive"
-housenumber: 3102
-phone: "+1-765-448-7000"
+street: Builder Drive
+housenumber: "3102"
+phone: +1-765-448-7000
 opening_hours: ""
-website: "https://raisorautomart.com"
+website: https://raisorautomart.com

@@ -1,11 +1,11 @@
 id: 237677192
-type: way
+type: node
 latitude: 39.73415
 longitude: -86.16867
 postcode: "46225"
 city: Indianapolis
-street: "South West Street"
-housenumber: 2342
+street: South West Street
+housenumber: "2342"
 phone: ""
 opening_hours: ""
 website: ""

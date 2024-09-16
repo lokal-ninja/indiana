@@ -1,11 +1,11 @@
 id: 1082785665
-type: way
+type: node
 latitude: 39.65392
 longitude: -86.15797
 postcode: "46217"
 city: Indianapolis
-street: "South Meridian Street"
-housenumber: 7735
-phone: "(317) 840-1562"
+street: South Meridian Street
+housenumber: "7735"
+phone: (317) 840-1562
 opening_hours: ""
-website: "https://www.sweetescapecakecompany.com/"
+website: https://www.sweetescapecakecompany.com/

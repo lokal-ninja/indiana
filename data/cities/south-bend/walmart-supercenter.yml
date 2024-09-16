@@ -1,11 +1,11 @@
 id: 79438124
-type: way
+type: node
 latitude: 41.62711
 longitude: -86.25867
 postcode: "46614"
 city: South Bend
-street: "West Ireland Road"
-housenumber: 700
-phone: "+1 574-299-1284"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3436/south-bend-in/whats-new"
+street: West Ireland Road
+housenumber: "700"
+phone: +1 574-299-1284
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3436/south-bend-in/whats-new

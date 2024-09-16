@@ -1,11 +1,11 @@
 id: 613491422
-type: way
+type: node
 latitude: 41.27235
 longitude: -85.85609
 postcode: "46582"
 city: Warsaw
-street: "Walton Boulevard"
-housenumber: 2501
-phone: "+1 574-269-7811"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1304-warsaw-in"
+street: Walton Boulevard
+housenumber: "2501"
+phone: +1 574-269-7811
+opening_hours: 24/7
+website: https://www.walmart.com/store/1304-warsaw-in

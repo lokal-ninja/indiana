@@ -1,11 +1,11 @@
 id: 1014654718
-type: way
+type: node
 latitude: 40.75808
 longitude: -86.06023
 postcode: "46970"
 city: Peru
-street: "East Main Street"
-housenumber: 300
+street: East Main Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

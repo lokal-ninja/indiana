@@ -1,11 +1,11 @@
 id: 903599831
-type: way
+type: node
 latitude: 38.66303
 longitude: -86.45128
 postcode: "47452"
 city: Orleans
-street: "East Jefferson Street"
-housenumber: 206
-phone: "+1-812-865-2510"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:00-14:00"
-website: "https://www.kirbyhardware.com"
+street: East Jefferson Street
+housenumber: "206"
+phone: +1-812-865-2510
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:00-14:00
+website: https://www.kirbyhardware.com

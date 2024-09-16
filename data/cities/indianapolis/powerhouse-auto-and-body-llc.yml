@@ -1,11 +1,11 @@
 id: 961701272
-type: way
+type: node
 latitude: 39.79574
 longitude: -86.1125
 postcode: "46218"
 city: Indianapolis
-street: "Massachusetts Avenue"
-housenumber: 3101
+street: Massachusetts Avenue
+housenumber: "3101"
 phone: ""
 opening_hours: ""
 website: ""

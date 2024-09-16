@@ -1,11 +1,11 @@
 id: 908908671
-type: way
+type: node
 latitude: 39.74527
 longitude: -86.1311
 postcode: "46203"
 city: Indianapolis
-street: "South State Avenue"
-housenumber: 1634
+street: South State Avenue
+housenumber: "1634"
 phone: ""
 opening_hours: ""
 website: ""

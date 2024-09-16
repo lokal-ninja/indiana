@@ -1,11 +1,11 @@
 id: 42430028
-type: way
+type: node
 latitude: 41.71568
 longitude: -86.18212
 postcode: "46545"
 city: Mishawaka
-street: "Indian Ridge Boulevard"
-housenumber: 316
-phone: "+1 574-243-9188"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2678/mishawaka-in/whats-new"
+street: Indian Ridge Boulevard
+housenumber: "316"
+phone: +1 574-243-9188
+opening_hours: 24/7
+website: https://www.walmart.com/store/2678/mishawaka-in/whats-new

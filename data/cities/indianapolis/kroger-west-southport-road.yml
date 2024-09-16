@@ -1,11 +1,11 @@
 id: 845848729
-type: way
+type: node
 latitude: 39.66545
 longitude: -86.18259
 postcode: "46217"
 city: Indianapolis
-street: "West Southport Road"
-housenumber: 1330
-phone: "+1 317-884-4256"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/bluff-southport/021/00993"
+street: West Southport Road
+housenumber: "1330"
+phone: +1 317-884-4256
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/bluff-southport/021/00993

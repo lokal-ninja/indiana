@@ -1,11 +1,11 @@
 id: 587788489
-type: way
+type: node
 latitude: 38.56477
 longitude: -86.46748
 postcode: "47454"
 city: Paoli
-street: "North Gospel Street"
-housenumber: 735
-phone: "+1 812-723-4444"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/2563/paoli-in/whats-new"
+street: North Gospel Street
+housenumber: "735"
+phone: +1 812-723-4444
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/2563/paoli-in/whats-new

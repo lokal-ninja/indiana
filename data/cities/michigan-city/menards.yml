@@ -1,11 +1,11 @@
 id: 493476525
-type: way
+type: node
 latitude: 41.67144
 longitude: -86.89057
 postcode: "46360"
 city: Michigan City
-street: "South Franklin Street"
-housenumber: 5260
+street: South Franklin Street
+housenumber: "5260"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3186"
+website: https://www.menards.com/store-details/store.html?store=3186

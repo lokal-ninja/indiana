@@ -1,11 +1,11 @@
 id: 667276895
-type: way
+type: node
 latitude: 38.65788
 longitude: -87.5042
 postcode: "47591"
 city: Vincennes
-street: "North Bierhaus Boulevard"
-housenumber: 616
-phone: "+1 812-885-0250"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.kohls.com/stores/in/vincennes-1153.shtml"
+street: North Bierhaus Boulevard
+housenumber: "616"
+phone: +1 812-885-0250
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.kohls.com/stores/in/vincennes-1153.shtml

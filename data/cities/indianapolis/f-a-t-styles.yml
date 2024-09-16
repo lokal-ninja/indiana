@@ -1,11 +1,11 @@
 id: 939420165
-type: way
+type: node
 latitude: 39.80837
 longitude: -86.18017
 postcode: "46208"
 city: Indianapolis
-street: "Clifton Street"
-housenumber: 2901
+street: Clifton Street
+housenumber: "2901"
 phone: ""
 opening_hours: ""
 website: ""

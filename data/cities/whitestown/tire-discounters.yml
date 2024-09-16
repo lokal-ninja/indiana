@@ -1,11 +1,11 @@
 id: 845100033
-type: way
+type: node
 latitude: 39.94877
 longitude: -86.34683
 postcode: "46075"
 city: Whitestown
-street: "Center Drive"
-housenumber: 6460
+street: Center Drive
+housenumber: "6460"
 phone: ""
 opening_hours: ""
 website: ""

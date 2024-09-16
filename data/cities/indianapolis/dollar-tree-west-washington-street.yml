@@ -1,11 +1,11 @@
 id: 956130083
-type: way
+type: node
 latitude: 39.75092
 longitude: -86.2582
 postcode: "46241"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 5720
+street: West Washington Street
+housenumber: "5720"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/in/indianapolis/5699/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/in/indianapolis/5699/

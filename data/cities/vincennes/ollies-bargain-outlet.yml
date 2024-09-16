@@ -1,11 +1,11 @@
 id: 667277720
-type: way
+type: node
 latitude: 38.6604
 longitude: -87.50437
 postcode: "47591"
 city: Vincennes
-street: "Kimmell Road"
-housenumber: 619
+street: Kimmell Road
+housenumber: "619"
 phone: ""
 opening_hours: ""
 website: ""

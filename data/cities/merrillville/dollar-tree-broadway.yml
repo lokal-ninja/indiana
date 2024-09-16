@@ -1,11 +1,11 @@
 id: 1240818718
-type: way
+type: node
 latitude: 41.51188
 longitude: -87.33697
 postcode: "46410"
 city: Merrillville
-street: "Broadway"
-housenumber: 5840
+street: Broadway
+housenumber: "5840"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/in/merrillville/6159/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/in/merrillville/6159/

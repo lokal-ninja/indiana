@@ -1,11 +1,11 @@
 id: 1040399358
-type: way
+type: node
 latitude: 41.06921
 longitude: -85.02975
 postcode: "46774"
 city: New Haven
-street: "State Road 930 East"
-housenumber: 115
+street: State Road 930 East
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/new-haven-in-pharmacies/115-state-road-930-e-new-haven-in-46774/storeid=6496"
+website: https://www.cvs.com/store-locator/new-haven-in-pharmacies/115-state-road-930-e-new-haven-in-46774/storeid=6496

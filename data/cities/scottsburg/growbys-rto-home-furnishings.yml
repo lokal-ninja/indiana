@@ -1,11 +1,11 @@
 id: 823983341
-type: way
+type: node
 latitude: 38.68827
 longitude: -85.77903
 postcode: "47170"
 city: Scottsburg
-street: "North Gardner Street"
-housenumber: 140
+street: North Gardner Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

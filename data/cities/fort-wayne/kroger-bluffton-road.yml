@@ -1,11 +1,11 @@
 id: 526524370
-type: way
+type: node
 latitude: 41.01794
 longitude: -85.17041
 postcode: "46809"
 city: Fort Wayne
-street: "Bluffton Road"
-housenumber: 7008
-phone: "+1 260-747-4136"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/in/fort-wayne/waynedale/021/00410"
+street: Bluffton Road
+housenumber: "7008"
+phone: +1 260-747-4136
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/in/fort-wayne/waynedale/021/00410

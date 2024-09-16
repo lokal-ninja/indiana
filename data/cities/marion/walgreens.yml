@@ -1,11 +1,11 @@
 id: 1040654090
-type: way
+type: node
 latitude: 40.57633
 longitude: -85.67363
 postcode: "46952"
 city: Marion
-street: "North Baldwin Avenue"
-housenumber: 1323
+street: North Baldwin Avenue
+housenumber: "1323"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1323+n+baldwin+ave-marion-in-46952/id=5663"
+website: https://www.walgreens.com/locator/walgreens-1323+n+baldwin+ave-marion-in-46952/id=5663

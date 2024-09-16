@@ -1,11 +1,11 @@
 id: 89781928
-type: way
+type: node
 latitude: 41.13135
 longitude: -85.01547
 postcode: "46835"
 city: Fort Wayne
-street: "Meijer Drive"
-housenumber: 5511
+street: Meijer Drive
+housenumber: "5511"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.menards.com/store-details/store.html?store=3142"
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.menards.com/store-details/store.html?store=3142

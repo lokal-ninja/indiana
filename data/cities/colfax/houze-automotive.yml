@@ -1,11 +1,11 @@
 id: 548488036
-type: way
+type: node
 latitude: 40.194
 longitude: -86.66571
 postcode: "46035"
 city: Colfax
-street: "South Columbia Street"
-housenumber: 211
+street: South Columbia Street
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

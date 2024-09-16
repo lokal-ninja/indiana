@@ -1,11 +1,11 @@
 id: 957264626
-type: way
+type: node
 latitude: 39.76852
 longitude: -86.11025
 postcode: "46201"
 city: Indianapolis
-street: "East Washington Street"
-housenumber: 3205
+street: East Washington Street
+housenumber: "3205"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/in/indianapolis/8906/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/in/indianapolis/8906/

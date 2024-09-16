@@ -1,11 +1,11 @@
 id: 255887959
-type: way
+type: node
 latitude: 39.73694
 longitude: -86.19956
 postcode: "46241"
 city: Indianapolis
-street: "West Raymond Street"
-housenumber: 2402
+street: West Raymond Street
+housenumber: "2402"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 379063937
-type: way
+type: node
 latitude: 39.69969
 longitude: -86.31431
 postcode: "46241"
 city: Indianapolis
-street: "Car Wash"
-housenumber: 8703
-phone: "+1-317-442-4423"
+street: Car Wash
+housenumber: "8703"
+phone: +1-317-442-4423
 opening_hours: ""
-website: "https://mobiloil.com/en/store-location?id=65934"
+website: https://mobiloil.com/en/store-location?id=65934

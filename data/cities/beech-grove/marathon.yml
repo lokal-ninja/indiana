@@ -1,11 +1,11 @@
 id: 1033648884
-type: way
+type: node
 latitude: 39.70516
 longitude: -86.08192
 postcode: "46203"
 city: Beech Grove
-street: "South Emerson Avenue"
-housenumber: 4315
+street: South Emerson Avenue
+housenumber: "4315"
 phone: ""
 opening_hours: ""
 website: ""

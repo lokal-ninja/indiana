@@ -1,11 +1,11 @@
 id: 218774669
-type: way
+type: node
 latitude: 39.40053
 longitude: -87.40626
 postcode: "47802"
 city: Terre Haute
-street: "South US Highway 41"
-housenumber: 5555
-phone: "+1 812-299-4677"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1310/terre-haute-in/whats-new"
+street: South US Highway 41
+housenumber: "5555"
+phone: +1 812-299-4677
+opening_hours: 24/7
+website: https://www.walmart.com/store/1310/terre-haute-in/whats-new

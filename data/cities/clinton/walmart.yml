@@ -1,11 +1,11 @@
 id: 587913548
-type: way
+type: node
 latitude: 39.6562
 longitude: -87.43164
 postcode: "47842"
 city: Clinton
-street: "East State Road 163"
-housenumber: 1795
-phone: "+1 765-832-3533"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/1013/clinton-in/whats-new"
+street: East State Road 163
+housenumber: "1795"
+phone: +1 765-832-3533
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/1013/clinton-in/whats-new

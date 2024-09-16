@@ -4,8 +4,8 @@ latitude: 41.36348
 longitude: -86.31275
 postcode: "46563"
 city: Plymouth
-street: "North Michigan Street"
-housenumber: 2405
-phone: "+1 205 540 2411"
-opening_hours: "24/7"
+street: North Michigan Street
+housenumber: "2405"
+phone: +1 205 540 2411
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 810275350
-type: way
+type: node
 latitude: 39.7679
 longitude: -86.12129
 postcode: "46201"
 city: Indianapolis
-street: "South Keystone Avenue"
-housenumber: 9
+street: South Keystone Avenue
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

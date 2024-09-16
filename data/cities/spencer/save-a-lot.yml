@@ -1,11 +1,11 @@
 id: 351456666
-type: way
+type: node
 latitude: 39.28828
 longitude: -86.78467
 postcode: "47460"
 city: Spencer
-street: "Bob Babbs Drive"
-housenumber: 42
-phone: "+1-812-829-2222"
+street: Bob Babbs Drive
+housenumber: "42"
+phone: +1-812-829-2222
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/spencer-47460-24232/"
+website: https://savealot.com/grocery-stores/spencer-47460-24232/

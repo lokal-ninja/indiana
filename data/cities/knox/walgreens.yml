@@ -1,11 +1,11 @@
 id: 1043537618
-type: way
+type: node
 latitude: 41.28567
 longitude: -86.62149
 postcode: "46534"
 city: Knox
-street: "South Heaton Street"
-housenumber: 1207
+street: South Heaton Street
+housenumber: "1207"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1207+s+heaton+st-knox-in-46534/id=7418"
+website: https://www.walgreens.com/locator/walgreens-1207+s+heaton+st-knox-in-46534/id=7418

@@ -1,11 +1,11 @@
 id: 539152086
-type: way
+type: node
 latitude: 41.2915
 longitude: -87.41149
 postcode: "46356"
 city: Lowell
-street: "East Commercial Avenue"
-housenumber: 1115
-phone: "+1-219-695-3280"
+street: East Commercial Avenue
+housenumber: "1115"
+phone: +1-219-695-3280
 opening_hours: ""
-website: "https://locations.oreillyauto.com/in/lowell/autoparts-5028.html"
+website: https://locations.oreillyauto.com/in/lowell/autoparts-5028.html

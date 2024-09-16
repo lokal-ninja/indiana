@@ -1,11 +1,11 @@
 id: 425246758
-type: way
+type: node
 latitude: 40.75713
 longitude: -86.36491
 postcode: "46947"
 city: Logansport
-street: "High Street"
-housenumber: 514
-phone: "574-739-2812"
+street: High Street
+housenumber: "514"
+phone: 574-739-2812
 opening_hours: ""
 website: ""

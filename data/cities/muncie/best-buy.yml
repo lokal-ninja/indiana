@@ -1,11 +1,11 @@
 id: 1046260125
-type: way
+type: node
 latitude: 40.22008
 longitude: -85.43838
 postcode: "47304"
 city: Muncie
-street: "Marleon Drive"
-housenumber: 3301
-phone: "+1 765-254-9720"
+street: Marleon Drive
+housenumber: "3301"
+phone: +1 765-254-9720
 opening_hours: ""
-website: "https://stores.bestbuy.com/in/muncie/3301-n-marleon-dr-491.html"
+website: https://stores.bestbuy.com/in/muncie/3301-n-marleon-dr-491.html

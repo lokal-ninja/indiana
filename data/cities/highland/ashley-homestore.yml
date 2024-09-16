@@ -1,11 +1,11 @@
 id: 439444243
-type: way
+type: node
 latitude: 41.52954
 longitude: -87.47011
 postcode: "46322"
 city: Highland
-street: "Indianapolis Boulevard"
-housenumber: 10135
-phone: "+1 219-513-3040"
+street: Indianapolis Boulevard
+housenumber: "10135"
+phone: +1 219-513-3040
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/indiana/highland/9000339287/"
+website: https://stores.ashleyfurniture.com/store/us/indiana/highland/9000339287/

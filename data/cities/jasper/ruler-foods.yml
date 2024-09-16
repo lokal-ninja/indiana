@@ -1,11 +1,11 @@
 id: 974494219
-type: way
+type: node
 latitude: 38.41495
 longitude: -86.9366
 postcode: "47546"
 city: Jasper
-street: "East 30th Street"
-housenumber: 155
+street: East 30th Street
+housenumber: "155"
 phone: ""
 opening_hours: ""
-website: "https://rulerfoods.com/?cid=loc_09000261_gmb"
+website: https://rulerfoods.com/?cid=loc_09000261_gmb

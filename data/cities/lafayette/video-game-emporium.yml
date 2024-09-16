@@ -4,8 +4,8 @@ latitude: 40.38636
 longitude: -86.90124
 postcode: "47909"
 city: Lafayette
-street: "Beck Lane"
-housenumber: 109
-phone: "+1-765-250-7470;+1-765-444-2631"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 13:00-17:00"
-website: "https://videogameemporium.business.site/"
+street: Beck Lane
+housenumber: "109"
+phone: +1-765-250-7470;+1-765-444-2631
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 13:00-17:00
+website: https://videogameemporium.business.site/

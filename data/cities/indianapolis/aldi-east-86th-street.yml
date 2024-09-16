@@ -4,8 +4,8 @@ latitude: 39.9141
 longitude: -86.13566
 postcode: "46240"
 city: Indianapolis
-street: "East 86th Street"
-housenumber: 1440
-phone: "+1 888-444-1086"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/indianapolis/1440-e-86th-street"
+street: East 86th Street
+housenumber: "1440"
+phone: +1 888-444-1086
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/indianapolis/1440-e-86th-street

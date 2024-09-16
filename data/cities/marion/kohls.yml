@@ -1,11 +1,11 @@
 id: 403507127
-type: way
+type: node
 latitude: 40.51928
 longitude: -85.6772
 postcode: "46953"
 city: Marion
-street: "South Western Avenue"
-housenumber: 4114
-phone: "+1 765-674-3934"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/in/marion-1442.shtml"
+street: South Western Avenue
+housenumber: "4114"
+phone: +1 765-674-3934
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/in/marion-1442.shtml

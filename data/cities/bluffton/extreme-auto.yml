@@ -1,11 +1,11 @@
 id: 1059344893
-type: way
+type: node
 latitude: 40.74167
 longitude: -85.17106
 postcode: "46714"
 city: Bluffton
-street: "North Main Street"
-housenumber: 221
+street: North Main Street
+housenumber: "221"
 phone: "+12608270882"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://m.facebook.com/pages/Extreme-Auto/115831641810803"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://m.facebook.com/pages/Extreme-Auto/115831641810803

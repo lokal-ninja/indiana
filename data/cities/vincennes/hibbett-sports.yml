@@ -1,11 +1,11 @@
 id: 731790966
-type: way
+type: node
 latitude: 38.66044
 longitude: -87.50404
 postcode: "47591"
 city: Vincennes
-street: "Kimmell Road"
-housenumber: 623
-phone: "+1-812-886-6958"
+street: Kimmell Road
+housenumber: "623"
+phone: +1-812-886-6958
 opening_hours: ""
-website: "http://hibbett.com"
+website: http://hibbett.com

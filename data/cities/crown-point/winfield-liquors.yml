@@ -1,11 +1,11 @@
 id: 1017759369
-type: way
+type: node
 latitude: 41.42354
 longitude: -87.23947
 postcode: "46307"
 city: Crown Point
-street: "Randolph Street"
-housenumber: 10750
-phone: "+1 219 661 9601"
-opening_hours: "Mo-Th 08:30-22:00; Fr-Sa 08:30-23:00; Su 12:00-20:00"
-website: "https://www.facebook.com/pages/category/Wine--Beer---Spirits-Store/Winfield-Liquors-127639930616213/"
+street: Randolph Street
+housenumber: "10750"
+phone: +1 219 661 9601
+opening_hours: Mo-Th 08:30-22:00; Fr-Sa 08:30-23:00; Su 12:00-20:00
+website: https://www.facebook.com/pages/category/Wine--Beer---Spirits-Store/Winfield-Liquors-127639930616213/

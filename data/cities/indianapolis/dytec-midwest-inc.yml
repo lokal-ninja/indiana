@@ -1,11 +1,11 @@
 id: 1009041763
-type: way
+type: node
 latitude: 39.85414
 longitude: -86.11315
 postcode: "46220"
 city: Indianapolis
-street: "Shorewood Drive"
-housenumber: 5546
+street: Shorewood Drive
+housenumber: "5546"
 phone: ""
 opening_hours: ""
 website: ""

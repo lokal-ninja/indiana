@@ -1,11 +1,11 @@
 id: 821965912
-type: way
+type: node
 latitude: 41.47596
 longitude: -87.32013
 postcode: "46410"
 city: Merrillville
-street: "East 79th Avenue"
-housenumber: 1488
+street: East 79th Avenue
+housenumber: "1488"
 phone: ""
 opening_hours: ""
-website: "https://www.mybobs.com/"
+website: https://www.mybobs.com/

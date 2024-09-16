@@ -1,11 +1,11 @@
 id: 410821803
-type: way
+type: node
 latitude: 39.16797
 longitude: -85.84258
 postcode: "47201"
 city: Columbus
-street: "East State Street"
-housenumber: 7140
-phone: "+1-812-372-1120"
+street: East State Street
+housenumber: "7140"
+phone: +1-812-372-1120
 opening_hours: ""
-website: "https://www.facebook.com/huntersresale/"
+website: https://www.facebook.com/huntersresale/

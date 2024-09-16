@@ -1,11 +1,11 @@
 id: 1287543115
-type: way
+type: node
 latitude: 41.55174
 longitude: -87.41297
 postcode: "46408"
 city: Gary
-street: "North Colfax Street"
-housenumber: 3721
-phone: "219-244-2986"
+street: North Colfax Street
+housenumber: "3721"
+phone: 219-244-2986
 opening_hours: ""
-website: "https://www.areaulock.com/"
+website: https://www.areaulock.com/

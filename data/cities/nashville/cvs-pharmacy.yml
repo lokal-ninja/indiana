@@ -1,11 +1,11 @@
 id: 583718628
-type: way
+type: node
 latitude: 39.20235
 longitude: -86.24781
 postcode: "47448"
 city: Nashville
-street: "Van Buren Street"
-housenumber: 292
+street: Van Buren Street
+housenumber: "292"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/nashville-in-pharmacies/292-van-buren-st-south-po-box-451-nashville-in-47448/storeid=6712"
+website: https://www.cvs.com/store-locator/nashville-in-pharmacies/292-van-buren-st-south-po-box-451-nashville-in-47448/storeid=6712

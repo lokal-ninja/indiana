@@ -1,11 +1,11 @@
 id: 451710914
-type: way
+type: node
 latitude: 40.45408
 longitude: -86.91123
 postcode: "47906"
 city: West Lafayette
-street: "Sagamore Parkway West"
-housenumber: 404
-phone: "+1-765-497-3523"
-opening_hours: "Mo-Th 10:00-23:00; Fr-Sa 09:00-24:00; Su 12:00-20:00"
+street: Sagamore Parkway West
+housenumber: "404"
+phone: +1-765-497-3523
+opening_hours: Mo-Th 10:00-23:00; Fr-Sa 09:00-24:00; Su 12:00-20:00
 website: ""

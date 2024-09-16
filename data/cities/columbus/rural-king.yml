@@ -1,11 +1,11 @@
 id: 643644131
-type: way
+type: node
 latitude: 39.2298
 longitude: -85.89856
 postcode: "47201"
 city: Columbus
-street: "North National Road"
-housenumber: 2985
-phone: "+1 812 378 0280"
-opening_hours: "07:00-21:00"
-website: "https://www.ruralking.com/columbus-in"
+street: North National Road
+housenumber: "2985"
+phone: +1 812 378 0280
+opening_hours: 07:00-21:00
+website: https://www.ruralking.com/columbus-in

@@ -1,11 +1,11 @@
 id: 250938989
-type: way
+type: node
 latitude: 38.04767
 longitude: -87.31353
 postcode: ""
 city: Boonville
-street: "State Road 62"
-housenumber: 3655
-phone: "+1 812-897-4285"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://www.bucksandjakes.com/"
+street: State Road 62
+housenumber: "3655"
+phone: +1 812-897-4285
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00
+website: https://www.bucksandjakes.com/

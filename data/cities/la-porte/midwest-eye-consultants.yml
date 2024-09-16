@@ -1,11 +1,11 @@
 id: 1083783679
-type: way
+type: node
 latitude: 41.60472
 longitude: -86.73012
 postcode: "46350"
 city: La Porte
-street: "J Street"
-housenumber: 301
+street: J Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

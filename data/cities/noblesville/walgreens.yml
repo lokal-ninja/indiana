@@ -1,11 +1,11 @@
 id: 975487020
-type: way
+type: node
 latitude: 40.04628
 longitude: -86.0256
 postcode: "46060"
 city: Noblesville
-street: "Westfield Road"
-housenumber: 555
+street: Westfield Road
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-555+westfield+rd-noblesville-in-46060/id=9644"
+website: https://www.walgreens.com/locator/walgreens-555+westfield+rd-noblesville-in-46060/id=9644

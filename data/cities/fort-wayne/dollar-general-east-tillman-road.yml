@@ -1,11 +1,11 @@
 id: 783044661
-type: way
+type: node
 latitude: 41.01794
 longitude: -85.11097
 postcode: "46816"
 city: Fort Wayne
-street: "East Tillman Road"
-housenumber: 1915
+street: East Tillman Road
+housenumber: "1915"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/fort-wayne/11730"
+website: https://www.dollargeneral.com/store-directory/in/fort-wayne/11730

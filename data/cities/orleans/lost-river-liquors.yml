@@ -1,11 +1,11 @@
 id: 903987649
-type: way
+type: node
 latitude: 38.65345
 longitude: -86.45385
 postcode: "47452"
 city: Orleans
-street: "South Maple Street"
-housenumber: 1041
+street: South Maple Street
+housenumber: "1041"
 phone: ""
 opening_hours: ""
 website: ""

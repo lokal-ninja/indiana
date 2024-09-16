@@ -1,11 +1,11 @@
 id: 1031036292
-type: way
+type: node
 latitude: 41.58962
 longitude: -85.84913
 postcode: "46526"
 city: Goshen
-street: "West Pike Street"
-housenumber: 1001
-phone: "+1 574-538-3890"
+street: West Pike Street
+housenumber: "1001"
+phone: +1 574-538-3890
 opening_hours: ""
 website: ""

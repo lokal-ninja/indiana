@@ -1,11 +1,11 @@
 id: 935443696
-type: way
+type: node
 latitude: 39.79842
 longitude: -86.18718
 postcode: "46208"
 city: Indianapolis
-street: "North Harding Street"
-housenumber: 2231
+street: North Harding Street
+housenumber: "2231"
 phone: ""
 opening_hours: ""
 website: ""

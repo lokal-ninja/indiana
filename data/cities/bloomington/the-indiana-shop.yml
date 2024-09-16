@@ -1,11 +1,11 @@
 id: 546668231
-type: way
+type: node
 latitude: 39.16422
 longitude: -86.51767
 postcode: "47401"
 city: Bloomington
-street: "East 3rd Street"
-housenumber: 1302
+street: East 3rd Street
+housenumber: "1302"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-18:00"
-website: "https://www.gamedayspirit.com/pages/ind"
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-18:00
+website: https://www.gamedayspirit.com/pages/ind

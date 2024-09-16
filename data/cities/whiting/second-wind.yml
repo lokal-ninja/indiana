@@ -1,11 +1,11 @@
 id: 1232071706
-type: way
+type: node
 latitude: 41.67927
 longitude: -87.49458
 postcode: "46394"
 city: Whiting
-street: "119th Street"
-housenumber: 1422
+street: 119th Street
+housenumber: "1422"
 phone: ""
 opening_hours: ""
 website: ""

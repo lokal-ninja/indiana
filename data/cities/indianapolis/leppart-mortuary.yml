@@ -1,11 +1,11 @@
 id: 193393932
-type: way
+type: node
 latitude: 39.91308
 longitude: -86.14447
 postcode: "46240"
 city: Indianapolis
-street: "East 86th Street"
-housenumber: 740
+street: East 86th Street
+housenumber: "740"
 phone: ""
 opening_hours: ""
 website: ""

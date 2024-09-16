@@ -1,11 +1,11 @@
 id: 1008192219
-type: way
+type: node
 latitude: 40.21964
 longitude: -85.38643
 postcode: "47303"
 city: Muncie
-street: "East McGalliard Road"
-housenumber: 100
+street: East McGalliard Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-100+e+mcgalliard+rd-muncie-in-47303/id=5802"
+website: https://www.walgreens.com/locator/walgreens-100+e+mcgalliard+rd-muncie-in-47303/id=5802

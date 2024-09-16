@@ -1,11 +1,11 @@
 id: 684179009
-type: way
+type: node
 latitude: 39.73453
 longitude: -86.25842
 postcode: "46241"
 city: Indianapolis
-street: "Distributors Drive"
-housenumber: 2251
+street: Distributors Drive
+housenumber: "2251"
 phone: ""
 opening_hours: ""
 website: ""

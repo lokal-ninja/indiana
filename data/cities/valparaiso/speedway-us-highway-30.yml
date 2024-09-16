@@ -1,11 +1,11 @@
 id: 910278548
-type: way
+type: node
 latitude: 41.46077
 longitude: -87.03642
 postcode: "46383"
 city: Valparaiso
-street: "US Highway 30"
-housenumber: 2005
+street: US Highway 30
+housenumber: "2005"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Valparaiso/2005-Morthland-Dr"
+website: https://www.speedway.com/locations/IN/Valparaiso/2005-Morthland-Dr

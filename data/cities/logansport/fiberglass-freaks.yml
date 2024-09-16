@@ -1,11 +1,11 @@
 id: 645176107
-type: way
+type: node
 latitude: 40.7524
 longitude: -86.36161
 postcode: "46947"
 city: Logansport
-street: "Erie Avenue"
-housenumber: 602
+street: Erie Avenue
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

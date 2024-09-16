@@ -1,11 +1,11 @@
 id: 961375501
-type: way
+type: node
 latitude: 38.66676
 longitude: -86.79014
 postcode: "47581"
 city: Shoals
-street: "High Street"
-housenumber: 431
-phone: "+1-812-247-3101"
+street: High Street
+housenumber: "431"
+phone: +1-812-247-3101
 opening_hours: ""
-website: "https://www.fergusonlee.com/"
+website: https://www.fergusonlee.com/

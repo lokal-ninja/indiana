@@ -1,11 +1,11 @@
 id: 1205242896
-type: way
+type: node
 latitude: 41.6154
 longitude: -86.72985
 postcode: "46350"
 city: La Porte
-street: "Pine Lake Avenue"
-housenumber: 117
-phone: "+1 219 575 3963"
+street: Pine Lake Avenue
+housenumber: "117"
+phone: +1 219 575 3963
 opening_hours: ""
-website: "https://victoryvapes.net/"
+website: https://victoryvapes.net/

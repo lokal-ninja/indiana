@@ -1,11 +1,11 @@
 id: 745623138
-type: way
+type: node
 latitude: 40.74597
 longitude: -86.09782
 postcode: "46970"
 city: Peru
-street: "West Main Street"
-housenumber: 970
-phone: "+1 844-444-1005"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://stores.aldi.us/in/peru/970-w-main-st"
+street: West Main Street
+housenumber: "970"
+phone: +1 844-444-1005
+opening_hours: Mo-Sa 09:00-20:00
+website: https://stores.aldi.us/in/peru/970-w-main-st

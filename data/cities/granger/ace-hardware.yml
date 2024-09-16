@@ -1,11 +1,11 @@
 id: 752140001
-type: way
+type: node
 latitude: 41.75226
 longitude: -86.1173
-postcode: "46530-7894"
+postcode: 46530-7894
 city: Granger
-street: "Adams Road"
-housenumber: 12820
-phone: "+1 574-272-2333"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Adams Road
+housenumber: "12820"
+phone: +1 574-272-2333
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

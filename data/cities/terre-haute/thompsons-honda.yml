@@ -1,11 +1,11 @@
 id: 753605047
-type: way
+type: node
 latitude: 39.38196
 longitude: -87.3929
 postcode: "47802"
 city: Terre Haute
-street: "US 41"
-housenumber: 7050
+street: US 41
+housenumber: "7050"
 phone: ""
 opening_hours: ""
-website: "https://www.thompsonshonda.com/"
+website: https://www.thompsonshonda.com/

@@ -1,11 +1,11 @@
 id: 668161955
-type: way
+type: node
 latitude: 41.36299
 longitude: -86.32217
 postcode: "46563"
 city: Plymouth
-street: "Pilgrim Lane"
-housenumber: 1100
-phone: "+1 574-935-6500"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-plymouth/1956"
+street: Pilgrim Lane
+housenumber: "1100"
+phone: +1 574-935-6500
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-plymouth/1956

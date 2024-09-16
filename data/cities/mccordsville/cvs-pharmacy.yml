@@ -1,11 +1,11 @@
 id: 1035243298
-type: way
+type: node
 latitude: 39.89546
 longitude: -85.91788
 postcode: "46055"
 city: McCordsville
-street: "West Broadway"
-housenumber: 5981
+street: West Broadway
+housenumber: "5981"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mccordsville-in-pharmacies/5981-west-broadway-mccordsville-in-46055/storeid=7541"
+website: https://www.cvs.com/store-locator/mccordsville-in-pharmacies/5981-west-broadway-mccordsville-in-46055/storeid=7541

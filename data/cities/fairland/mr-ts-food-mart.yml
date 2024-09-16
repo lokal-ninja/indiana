@@ -1,11 +1,11 @@
 id: 1205478902
-type: way
+type: node
 latitude: 39.5859
 longitude: -85.86341
 postcode: "46126"
 city: Fairland
-street: "West Washington Street"
-housenumber: 109
+street: West Washington Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

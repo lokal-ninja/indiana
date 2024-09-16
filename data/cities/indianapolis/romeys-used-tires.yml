@@ -1,11 +1,11 @@
 id: 962031377
-type: way
+type: node
 latitude: 39.77232
 longitude: -86.09798
 postcode: "46201"
 city: Indianapolis
-street: "East New York Street"
-housenumber: 4040
+street: East New York Street
+housenumber: "4040"
 phone: ""
 opening_hours: ""
 website: ""

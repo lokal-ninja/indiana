@@ -1,11 +1,11 @@
 id: 177675422
-type: way
+type: node
 latitude: 39.2866
 longitude: -86.77121
 postcode: "47460"
 city: Spencer
-street: "West Morgan Street"
-housenumber: 800
-phone: "+1-812-828-9541"
+street: West Morgan Street
+housenumber: "800"
+phone: +1-812-828-9541
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/spencer/800-w-morgan.html"
+website: https://www.autozone.com/locations/in/spencer/800-w-morgan.html

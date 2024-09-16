@@ -1,11 +1,11 @@
 id: 241565509
-type: way
+type: node
 latitude: 38.35318
 longitude: -87.59588
 postcode: "47670"
 city: Princeton
-street: "South Richland Creek Drive"
-housenumber: 201
-phone: "+1 812-385-2427"
+street: South Richland Creek Drive
+housenumber: "201"
+phone: +1 812-385-2427
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3232"
+website: https://www.menards.com/store-details/store.html?store=3232

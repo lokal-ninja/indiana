@@ -1,11 +1,11 @@
 id: 755541569
-type: way
+type: node
 latitude: 38.22572
 longitude: -86.13781
 postcode: "47112"
 city: Corydon
-street: "Budd Road"
-housenumber: 1755
+street: Budd Road
+housenumber: "1755"
 phone: ""
-opening_hours: "24/7"
-website: "https://accessstoragenow.com/locations/budd-road/"
+opening_hours: 24/7
+website: https://accessstoragenow.com/locations/budd-road/

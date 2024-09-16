@@ -1,11 +1,11 @@
 id: 975130415
-type: way
+type: node
 latitude: 38.31093
 longitude: -85.77112
 postcode: "47129"
 city: Clarksville
-street: "East Lewis and Clark Parkway"
-housenumber: 305
-phone: "+1 812-948-1728"
-opening_hours: "06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/in/clarksville/clark-station/024/00762"
+street: East Lewis and Clark Parkway
+housenumber: "305"
+phone: +1 812-948-1728
+opening_hours: 06:00-24:00
+website: https://www.kroger.com/stores/grocery/in/clarksville/clark-station/024/00762

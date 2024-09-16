@@ -1,11 +1,11 @@
 id: 894315826
-type: way
+type: node
 latitude: 40.38147
 longitude: -86.87584
 postcode: "47909"
 city: Lafayette
-street: "Brady Lane"
-housenumber: 1805
+street: Brady Lane
+housenumber: "1805"
 phone: ""
 opening_hours: ""
 website: ""

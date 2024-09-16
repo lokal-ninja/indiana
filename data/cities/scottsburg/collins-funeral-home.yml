@@ -1,11 +1,11 @@
 id: 981251847
-type: way
+type: node
 latitude: 38.68555
 longitude: -85.77509
 postcode: "47170"
 city: Scottsburg
-street: "West McClain Avenue"
-housenumber: 465
-phone: "+1-812-752-3232"
+street: West McClain Avenue
+housenumber: "465"
+phone: +1-812-752-3232
 opening_hours: ""
-website: "http://collinsfuneralhome.net/"
+website: http://collinsfuneralhome.net/

@@ -1,11 +1,11 @@
 id: 733668890
-type: way
+type: node
 latitude: 39.46913
 longitude: -87.38856
 postcode: "47807"
 city: Terre Haute
-street: "Wabash Avenue"
-housenumber: 1831
-phone: "+1-812-232-9200"
-opening_hours: "We-Th 09:00-14:00; Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "http://restore.wvh4h.org/"
+street: Wabash Avenue
+housenumber: "1831"
+phone: +1-812-232-9200
+opening_hours: We-Th 09:00-14:00; Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: http://restore.wvh4h.org/

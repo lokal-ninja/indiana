@@ -1,11 +1,11 @@
 id: 135555702
-type: way
+type: node
 latitude: 39.10141
 longitude: -87.42455
 postcode: "47882"
 city: Sullivan
-street: "West Wolfe Street"
-housenumber: 818
-phone: "+1 812-268-3381"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/617/sullivan-in/whats-new"
+street: West Wolfe Street
+housenumber: "818"
+phone: +1 812-268-3381
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/617/sullivan-in/whats-new

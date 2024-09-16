@@ -1,11 +1,11 @@
 id: 730914336
-type: way
+type: node
 latitude: 38.6585
 longitude: -87.50565
 postcode: "47591"
 city: Vincennes
-street: "Hart Street"
-housenumber: 2704
-phone: "+1-812-882-5085"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-18:00"
-website: "https://www.sherwin-williams.com/"
+street: Hart Street
+housenumber: "2704"
+phone: +1-812-882-5085
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-18:00
+website: https://www.sherwin-williams.com/

@@ -1,11 +1,11 @@
 id: 678155154
-type: way
+type: node
 latitude: 40.75591
 longitude: -86.36382
 postcode: "46947"
 city: Logansport
-street: "North Street"
-housenumber: 524
+street: North Street
+housenumber: "524"
 phone: ""
 opening_hours: ""
 website: ""

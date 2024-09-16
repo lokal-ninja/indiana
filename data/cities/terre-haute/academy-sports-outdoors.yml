@@ -1,11 +1,11 @@
 id: 684981393
-type: way
+type: node
 latitude: 39.4134
 longitude: -87.41276
 postcode: "47802"
 city: Terre Haute
-street: "US 41"
-housenumber: 4444
-phone: "+1-812-231-5560"
+street: US 41
+housenumber: "4444"
+phone: +1-812-231-5560
 opening_hours: ""
-website: "https://www.academy.com/shop/storelocator/indiana/terre-haute/store-0243"
+website: https://www.academy.com/shop/storelocator/indiana/terre-haute/store-0243

@@ -1,11 +1,11 @@
 id: 501766768
-type: way
+type: node
 latitude: 39.94752
 longitude: -86.34273
 postcode: "46077"
 city: Zionsville
-street: "Whitestown Parkway"
-housenumber: 6711
-phone: "+1 317-769-2370"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-zionsville/2766"
+street: Whitestown Parkway
+housenumber: "6711"
+phone: +1 317-769-2370
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-zionsville/2766

@@ -1,11 +1,11 @@
 id: 538057069
-type: way
+type: node
 latitude: 40.03273
 longitude: -86.01266
 postcode: "46060"
 city: Noblesville
-street: "South 10th Street"
-housenumber: 1395
+street: South 10th Street
+housenumber: "1395"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 302635674
-type: way
+type: node
 latitude: 40.84719
 longitude: -84.94036
 postcode: "46733"
 city: decatur
-street: "Winchester Road"
-housenumber: 1480
-phone: "+1-260-724-9543"
-opening_hours: "08:00-21:00"
-website: "http://www.decaturtruevalue.com/"
+street: Winchester Road
+housenumber: "1480"
+phone: +1-260-724-9543
+opening_hours: 08:00-21:00
+website: http://www.decaturtruevalue.com/

@@ -1,11 +1,11 @@
 id: 1231586873
-type: way
+type: node
 latitude: 41.59389
 longitude: -87.28926
 postcode: "46403"
 city: Gary
-street: "Aetna Street"
-housenumber: 935
+street: Aetna Street
+housenumber: "935"
 phone: ""
 opening_hours: ""
 website: ""

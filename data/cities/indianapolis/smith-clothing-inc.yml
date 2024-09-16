@@ -1,11 +1,11 @@
 id: 669709781
-type: way
+type: node
 latitude: 39.8483
 longitude: -86.12005
 postcode: "46205"
 city: Indianapolis
-street: "East 52nd Street"
-housenumber: 2502
+street: East 52nd Street
+housenumber: "2502"
 phone: ""
 opening_hours: ""
 website: ""

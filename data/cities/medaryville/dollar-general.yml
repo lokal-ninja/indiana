@@ -1,11 +1,11 @@
 id: 1281401729
-type: way
+type: node
 latitude: 41.078
 longitude: -86.8929
 postcode: "47957"
 city: Medaryville
-street: "S US HWY 421"
-housenumber: 403
+street: S US HWY 421
+housenumber: "403"
 phone: ""
 opening_hours: ""
 website: ""

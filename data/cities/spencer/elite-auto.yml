@@ -4,8 +4,8 @@ latitude: 39.28162
 longitude: -86.7767
 postcode: "47460"
 city: Spencer
-street: "5th Avenue"
-housenumber: 565
-phone: "+1-812-821-1239"
-opening_hours: "Mo-Fr 08:00-16:00"
+street: 5th Avenue
+housenumber: "565"
+phone: +1-812-821-1239
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

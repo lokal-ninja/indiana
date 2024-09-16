@@ -1,11 +1,11 @@
 id: 1234177123
-type: way
+type: node
 latitude: 39.19742
 longitude: -85.94865
 postcode: "47201"
 city: Columbus
-street: "Carr Hill Road"
-housenumber: 44
+street: Carr Hill Road
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/in/columbus/8360/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/in/columbus/8360/

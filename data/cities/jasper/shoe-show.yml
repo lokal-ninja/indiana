@@ -4,8 +4,8 @@ latitude: 38.42646
 longitude: -86.93521
 postcode: "47546"
 city: Jasper
-street: "Newton Street"
-housenumber: 3980
+street: Newton Street
+housenumber: "3980"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://shoeshow.com"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://shoeshow.com

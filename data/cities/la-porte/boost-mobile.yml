@@ -1,11 +1,11 @@
 id: 1190609861
-type: way
+type: node
 latitude: 41.61404
 longitude: -86.72511
 postcode: "46350"
 city: La Porte
-street: "Pine Lake Avenue"
-housenumber: 33
+street: Pine Lake Avenue
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

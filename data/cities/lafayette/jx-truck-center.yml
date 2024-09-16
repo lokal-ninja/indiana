@@ -1,11 +1,11 @@
 id: 536680952
-type: way
+type: node
 latitude: 40.44981
 longitude: -86.85455
 postcode: "47905"
 city: Lafayette
-street: "Schuyler Avenue"
-housenumber: 2701
+street: Schuyler Avenue
+housenumber: "2701"
 phone: ""
 opening_hours: ""
 website: ""

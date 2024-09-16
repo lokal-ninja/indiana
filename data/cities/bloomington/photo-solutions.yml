@@ -4,8 +4,8 @@ latitude: 39.16741
 longitude: -86.53766
 postcode: "47404"
 city: Bloomington
-street: "North Madison Street"
-housenumber: 115
-phone: "+1-812-333-1212"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://photosolutions.com/"
+street: North Madison Street
+housenumber: "115"
+phone: +1-812-333-1212
+opening_hours: Mo-Fr 09:00-18:00
+website: https://photosolutions.com/

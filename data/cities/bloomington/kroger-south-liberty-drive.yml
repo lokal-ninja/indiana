@@ -1,11 +1,11 @@
 id: 282534005
-type: way
+type: node
 latitude: 39.16291
 longitude: -86.58113
 postcode: "47404"
 city: Bloomington
-street: "South Liberty Drive"
-housenumber: 500
-phone: "+1 812-349-1385"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/bloomington/highland-village/021/00960"
+street: South Liberty Drive
+housenumber: "500"
+phone: +1 812-349-1385
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/bloomington/highland-village/021/00960

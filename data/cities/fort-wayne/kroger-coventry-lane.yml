@@ -1,11 +1,11 @@
 id: 559996573
-type: way
+type: node
 latitude: 41.03398
 longitude: -85.26029
 postcode: "46804"
 city: Fort Wayne
-street: "Coventry Lane"
-housenumber: 5725
-phone: "+1 260-432-2305"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/in/fort-wayne/village-of-coventry/021/00990"
+street: Coventry Lane
+housenumber: "5725"
+phone: +1 260-432-2305
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/in/fort-wayne/village-of-coventry/021/00990

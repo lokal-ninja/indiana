@@ -4,8 +4,8 @@ latitude: 41.58445
 longitude: -85.83469
 postcode: "46526"
 city: Goshen
-street: "S Main Street"
-housenumber: 215
+street: S Main Street
+housenumber: "215"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 10:00-15:00"
-website: "https://www.fablesbooks.com/"
+opening_hours: Tu-Fr 11:00-18:00; Sa 10:00-15:00
+website: https://www.fablesbooks.com/

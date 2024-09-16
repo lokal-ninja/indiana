@@ -1,11 +1,11 @@
 id: 922990182
-type: way
+type: node
 latitude: 41.11256
 longitude: -85.19194
 postcode: "46808"
 city: Fort Wayne
-street: "Kraft Parkway"
-housenumber: 4001
-phone: "+1 (260) 483-5478"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-15:00; Su closed"
-website: "https://auntmillies.com/"
+street: Kraft Parkway
+housenumber: "4001"
+phone: +1 (260) 483-5478
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-15:00; Su closed
+website: https://auntmillies.com/

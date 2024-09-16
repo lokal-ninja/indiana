@@ -1,11 +1,11 @@
 id: 720083306
-type: way
+type: node
 latitude: 41.17933
 longitude: -85.13442
 postcode: "46825"
 city: Fort Wayne
-street: "Dupont Road"
-housenumber: 535
+street: Dupont Road
+housenumber: "535"
 phone: ""
 opening_hours: ""
 website: ""

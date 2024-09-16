@@ -1,11 +1,11 @@
 id: 1291942046
-type: way
+type: node
 latitude: 38.3078
 longitude: -85.75091
 postcode: ""
 city: Jeffersonville
-street: "Industrial Parkway"
-housenumber: 2999
+street: Industrial Parkway
+housenumber: "2999"
 phone: ""
 opening_hours: ""
 website: ""

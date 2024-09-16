@@ -1,11 +1,11 @@
 id: 1019929026
-type: way
+type: node
 latitude: 39.76393
 longitude: -86.21647
 postcode: "46222"
 city: Indianapolis
-street: "North Alton Avenue"
-housenumber: 23
+street: North Alton Avenue
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

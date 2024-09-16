@@ -1,11 +1,11 @@
 id: 1103368098
-type: way
+type: node
 latitude: 40.42468
 longitude: -86.85884
 postcode: "47904"
 city: Lafayette
-street: "Sagamore Parkway North"
-housenumber: 720
+street: Sagamore Parkway North
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

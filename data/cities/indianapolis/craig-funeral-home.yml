@@ -1,11 +1,11 @@
 id: 951297072
-type: way
+type: node
 latitude: 39.81892
 longitude: -86.1448
 postcode: "46205"
 city: Indianapolis
-street: "North College Avenue"
-housenumber: 3447
+street: North College Avenue
+housenumber: "3447"
 phone: ""
 opening_hours: ""
 website: ""

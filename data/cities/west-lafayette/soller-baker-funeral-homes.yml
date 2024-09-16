@@ -1,11 +1,11 @@
 id: 587553159
-type: way
+type: node
 latitude: 40.45366
 longitude: -86.92338
 postcode: "47906"
 city: West Lafayette
-street: "Sagamore Parkway West"
-housenumber: 1184
+street: Sagamore Parkway West
+housenumber: "1184"
 phone: ""
 opening_hours: ""
 website: ""

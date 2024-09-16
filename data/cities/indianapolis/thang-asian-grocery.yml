@@ -1,11 +1,11 @@
 id: 802520208
-type: way
+type: node
 latitude: 39.6517
 longitude: -86.08382
 postcode: "46237"
 city: Indianapolis
-street: "East Stop 11 Road"
-housenumber: 4950
+street: East Stop 11 Road
+housenumber: "4950"
 phone: ""
 opening_hours: ""
 website: ""

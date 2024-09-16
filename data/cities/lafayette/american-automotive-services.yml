@@ -1,11 +1,11 @@
 id: 724833131
-type: way
+type: node
 latitude: 40.41857
 longitude: -86.85078
 postcode: "47905"
 city: Lafayette
-street: "North 36th Street"
-housenumber: 100
+street: North 36th Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

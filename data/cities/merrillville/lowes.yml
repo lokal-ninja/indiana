@@ -1,11 +1,11 @@
 id: 821965911
-type: way
+type: node
 latitude: 41.47596
 longitude: -87.31903
 postcode: "46410"
 city: Merrillville
-street: "East 79th Avenue"
-housenumber: 1520
-phone: "+1 219-756-8316"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1569"
+street: East 79th Avenue
+housenumber: "1520"
+phone: +1 219-756-8316
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1569

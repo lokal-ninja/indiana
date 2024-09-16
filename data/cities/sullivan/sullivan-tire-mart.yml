@@ -1,11 +1,11 @@
 id: 182866886
-type: way
+type: node
 latitude: 39.08468
 longitude: -87.41055
 postcode: "47882"
 city: Sullivan
-street: "West Silver Street"
-housenumber: 210
+street: West Silver Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

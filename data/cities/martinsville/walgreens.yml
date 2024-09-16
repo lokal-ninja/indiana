@@ -1,11 +1,11 @@
 id: 598149798
-type: way
+type: node
 latitude: 39.40889
 longitude: -86.42506
 postcode: ""
 city: Martinsville
-street: "South Ohio Street"
-housenumber: 1900
+street: South Ohio Street
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-25+bills+blvd-martinsville-in-46151/id=7676"
+website: https://www.walgreens.com/locator/walgreens-25+bills+blvd-martinsville-in-46151/id=7676

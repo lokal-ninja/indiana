@@ -1,11 +1,11 @@
 id: 1263603088
-type: way
+type: node
 latitude: 38.00143
 longitude: -87.49295
 postcode: "47715"
 city: Evansville
-street: "North Green River Road"
-housenumber: 2650
-phone: "+1 812 402 5000"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 12:00-16:00"
-website: "https://www.lucasoilcenter.com/"
+street: North Green River Road
+housenumber: "2650"
+phone: +1 812 402 5000
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 12:00-16:00
+website: https://www.lucasoilcenter.com/

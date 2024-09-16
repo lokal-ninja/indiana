@@ -1,11 +1,11 @@
 id: 1025969047
-type: way
+type: node
 latitude: 39.82238
 longitude: -86.25668
 postcode: "46224"
 city: Indianapolis
-street: "Moller Road"
-housenumber: 3710
+street: Moller Road
+housenumber: "3710"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/indianapolis/3710-n-moller-rd.html"
+website: https://www.autozone.com/locations/in/indianapolis/3710-n-moller-rd.html

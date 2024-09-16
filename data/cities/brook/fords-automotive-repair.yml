@@ -1,11 +1,11 @@
 id: 918502445
-type: way
+type: node
 latitude: 40.76841
 longitude: -87.44141
 postcode: "47951"
 city: Brook
-street: "East Seymour Street"
-housenumber: 504
+street: East Seymour Street
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

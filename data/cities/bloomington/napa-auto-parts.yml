@@ -1,11 +1,11 @@
 id: 1133962042
-type: way
+type: node
 latitude: 39.17935
 longitude: -86.53832
 postcode: "47404"
 city: Bloomington
-street: "West 17th Street"
-housenumber: 400
+street: West 17th Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

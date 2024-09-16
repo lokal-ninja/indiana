@@ -2,10 +2,10 @@ id: 3251571676
 type: node
 latitude: 39.91332
 longitude: -86.26309
-postcode: "46278-1338"
+postcode: 46278-1338
 city: Indianapolis
-street: "West 86th Street"
-housenumber: 5750
-phone: "+1 317-876-0063"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/in/indianapolis/5807"
+street: West 86th Street
+housenumber: "5750"
+phone: +1 317-876-0063
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/in/indianapolis/5807

@@ -1,11 +1,11 @@
 id: 283806311
-type: way
+type: node
 latitude: 39.41755
 longitude: -86.40514
 postcode: "46151"
 city: Martinsville
-street: "Grand Valley Boulevard"
-housenumber: 410
-phone: "+1 765-342-3786"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1356/martinsville-in/whats-new"
+street: Grand Valley Boulevard
+housenumber: "410"
+phone: +1 765-342-3786
+opening_hours: 24/7
+website: https://www.walmart.com/store/1356/martinsville-in/whats-new

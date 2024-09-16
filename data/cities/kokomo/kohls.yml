@@ -1,11 +1,11 @@
 id: 264853102
-type: way
+type: node
 latitude: 40.46397
 longitude: -86.1028
 postcode: "46902"
 city: Kokomo
-street: "East Boulevard Street"
-housenumber: 2156
-phone: "+1 765-854-0420"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/in/kokomo-690.shtml"
+street: East Boulevard Street
+housenumber: "2156"
+phone: +1 765-854-0420
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/in/kokomo-690.shtml

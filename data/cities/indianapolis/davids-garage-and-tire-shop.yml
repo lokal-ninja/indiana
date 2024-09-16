@@ -1,11 +1,11 @@
 id: 210025670
-type: way
+type: node
 latitude: 39.76666
 longitude: -86.19854
 postcode: "46222"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 2202
+street: West Washington Street
+housenumber: "2202"
 phone: ""
 opening_hours: ""
 website: ""

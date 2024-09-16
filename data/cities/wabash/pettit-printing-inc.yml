@@ -1,11 +1,11 @@
 id: 551558227
-type: way
+type: node
 latitude: 40.79157
 longitude: -85.8248
 postcode: "46992"
 city: Wabash
-street: "South Carroll Street"
-housenumber: 789
+street: South Carroll Street
+housenumber: "789"
 phone: ""
 opening_hours: ""
 website: ""

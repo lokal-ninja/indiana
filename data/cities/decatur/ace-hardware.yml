@@ -1,11 +1,11 @@
 id: 1108429398
-type: way
+type: node
 latitude: 40.81592
 longitude: -84.93854
-postcode: "46733-2100"
+postcode: 46733-2100
 city: Decatur
-street: "South 13th Street"
-housenumber: 1220
-phone: "+1 260-724-3700"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: South 13th Street
+housenumber: "1220"
+phone: +1 260-724-3700
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

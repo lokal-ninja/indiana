@@ -1,11 +1,11 @@
 id: 329512584
-type: way
+type: node
 latitude: 40.36773
 longitude: -86.86882
 postcode: "47909"
 city: Lafayette
-street: "Veterans Memorial Parkway South"
-housenumber: 2306
-phone: "+1-765-477-7200"
+street: Veterans Memorial Parkway South
+housenumber: "2306"
+phone: +1-765-477-7200
 opening_hours: ""
 website: ""

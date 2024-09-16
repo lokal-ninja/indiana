@@ -1,11 +1,11 @@
 id: 1127226776
-type: way
+type: node
 latitude: 41.62462
 longitude: -86.73794
 postcode: "46350"
 city: La Porte
-street: "Pine Lake Avenue"
-housenumber: 603
-phone: "+1 219 326 7015"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.andersonsautolaporte.com/"
+street: Pine Lake Avenue
+housenumber: "603"
+phone: +1 219 326 7015
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.andersonsautolaporte.com/

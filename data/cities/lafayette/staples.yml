@@ -4,8 +4,8 @@ latitude: 40.40027
 longitude: -86.85358
 postcode: "47905"
 city: Lafayette
-street: "SR 38"
-housenumber: 3500
-phone: "+1 765-447-2477"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.staples.com/in/lafayette/3500-state-route-38"
+street: SR 38
+housenumber: "3500"
+phone: +1 765-447-2477
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.staples.com/in/lafayette/3500-state-route-38

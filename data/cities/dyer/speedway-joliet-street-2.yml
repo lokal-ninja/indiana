@@ -1,11 +1,11 @@
 id: 1037267049
-type: way
+type: node
 latitude: 41.49217
 longitude: -87.50958
 postcode: "46311"
 city: Dyer
-street: "Joliet Street"
-housenumber: 718
+street: Joliet Street
+housenumber: "718"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Dyer/718-Joliet-Street"
+website: https://www.speedway.com/locations/IN/Dyer/718-Joliet-Street

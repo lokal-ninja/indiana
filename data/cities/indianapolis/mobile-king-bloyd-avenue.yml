@@ -1,11 +1,11 @@
 id: 1306942540
-type: way
+type: node
 latitude: 39.79491
 longitude: -86.11724
 postcode: "46218"
 city: Indianapolis
-street: "Bloyd Avenue"
-housenumber: 2705
+street: Bloyd Avenue
+housenumber: "2705"
 phone: ""
 opening_hours: ""
 website: ""

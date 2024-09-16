@@ -1,11 +1,11 @@
 id: 1009757760
-type: way
+type: node
 latitude: 39.89734
 longitude: -85.97401
 postcode: "46236"
 city: Indianapolis
-street: "East 79th Street"
-housenumber: 10941
-phone: "+1 317-846-2311"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://whitesacehardware.com/"
+street: East 79th Street
+housenumber: "10941"
+phone: +1 317-846-2311
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00
+website: https://whitesacehardware.com/

@@ -1,11 +1,11 @@
 id: 1087369991
-type: way
+type: node
 latitude: 39.65148
 longitude: -86.12049
 postcode: "46227"
 city: Indianapolis
-street: "East Stop 11 Road"
-housenumber: 2308
+street: East Stop 11 Road
+housenumber: "2308"
 phone: ""
 opening_hours: ""
-website: "https://saragaindy.com/"
+website: https://saragaindy.com/

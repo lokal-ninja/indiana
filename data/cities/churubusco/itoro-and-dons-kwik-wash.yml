@@ -1,11 +1,11 @@
 id: 1274249891
-type: way
+type: node
 latitude: 41.22913
 longitude: -85.31952
 postcode: "46723"
 city: Churubusco
-street: "South Main Street"
-housenumber: 202
+street: South Main Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

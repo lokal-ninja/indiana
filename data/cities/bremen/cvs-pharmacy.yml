@@ -1,11 +1,11 @@
 id: 200276660
-type: way
+type: node
 latitude: 41.44596
 longitude: -86.16057
 postcode: "46506"
 city: Bremen
-street: "West Plymouth Street"
-housenumber: 1150
+street: West Plymouth Street
+housenumber: "1150"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/bremen-in-pharmacies/1150-w-plymouth-st-bremen-in-46506/storeid=6468"
+website: https://www.cvs.com/store-locator/bremen-in-pharmacies/1150-w-plymouth-st-bremen-in-46506/storeid=6468

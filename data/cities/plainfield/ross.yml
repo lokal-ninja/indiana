@@ -4,8 +4,8 @@ latitude: 39.71389
 longitude: -86.36165
 postcode: "46168"
 city: Plainfield
-street: "East Main Street"
-housenumber: 2565
-phone: "+1 317-838-9861"
-opening_hours: "Mo-Th 10:30-21:00; Fr-Sa 10:00-22:00; Su 10:30-21:30"
+street: East Main Street
+housenumber: "2565"
+phone: +1 317-838-9861
+opening_hours: Mo-Th 10:30-21:00; Fr-Sa 10:00-22:00; Su 10:30-21:30
 website: ""

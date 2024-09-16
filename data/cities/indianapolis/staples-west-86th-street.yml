@@ -1,11 +1,11 @@
 id: 225024269
-type: way
+type: node
 latitude: 39.91251
 longitude: -86.21584
 postcode: "46268"
 city: Indianapolis
-street: "West 86th Street"
-housenumber: 3250
+street: West 86th Street
+housenumber: "3250"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://stores.staples.com/in/indianapolis/3250a-west-86th-st"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00
+website: https://stores.staples.com/in/indianapolis/3250a-west-86th-st

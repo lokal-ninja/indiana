@@ -1,11 +1,11 @@
 id: 608378816
-type: way
+type: node
 latitude: 39.16495
 longitude: -86.56048
 postcode: "47404"
 city: Bloomington
-street: "West 3rd Street"
-housenumber: 2002
+street: West 3rd Street
+housenumber: "2002"
 phone: ""
 opening_hours: ""
 website: ""

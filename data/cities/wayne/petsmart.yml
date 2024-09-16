@@ -1,11 +1,11 @@
 id: 557170471
-type: way
+type: node
 latitude: 41.17455
 longitude: -85.16837
 postcode: "46818"
 city: Wayne
-street: "Lima Road Fort"
-housenumber: 10035
-phone: "+1 260-489-0870"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/in/ft-wayne-store1841.html"
+street: Lima Road Fort
+housenumber: "10035"
+phone: +1 260-489-0870
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/in/ft-wayne-store1841.html

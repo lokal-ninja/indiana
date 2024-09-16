@@ -1,11 +1,11 @@
 id: 729211176
-type: way
+type: node
 latitude: 39.47061
 longitude: -87.37863
 postcode: "47803"
 city: Terre Haute
-street: "Wabash Avenue"
-housenumber: 2501
-phone: "+1-812-234-5448"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.greasemonkeyauto.com/terre-haute-indiana-47803-center-526"
+street: Wabash Avenue
+housenumber: "2501"
+phone: +1-812-234-5448
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.greasemonkeyauto.com/terre-haute-indiana-47803-center-526

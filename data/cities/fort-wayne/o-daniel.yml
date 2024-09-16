@@ -1,11 +1,11 @@
 id: 615990159
-type: way
+type: node
 latitude: 41.07518
 longitude: -85.19626
 postcode: "46804"
 city: Fort Wayne
-street: "Illinois Road"
-housenumber: 4200
+street: Illinois Road
+housenumber: "4200"
 phone: ""
 opening_hours: ""
-website: "http://automart.com"
+website: http://automart.com

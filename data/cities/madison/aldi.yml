@@ -1,11 +1,11 @@
 id: 1173832884
-type: way
+type: node
 latitude: 38.77626
 longitude: -85.38588
 postcode: "47250"
 city: Madison
-street: "Franks Drive"
-housenumber: 202
-phone: "+1 844-444-1066"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/madison/202-franks-dr"
+street: Franks Drive
+housenumber: "202"
+phone: +1 844-444-1066
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/madison/202-franks-dr

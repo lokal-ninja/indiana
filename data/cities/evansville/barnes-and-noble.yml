@@ -1,11 +1,11 @@
 id: 616338364
-type: way
+type: node
 latitude: 37.96936
 longitude: -87.49226
 postcode: "47715"
 city: Evansville
-street: "South Green River Road"
-housenumber: 624
+street: South Green River Road
+housenumber: "624"
 phone: ""
 opening_hours: ""
 website: ""

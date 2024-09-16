@@ -1,11 +1,11 @@
 id: 534153420
-type: way
+type: node
 latitude: 39.21522
 longitude: -85.88143
 postcode: "47201"
 city: Columbus
-street: "North National Road"
-housenumber: 1505
-phone: "+1 844-444-1008"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/columbus/1505-n-national-road"
+street: North National Road
+housenumber: "1505"
+phone: +1 844-444-1008
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/columbus/1505-n-national-road

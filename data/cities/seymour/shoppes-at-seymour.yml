@@ -1,11 +1,11 @@
 id: 591079405
-type: way
+type: node
 latitude: 38.96136
 longitude: -85.84252
 postcode: "47274"
 city: Seymour
-street: "Tanger Boulevard"
-housenumber: 357
+street: Tanger Boulevard
+housenumber: "357"
 phone: ""
 opening_hours: ""
 website: ""

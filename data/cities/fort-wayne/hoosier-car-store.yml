@@ -1,11 +1,11 @@
 id: 458523481
-type: way
+type: node
 latitude: 41.1526
 longitude: -85.16667
 postcode: "46818"
 city: Fort Wayne
-street: "Lima Road"
-housenumber: 7923
+street: Lima Road
+housenumber: "7923"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

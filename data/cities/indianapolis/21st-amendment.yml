@@ -1,11 +1,11 @@
 id: 550283960
-type: way
+type: node
 latitude: 39.85399
 longitude: -86.15935
 postcode: "46208"
 city: Indianapolis
-street: "North Illinois Street"
-housenumber: 5561
+street: North Illinois Street
+housenumber: "5561"
 phone: ""
 opening_hours: ""
 website: ""

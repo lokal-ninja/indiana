@@ -1,11 +1,11 @@
 id: 1042740469
-type: way
+type: node
 latitude: 39.70082
 longitude: -86.41081
 postcode: "46168"
 city: Plainfield
-street: "West Main Street"
-housenumber: 610
+street: West Main Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Plainfield/610-W-Main-Street"
+website: https://www.speedway.com/locations/IN/Plainfield/610-W-Main-Street

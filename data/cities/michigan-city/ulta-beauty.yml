@@ -1,11 +1,11 @@
 id: 494085787
-type: way
+type: node
 latitude: 41.67908
 longitude: -86.89631
 postcode: "46360"
 city: Michigan City
-street: "Dunes Plaza"
-housenumber: 120
-phone: "+1 219-879-1301"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/michigan-city-in-1016"
+street: Dunes Plaza
+housenumber: "120"
+phone: +1 219-879-1301
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/michigan-city-in-1016

@@ -1,11 +1,11 @@
 id: 625106235
-type: way
+type: node
 latitude: 39.87402
 longitude: -86.14275
 postcode: "46220"
 city: Indianapolis
-street: "Cornell Avenue"
-housenumber: 6516
-phone: "+1-317-251-7363"
+street: Cornell Avenue
+housenumber: "6516"
+phone: +1-317-251-7363
 opening_hours: ""
 website: ""

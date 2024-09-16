@@ -1,11 +1,11 @@
 id: 888427198
-type: way
+type: node
 latitude: 41.7142
 longitude: -85.0053
 postcode: "46737"
 city: Fremont
-street: "IN-127"
-housenumber: 4929
-phone: "+1 (260) 833-1374"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-16:00"
+street: IN-127
+housenumber: "4929"
+phone: +1 (260) 833-1374
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-16:00
 website: ""

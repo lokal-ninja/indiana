@@ -1,11 +1,11 @@
 id: 1145448085
-type: way
+type: node
 latitude: 41.5889
 longitude: -87.33556
 postcode: "46407"
 city: Gary
-street: "Massachusetts Street"
-housenumber: 1401
+street: Massachusetts Street
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

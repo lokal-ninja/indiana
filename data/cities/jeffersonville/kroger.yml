@@ -1,11 +1,11 @@
 id: 846595275
-type: way
+type: node
 latitude: 38.33575
 longitude: -85.7121
 postcode: "47130"
 city: Jeffersonville
-street: "Jeffersonville Commons Drive"
-housenumber: 1027
-phone: "+1 812-283-5222"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/in/jeffersonville/kroger-marketplace/024/00776"
+street: Jeffersonville Commons Drive
+housenumber: "1027"
+phone: +1 812-283-5222
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/in/jeffersonville/kroger-marketplace/024/00776

@@ -1,11 +1,11 @@
 id: 1291916696
-type: way
+type: node
 latitude: 38.31294
 longitude: -85.74516
 postcode: ""
 city: Jeffersonville
-street: "Production Drive"
-housenumber: 1636
+street: Production Drive
+housenumber: "1636"
 phone: ""
 opening_hours: ""
 website: ""

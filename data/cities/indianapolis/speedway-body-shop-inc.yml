@@ -1,11 +1,11 @@
 id: 962075245
-type: way
+type: node
 latitude: 39.78816
 longitude: -86.20386
 postcode: "46222"
 city: Indianapolis
-street: "West 16th Street"
-housenumber: 2534
+street: West 16th Street
+housenumber: "2534"
 phone: ""
 opening_hours: ""
 website: ""

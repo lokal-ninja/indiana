@@ -4,8 +4,8 @@ latitude: 39.71454
 longitude: -86.23523
 postcode: "46221"
 city: Indianapolis
-street: "Kentucky Avenue"
-housenumber: 3361
-phone: "+1 317-240-1588"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/marwood/021/00110"
+street: Kentucky Avenue
+housenumber: "3361"
+phone: +1 317-240-1588
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/marwood/021/00110

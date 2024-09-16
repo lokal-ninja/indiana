@@ -1,11 +1,11 @@
 id: 194183180
-type: way
+type: node
 latitude: 39.92546
 longitude: -86.11346
 postcode: "46240"
 city: Indianapolis
-street: "Haver Way"
-housenumber: 9445
+street: Haver Way
+housenumber: "9445"
 phone: ""
 opening_hours: ""
 website: ""

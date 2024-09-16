@@ -1,11 +1,11 @@
 id: 329512567
-type: way
+type: node
 latitude: 40.36829
 longitude: -86.85804
 postcode: "47909"
 city: Lafayette
-street: "Daugherty Drive"
-housenumber: 3229
-phone: "+1-765-474-3135"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-19:00"
-website: "https://goodwillindy.org"
+street: Daugherty Drive
+housenumber: "3229"
+phone: +1-765-474-3135
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-19:00
+website: https://goodwillindy.org

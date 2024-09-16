@@ -1,11 +1,11 @@
 id: 479975158
-type: way
+type: node
 latitude: 39.22837
 longitude: -85.90271
 postcode: "47201"
 city: Columbus
-street: "National Road"
-housenumber: 3060
-phone: "+1 812-376-9566"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/columbus/columbus-marketplace/021/00710"
+street: National Road
+housenumber: "3060"
+phone: +1 812-376-9566
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/columbus/columbus-marketplace/021/00710

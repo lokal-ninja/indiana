@@ -1,11 +1,11 @@
 id: 683260299
-type: way
+type: node
 latitude: 39.82573
 longitude: -86.12602
 postcode: "46218"
 city: Indianapolis
-street: "East 38th Street"
-housenumber: 1922
+street: East 38th Street
+housenumber: "1922"
 phone: ""
 opening_hours: ""
 website: ""

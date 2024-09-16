@@ -1,11 +1,11 @@
 id: 473366398
-type: way
+type: node
 latitude: 41.69486
 longitude: -86.22236
 postcode: "46637"
 city: South Bend
-street: "South Bend Avenue"
-housenumber: 1706
+street: South Bend Avenue
+housenumber: "1706"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/South-Bend/1706-South-Bend-Avenue"
+website: https://www.speedway.com/locations/IN/South-Bend/1706-South-Bend-Avenue

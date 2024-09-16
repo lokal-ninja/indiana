@@ -1,11 +1,11 @@
 id: 636473658
-type: way
+type: node
 latitude: 41.07532
 longitude: -85.14753
 postcode: "46802"
 city: Fort Wayne
-street: "Broadway"
-housenumber: 1031
+street: Broadway
+housenumber: "1031"
 phone: ""
 opening_hours: ""
 website: ""

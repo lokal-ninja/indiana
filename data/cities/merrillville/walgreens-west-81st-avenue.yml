@@ -1,11 +1,11 @@
 id: 1037858443
-type: way
+type: node
 latitude: 41.47141
 longitude: -87.34121
 postcode: "46410"
 city: Merrillville
-street: "West 81st Avenue"
-housenumber: 400
+street: West 81st Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-400+w+lincoln+hwy-merrillville-in-46410/id=4750"
+website: https://www.walgreens.com/locator/walgreens-400+w+lincoln+hwy-merrillville-in-46410/id=4750

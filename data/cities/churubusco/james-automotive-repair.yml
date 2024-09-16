@@ -1,11 +1,11 @@
 id: 1274249898
-type: way
+type: node
 latitude: 41.22946
 longitude: -85.31983
 postcode: "46723"
 city: Churubusco
-street: "South Mulberry Street"
-housenumber: 115
+street: South Mulberry Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

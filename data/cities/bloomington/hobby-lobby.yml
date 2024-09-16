@@ -1,11 +1,11 @@
 id: 250874321
-type: way
+type: node
 latitude: 39.15312
 longitude: -86.49569
 postcode: "47401"
 city: Bloomington
-street: "South College Mall Road"
-housenumber: 1275
+street: South College Mall Road
+housenumber: "1275"
 phone: ""
 opening_hours: ""
 website: ""

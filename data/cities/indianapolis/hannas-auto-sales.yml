@@ -1,11 +1,11 @@
 id: 1006397883
-type: way
+type: node
 latitude: 39.83941
 longitude: -86.12146
 postcode: "46205"
 city: Indianapolis
-street: "North Keystone Avenue"
-housenumber: 4545
+street: North Keystone Avenue
+housenumber: "4545"
 phone: ""
 opening_hours: ""
 website: ""

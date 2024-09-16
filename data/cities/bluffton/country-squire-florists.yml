@@ -1,11 +1,11 @@
 id: 1059344894
-type: way
+type: node
 latitude: 40.74134
 longitude: -85.17177
 postcode: "46714"
 city: Bluffton
-street: "North Main Street"
-housenumber: 214
+street: North Main Street
+housenumber: "214"
 phone: "+12608241334"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.countrysquireflorist.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.countrysquireflorist.com/

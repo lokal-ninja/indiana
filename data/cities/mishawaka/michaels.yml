@@ -1,11 +1,11 @@
 id: 130802989
-type: way
+type: node
 latitude: 41.71728
 longitude: -86.18657
 postcode: "46545"
 city: Mishawaka
-street: "Grape Road"
-housenumber: 6502
-phone: "+1 574-271-0112"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/in/mishawaka/9403"
+street: Grape Road
+housenumber: "6502"
+phone: +1 574-271-0112
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/in/mishawaka/9403

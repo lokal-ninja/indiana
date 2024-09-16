@@ -1,11 +1,11 @@
 id: 719056415
-type: way
+type: node
 latitude: 40.42193
 longitude: -86.86027
 postcode: "47904"
 city: Lafayette
-street: "North Earl Avenue"
-housenumber: 501
+street: North Earl Avenue
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 905272901
-type: way
+type: node
 latitude: 39.71671
 longitude: -86.23267
 postcode: "46221"
 city: Indianapolis
-street: "Kentucky Avenue"
-housenumber: 3141
+street: Kentucky Avenue
+housenumber: "3141"
 phone: ""
 opening_hours: ""
 website: ""

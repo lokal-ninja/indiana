@@ -1,11 +1,11 @@
 id: 1231781820
-type: way
+type: node
 latitude: 41.67765
 longitude: -87.49354
 postcode: "46394"
 city: Whiting
-street: "New York Avenue"
-housenumber: 1950
+street: New York Avenue
+housenumber: "1950"
 phone: ""
 opening_hours: ""
 website: ""

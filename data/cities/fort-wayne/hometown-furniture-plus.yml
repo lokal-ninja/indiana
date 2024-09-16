@@ -1,11 +1,11 @@
 id: 1105896162
-type: way
+type: node
 latitude: 41.08869
 longitude: -85.15581
 postcode: "46808"
 city: Fort Wayne
-street: "St Marys Avenue"
-housenumber: 1536
-phone: "+1-260-387-5017"
-opening_hours: "Mo,Fr 09:00-19:00; Tu-Sa 09:00-18:00"
-website: "https://www.hometownfurnitureplus.com/Fort_Wayne_Indiana"
+street: St Marys Avenue
+housenumber: "1536"
+phone: +1-260-387-5017
+opening_hours: Mo,Fr 09:00-19:00; Tu-Sa 09:00-18:00
+website: https://www.hometownfurnitureplus.com/Fort_Wayne_Indiana

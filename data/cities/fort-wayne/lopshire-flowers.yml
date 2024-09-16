@@ -1,11 +1,11 @@
 id: 565922035
-type: way
+type: node
 latitude: 41.0991
 longitude: -85.06071
 postcode: "46815"
 city: Fort Wayne
-street: "Maplecrest Road"
-housenumber: 2211
+street: Maplecrest Road
+housenumber: "2211"
 phone: ""
 opening_hours: ""
 website: ""

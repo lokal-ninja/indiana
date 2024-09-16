@@ -1,11 +1,11 @@
 id: 667284388
-type: way
+type: node
 latitude: 38.65853
 longitude: -87.50494
 postcode: "47591"
 city: Vincennes
-street: "South Hart Street Road"
-housenumber: 1270
-phone: "+1-812-291-5182"
+street: South Hart Street Road
+housenumber: "1270"
+phone: +1-812-291-5182
 opening_hours: ""
-website: "https://www.yochumcdjr.net"
+website: https://www.yochumcdjr.net

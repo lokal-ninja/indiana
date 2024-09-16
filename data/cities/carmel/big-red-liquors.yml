@@ -1,11 +1,11 @@
 id: 195631564
-type: way
+type: node
 latitude: 39.95701
 longitude: -86.11697
 postcode: "46032"
 city: Carmel
-street: "East 116th Street"
-housenumber: 2290
+street: East 116th Street
+housenumber: "2290"
 phone: ""
 opening_hours: ""
 website: ""

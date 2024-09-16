@@ -1,11 +1,11 @@
 id: 195533041
-type: way
+type: node
 latitude: 39.96007
 longitude: -86.12752
 postcode: "46032"
 city: Carmel
-street: "South Range Line Road"
-housenumber: 1314
-phone: "+1-317-708-7029"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00"
-website: "https://local.firestonecompleteautocare.com/indiana/carmel/1314-s-rangeline-rd"
+street: South Range Line Road
+housenumber: "1314"
+phone: +1-317-708-7029
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
+website: https://local.firestonecompleteautocare.com/indiana/carmel/1314-s-rangeline-rd

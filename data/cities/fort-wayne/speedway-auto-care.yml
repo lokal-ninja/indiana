@@ -1,11 +1,11 @@
 id: 757745485
-type: way
+type: node
 latitude: 41.12157
 longitude: -85.14218
 postcode: "46825"
 city: Fort Wayne
-street: "West Collins Road"
-housenumber: 219
+street: West Collins Road
+housenumber: "219"
 phone: ""
 opening_hours: ""
 website: ""

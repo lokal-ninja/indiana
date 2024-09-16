@@ -1,11 +1,11 @@
 id: 473176248
-type: way
+type: node
 latitude: 41.06955
 longitude: -85.20378
 postcode: "46804"
 city: Fort Wayne
-street: "Apple Glen Boulevard"
-housenumber: 1710
-phone: "+1 260-436-0113"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1804/fort-wayne-in/whats-new"
+street: Apple Glen Boulevard
+housenumber: "1710"
+phone: +1 260-436-0113
+opening_hours: 24/7
+website: https://www.walmart.com/store/1804/fort-wayne-in/whats-new

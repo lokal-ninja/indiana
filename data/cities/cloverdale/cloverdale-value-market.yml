@@ -1,11 +1,11 @@
 id: 1080438211
-type: way
+type: node
 latitude: 39.52544
 longitude: -86.80388
 postcode: "46120"
 city: Cloverdale
-street: "Stardust Rd"
-housenumber: 4
+street: Stardust Rd
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

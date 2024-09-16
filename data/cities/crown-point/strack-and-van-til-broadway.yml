@@ -1,11 +1,11 @@
 id: 381823191
-type: way
+type: node
 latitude: 41.42246
 longitude: -87.33308
 postcode: "46307"
 city: Crown Point
-street: "Broadway"
-housenumber: 10851
+street: Broadway
+housenumber: "10851"
 phone: ""
 opening_hours: ""
 website: ""

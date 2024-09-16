@@ -1,11 +1,11 @@
 id: 1303732209
-type: way
+type: node
 latitude: 38.31879
 longitude: -86.95647
 postcode: "47542"
 city: Huntingburg
-street: "East 22nd Street"
-housenumber: 401
+street: East 22nd Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

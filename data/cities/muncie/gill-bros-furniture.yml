@@ -1,11 +1,11 @@
 id: 1135183683
-type: way
+type: node
 latitude: 40.21877
 longitude: -85.48419
 postcode: "47304"
 city: Muncie
-street: "West Vern Drive"
-housenumber: 8300
+street: West Vern Drive
+housenumber: "8300"
 phone: ""
 opening_hours: ""
 website: ""

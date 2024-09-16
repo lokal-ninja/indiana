@@ -1,11 +1,12 @@
 id: 731983920
-type: way
+type: node
 latitude: 39.43348
 longitude: -87.32933
 postcode: "47803"
 city: Terre Haute
-street: "East Margaret Drive"
-housenumber: 5717
-phone: "+1-888-482-6225"
-opening_hours: "Mo-Fr 08:00-18:00 open sales; Sa 08:00-12:00 open sales; Mo-Fr 07:00-24:00 parts and service; Sa 07:00-13:00  parts and service"
-website: "https://www.trucksalesgroup.com/"
+street: East Margaret Drive
+housenumber: "5717"
+phone: +1-888-482-6225
+opening_hours: Mo-Fr 08:00-18:00 open "sales"; Sa 08:00-12:00 open "sales"; Mo-Fr
+    07:00-24:00 "parts and service"; Sa 07:00-13:00  "parts and service"
+website: https://www.trucksalesgroup.com/

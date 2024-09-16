@@ -1,11 +1,11 @@
 id: 560064236
-type: way
+type: node
 latitude: 38.8659
 longitude: -86.48794
 postcode: "47421"
 city: Bedford
-street: "Lincoln Avenue"
-housenumber: 1133
+street: Lincoln Avenue
+housenumber: "1133"
 phone: ""
 opening_hours: ""
 website: ""

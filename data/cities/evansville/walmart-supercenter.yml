@@ -1,11 +1,11 @@
 id: 350931539
-type: way
+type: node
 latitude: 37.98109
 longitude: -87.47147
 postcode: "47715"
 city: Evansville
-street: "North Burkhardt Road"
-housenumber: 401
-phone: "+1 812-473-1815"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1263/evansville-in/whats-new"
+street: North Burkhardt Road
+housenumber: "401"
+phone: +1 812-473-1815
+opening_hours: 24/7
+website: https://www.walmart.com/store/1263/evansville-in/whats-new

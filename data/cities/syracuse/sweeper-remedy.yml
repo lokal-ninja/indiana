@@ -1,11 +1,11 @@
 id: 845491917
-type: way
+type: node
 latitude: 41.42811
 longitude: -85.75279
 postcode: "46567"
 city: Syracuse
-street: "East Main Street"
-housenumber: 100
+street: East Main Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

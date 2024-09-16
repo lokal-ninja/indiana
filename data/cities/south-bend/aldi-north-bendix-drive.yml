@@ -1,11 +1,11 @@
 id: 421145243
-type: way
+type: node
 latitude: 41.72434
 longitude: -86.28916
 postcode: "46628"
 city: South Bend
-street: "North Bendix Drive"
-housenumber: 3502
-phone: "+1 833-462-1068"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/in/south-bend/3502-n-bendix-drive"
+street: North Bendix Drive
+housenumber: "3502"
+phone: +1 833-462-1068
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/in/south-bend/3502-n-bendix-drive

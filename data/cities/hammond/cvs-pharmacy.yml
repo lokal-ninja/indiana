@@ -1,11 +1,11 @@
 id: 1242292145
-type: way
+type: node
 latitude: 41.59607
 longitude: -87.50851
 postcode: "46324"
 city: Hammond
-street: "Calumet Avenue"
-housenumber: 6445
+street: Calumet Avenue
+housenumber: "6445"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/hammond-in-pharmacies/6445-calumet-ave-hammond-in-46324/storeid=2520"
+website: https://www.cvs.com/store-locator/hammond-in-pharmacies/6445-calumet-ave-hammond-in-46324/storeid=2520

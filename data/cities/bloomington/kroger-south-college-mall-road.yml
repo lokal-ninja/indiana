@@ -1,11 +1,11 @@
 id: 250874322
-type: way
+type: node
 latitude: 39.15313
 longitude: -86.49471
 postcode: "47401"
 city: Bloomington
-street: "South College Mall Road"
-housenumber: 1175
-phone: "+1 812-333-5760"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/bloomington/jackson-creek/021/00928"
+street: South College Mall Road
+housenumber: "1175"
+phone: +1 812-333-5760
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/bloomington/jackson-creek/021/00928

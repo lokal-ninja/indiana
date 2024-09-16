@@ -1,11 +1,11 @@
 id: 352626755
-type: way
+type: node
 latitude: 38.18588
 longitude: -87.78358
 postcode: "47633"
 city: Poseyville
-street: "Highway 165"
-housenumber: 10100
+street: Highway 165
+housenumber: "10100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 680614636
-type: way
+type: node
 latitude: 39.84
 longitude: -86.12446
 postcode: "46205"
 city: Indianapolis
-street: "East 46th Street"
-housenumber: 2019
-phone: "+1-317-259-0168"
+street: East 46th Street
+housenumber: "2019"
+phone: +1-317-259-0168
 opening_hours: ""
 website: ""

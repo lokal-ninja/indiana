@@ -1,11 +1,11 @@
 id: 593166373
-type: way
+type: node
 latitude: 40.44515
 longitude: -86.87011
 postcode: "47905"
 city: Lafayette
-street: "Blitz Drive"
-housenumber: 10
+street: Blitz Drive
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1042509828
-type: way
+type: node
 latitude: 39.60209
 longitude: -86.37317
 postcode: "46158"
 city: Mooresville
-street: "South State Road 67"
-housenumber: 523
+street: South State Road 67
+housenumber: "523"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mooresville-in-pharmacies/523-south-state-road-67-mooresville-in-46158/storeid=6551"
+website: https://www.cvs.com/store-locator/mooresville-in-pharmacies/523-south-state-road-67-mooresville-in-46158/storeid=6551

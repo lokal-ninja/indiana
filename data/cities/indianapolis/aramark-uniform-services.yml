@@ -1,11 +1,11 @@
 id: 205196403
-type: way
+type: node
 latitude: 39.75905
 longitude: -86.19648
 postcode: "46221"
 city: Indianapolis
-street: "Oliver Avenue"
-housenumber: 2050
+street: Oliver Avenue
+housenumber: "2050"
 phone: ""
 opening_hours: ""
 website: ""

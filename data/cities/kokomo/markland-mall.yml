@@ -1,11 +1,11 @@
 id: 727593749
-type: way
+type: node
 latitude: 40.47281
 longitude: -86.10999
 postcode: "46902"
 city: Kokomo
-street: "South Reed Road"
-housenumber: 1201
+street: South Reed Road
+housenumber: "1201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.21748
 longitude: -85.40345
 postcode: "47304"
 city: Muncie
-street: "McGalliard Boulevard"
-housenumber: 1501
+street: McGalliard Boulevard
+housenumber: "1501"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/in/muncie/1501-mcgalliard-blvd"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/in/muncie/1501-mcgalliard-blvd

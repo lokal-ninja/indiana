@@ -1,11 +1,11 @@
 id: 1009747110
-type: way
+type: node
 latitude: 39.82914
 longitude: -86.12354
 postcode: "46205"
 city: Indianapolis
-street: "Millersville Road"
-housenumber: 4051
+street: Millersville Road
+housenumber: "4051"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 647478220
-type: way
+type: node
 latitude: 39.60448
 longitude: -86.37651
 postcode: "46158"
 city: Mooresville
-street: "South Indiana Street"
-housenumber: 530
-phone: "+1 317-831-0241"
-opening_hours: "24/7"
-website: "https://www.kroger.com/stores/grocery/in/mooresville/mooresville/021/00921"
+street: South Indiana Street
+housenumber: "530"
+phone: +1 317-831-0241
+opening_hours: 24/7
+website: https://www.kroger.com/stores/grocery/in/mooresville/mooresville/021/00921

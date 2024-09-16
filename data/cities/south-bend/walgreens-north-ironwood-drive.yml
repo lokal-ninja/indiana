@@ -1,11 +1,11 @@
 id: 473432051
-type: way
+type: node
 latitude: 41.69369
 longitude: -86.21723
 postcode: "46615"
 city: South Bend
-street: "North Ironwood Drive"
-housenumber: 1351
+street: North Ironwood Drive
+housenumber: "1351"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1351+n+ironwood+dr-south+bend-in-46615/id=10184"
+website: https://www.walgreens.com/locator/walgreens-1351+n+ironwood+dr-south+bend-in-46615/id=10184

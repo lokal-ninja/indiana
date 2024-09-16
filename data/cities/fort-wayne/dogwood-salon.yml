@@ -1,11 +1,11 @@
 id: 855167045
-type: way
+type: node
 latitude: 41.09628
 longitude: -85.17707
 postcode: "46808"
 city: Fort Wayne
-street: "West State Boulevard"
-housenumber: 2604
+street: West State Boulevard
+housenumber: "2604"
 phone: "+12604834740"
-opening_hours: "Mo closed; Tu-Fr 10:00-19:00; Sa 10:00-15:00; Su 11:00-17:00"
-website: "https://m.facebook.com/dogwoodsalon/"
+opening_hours: Mo closed; Tu-Fr 10:00-19:00; Sa 10:00-15:00; Su 11:00-17:00
+website: https://m.facebook.com/dogwoodsalon/

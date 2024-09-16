@@ -1,11 +1,11 @@
 id: 682706893
-type: way
+type: node
 latitude: 40.75496
 longitude: -86.36299
 postcode: "46947"
 city: Logansport
-street: "South 6th Street"
-housenumber: 220
-phone: "574-601-6698"
+street: South 6th Street
+housenumber: "220"
+phone: 574-601-6698
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.64713
 longitude: -86.83849
 postcode: "46135"
 city: Greencastle
-street: "Indianapolis Rd"
-housenumber: 1021
-phone: "+1 765 653 6587"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH 12:00-18:00"
-website: "https://www.wvgoodwill.org"
+street: Indianapolis Rd
+housenumber: "1021"
+phone: +1 765 653 6587
+opening_hours: Mo-Sa 10:00-19:00; Su,PH 12:00-18:00
+website: https://www.wvgoodwill.org

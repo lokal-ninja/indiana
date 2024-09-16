@@ -1,11 +1,11 @@
 id: 599395249
-type: way
+type: node
 latitude: 41.61731
 longitude: -85.90123
 postcode: "46526"
 city: Goshen
-street: "Elkhart Road"
-housenumber: 4024
-phone: "+1 574-875-6601"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1566/goshen-in/whats-new"
+street: Elkhart Road
+housenumber: "4024"
+phone: +1 574-875-6601
+opening_hours: 24/7
+website: https://www.walmart.com/store/1566/goshen-in/whats-new

@@ -1,11 +1,11 @@
 id: 1274643526
-type: way
+type: node
 latitude: 40.74385
 longitude: -86.77936
 postcode: "47960"
 city: Monticello
-street: "West Broadway Street"
-housenumber: 1037
+street: West Broadway Street
+housenumber: "1037"
 phone: ""
 opening_hours: ""
-website: "https://locations.pompstire.com/"
+website: https://locations.pompstire.com/

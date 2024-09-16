@@ -1,11 +1,11 @@
 id: 1022404057
-type: way
+type: node
 latitude: 39.78113
 longitude: -86.23185
 postcode: "46222"
 city: Speedway
-street: "West 10th Street"
-housenumber: 4000
+street: West 10th Street
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

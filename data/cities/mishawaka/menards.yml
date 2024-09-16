@@ -1,11 +1,11 @@
 id: 199424677
-type: way
+type: node
 latitude: 41.71739
 longitude: -86.18117
 postcode: "46545"
 city: Mishawaka
-street: "West University Drive"
-housenumber: 365
+street: West University Drive
+housenumber: "365"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3098"
+website: https://www.menards.com/store-details/store.html?store=3098

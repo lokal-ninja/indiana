@@ -1,11 +1,11 @@
 id: 668420590
-type: way
+type: node
 latitude: 41.47343
 longitude: -87.29863
 postcode: "46410"
 city: Merrillville
-street: "East 79th Avenue"
-housenumber: 3134
-phone: "+1 219 942 3711"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/merrillville-in-sams-club/8174"
+street: East 79th Avenue
+housenumber: "3134"
+phone: +1 219 942 3711
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00
+website: https://www.samsclub.com/club/merrillville-in-sams-club/8174

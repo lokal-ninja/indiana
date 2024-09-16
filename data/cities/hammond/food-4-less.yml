@@ -1,11 +1,11 @@
 id: 1221815822
-type: way
+type: node
 latitude: 41.59414
 longitude: -87.48749
 postcode: "46320"
 city: Hammond
-street: "165th Street"
-housenumber: 1724
+street: 165th Street
+housenumber: "1724"
 phone: ""
 opening_hours: ""
 website: ""

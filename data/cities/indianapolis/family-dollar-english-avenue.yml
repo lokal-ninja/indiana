@@ -1,11 +1,11 @@
 id: 969641158
-type: way
+type: node
 latitude: 39.76089
 longitude: -86.08016
 postcode: "46219"
 city: Indianapolis
-street: "English Avenue"
-housenumber: 5220
+street: English Avenue
+housenumber: "5220"
 phone: ""
 opening_hours: ""
 website: ""

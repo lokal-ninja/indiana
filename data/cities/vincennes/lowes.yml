@@ -1,11 +1,11 @@
 id: 233155742
-type: way
+type: node
 latitude: 38.69307
 longitude: -87.50128
 postcode: "47591"
 city: Vincennes
-street: "North 6th Street"
-housenumber: 2700
-phone: "+1 812-895-0538"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-vincennes/1610"
+street: North 6th Street
+housenumber: "2700"
+phone: +1 812-895-0538
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-vincennes/1610

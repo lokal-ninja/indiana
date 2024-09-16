@@ -1,11 +1,11 @@
 id: 1309108930
-type: way
+type: node
 latitude: 41.47357
 longitude: -87.30659
 postcode: "46410"
 city: Merrillville
-street: "East 79th Avenue"
-housenumber: 2490
-phone: "+1 219-947-9447"
+street: East 79th Avenue
+housenumber: "2490"
+phone: +1 219-947-9447
 opening_hours: ""
-website: "https://stores.bestbuy.com/in/merrillville/2490-e-79th-ave-309.html"
+website: https://stores.bestbuy.com/in/merrillville/2490-e-79th-ave-309.html

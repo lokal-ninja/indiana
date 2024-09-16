@@ -1,11 +1,11 @@
 id: 1288203957
-type: way
+type: node
 latitude: 38.2762
 longitude: -86.96043
 postcode: "47542"
 city: Huntingburg
-street: "South Main Street"
-housenumber: 1103
+street: South Main Street
+housenumber: "1103"
 phone: "+18126833620"
 opening_hours: ""
-website: "https://www.karsonweb.net/"
+website: https://www.karsonweb.net/

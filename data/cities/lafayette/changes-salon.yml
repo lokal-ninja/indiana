@@ -1,11 +1,11 @@
 id: 617027874
-type: way
+type: node
 latitude: 40.42515
 longitude: -86.84042
 postcode: "47905"
 city: Lafayette
-street: "Union Street"
-housenumber: 3760
+street: Union Street
+housenumber: "3760"
 phone: ""
 opening_hours: ""
 website: ""

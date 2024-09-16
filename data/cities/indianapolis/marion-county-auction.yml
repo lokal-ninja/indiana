@@ -1,11 +1,11 @@
 id: 978523067
-type: way
+type: node
 latitude: 39.74727
 longitude: -86.21434
 postcode: "46241"
 city: Indianapolis
-street: "South Moreland Avenue"
-housenumber: 1347
+street: South Moreland Avenue
+housenumber: "1347"
 phone: ""
 opening_hours: ""
 website: ""

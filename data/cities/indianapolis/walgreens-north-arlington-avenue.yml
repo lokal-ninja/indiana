@@ -1,11 +1,11 @@
 id: 891399617
-type: way
+type: node
 latitude: 39.78151
 longitude: -86.06352
 postcode: "46219"
 city: Indianapolis
-street: "North Arlington Avenue"
-housenumber: 985
+street: North Arlington Avenue
+housenumber: "985"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-985+n+arlington+ave-indianapolis-in-46219/id=13874"
+website: https://www.walgreens.com/locator/walgreens-985+n+arlington+ave-indianapolis-in-46219/id=13874

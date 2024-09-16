@@ -1,11 +1,11 @@
 id: 1293299840
-type: way
+type: node
 latitude: 41.59461
 longitude: -87.50139
 postcode: "46320"
 city: Hammond
-street: "Columbia Avenue"
-housenumber: 6518
-phone: "+1 833-462-1020"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/in/hammond/6518-columbia-ave"
+street: Columbia Avenue
+housenumber: "6518"
+phone: +1 833-462-1020
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/in/hammond/6518-columbia-ave

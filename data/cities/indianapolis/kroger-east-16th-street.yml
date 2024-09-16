@@ -1,11 +1,11 @@
 id: 395979259
-type: way
+type: node
 latitude: 39.78938
 longitude: -86.14841
 postcode: "46202"
 city: Indianapolis
-street: "East 16th Street"
-housenumber: 524
-phone: "+1 317-923-6858"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/indy-downtown/021/00001"
+street: East 16th Street
+housenumber: "524"
+phone: +1 317-923-6858
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/indy-downtown/021/00001

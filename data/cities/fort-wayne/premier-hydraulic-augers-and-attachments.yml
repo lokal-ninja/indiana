@@ -1,11 +1,11 @@
 id: 527130634
-type: way
+type: node
 latitude: 41.09119
 longitude: -85.1754
 postcode: "46808"
 city: Fort Wayne
-street: "Lofty Drive"
-housenumber: 2707
-phone: "+1-260-456-8518"
-opening_hours: "Mo-Fr 08:00-16:30; Sa, Su closed"
-website: "https://www.premierattach.com/"
+street: Lofty Drive
+housenumber: "2707"
+phone: +1-260-456-8518
+opening_hours: Mo-Fr 08:00-16:30; Sa, Su closed
+website: https://www.premierattach.com/

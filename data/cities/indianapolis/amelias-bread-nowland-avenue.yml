@@ -1,11 +1,11 @@
 id: 941874920
-type: way
+type: node
 latitude: 39.78478
 longitude: -86.13005
 postcode: "46201"
 city: Indianapolis
-street: "Nowland Avenue"
-housenumber: 1637
-phone: "(317) 686-1583"
-opening_hours: "Mo-Su 08:00-20:00"
+street: Nowland Avenue
+housenumber: "1637"
+phone: (317) 686-1583
+opening_hours: Mo-Su 08:00-20:00
 website: ""

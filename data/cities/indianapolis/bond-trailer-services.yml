@@ -1,11 +1,11 @@
 id: 964446422
-type: way
+type: node
 latitude: 39.72176
 longitude: -86.17542
 postcode: "46225"
 city: Indianapolis
-street: "West Troy Avenue"
-housenumber: 925
+street: West Troy Avenue
+housenumber: "925"
 phone: ""
 opening_hours: ""
 website: ""

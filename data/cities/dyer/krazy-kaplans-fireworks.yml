@@ -1,11 +1,11 @@
 id: 1081330073
-type: way
+type: node
 latitude: 41.49392
 longitude: -87.5111
 postcode: "46311"
 city: Dyer
-street: "Clark Road"
-housenumber: 2071
-phone: "219-865-3380"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://krazykaplans.com/"
+street: Clark Road
+housenumber: "2071"
+phone: 219-865-3380
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://krazykaplans.com/

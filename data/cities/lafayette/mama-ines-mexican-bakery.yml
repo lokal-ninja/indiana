@@ -1,11 +1,11 @@
 id: 476680007
-type: way
+type: node
 latitude: 40.42271
 longitude: -86.8591
 postcode: "47904"
 city: Lafayette
-street: "Sagamore Parkway"
-housenumber: 518
-phone: "+1 765 446 2629"
-opening_hours: "05:00-22:00"
+street: Sagamore Parkway
+housenumber: "518"
+phone: +1 765 446 2629
+opening_hours: 05:00-22:00
 website: ""

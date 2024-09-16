@@ -1,11 +1,11 @@
 id: 444793279
-type: way
+type: node
 latitude: 40.00231
 longitude: -86.12949
 postcode: "46032"
 city: Carmel
-street: "North Meridian Street"
-housenumber: 14720
-phone: "+1 317-815-9568"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "http://stores.petsmart.com/504"
+street: North Meridian Street
+housenumber: "14720"
+phone: +1 317-815-9568
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: http://stores.petsmart.com/504

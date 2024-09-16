@@ -1,11 +1,11 @@
 id: 177676595
-type: way
+type: node
 latitude: 39.29151
 longitude: -86.78488
 postcode: "47460"
 city: Spencer
-street: "West State Road 46"
-housenumber: 832
-phone: "+1 812-829-2251"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/996/spencer-in/whats-new"
+street: West State Road 46
+housenumber: "832"
+phone: +1 812-829-2251
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/996/spencer-in/whats-new

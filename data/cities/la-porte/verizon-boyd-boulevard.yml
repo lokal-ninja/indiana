@@ -1,11 +1,11 @@
 id: 1082156814
-type: way
+type: node
 latitude: 41.62272
 longitude: -86.6946
 postcode: "46350"
 city: La Porte
-street: "Boyd Boulevard"
-housenumber: 105
+street: Boyd Boulevard
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://locations.tccrocks.com/in/la-porte/155-boyd-blvd-.html"
+website: https://locations.tccrocks.com/in/la-porte/155-boyd-blvd-.html

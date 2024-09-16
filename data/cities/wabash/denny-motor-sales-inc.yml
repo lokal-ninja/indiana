@@ -1,11 +1,11 @@
 id: 553751651
-type: way
+type: node
 latitude: 40.79534
 longitude: -85.822
 postcode: "46992"
 city: Wabash
-street: "West Water Street"
-housenumber: 50
+street: West Water Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.denneymotorsales.com/"
+website: https://www.denneymotorsales.com/

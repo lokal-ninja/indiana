@@ -1,11 +1,11 @@
 id: 1228855520
-type: way
+type: node
 latitude: 39.9489
 longitude: -86.3327
 postcode: "46077"
 city: Zionsville
-street: "Whitestown Parkway"
-housenumber: 7161
+street: Whitestown Parkway
+housenumber: "7161"
 phone: ""
 opening_hours: ""
 website: ""

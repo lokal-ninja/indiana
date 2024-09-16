@@ -1,11 +1,11 @@
 id: 941169057
-type: way
+type: node
 latitude: 41.07216
 longitude: -85.19894
-postcode: "46804-6818"
+postcode: 46804-6818
 city: Fort Wayne
-street: "West Jefferson Boulevard"
-housenumber: 4230
-phone: "+1 260-459-2054"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/in/fort-wayne/2868"
+street: West Jefferson Boulevard
+housenumber: "4230"
+phone: +1 260-459-2054
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/in/fort-wayne/2868

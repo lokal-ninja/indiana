@@ -1,11 +1,11 @@
 id: 527707087
-type: way
+type: node
 latitude: 41.08029
 longitude: -85.14631
 postcode: "46802"
 city: Fort Wayne
-street: "Pearl Street"
-housenumber: 432
-phone: "+1-260-426-2886"
+street: Pearl Street
+housenumber: "432"
+phone: +1-260-426-2886
 opening_hours: ""
 website: ""

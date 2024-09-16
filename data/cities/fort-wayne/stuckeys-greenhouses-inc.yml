@@ -1,11 +1,11 @@
 id: 970733075
-type: way
+type: node
 latitude: 41.09252
 longitude: -85.16858
 postcode: "46808"
 city: Fort Wayne
-street: "Tyler Avenue"
-housenumber: 1919
+street: Tyler Avenue
+housenumber: "1919"
 phone: ""
 opening_hours: ""
 website: ""

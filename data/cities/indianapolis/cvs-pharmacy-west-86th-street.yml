@@ -1,11 +1,11 @@
 id: 509109614
-type: way
+type: node
 latitude: 39.9116
 longitude: -86.18331
 postcode: "46260"
 city: Indianapolis
-street: "West 86th Street"
-housenumber: 1375
+street: West 86th Street
+housenumber: "1375"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indianapolis-in-pharmacies/1375-west-86th-st-indianapolis-in-46260/storeid=6572"
+website: https://www.cvs.com/store-locator/indianapolis-in-pharmacies/1375-west-86th-st-indianapolis-in-46260/storeid=6572

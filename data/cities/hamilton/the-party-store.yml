@@ -1,11 +1,11 @@
 id: 1243181113
-type: way
+type: node
 latitude: 41.53374
 longitude: -84.91268
 postcode: "46742"
 city: Hamilton
-street: "East Bellefontaine Road"
-housenumber: 3990
+street: East Bellefontaine Road
+housenumber: "3990"
 phone: ""
 opening_hours: ""
 website: ""

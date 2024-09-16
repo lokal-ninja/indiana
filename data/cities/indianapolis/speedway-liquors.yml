@@ -1,11 +1,11 @@
 id: 394367943
-type: way
+type: node
 latitude: 39.79771
 longitude: -86.15684
 postcode: "46208"
 city: Indianapolis
-street: "North Meridian Street"
-housenumber: 2209
+street: North Meridian Street
+housenumber: "2209"
 phone: ""
 opening_hours: ""
 website: ""

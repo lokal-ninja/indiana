@@ -1,11 +1,11 @@
 id: 30937251
-type: way
+type: node
 latitude: 41.22894
 longitude: -85.31946
 postcode: "46723"
 city: Churubusco
-street: "South Main Street"
-housenumber: 308
+street: South Main Street
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

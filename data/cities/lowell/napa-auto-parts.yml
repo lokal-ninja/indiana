@@ -1,11 +1,11 @@
 id: 539152083
-type: way
+type: node
 latitude: 41.29235
 longitude: -87.42144
 postcode: "46356"
 city: Lowell
-street: "Mill Street"
-housenumber: 128
-phone: "+1-219-696-0761"
+street: Mill Street
+housenumber: "128"
+phone: +1-219-696-0761
 opening_hours: ""
 website: ""

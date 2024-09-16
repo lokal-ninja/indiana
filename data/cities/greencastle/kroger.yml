@@ -1,11 +1,11 @@
 id: 1016978333
-type: way
+type: node
 latitude: 39.64613
 longitude: -86.84841
 postcode: "46135"
 city: Greencastle
-street: "Indianapolis Road"
-housenumber: 821
-phone: "+1 765-653-8032"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/greencastle/greencastle/021/00961"
+street: Indianapolis Road
+housenumber: "821"
+phone: +1 765-653-8032
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.kroger.com/stores/grocery/in/greencastle/greencastle/021/00961

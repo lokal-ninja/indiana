@@ -1,11 +1,11 @@
 id: 510548463
-type: way
+type: node
 latitude: 39.77732
 longitude: -85.99088
 postcode: "46229"
 city: Indianapolis
-street: "North Mitthoeffer Road"
-housenumber: 334
+street: North Mitthoeffer Road
+housenumber: "334"
 phone: ""
 opening_hours: ""
 website: ""

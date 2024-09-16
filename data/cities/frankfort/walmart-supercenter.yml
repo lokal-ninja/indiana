@@ -1,11 +1,11 @@
 id: 545491806
-type: way
+type: node
 latitude: 40.28189
 longitude: -86.4793
 postcode: "46041"
 city: Frankfort
-street: "East Wabash Street"
-housenumber: 2460
-phone: "+1 765-654-5528"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/854/frankfort-in/whats-new"
+street: East Wabash Street
+housenumber: "2460"
+phone: +1 765-654-5528
+opening_hours: 24/7
+website: https://www.walmart.com/store/854/frankfort-in/whats-new

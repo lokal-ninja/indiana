@@ -1,11 +1,11 @@
 id: 282540137
-type: way
+type: node
 latitude: 39.16522
 longitude: -86.58277
 postcode: "47404"
 city: Bloomington
-street: "West 3rd Street"
-housenumber: 3910
-phone: "+1-812-339-4006"
+street: West 3rd Street
+housenumber: "3910"
+phone: +1-812-339-4006
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/bloomington-in-pharmacies/3910-west-3rd-st-bloomington-in-47404/storeid=8665"
+website: https://www.cvs.com/store-locator/bloomington-in-pharmacies/3910-west-3rd-st-bloomington-in-47404/storeid=8665

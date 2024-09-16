@@ -1,11 +1,11 @@
 id: 621341789
-type: way
+type: node
 latitude: 41.34439
 longitude: -86.29752
 postcode: ""
 city: Plymouth
-street: "East Jefferson Street"
-housenumber: 885
+street: East Jefferson Street
+housenumber: "885"
 phone: ""
 opening_hours: ""
 website: ""

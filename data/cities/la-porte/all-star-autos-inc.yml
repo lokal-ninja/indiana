@@ -1,11 +1,11 @@
 id: 1091005643
-type: way
+type: node
 latitude: 41.62444
 longitude: -86.69402
 postcode: "46350"
 city: La Porte
-street: "East Lincolnway"
-housenumber: 1403
-phone: "+1 219-326-6100"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-15:00, Su closed"
-website: "https://allstarlaporte.com"
+street: East Lincolnway
+housenumber: "1403"
+phone: +1 219-326-6100
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-15:00, Su closed
+website: https://allstarlaporte.com

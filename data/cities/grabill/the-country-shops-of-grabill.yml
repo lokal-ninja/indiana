@@ -1,11 +1,11 @@
 id: 979667754
-type: way
+type: node
 latitude: 41.21061
 longitude: -84.96713
 postcode: "46741"
 city: Grabill
-street: "State St"
-housenumber: 13756
+street: State St
+housenumber: "13756"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

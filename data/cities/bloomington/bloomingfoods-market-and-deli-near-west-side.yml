@@ -1,11 +1,11 @@
 id: 1014241909
-type: way
+type: node
 latitude: 39.16811
 longitude: -86.5373
 postcode: "47404"
 city: Bloomington
-street: "West 6th Street"
-housenumber: 316
+street: West 6th Street
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

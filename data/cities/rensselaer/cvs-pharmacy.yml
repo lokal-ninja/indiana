@@ -1,11 +1,11 @@
 id: 1058360881
-type: way
+type: node
 latitude: 40.93718
 longitude: -87.14995
 postcode: "47978"
 city: Rensselaer
-street: "North Cullen Street"
-housenumber: 107
+street: North Cullen Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/rensselaer-in-pharmacies/107-n-cullen-st-rensselaer-in-47978/storeid=6906"
+website: https://www.cvs.com/store-locator/rensselaer-in-pharmacies/107-n-cullen-st-rensselaer-in-47978/storeid=6906

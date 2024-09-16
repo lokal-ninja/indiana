@@ -1,11 +1,11 @@
 id: 1017764615
-type: way
+type: node
 latitude: 41.42127
 longitude: -87.23981
 postcode: "46307"
 city: Crown Point
-street: "Randolph Street"
-housenumber: 10860
-phone: "+1 219 333 2975"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-13:00"
-website: "https://mtiservicecenter.com/locations/winfield/"
+street: Randolph Street
+housenumber: "10860"
+phone: +1 219 333 2975
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-13:00
+website: https://mtiservicecenter.com/locations/winfield/

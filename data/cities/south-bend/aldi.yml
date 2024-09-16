@@ -1,11 +1,11 @@
 id: 199581699
-type: way
+type: node
 latitude: 41.62876
 longitude: -86.24888
 postcode: "46614"
 city: South Bend
-street: "East Ireland Road"
-housenumber: 202
-phone: "+1 833-462-1034"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/in/south-bend/202-e-ireland-road"
+street: East Ireland Road
+housenumber: "202"
+phone: +1 833-462-1034
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/in/south-bend/202-e-ireland-road

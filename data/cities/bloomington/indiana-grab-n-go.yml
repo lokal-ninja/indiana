@@ -1,11 +1,11 @@
 id: 911662493
-type: way
+type: node
 latitude: 39.17478
 longitude: -86.52749
 postcode: "47408"
 city: Bloomington
-street: "North Indiana Avenue"
-housenumber: 901
+street: North Indiana Avenue
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

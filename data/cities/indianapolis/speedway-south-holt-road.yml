@@ -1,11 +1,11 @@
 id: 239334042
-type: way
+type: node
 latitude: 39.72121
 longitude: -86.22539
 postcode: "46241"
 city: Indianapolis
-street: "South Holt Road"
-housenumber: 2954
+street: South Holt Road
+housenumber: "2954"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Indianapolis/2954-South-Holt-Road"
+website: https://www.speedway.com/locations/IN/Indianapolis/2954-South-Holt-Road

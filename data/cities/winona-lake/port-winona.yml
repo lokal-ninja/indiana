@@ -1,11 +1,11 @@
 id: 1273186268
-type: way
+type: node
 latitude: 41.22646
 longitude: -85.82257
 postcode: "46590"
 city: Winona Lake
-street: "East Canal Street"
-housenumber: 807
+street: East Canal Street
+housenumber: "807"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.42479
 longitude: -87.23992
 postcode: "46307"
 city: Crown Point
-street: "Randolph Street"
-housenumber: 10660
-phone: "+1 219 786 0923"
-opening_hours: "Mo,We,Th 09:00-20:00; Tu 09:00-16:00; Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://www.musemedspas.com/"
+street: Randolph Street
+housenumber: "10660"
+phone: +1 219 786 0923
+opening_hours: Mo,We,Th 09:00-20:00; Tu 09:00-16:00; Fr 09:00-17:00; Sa 09:00-14:00
+website: https://www.musemedspas.com/

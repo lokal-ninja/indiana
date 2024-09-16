@@ -1,11 +1,11 @@
 id: 1229710282
-type: way
+type: node
 latitude: 41.47441
 longitude: -87.30293
 postcode: "46410"
 city: Merrillville
-street: "East 79th Avenue"
-housenumber: 2782
+street: East 79th Avenue
+housenumber: "2782"
 phone: ""
 opening_hours: ""
 website: ""

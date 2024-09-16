@@ -1,11 +1,11 @@
 id: 426719869
-type: way
+type: node
 latitude: 39.22106
 longitude: -86.60482
 postcode: "47404"
 city: Bloomington
-street: "North Lakeview Drive"
-housenumber: 4910
+street: North Lakeview Drive
+housenumber: "4910"
 phone: ""
 opening_hours: ""
 website: ""

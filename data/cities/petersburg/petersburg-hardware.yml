@@ -1,11 +1,11 @@
 id: 1201529130
-type: way
+type: node
 latitude: 38.4875
 longitude: -87.2712
 postcode: "47567"
 city: Petersburg
-street: "N SR 61"
-housenumber: 4502
+street: N SR 61
+housenumber: "4502"
 phone: "+18123548350"
 opening_hours: ""
 website: ""

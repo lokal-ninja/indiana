@@ -1,11 +1,11 @@
 id: 684981401
-type: way
+type: node
 latitude: 39.41584
 longitude: -87.41782
 postcode: "47802"
 city: Terre Haute
-street: "US 41"
-housenumber: 4325
+street: US 41
+housenumber: "4325"
 phone: ""
 opening_hours: ""
-website: "https://www.drivefuson.com/"
+website: https://www.drivefuson.com/

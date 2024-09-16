@@ -1,11 +1,11 @@
 id: 506492684
-type: way
+type: node
 latitude: 40.00123
 longitude: -86.10681
 postcode: "46033"
 city: Carmel
-street: "East 146th Street"
-housenumber: 3404
+street: East 146th Street
+housenumber: "3404"
 phone: ""
 opening_hours: ""
 website: ""

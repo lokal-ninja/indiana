@@ -1,11 +1,11 @@
 id: 205427295
-type: way
+type: node
 latitude: 39.77405
 longitude: -86.20121
 postcode: "46222"
 city: Indianapolis
-street: "North Tremont Street"
-housenumber: 412
+street: North Tremont Street
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

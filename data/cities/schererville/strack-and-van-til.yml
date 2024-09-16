@@ -1,11 +1,11 @@
 id: 668406529
-type: way
+type: node
 latitude: 41.4945
 longitude: -87.46976
 postcode: "46375"
 city: Schererville
-street: "Indianapolis Boulevard"
-housenumber: 1515
+street: Indianapolis Boulevard
+housenumber: "1515"
 phone: ""
 opening_hours: ""
-website: "https://strackandvantil.com/locations/schererville/"
+website: https://strackandvantil.com/locations/schererville/

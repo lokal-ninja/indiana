@@ -1,11 +1,11 @@
 id: 156546677
-type: way
+type: node
 latitude: 38.73142
 longitude: -86.48215
-postcode: "47446-1232"
+postcode: 47446-1232
 city: Mitchell
-street: "West Main Street"
-housenumber: 1206
-phone: "+1 812-849-2777"
-opening_hours: "Mo-Sa 08:00-20:00; Su 11:00-17:00"
+street: West Main Street
+housenumber: "1206"
+phone: +1 812-849-2777
+opening_hours: Mo-Sa 08:00-20:00; Su 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1021354272
-type: way
+type: node
 latitude: 39.76857
 longitude: -86.2509
 postcode: "46224"
 city: Indianapolis
-street: "North Lynhurst Drive"
-housenumber: 150
+street: North Lynhurst Drive
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

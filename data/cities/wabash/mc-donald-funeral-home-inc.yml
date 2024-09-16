@@ -1,11 +1,11 @@
 id: 551308931
-type: way
+type: node
 latitude: 40.8011
 longitude: -85.82858
 postcode: "46992"
 city: Wabash
-street: "Falls Avenue"
-housenumber: 231
+street: Falls Avenue
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "https://www.mcdonaldfunerals.com/"
+website: https://www.mcdonaldfunerals.com/

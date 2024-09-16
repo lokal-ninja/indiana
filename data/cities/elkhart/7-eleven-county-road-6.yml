@@ -1,11 +1,11 @@
 id: 779426059
-type: way
+type: node
 latitude: 41.72361
 longitude: -85.94756
 postcode: "46514"
 city: Elkhart
-street: "County Road 6"
-housenumber: 25014
-phone: "+1-574-206-0853"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/in/elkhart/25014-county-road-6-32422"
+street: County Road 6
+housenumber: "25014"
+phone: +1-574-206-0853
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/in/elkhart/25014-county-road-6-32422

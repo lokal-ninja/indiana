@@ -1,11 +1,11 @@
 id: 199581555
-type: way
+type: node
 latitude: 41.71091
 longitude: -86.18173
 postcode: "46545"
 city: Mishawaka
-street: "Indian Ridge Boulevard"
-housenumber: 331
-phone: "+1 574-247-9100"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/in/mishawaka/office-depot-2563"
+street: Indian Ridge Boulevard
+housenumber: "331"
+phone: +1 574-247-9100
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/in/mishawaka/office-depot-2563

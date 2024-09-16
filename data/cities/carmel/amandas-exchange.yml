@@ -1,11 +1,11 @@
 id: 195619236
-type: way
+type: node
 latitude: 39.96168
 longitude: -86.11471
 postcode: "46032"
 city: Carmel
-street: "East Carmel Drive"
-housenumber: 715
+street: East Carmel Drive
+housenumber: "715"
 phone: ""
 opening_hours: ""
-website: "https://amandasexchange.shop/"
+website: https://amandasexchange.shop/

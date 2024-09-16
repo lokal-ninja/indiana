@@ -1,11 +1,11 @@
 id: 559987470
-type: way
+type: node
 latitude: 41.03064
 longitude: -85.25696
 postcode: "46804"
 city: Fort Wayne
-street: "US 24 West"
-housenumber: 8801
-phone: "+1 260 432 0040"
-opening_hours: "07:00-21:00"
-website: "https://www.ruralking.com/fort-wayne-in"
+street: US 24 West
+housenumber: "8801"
+phone: +1 260 432 0040
+opening_hours: 07:00-21:00
+website: https://www.ruralking.com/fort-wayne-in

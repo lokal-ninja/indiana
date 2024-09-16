@@ -1,11 +1,11 @@
 id: 184314790
-type: way
+type: node
 latitude: 41.55456
 longitude: -85.78971
 postcode: "46526"
 city: Goshen
-street: "Lincolnway East"
-housenumber: 2323
-phone: "+1 574-533-3703"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Lincolnway East
+housenumber: "2323"
+phone: +1 574-533-3703
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

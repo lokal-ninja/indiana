@@ -1,11 +1,11 @@
 id: 525974805
-type: way
+type: node
 latitude: 41.07676
 longitude: -85.20339
 postcode: "46804"
 city: Fort Wayne
-street: "South Thomas Road"
-housenumber: 1102
-phone: "+1 260-434-4580"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/fort-wayne-sw/2440"
+street: South Thomas Road
+housenumber: "1102"
+phone: +1 260-434-4580
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/fort-wayne-sw/2440

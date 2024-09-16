@@ -1,11 +1,11 @@
 id: 976414215
-type: way
+type: node
 latitude: 39.75145
 longitude: -86.19742
 postcode: "46221"
 city: Indianapolis
-street: "West Morris Street"
-housenumber: 2120
+street: West Morris Street
+housenumber: "2120"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/in/indianapolis/15502"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/in/indianapolis/15502

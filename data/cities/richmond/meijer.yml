@@ -1,11 +1,11 @@
 id: 229132892
-type: way
+type: node
 latitude: 39.8689
 longitude: -84.88598
 postcode: "47374"
 city: Richmond
-street: "Chester Boulevard"
-housenumber: 2507
-phone: "+1-765-939-4400"
+street: Chester Boulevard
+housenumber: "2507"
+phone: +1-765-939-4400
 opening_hours: ""
 website: ""

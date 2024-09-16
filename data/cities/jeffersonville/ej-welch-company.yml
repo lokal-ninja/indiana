@@ -1,11 +1,11 @@
 id: 1291942043
-type: way
+type: node
 latitude: 38.3103
 longitude: -85.74495
 postcode: ""
 city: Jeffersonville
-street: "Hamburg Pike"
-housenumber: 3001
+street: Hamburg Pike
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.86199
 longitude: -86.50788
 postcode: "47421"
 city: Bedford
-street: "16th Street"
-housenumber: 2619
-phone: "+1-812-275-5550"
-opening_hours: "Mo-Fr 08:30-16:30"
-website: "https://www.beltone.com"
+street: 16th Street
+housenumber: "2619"
+phone: +1-812-275-5550
+opening_hours: Mo-Fr 08:30-16:30
+website: https://www.beltone.com

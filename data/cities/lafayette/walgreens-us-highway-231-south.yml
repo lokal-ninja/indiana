@@ -1,11 +1,11 @@
 id: 1033205264
-type: way
+type: node
 latitude: 40.38903
 longitude: -86.90555
 postcode: "47909"
 city: Lafayette
-street: "US Highway 231 South"
-housenumber: 2800
+street: US Highway 231 South
+housenumber: "2800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2800+old+us+highway+231+s-lafayette-in-47909/id=10974"
+website: https://www.walgreens.com/locator/walgreens-2800+old+us+highway+231+s-lafayette-in-47909/id=10974

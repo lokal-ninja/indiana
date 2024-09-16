@@ -1,11 +1,11 @@
 id: 473802787
-type: way
+type: node
 latitude: 41.69435
 longitude: -86.21482
 postcode: "46615"
 city: South Bend
-street: "Edison Road"
-housenumber: 2304
+street: Edison Road
+housenumber: "2304"
 phone: ""
 opening_hours: ""
 website: ""

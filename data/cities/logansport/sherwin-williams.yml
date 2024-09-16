@@ -1,11 +1,11 @@
 id: 993821005
-type: way
+type: node
 latitude: 40.7587
 longitude: -86.31738
 postcode: "46947"
 city: Logansport
-street: "Mall Road"
-housenumber: 411
-phone: "574-753-4266"
+street: Mall Road
+housenumber: "411"
+phone: 574-753-4266
 opening_hours: ""
 website: ""

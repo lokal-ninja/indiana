@@ -1,11 +1,11 @@
 id: 684809313
-type: way
+type: node
 latitude: 39.64006
 longitude: -86.08094
 postcode: "46237"
 city: Indianapolis
-street: "South Emerson Avenue"
-housenumber: 8745
-phone: "+1 317-884-3320"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/claybrooke-commons/021/00894"
+street: South Emerson Avenue
+housenumber: "8745"
+phone: +1 317-884-3320
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/claybrooke-commons/021/00894

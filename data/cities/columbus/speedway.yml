@@ -1,11 +1,11 @@
 id: 1033228797
-type: way
+type: node
 latitude: 39.20104
 longitude: -85.95081
 postcode: "47201"
 city: Columbus
-street: "West Jonathan Moore Pike"
-housenumber: 2350
+street: West Jonathan Moore Pike
+housenumber: "2350"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Columbus/2350-West-Jonathan-Moore-Pike"
+website: https://www.speedway.com/locations/IN/Columbus/2350-West-Jonathan-Moore-Pike

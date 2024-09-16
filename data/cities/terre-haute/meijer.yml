@@ -1,11 +1,11 @@
 id: 532068752
-type: way
+type: node
 latitude: 39.44299
 longitude: -87.33063
 postcode: "47803"
 city: Terre Haute
-street: "New Margaret Drive"
-housenumber: 5600
-phone: "+1-812-233-6300"
+street: New Margaret Drive
+housenumber: "5600"
+phone: +1-812-233-6300
 opening_hours: ""
 website: ""

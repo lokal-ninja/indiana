@@ -1,11 +1,11 @@
 id: 1027539348
-type: way
+type: node
 latitude: 39.8526
 longitude: -86.2406
 postcode: "46254"
 city: Indianapolis
-street: "Georgetown Road"
-housenumber: 5580
+street: Georgetown Road
+housenumber: "5580"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5580+georgetown+rd-indianapolis-in-46254/id=15116"
+website: https://www.walgreens.com/locator/walgreens-5580+georgetown+rd-indianapolis-in-46254/id=15116

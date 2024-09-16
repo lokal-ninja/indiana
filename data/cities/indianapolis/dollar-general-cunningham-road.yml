@@ -1,11 +1,11 @@
 id: 448058585
-type: way
+type: node
 latitude: 39.79728
 longitude: -86.26533
 postcode: "46224"
 city: Indianapolis
-street: "Cunningham Road"
-housenumber: 2310
+street: Cunningham Road
+housenumber: "2310"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/indianapolis/6631"
+website: https://www.dollargeneral.com/store-directory/in/indianapolis/6631

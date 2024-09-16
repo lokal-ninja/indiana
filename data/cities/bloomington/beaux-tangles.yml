@@ -1,11 +1,11 @@
 id: 1044297833
-type: way
+type: node
 latitude: 39.16633
 longitude: -86.49424
 postcode: "47401"
 city: Bloomington
-street: "South Pete Ellis Drive"
-housenumber: 225
-phone: "(812) 323-8649"
+street: South Pete Ellis Drive
+housenumber: "225"
+phone: (812) 323-8649
 opening_hours: ""
 website: ""

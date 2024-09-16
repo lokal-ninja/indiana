@@ -1,11 +1,11 @@
 id: 1195397661
-type: way
+type: node
 latitude: 38.86139
 longitude: -86.48451
 postcode: "47421"
 city: Bedford
-street: "J Street"
-housenumber: 1529
+street: J Street
+housenumber: "1529"
 phone: ""
 opening_hours: ""
 website: ""

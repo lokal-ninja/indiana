@@ -1,11 +1,11 @@
 id: 553763751
-type: way
+type: node
 latitude: 40.79357
 longitude: -85.82173
 postcode: "46992"
 city: Wabash
-street: "South Miami Street"
-housenumber: 473
+street: South Miami Street
+housenumber: "473"
 phone: ""
 opening_hours: ""
 website: ""

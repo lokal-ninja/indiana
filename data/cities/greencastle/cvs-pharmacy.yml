@@ -1,11 +1,11 @@
 id: 1010881813
-type: way
+type: node
 latitude: 39.6458
 longitude: -86.84079
 postcode: "46135"
 city: Greencastle
-street: "Indianapolis Road"
-housenumber: 1010
+street: Indianapolis Road
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/greencastle-in-pharmacies/1010-indianapolis-rd-greencastle-in-46135/storeid=6687"
+website: https://www.cvs.com/store-locator/greencastle-in-pharmacies/1010-indianapolis-rd-greencastle-in-46135/storeid=6687

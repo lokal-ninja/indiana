@@ -1,11 +1,11 @@
 id: 855167064
-type: way
+type: node
 latitude: 41.09358
 longitude: -85.1741
 postcode: "46808"
 city: Fort Wayne
-street: "Lakeview Drive"
-housenumber: 2020
+street: Lakeview Drive
+housenumber: "2020"
 phone: "+12604320526"
-opening_hours: "Mo-Fr 07:00-16:00; Sa-Su closed"
+opening_hours: Mo-Fr 07:00-16:00; Sa-Su closed
 website: ""

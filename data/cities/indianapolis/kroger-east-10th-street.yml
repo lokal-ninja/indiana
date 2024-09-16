@@ -4,8 +4,8 @@ latitude: 39.77935
 longitude: -86.09364
 postcode: "46201"
 city: Indianapolis
-street: "East 10th Street"
-housenumber: 4445
-phone: "+1 317-359-1166"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/linwood-plaza/021/00820"
+street: East 10th Street
+housenumber: "4445"
+phone: +1 317-359-1166
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/linwood-plaza/021/00820

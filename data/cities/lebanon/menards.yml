@@ -4,8 +4,8 @@ latitude: 40.05144
 longitude: -86.49042
 postcode: "46052"
 city: Lebanon
-street: "Sam Ralston Road"
-housenumber: 402
+street: Sam Ralston Road
+housenumber: "402"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa-Su 06:00-20:00"
-website: "https://www.menards.com/store-details/store.html?store=3283"
+opening_hours: Mo-Fr 06:00-21:00; Sa-Su 06:00-20:00
+website: https://www.menards.com/store-details/store.html?store=3283

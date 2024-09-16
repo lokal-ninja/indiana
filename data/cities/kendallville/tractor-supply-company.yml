@@ -1,11 +1,11 @@
 id: 227816621
-type: way
+type: node
 latitude: 41.45336
 longitude: -85.252
 postcode: "46755"
-city: kendallville
-street: "East North Street"
-housenumber: 995
-phone: "+1 260-343-0228"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+city: Kendallville
+street: East North Street
+housenumber: "995"
+phone: +1 260-343-0228
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

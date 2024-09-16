@@ -1,11 +1,11 @@
 id: 552146902
-type: way
+type: node
 latitude: 40.78166
 longitude: -85.82228
 postcode: "46992"
 city: Wabash
-street: "Hale Drive"
-housenumber: 122
-phone: "+1-260-563-5609"
+street: Hale Drive
+housenumber: "122"
+phone: +1-260-563-5609
 opening_hours: ""
-website: "https://www.facebook.com/jackinthebox.wabash/timeline"
+website: https://www.facebook.com/jackinthebox.wabash/timeline

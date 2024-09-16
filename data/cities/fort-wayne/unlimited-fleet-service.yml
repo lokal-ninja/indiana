@@ -1,11 +1,11 @@
 id: 972422863
-type: way
+type: node
 latitude: 41.13119
 longitude: -85.19982
 postcode: "46818"
 city: Fort Wayne
-street: "West Washington Center Road"
-housenumber: 4201
+street: West Washington Center Road
+housenumber: "4201"
 phone: ""
 opening_hours: ""
 website: ""

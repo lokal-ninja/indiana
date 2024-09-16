@@ -1,11 +1,11 @@
 id: 846843607
-type: way
+type: node
 latitude: 40.75078
 longitude: -86.0666
 postcode: "46970"
 city: Peru
-street: "South Broadway"
-housenumber: 159
+street: South Broadway
+housenumber: "159"
 phone: ""
 opening_hours: ""
 website: ""

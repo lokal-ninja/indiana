@@ -1,11 +1,11 @@
 id: 971420079
-type: way
+type: node
 latitude: 38.73526
 longitude: -85.38031
 postcode: "47250"
 city: Madison
-street: "West Street"
-housenumber: 301
+street: West Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

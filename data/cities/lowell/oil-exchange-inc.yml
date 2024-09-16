@@ -1,11 +1,11 @@
 id: 539152102
-type: way
+type: node
 latitude: 41.29034
 longitude: -87.40921
 postcode: "46356"
 city: Lowell
-street: "East Commercial Avenue"
-housenumber: 1288
-phone: "+1-219-696-9205"
+street: East Commercial Avenue
+housenumber: "1288"
+phone: +1-219-696-9205
 opening_hours: ""
-website: "https://wwwoilexchangeinc.com"
+website: https://wwwoilexchangeinc.com

@@ -4,8 +4,8 @@ latitude: 40.26415
 longitude: -85.67463
 postcode: "46001"
 city: Alexandria
-street: "North Harrison Street"
-housenumber: 218
+street: North Harrison Street
+housenumber: "218"
 phone: ""
-opening_hours: "Th-Fr 11:00-17:00; Sa 11:00-15:00; Su-We closed"
-website: "https://recoophome.com/"
+opening_hours: Th-Fr 11:00-17:00; Sa 11:00-15:00; Su-We closed
+website: https://recoophome.com/

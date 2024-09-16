@@ -1,11 +1,11 @@
 id: 552145531
-type: way
+type: node
 latitude: 40.78121
 longitude: -85.82026
 postcode: "46992"
 city: Wabash
-street: "South Wabash Street"
-housenumber: 1770
-phone: "+1-260-563-6317"
+street: South Wabash Street
+housenumber: "1770"
+phone: +1-260-563-6317
 opening_hours: ""
-website: "http://www.kitchenspluscountrystore.com/"
+website: http://www.kitchenspluscountrystore.com/

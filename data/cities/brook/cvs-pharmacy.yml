@@ -1,11 +1,11 @@
 id: 918499455
-type: way
+type: node
 latitude: 40.7684
 longitude: -87.44015
 postcode: "47951"
 city: Brook
-street: "East Seymour Street"
-housenumber: 512
+street: East Seymour Street
+housenumber: "512"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kentland-in-pharmacies/512-e-seymour-st-kentland-in-47951/storeid=6670"
+website: https://www.cvs.com/store-locator/kentland-in-pharmacies/512-e-seymour-st-kentland-in-47951/storeid=6670

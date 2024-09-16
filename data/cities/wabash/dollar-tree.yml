@@ -1,11 +1,11 @@
 id: 551575286
-type: way
+type: node
 latitude: 40.81713
 longitude: -85.83727
 postcode: "46992"
 city: Wabash
-street: "North Cass Street"
-housenumber: 1475
+street: North Cass Street
+housenumber: "1475"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/in/wabash/3603/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/in/wabash/3603/

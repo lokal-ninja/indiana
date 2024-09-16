@@ -1,11 +1,11 @@
 id: 1086267364
-type: way
+type: node
 latitude: 38.59625
 longitude: -86.10238
 postcode: "47167"
 city: Salem
-street: "South Main Street"
-housenumber: 815
+street: South Main Street
+housenumber: "815"
 phone: ""
 opening_hours: ""
-website: "https://rulerfoods.com/"
+website: https://rulerfoods.com/

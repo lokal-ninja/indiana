@@ -1,11 +1,11 @@
 id: 974333585
-type: way
+type: node
 latitude: 39.69477
 longitude: -86.42286
 postcode: "46168"
 city: Plainfield
-street: "US-40"
-housenumber: 5789
+street: US-40
+housenumber: "5789"
 phone: ""
 opening_hours: ""
 website: ""

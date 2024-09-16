@@ -1,11 +1,11 @@
 id: 233154389
-type: way
+type: node
 latitude: 38.66213
 longitude: -87.50459
 postcode: "47591"
 city: Vincennes
-street: "Kimmell Road"
-housenumber: 650
-phone: "+1 812-886-0312"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/492/vincennes-in/whats-new"
+street: Kimmell Road
+housenumber: "650"
+phone: +1 812-886-0312
+opening_hours: 24/7
+website: https://www.walmart.com/store/492/vincennes-in/whats-new

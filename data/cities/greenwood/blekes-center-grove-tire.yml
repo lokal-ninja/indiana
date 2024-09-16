@@ -1,11 +1,11 @@
 id: 599961782
-type: way
+type: node
 latitude: 39.61844
 longitude: -86.21195
 postcode: "46142"
 city: Greenwood
-street: "Western Boulevard"
-housenumber: 326
-phone: "+1-317-885-7788"
+street: Western Boulevard
+housenumber: "326"
+phone: +1-317-885-7788
 opening_hours: ""
 website: ""

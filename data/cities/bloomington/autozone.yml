@@ -1,11 +1,11 @@
 id: 1031512008
-type: way
+type: node
 latitude: 39.16411
 longitude: -86.56766
 postcode: "47403"
 city: Bloomington
-street: "West 3rd Street"
-housenumber: 2437
+street: West 3rd Street
+housenumber: "2437"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/bloomington/2437-w-3rd-st.html"
+website: https://www.autozone.com/locations/in/bloomington/2437-w-3rd-st.html

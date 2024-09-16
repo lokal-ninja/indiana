@@ -1,11 +1,11 @@
 id: 1002671748
-type: way
+type: node
 latitude: 41.72896
 longitude: -84.96778
 postcode: "46737"
 city: Fremont
-street: "East State Road 120"
-housenumber: 1182
+street: East State Road 120
+housenumber: "1182"
 phone: ""
 opening_hours: ""
 website: ""

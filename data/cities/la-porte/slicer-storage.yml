@@ -1,11 +1,11 @@
 id: 1111652971
-type: way
+type: node
 latitude: 41.61572
 longitude: -86.71324
 postcode: "46350"
 city: La Porte
-street: "East Lincolnway"
-housenumber: 215
-phone: "+1 219 588 5021"
-opening_hours: "07:00-19:00"
-website: "https://www.slicerstorage.com/"
+street: East Lincolnway
+housenumber: "215"
+phone: +1 219 588 5021
+opening_hours: 07:00-19:00
+website: https://www.slicerstorage.com/

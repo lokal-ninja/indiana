@@ -1,11 +1,11 @@
 id: 402981056
-type: way
+type: node
 latitude: 41.6872
 longitude: -86.05947
 postcode: "46514"
 city: Elkhart
-street: "Old Us 20"
-housenumber: 30830
-phone: "+1 574-674-2656"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4399/elkhart-in/whats-new"
+street: Old Us 20
+housenumber: "30830"
+phone: +1 574-674-2656
+opening_hours: 24/7
+website: https://www.walmart.com/store/4399/elkhart-in/whats-new

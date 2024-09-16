@@ -1,11 +1,11 @@
 id: 960841641
-type: way
+type: node
 latitude: 39.7744
 longitude: -86.1028
 postcode: "46201"
 city: Indianapolis
-street: "North Sherman Drive"
-housenumber: 448
+street: North Sherman Drive
+housenumber: "448"
 phone: ""
 opening_hours: ""
 website: ""

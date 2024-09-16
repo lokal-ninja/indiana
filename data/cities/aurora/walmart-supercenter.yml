@@ -1,11 +1,11 @@
 id: 82098374
-type: way
+type: node
 latitude: 39.07914
 longitude: -84.88924
 postcode: "47001"
 city: Aurora
-street: "Sycamore Estates Drive"
-housenumber: 100
-phone: "+1 812-926-4322"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1160/aurora-in/whats-new"
+street: Sycamore Estates Drive
+housenumber: "100"
+phone: +1 812-926-4322
+opening_hours: 24/7
+website: https://www.walmart.com/store/1160/aurora-in/whats-new

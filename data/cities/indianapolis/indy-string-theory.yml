@@ -1,11 +1,11 @@
 id: 896851006
-type: way
+type: node
 latitude: 39.75222
 longitude: -86.13649
 postcode: "46203"
 city: Indianapolis
-street: "Prospect Street"
-housenumber: 1311
+street: Prospect Street
+housenumber: "1311"
 phone: ""
 opening_hours: ""
 website: ""

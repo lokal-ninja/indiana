@@ -1,11 +1,11 @@
 id: 532114629
-type: way
+type: node
 latitude: 41.08724
 longitude: -85.14575
 postcode: ""
 city: Fort Wayne
-street: "North Wells Street"
-housenumber: 1419
-phone: "+1-260-424-8570"
+street: North Wells Street
+housenumber: "1419"
+phone: +1-260-424-8570
 opening_hours: ""
 website: ""

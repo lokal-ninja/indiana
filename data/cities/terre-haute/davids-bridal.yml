@@ -4,8 +4,8 @@ latitude: 39.39754
 longitude: -87.40131
 postcode: "47802"
 city: Terre Haute
-street: "US 41"
-housenumber: 5779
+street: US 41
+housenumber: "5779"
 phone: ""
 opening_hours: ""
-website: "https://www.davidsbridal.com/DBIAjaxStoreLocatorDirectionsView?stLocId=771"
+website: https://www.davidsbridal.com/DBIAjaxStoreLocatorDirectionsView?stLocId=771

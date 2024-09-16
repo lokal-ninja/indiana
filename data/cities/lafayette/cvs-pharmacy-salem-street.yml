@@ -1,11 +1,11 @@
 id: 965754874
-type: way
+type: node
 latitude: 40.42533
 longitude: -86.87827
 postcode: "47904"
 city: Lafayette
-street: "Salem Street"
-housenumber: 1725
+street: Salem Street
+housenumber: "1725"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lafayette-in-pharmacies/1725-salem-st-lafayette-in-47904/storeid=8657"
+website: https://www.cvs.com/store-locator/lafayette-in-pharmacies/1725-salem-st-lafayette-in-47904/storeid=8657

@@ -1,11 +1,11 @@
 id: 977025954
-type: way
+type: node
 latitude: 39.75073
 longitude: -86.1965
 postcode: "46221"
 city: Indianapolis
-street: "West Morris Street"
-housenumber: 2035
+street: West Morris Street
+housenumber: "2035"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

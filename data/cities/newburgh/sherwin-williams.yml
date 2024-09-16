@@ -1,11 +1,11 @@
 id: 556866648
-type: way
+type: node
 latitude: 37.97722
 longitude: -87.39755
 postcode: "47630"
 city: Newburgh
-street: "High Pointe Drive"
-housenumber: 8090
+street: High Pointe Drive
+housenumber: "8090"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
 website: ""

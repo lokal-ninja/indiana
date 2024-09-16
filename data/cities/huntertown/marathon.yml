@@ -1,11 +1,11 @@
 id: 1278674337
-type: way
+type: node
 latitude: 41.22739
 longitude: -85.1726
 postcode: "46748"
 city: Huntertown
-street: "Lima Road"
-housenumber: 15509
+street: Lima Road
+housenumber: "15509"
 phone: ""
 opening_hours: ""
 website: ""

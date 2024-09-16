@@ -1,11 +1,11 @@
 id: 1049347432
-type: way
+type: node
 latitude: 40.16082
 longitude: -86.12758
 postcode: "46030"
 city: Arcadia
-street: "East 256th Street"
-housenumber: 1720
+street: East 256th Street
+housenumber: "1720"
 phone: ""
 opening_hours: ""
 website: ""

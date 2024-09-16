@@ -1,11 +1,11 @@
 id: 553816544
-type: way
+type: node
 latitude: 40.7927
 longitude: -85.82025
 postcode: "46992"
 city: Wabash
-street: "South Wabash Street"
-housenumber: 633
-phone: "+1-260-563-5858"
+street: South Wabash Street
+housenumber: "633"
+phone: +1-260-563-5858
 opening_hours: ""
 website: ""

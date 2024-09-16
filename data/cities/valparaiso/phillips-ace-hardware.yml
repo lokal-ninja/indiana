@@ -1,11 +1,11 @@
 id: 458148078
-type: way
+type: node
 latitude: 41.49667
 longitude: -87.04317
-postcode: "46383-2611"
+postcode: 46383-2611
 city: Valparaiso
-street: "Calumet Avenue"
-housenumber: 3100
-phone: "+1 219-464-8687"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-16:00"
-website: "https://www.acehardware.com/store-details/05088"
+street: Calumet Avenue
+housenumber: "3100"
+phone: +1 219-464-8687
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-16:00
+website: https://www.acehardware.com/store-details/05088

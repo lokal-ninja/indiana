@@ -1,11 +1,11 @@
 id: 859783111
-type: way
+type: node
 latitude: 41.09465
 longitude: -85.15715
 postcode: "46808"
 city: Fort Wayne
-street: "West State Boulevard"
-housenumber: 1125
-phone: "+1 260-426-3453"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://www.kroger.com/stores/grocery/in/fort-wayne/west-state/021/00412"
+street: West State Boulevard
+housenumber: "1125"
+phone: +1 260-426-3453
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://www.kroger.com/stores/grocery/in/fort-wayne/west-state/021/00412

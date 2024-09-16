@@ -1,11 +1,11 @@
 id: 144182883
-type: way
+type: node
 latitude: 39.76614
 longitude: -86.12448
 postcode: "46201"
 city: Indianapolis
-street: "Koweba Lane"
-housenumber: 50
+street: Koweba Lane
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

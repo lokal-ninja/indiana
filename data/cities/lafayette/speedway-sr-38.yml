@@ -1,11 +1,11 @@
 id: 886777985
-type: way
+type: node
 latitude: 40.38905
 longitude: -86.83968
 postcode: "47905"
 city: Lafayette
-street: "SR 38"
-housenumber: 3879
+street: SR 38
+housenumber: "3879"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Lafayette/3879-State-Road-38-East"
+website: https://www.speedway.com/locations/IN/Lafayette/3879-State-Road-38-East

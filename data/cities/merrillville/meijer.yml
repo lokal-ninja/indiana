@@ -1,11 +1,11 @@
 id: 653642142
-type: way
+type: node
 latitude: 41.46848
 longitude: -87.34645
 postcode: "46410"
 city: Merrillville
-street: "West 81st Avenue"
-housenumber: 611
-phone: "+1-219-650-3700"
-opening_hours: "24/7"
+street: West 81st Avenue
+housenumber: "611"
+phone: +1-219-650-3700
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 783044662
-type: way
+type: node
 latitude: 41.01523
 longitude: -85.11183
 postcode: "46816"
 city: Fort Wayne
-street: "South Anthony Boulevard"
-housenumber: 7511
+street: South Anthony Boulevard
+housenumber: "7511"
 phone: ""
 opening_hours: ""
 website: ""

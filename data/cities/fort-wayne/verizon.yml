@@ -1,11 +1,11 @@
 id: 526524337
-type: way
+type: node
 latitude: 41.0199
 longitude: -85.16891
 postcode: "46809"
 city: Fort Wayne
-street: "Bluffton Road"
-housenumber: 6801
+street: Bluffton Road
+housenumber: "6801"
 phone: ""
 opening_hours: ""
 website: ""

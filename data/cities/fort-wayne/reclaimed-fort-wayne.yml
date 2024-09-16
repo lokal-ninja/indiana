@@ -1,11 +1,11 @@
 id: 585206164
-type: way
+type: node
 latitude: 41.08977
 longitude: -85.12866
 postcode: "46805"
 city: Fort Wayne
-street: "Saint Joe Boulevard"
-housenumber: 1514
+street: Saint Joe Boulevard
+housenumber: "1514"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.50971
 longitude: -87.38361
 postcode: "47805"
 city: Terre Haute
-street: "Lafayette Avenue"
-housenumber: 2151 #101
+street: Lafayette Avenue
+housenumber: '2151 #101'
 phone: ""
 opening_hours: ""
 website: ""

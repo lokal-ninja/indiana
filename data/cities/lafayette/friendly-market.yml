@@ -1,11 +1,11 @@
 id: 1201502116
-type: way
+type: node
 latitude: 40.41417
 longitude: -86.87451
 postcode: "47904"
 city: Lafayette
-street: "Main Street"
-housenumber: 1920
+street: Main Street
+housenumber: "1920"
 phone: ""
 opening_hours: ""
 website: ""

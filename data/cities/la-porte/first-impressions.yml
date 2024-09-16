@@ -4,8 +4,9 @@ latitude: 41.60137
 longitude: -86.69626
 postcode: "46350"
 city: La Porte
-street: "Legacy Plaza West"
-housenumber: 150
-phone: "+1 219 325 8585"
-opening_hours: "Mo 09:00-17:00; Tu,We 08:00-20:00; Th 08:00-18:00; Fr 09:00-20:00; Sa 08:00-14:00"
+street: Legacy Plaza West
+housenumber: "150"
+phone: +1 219 325 8585
+opening_hours: Mo 09:00-17:00; Tu,We 08:00-20:00; Th 08:00-18:00; Fr 09:00-20:00;
+    Sa 08:00-14:00
 website: ""

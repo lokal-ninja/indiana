@@ -1,11 +1,11 @@
 id: 575086313
-type: way
+type: node
 latitude: 39.76445
 longitude: -86.3259
 postcode: "46234"
 city: Indianapolis
-street: "Rockville Road"
-housenumber: 9240
+street: Rockville Road
+housenumber: "9240"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9240+rockville+rd-indianapolis-in-46234/id=7031"
+website: https://www.walgreens.com/locator/walgreens-9240+rockville+rd-indianapolis-in-46234/id=7031

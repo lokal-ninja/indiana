@@ -1,11 +1,11 @@
 id: 700419682
-type: way
+type: node
 latitude: 39.78105
 longitude: -86.04253
 postcode: "46219"
 city: Indianapolis
-street: "East 10th Street"
-housenumber: 7101
-phone: "+1 317-352-1721"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/10th-shortridge/021/00100"
+street: East 10th Street
+housenumber: "7101"
+phone: +1 317-352-1721
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/10th-shortridge/021/00100

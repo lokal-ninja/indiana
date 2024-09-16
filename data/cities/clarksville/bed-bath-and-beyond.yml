@@ -1,11 +1,11 @@
 id: 666566561
-type: way
+type: node
 latitude: 38.32686
 longitude: -85.76714
 postcode: "47129"
 city: Clarksville
-street: "Veterans Parkway"
-housenumber: 1025
+street: Veterans Parkway
+housenumber: "1025"
 phone: ""
 opening_hours: ""
 website: ""

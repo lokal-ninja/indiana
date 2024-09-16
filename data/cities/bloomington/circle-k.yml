@@ -1,11 +1,11 @@
 id: 428380036
-type: way
+type: node
 latitude: 39.21739
 longitude: -86.59692
 postcode: "47404"
 city: Bloomington
-street: "West State Road 46"
-housenumber: 4724
+street: West State Road 46
+housenumber: "4724"
 phone: ""
 opening_hours: ""
 website: ""

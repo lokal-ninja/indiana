@@ -1,11 +1,11 @@
 id: 1223804804
-type: way
+type: node
 latitude: 40.37717
 longitude: -86.77986
 postcode: "47905"
 city: Lafayette
-street: "Hine Drive"
-housenumber: 6584
-phone: "765-446-0007"
+street: Hine Drive
+housenumber: "6584"
+phone: 765-446-0007
 opening_hours: ""
-website: "https://www.truckcountry.com/locations/indiana/lafayette/"
+website: https://www.truckcountry.com/locations/indiana/lafayette/

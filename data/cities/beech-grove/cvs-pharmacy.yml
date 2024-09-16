@@ -1,11 +1,11 @@
 id: 1033670188
-type: way
+type: node
 latitude: 39.72126
 longitude: -86.10276
 postcode: "46107"
 city: Beech Grove
-street: "South 17th Avenue"
-housenumber: 10
+street: South 17th Avenue
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/beech-grove-in-pharmacies/1715-main-st-beech-grove-in-46107/storeid=6583"
+website: https://www.cvs.com/store-locator/beech-grove-in-pharmacies/1715-main-st-beech-grove-in-46107/storeid=6583

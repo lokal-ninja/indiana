@@ -1,11 +1,11 @@
 id: 136372978
-type: way
+type: node
 latitude: 41.64753
 longitude: -86.2503
 postcode: ""
 city: South Bend
-street: "South Michigan Street"
-housenumber: 2609
+street: South Michigan Street
+housenumber: "2609"
 phone: ""
 opening_hours: ""
 website: ""

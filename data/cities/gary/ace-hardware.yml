@@ -1,11 +1,11 @@
 id: 1150270271
-type: way
+type: node
 latitude: 41.57278
 longitude: -87.3372
 postcode: "46407"
 city: Gary
-street: "Broadway"
-housenumber: 2520
-phone: "+1 219-886-3136"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-17:00"
+street: Broadway
+housenumber: "2520"
+phone: +1 219-886-3136
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-17:00
 website: ""

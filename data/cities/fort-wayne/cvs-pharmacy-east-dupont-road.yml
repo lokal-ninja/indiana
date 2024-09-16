@@ -1,11 +1,11 @@
 id: 681763561
-type: way
+type: node
 latitude: 41.17757
 longitude: -85.13211
 postcode: "46825"
 city: Fort Wayne
-street: "East Dupont Road"
-housenumber: 770
+street: East Dupont Road
+housenumber: "770"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fort-wayne-in-pharmacies/770-e-dupont-rd-fort-wayne-in-46825/storeid=10190"
+website: https://www.cvs.com/store-locator/fort-wayne-in-pharmacies/770-e-dupont-rd-fort-wayne-in-46825/storeid=10190

@@ -1,11 +1,11 @@
 id: 810650877
-type: way
+type: node
 latitude: 41.6179
 longitude: -86.70611
 postcode: "46350"
 city: Laporte
-street: "East Lincolnway"
-housenumber: 702
-phone: "+1-219-362-8513"
-opening_hours: "06:00-21:00"
-website: "https://www.alssupermarkets.com/stores/als-east-laporte"
+street: East Lincolnway
+housenumber: "702"
+phone: +1-219-362-8513
+opening_hours: 06:00-21:00
+website: https://www.alssupermarkets.com/stores/als-east-laporte

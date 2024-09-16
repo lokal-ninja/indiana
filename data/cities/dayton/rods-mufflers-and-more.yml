@@ -1,11 +1,11 @@
 id: 1195039967
-type: way
+type: node
 latitude: 40.37441
 longitude: -86.76957
 postcode: "47941"
 city: Dayton
-street: "Walnut Street"
-housenumber: 710
+street: Walnut Street
+housenumber: "710"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

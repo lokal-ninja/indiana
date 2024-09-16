@@ -1,11 +1,11 @@
 id: 1160299709
-type: way
+type: node
 latitude: 41.54973
 longitude: -87.33585
 postcode: "46409"
 city: Gary
-street: "East Ridge Road"
-housenumber: 61
-phone: "+1 219-427-5893"
+street: East Ridge Road
+housenumber: "61"
+phone: +1 219-427-5893
 opening_hours: ""
 website: ""

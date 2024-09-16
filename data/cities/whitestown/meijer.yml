@@ -1,11 +1,11 @@
 id: 556112348
-type: way
+type: node
 latitude: 39.95231
 longitude: -86.34347
 postcode: "46075"
 city: Whitestown
-street: "Whitestown Parkway"
-housenumber: 6650
-phone: "+1-317-732-9200"
-opening_hours: "24/7"
+street: Whitestown Parkway
+housenumber: "6650"
+phone: +1-317-732-9200
+opening_hours: 24/7
 website: ""

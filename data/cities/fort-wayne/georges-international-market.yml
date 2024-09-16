@@ -1,11 +1,11 @@
 id: 477407178
-type: way
+type: node
 latitude: 41.06722
 longitude: -85.15118
 postcode: "46802"
 city: Fort Wayne
-street: "Broadway"
-housenumber: 2021
-phone: "+1-260-420-5565"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.georgesinternationalmarket.com/"
+street: Broadway
+housenumber: "2021"
+phone: +1-260-420-5565
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.georgesinternationalmarket.com/

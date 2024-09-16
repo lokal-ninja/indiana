@@ -1,11 +1,11 @@
 id: 323379978
-type: way
+type: node
 latitude: 39.75287
 longitude: -86.24725
 postcode: "46241"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 5173
-phone: "+1 317-244-2290"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/westgate-plaza/021/00066"
+street: West Washington Street
+housenumber: "5173"
+phone: +1 317-244-2290
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/westgate-plaza/021/00066

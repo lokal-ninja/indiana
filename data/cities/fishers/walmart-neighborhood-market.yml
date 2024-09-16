@@ -1,11 +1,11 @@
 id: 580683685
-type: way
+type: node
 latitude: 39.98123
 longitude: -86.00198
 postcode: "46038"
 city: Fishers
-street: "Ambleside Drive"
-housenumber: 9354
-phone: "+1 317-567-8406"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5767/fishers-in/whats-new"
+street: Ambleside Drive
+housenumber: "9354"
+phone: +1 317-567-8406
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5767/fishers-in/whats-new

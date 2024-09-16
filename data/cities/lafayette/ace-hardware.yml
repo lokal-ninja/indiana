@@ -1,11 +1,11 @@
 id: 721775812
-type: way
+type: node
 latitude: 40.38706
 longitude: -86.90008
-postcode: "47909-2838"
+postcode: 47909-2838
 city: Lafayette
-street: "Beck Lane"
-housenumber: 119
-phone: "+1 765-477-9797"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+street: Beck Lane
+housenumber: "119"
+phone: +1 765-477-9797
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: ""

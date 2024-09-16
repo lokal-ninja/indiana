@@ -1,11 +1,11 @@
 id: 720385374
-type: way
+type: node
 latitude: 40.4186
 longitude: -86.88468
 postcode: "47901"
 city: Lafayette
-street: "Columbia Street"
-housenumber: 1104
+street: Columbia Street
+housenumber: "1104"
 phone: ""
 opening_hours: ""
 website: ""

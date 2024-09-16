@@ -1,11 +1,11 @@
 id: 156503046
-type: way
+type: node
 latitude: 39.766
 longitude: -86.30649
 postcode: "46214"
 city: Indianapolis
-street: "Rockville Road"
-housenumber: 8150
-phone: "+1 317-273-1349"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/west-pointe-commons/021/00905"
+street: Rockville Road
+housenumber: "8150"
+phone: +1 317-273-1349
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/west-pointe-commons/021/00905

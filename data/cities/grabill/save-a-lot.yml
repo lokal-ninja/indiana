@@ -1,11 +1,11 @@
 id: 220567773
-type: way
+type: node
 latitude: 41.21335
 longitude: -84.97344
 postcode: "46741"
 city: Grabill
-street: "State Street"
-housenumber: 13325
+street: State Street
+housenumber: "13325"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/grabill-46741-24519/"
+website: https://savealot.com/grocery-stores/grabill-46741-24519/

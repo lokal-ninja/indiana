@@ -1,11 +1,11 @@
 id: 669146738
-type: way
+type: node
 latitude: 39.64382
 longitude: -86.82445
 postcode: "46135"
 city: Greencastle
-street: "Indianapolis Road"
-housenumber: 1750
-phone: "+1 765-653-2481"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/902/greencastle-in/whats-new"
+street: Indianapolis Road
+housenumber: "1750"
+phone: +1 765-653-2481
+opening_hours: 24/7
+website: https://www.walmart.com/store/902/greencastle-in/whats-new

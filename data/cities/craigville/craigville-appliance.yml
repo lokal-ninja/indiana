@@ -1,11 +1,11 @@
 id: 595532076
-type: way
+type: node
 latitude: 40.77753
 longitude: -85.09126
 postcode: "46731"
 city: Craigville
-street: "North Main Street"
-housenumber: 2382
-phone: "+1-260-565-3166"
-opening_hours: "Mo-Fr 09:00-17:30"
+street: North Main Street
+housenumber: "2382"
+phone: +1-260-565-3166
+opening_hours: Mo-Fr 09:00-17:30
 website: ""

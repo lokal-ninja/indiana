@@ -1,11 +1,11 @@
 id: 221723182
-type: way
+type: node
 latitude: 39.839
 longitude: -86.24477
 postcode: "46254"
 city: Indianapolis
-street: "Lafayette Road"
-housenumber: 4545
-phone: "+1 317-328-0325"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3781/indianapolis-in/whats-new"
+street: Lafayette Road
+housenumber: "4545"
+phone: +1 317-328-0325
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3781/indianapolis-in/whats-new

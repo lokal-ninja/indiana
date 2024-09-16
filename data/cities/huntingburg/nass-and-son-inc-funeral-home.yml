@@ -1,11 +1,11 @@
 id: 487040827
-type: way
+type: node
 latitude: 38.29354
 longitude: -86.95595
 postcode: "47542"
 city: Huntingburg
-street: "North Main Street"
-housenumber: 208
+street: North Main Street
+housenumber: "208"
 phone: "+18126832233"
 opening_hours: ""
-website: "https://www.nassandson.com/"
+website: https://www.nassandson.com/

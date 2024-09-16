@@ -1,11 +1,11 @@
 id: 543309908
-type: way
+type: node
 latitude: 39.72398
 longitude: -86.15027
 postcode: "46225"
 city: Indianapolis
-street: "Madison Avenue"
-housenumber: 2925
+street: Madison Avenue
+housenumber: "2925"
 phone: ""
 opening_hours: ""
 website: ""

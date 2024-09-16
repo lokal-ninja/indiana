@@ -1,11 +1,11 @@
 id: 1313322730
-type: way
+type: node
 latitude: 39.37135
 longitude: -86.2628
 postcode: "46160"
 city: Morgantown
-street: "East Washington Street"
-housenumber: 160
+street: East Washington Street
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

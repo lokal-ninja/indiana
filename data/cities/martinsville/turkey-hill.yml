@@ -1,11 +1,11 @@
 id: 598136893
-type: way
+type: node
 latitude: 39.40985
 longitude: -86.42448
 postcode: "46151"
 city: Martinsville
-street: "South Ohio Street"
-housenumber: 1860
+street: South Ohio Street
+housenumber: "1860"
 phone: ""
 opening_hours: ""
 website: ""

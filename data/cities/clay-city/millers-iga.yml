@@ -1,11 +1,11 @@
 id: 1242125939
-type: way
+type: node
 latitude: 39.29181
 longitude: -87.10987
 postcode: "47841"
 city: Clay City
-street: "State Road 59"
-housenumber: 6505
+street: State Road 59
+housenumber: "6505"
 phone: ""
 opening_hours: ""
 website: ""

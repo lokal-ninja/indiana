@@ -1,11 +1,11 @@
 id: 283289474
-type: way
+type: node
 latitude: 40.41536
 longitude: -86.81381
 postcode: "47905"
 city: Lafayette
-street: "SR 26"
-housenumber: 4901
-phone: "+1-765-449-9200"
-opening_hours: "Mo-Su 06:00-24:00"
+street: SR 26
+housenumber: "4901"
+phone: +1-765-449-9200
+opening_hours: Mo-Su 06:00-24:00
 website: ""

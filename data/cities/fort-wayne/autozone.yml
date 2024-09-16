@@ -1,11 +1,11 @@
 id: 506869240
-type: way
+type: node
 latitude: 41.13281
 longitude: -85.06292
 postcode: ""
 city: Fort Wayne
-street: "Maplecrest Road"
-housenumber: 5601
-phone: "+1-260-486-8660"
+street: Maplecrest Road
+housenumber: "5601"
+phone: +1-260-486-8660
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/fort-wayne/5601-maplecrest-rd.html"
+website: https://www.autozone.com/locations/in/fort-wayne/5601-maplecrest-rd.html

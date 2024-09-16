@@ -1,11 +1,11 @@
 id: 539165974
-type: way
+type: node
 latitude: 41.29132
 longitude: -87.42386
 postcode: "46356"
 city: Lowell
-street: "Washington Street"
-housenumber: 127
-phone: "+1-219-696-0605"
+street: Washington Street
+housenumber: "127"
+phone: +1-219-696-0605
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 959586010
-type: way
+type: node
 latitude: 38.66613
 longitude: -86.45319
 postcode: "47452"
 city: Orleans
-street: "North Maple Street"
-housenumber: 437
-phone: "+1-812-865-3494"
+street: North Maple Street
+housenumber: "437"
+phone: +1-812-865-3494
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1201505369
-type: way
+type: node
 latitude: 41.6237
 longitude: -86.69076
 postcode: "46350"
 city: La Porte
-street: "East Lincolnway"
-housenumber: 1418
-phone: "+1-219-324-4614"
+street: East Lincolnway
+housenumber: "1418"
+phone: +1-219-324-4614
 opening_hours: ""
-website: "https://www.rentacenter.com/"
+website: https://www.rentacenter.com/

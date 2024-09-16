@@ -1,11 +1,11 @@
 id: 769818656
-type: way
+type: node
 latitude: 41.4192
 longitude: -85.74708
 postcode: "46567"
 city: Syracuse
-street: "South Huntington Street"
-housenumber: 308
+street: South Huntington Street
+housenumber: "308"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/syracuse-in-pharmacies/308-s-huntington-st-syracuse-in-46567/storeid=6499"
+website: https://www.cvs.com/store-locator/syracuse-in-pharmacies/308-s-huntington-st-syracuse-in-46567/storeid=6499

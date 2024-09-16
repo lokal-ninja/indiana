@@ -1,11 +1,11 @@
 id: 936143653
-type: way
+type: node
 latitude: 41.07989
 longitude: -85.16908
 postcode: "46808"
 city: Fort Wayne
-street: "Leesburg Road"
-housenumber: 707
+street: Leesburg Road
+housenumber: "707"
 phone: ""
 opening_hours: ""
 website: ""

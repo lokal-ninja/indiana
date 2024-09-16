@@ -1,11 +1,11 @@
 id: 962262903
-type: way
+type: node
 latitude: 39.77102
 longitude: -86.03708
 postcode: "46219"
 city: Indianapolis
-street: "East Washington Street"
-housenumber: 7425
+street: East Washington Street
+housenumber: "7425"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 777611080
-type: way
+type: node
 latitude: 39.44957
 longitude: -87.18117
 postcode: ""
 city: Brazil
-street: "NorthCo Road"
-housenumber: 2768
+street: NorthCo Road
+housenumber: "2768"
 phone: ""
 opening_hours: ""
-website: "https://prairiegrovehuntingpreserve.webs.com/"
+website: https://prairiegrovehuntingpreserve.webs.com/

@@ -1,11 +1,11 @@
 id: 671744492
-type: way
+type: node
 latitude: 39.72165
 longitude: -86.08399
 postcode: "46107"
 city: Beech Grove
-street: "Main Street"
-housenumber: 201
+street: Main Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

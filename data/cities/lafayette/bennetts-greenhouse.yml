@@ -1,11 +1,11 @@
 id: 1201759890
-type: way
+type: node
 latitude: 40.40261
 longitude: -86.8407
 postcode: "47905"
 city: Lafayette
-street: "McCarty Lane"
-housenumber: 3651
+street: McCarty Lane
+housenumber: "3651"
 phone: ""
 opening_hours: ""
 website: ""

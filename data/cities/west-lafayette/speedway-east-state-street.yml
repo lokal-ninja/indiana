@@ -1,11 +1,11 @@
 id: 860777066
-type: way
+type: node
 latitude: 40.42092
 longitude: -86.90191
 postcode: "47906"
 city: West Lafayette
-street: "East State Street"
-housenumber: 265
+street: East State Street
+housenumber: "265"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/West-Lafayette/265-East-State-Street"
+website: https://www.speedway.com/locations/IN/West-Lafayette/265-East-State-Street

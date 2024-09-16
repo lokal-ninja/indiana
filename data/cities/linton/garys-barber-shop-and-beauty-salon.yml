@@ -1,11 +1,11 @@
 id: 1077828805
-type: way
+type: node
 latitude: 39.03371
 longitude: -87.16488
 postcode: "47441"
 city: Linton
-street: "1st Street Southeast"
-housenumber: 49
-phone: "+1 (812) 847-2120"
+street: 1st Street Southeast
+housenumber: "49"
+phone: +1 (812) 847-2120
 opening_hours: ""
 website: ""

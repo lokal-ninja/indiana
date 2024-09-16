@@ -1,11 +1,11 @@
 id: 720396342
-type: way
+type: node
 latitude: 39.41446
 longitude: -85.01354
 postcode: "47012"
 city: Brookville
-street: "Main Street"
-housenumber: 108
+street: Main Street
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

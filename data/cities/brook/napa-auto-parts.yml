@@ -1,11 +1,11 @@
 id: 919009237
-type: way
+type: node
 latitude: 40.76857
 longitude: -87.4459
 postcode: "47951"
 city: Brook
-street: "North Third Street"
-housenumber: 102
+street: North Third Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

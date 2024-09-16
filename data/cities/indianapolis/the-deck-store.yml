@@ -1,11 +1,11 @@
 id: 507341922
-type: way
+type: node
 latitude: 39.92697
 longitude: -86.23407
 postcode: "46268"
 city: Indianapolis
-street: "West 96th Street"
-housenumber: 4322
+street: West 96th Street
+housenumber: "4322"
 phone: ""
 opening_hours: ""
 website: ""

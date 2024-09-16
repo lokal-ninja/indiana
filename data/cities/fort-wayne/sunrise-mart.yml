@@ -1,11 +1,11 @@
 id: 1153259244
-type: way
+type: node
 latitude: 41.08574
 longitude: -85.16637
 postcode: "46808"
 city: Fort Wayne
-street: "Runnion Avenue"
-housenumber: 1235
+street: Runnion Avenue
+housenumber: "1235"
 phone: ""
 opening_hours: ""
 website: ""

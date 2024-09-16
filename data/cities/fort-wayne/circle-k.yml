@@ -1,11 +1,11 @@
 id: 859783110
-type: way
+type: node
 latitude: 41.0964
 longitude: -85.15316
 postcode: "46808"
 city: Fort Wayne
-street: "Sherman Boulevard"
-housenumber: 2304
+street: Sherman Boulevard
+housenumber: "2304"
 phone: ""
 opening_hours: ""
 website: ""

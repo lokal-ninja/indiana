@@ -1,11 +1,11 @@
 id: 1067627886
-type: way
+type: node
 latitude: 41.60598
 longitude: -86.71771
 postcode: "46350"
 city: La Porte
-street: "Indiana Avenue"
-housenumber: 1117
+street: Indiana Avenue
+housenumber: "1117"
 phone: "2193622722"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 627331049
-type: way
+type: node
 latitude: 39.78406
 longitude: -86.24656
 postcode: "46224"
 city: Indianapolis
-street: "Winton Avenue"
-housenumber: 1246
+street: Winton Avenue
+housenumber: "1246"
 phone: ""
 opening_hours: ""
 website: ""

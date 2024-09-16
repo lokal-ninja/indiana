@@ -1,11 +1,11 @@
 id: 341294806
-type: way
+type: node
 latitude: 39.59817
 longitude: -86.10349
 postcode: "46143"
 city: Greenwood
-street: "US-31"
-housenumber: 1301
-phone: "+1-888-478-7305"
+street: US-31
+housenumber: "1301"
+phone: +1-888-478-7305
 opening_hours: ""
-website: "https://www.dreyerreinboldsubaru.com/"
+website: https://www.dreyerreinboldsubaru.com/

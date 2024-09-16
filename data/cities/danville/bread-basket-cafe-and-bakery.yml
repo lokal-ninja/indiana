@@ -1,11 +1,11 @@
 id: 974345144
-type: way
+type: node
 latitude: 39.76045
 longitude: -86.5219
 postcode: "46122"
 city: Danville
-street: "South Tennessee Street"
-housenumber: 46
+street: South Tennessee Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

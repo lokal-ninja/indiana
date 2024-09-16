@@ -1,11 +1,11 @@
 id: 587853917
-type: way
+type: node
 latitude: 39.53186
 longitude: -87.10125
 postcode: "47834"
 city: Brazil
-street: "East National Avenue"
-housenumber: 2150
-phone: "+1 812-443-0667"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/1629/brazil-in/whats-new"
+street: East National Avenue
+housenumber: "2150"
+phone: +1 812-443-0667
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/1629/brazil-in/whats-new

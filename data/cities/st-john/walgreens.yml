@@ -1,11 +1,11 @@
 id: 1161811910
-type: way
+type: node
 latitude: 41.4511
 longitude: -87.4705
 postcode: "46373"
 city: St. John
-street: "Wicker Avenue"
-housenumber: 9280
+street: Wicker Avenue
+housenumber: "9280"
 phone: ""
 opening_hours: ""
 website: ""

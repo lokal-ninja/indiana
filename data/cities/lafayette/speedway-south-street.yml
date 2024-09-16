@@ -1,11 +1,11 @@
 id: 1033191236
-type: way
+type: node
 latitude: 40.41684
 longitude: -86.8248
 postcode: "47905"
 city: Lafayette
-street: "South Street"
-housenumber: 4325
+street: South Street
+housenumber: "4325"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Lafayette/4325-State-Road-26-East"
+website: https://www.speedway.com/locations/IN/Lafayette/4325-State-Road-26-East

@@ -1,11 +1,11 @@
 id: 810240173
-type: way
+type: node
 latitude: 39.78186
 longitude: -86.10414
 postcode: "46201"
 city: Indianapolis
-street: "East 10th Street"
-housenumber: 3616
+street: East 10th Street
+housenumber: "3616"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/indianapolis/6371"
+website: https://www.dollargeneral.com/store-directory/in/indianapolis/6371

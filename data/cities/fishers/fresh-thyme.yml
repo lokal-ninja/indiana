@@ -1,11 +1,11 @@
 id: 547164227
-type: way
+type: node
 latitude: 39.95703
 longitude: -85.96098
 postcode: "46037"
 city: Fishers
-street: "East 116th Street"
-housenumber: 11481
+street: East 116th Street
+housenumber: "11481"
 phone: ""
 opening_hours: ""
 website: ""

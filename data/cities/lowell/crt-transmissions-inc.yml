@@ -1,11 +1,11 @@
 id: 539165970
-type: way
+type: node
 latitude: 41.28926
 longitude: -87.42251
 postcode: "46356"
 city: Lowell
-street: "Harding Drive"
-housenumber: 141
-phone: "+1-219-374-0100"
+street: Harding Drive
+housenumber: "141"
+phone: +1-219-374-0100
 opening_hours: ""
-website: "https://www.coperacingtrans.com/"
+website: https://www.coperacingtrans.com/

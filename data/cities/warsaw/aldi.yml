@@ -4,8 +4,8 @@ latitude: 41.24816
 longitude: -85.82201
 postcode: "46582"
 city: Warsaw
-street: "North Parker Street"
-housenumber: 945
-phone: "+1 833-462-1038"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/in/warsaw/945-n-parker-st"
+street: North Parker Street
+housenumber: "945"
+phone: +1 833-462-1038
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/in/warsaw/945-n-parker-st

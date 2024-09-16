@@ -1,11 +1,11 @@
 id: 110422627
-type: way
+type: node
 latitude: 41.1168
 longitude: -85.14459
-postcode: "46805-1046"
+postcode: 46805-1046
 city: Fort Wayne
-street: "Lima Road"
-housenumber: 4122
-phone: "+1 260-471-0090"
-opening_hours: "Mo-Th 10:00-21:30; Fr-Sa 09:30-22:00; Su 10:00-21:00"
+street: Lima Road
+housenumber: "4122"
+phone: +1 260-471-0090
+opening_hours: Mo-Th 10:00-21:30; Fr-Sa 09:30-22:00; Su 10:00-21:00
 website: ""

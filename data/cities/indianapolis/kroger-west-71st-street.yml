@@ -4,8 +4,8 @@ latitude: 39.88071
 longitude: -86.24605
 postcode: "46268"
 city: Indianapolis
-street: "West 71st Street"
-housenumber: 5025
-phone: "+1 317-347-8488"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/71st-georgetown/021/00962"
+street: West 71st Street
+housenumber: "5025"
+phone: +1 317-347-8488
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/71st-georgetown/021/00962

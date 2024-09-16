@@ -1,11 +1,11 @@
 id: 329512566
-type: way
+type: node
 latitude: 40.36879
 longitude: -86.85894
 postcode: "47909"
 city: Lafayette
-street: "Builder Drive"
-housenumber: 3222
-phone: "+1-765-474-2442"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://bradsmotormarketplace.com"
+street: Builder Drive
+housenumber: "3222"
+phone: +1-765-474-2442
+opening_hours: Mo-Fr 08:30-17:30
+website: https://bradsmotormarketplace.com

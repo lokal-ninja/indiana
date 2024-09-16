@@ -1,11 +1,11 @@
 id: 510580596
-type: way
+type: node
 latitude: 39.77703
 longitude: -85.98182
 postcode: "46229"
 city: Indianapolis
-street: "East Washington Street"
-housenumber: 10450
-phone: "+1 317-895-2247"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/east-washington/021/00945"
+street: East Washington Street
+housenumber: "10450"
+phone: +1 317-895-2247
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/east-washington/021/00945

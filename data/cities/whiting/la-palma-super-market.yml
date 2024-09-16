@@ -1,11 +1,11 @@
 id: 1231953664
-type: way
+type: node
 latitude: 41.67672
 longitude: -87.49687
 postcode: "46394"
 city: Whiting
-street: "Indianapolis Boulevard"
-housenumber: 2040
+street: Indianapolis Boulevard
+housenumber: "2040"
 phone: ""
 opening_hours: ""
 website: ""

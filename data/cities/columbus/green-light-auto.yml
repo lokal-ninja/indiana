@@ -1,11 +1,11 @@
 id: 670453356
-type: way
+type: node
 latitude: 39.18864
 longitude: -85.93116
 postcode: "47201"
 city: Columbus
-street: "Jonesville Road"
-housenumber: 770
-phone: "+1-812-552-5114"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.greenlightapproval.com/"
+street: Jonesville Road
+housenumber: "770"
+phone: +1-812-552-5114
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.greenlightapproval.com/

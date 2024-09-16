@@ -1,11 +1,11 @@
 id: 938226286
-type: way
+type: node
 latitude: 41.40505
 longitude: -87.23989
 postcode: "46307"
 city: Winfield
-street: "Randolph Street"
-housenumber: 11702
-phone: "+1-219-663-7676"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/store-details/17387"
+street: Randolph Street
+housenumber: "11702"
+phone: +1-219-663-7676
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
+website: https://www.acehardware.com/store-details/17387

@@ -1,11 +1,11 @@
 id: 680336604
-type: way
+type: node
 latitude: 39.83996
 longitude: -86.12754
 postcode: "46205"
 city: Indianapolis
-street: "East 46th Street"
-housenumber: 2003
+street: East 46th Street
+housenumber: "2003"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

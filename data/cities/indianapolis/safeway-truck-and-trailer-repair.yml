@@ -1,11 +1,11 @@
 id: 252744526
-type: way
+type: node
 latitude: 39.73646
 longitude: -86.1637
 postcode: "46225"
 city: Indianapolis
-street: "Bluff Road"
-housenumber: 2222
+street: Bluff Road
+housenumber: "2222"
 phone: ""
 opening_hours: ""
 website: ""

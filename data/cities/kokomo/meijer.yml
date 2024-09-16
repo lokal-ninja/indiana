@@ -1,11 +1,11 @@
 id: 685008781
-type: way
+type: node
 latitude: 40.47478
 longitude: -86.09979
 postcode: "46901"
 city: Kokomo
-street: "East Markland Avenue"
-housenumber: 2301
-phone: "+1-765-454-7800"
+street: East Markland Avenue
+housenumber: "2301"
+phone: +1-765-454-7800
 opening_hours: ""
 website: ""

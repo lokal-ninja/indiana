@@ -1,11 +1,11 @@
 id: 539152069
-type: way
+type: node
 latitude: 41.28893
 longitude: -87.39531
 postcode: "46356"
 city: Lowell
-street: "East Commercial Avenue"
-housenumber: 150
-phone: "+1-219-696-5759"
+street: East Commercial Avenue
+housenumber: "150"
+phone: +1-219-696-5759
 opening_hours: ""
 website: ""

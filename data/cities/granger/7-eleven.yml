@@ -1,11 +1,11 @@
 id: 753803829
-type: way
+type: node
 latitude: 41.75314
 longitude: -86.11149
 postcode: "46530"
 city: Granger
-street: "Adams Road"
-housenumber: 12510
+street: Adams Road
+housenumber: "12510"
 phone: ""
 opening_hours: ""
 website: ""

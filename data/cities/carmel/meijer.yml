@@ -1,11 +1,11 @@
 id: 195522760
-type: way
+type: node
 latitude: 39.97407
 longitude: -86.15163
 postcode: "46032"
 city: Carmel
-street: "West Carmel Drive"
-housenumber: 1424
-phone: "+1-317-573-8300"
-opening_hours: "24/7"
+street: West Carmel Drive
+housenumber: "1424"
+phone: +1-317-573-8300
+opening_hours: 24/7
 website: ""

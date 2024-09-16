@@ -1,11 +1,11 @@
 id: 450036078
-type: way
+type: node
 latitude: 38.90074
 longitude: -86.52605
 postcode: "47451"
 city: Oolitic
-street: "Main Street"
-housenumber: 100
-phone: "+1-812-277-1111"
+street: Main Street
+housenumber: "100"
+phone: +1-812-277-1111
 opening_hours: ""
 website: ""

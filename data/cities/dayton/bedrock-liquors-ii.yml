@@ -4,8 +4,8 @@ latitude: 40.37428
 longitude: -86.76918
 postcode: "47941"
 city: Dayton
-street: "Walnut Street"
-housenumber: 718
-phone: "+1-765-296-2220"
-opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 12:00-20:00"
-website: "http://bedrockliquors.com"
+street: Walnut Street
+housenumber: "718"
+phone: +1-765-296-2220
+opening_hours: Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 12:00-20:00
+website: http://bedrockliquors.com

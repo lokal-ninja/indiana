@@ -1,11 +1,11 @@
 id: 957768572
-type: way
+type: node
 latitude: 39.75606
 longitude: -86.12739
 postcode: "46203"
 city: Indianapolis
-street: "Lexington Avenue"
-housenumber: 1933
+street: Lexington Avenue
+housenumber: "1933"
 phone: ""
 opening_hours: ""
 website: ""

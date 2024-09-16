@@ -1,11 +1,11 @@
 id: 1037958260
-type: way
+type: node
 latitude: 41.5494
 longitude: -87.19203
 postcode: "46368"
 city: Portage
-street: "Us 6"
-housenumber: 5761
-phone: "+1 833-462-1011"
-opening_hours: "Tu-Sa 08:30-20:00; Su 08:30-16:00"
-website: "https://stores.aldi.us/in/portage/5761-u-s-highway-6"
+street: Us 6
+housenumber: "5761"
+phone: +1 833-462-1011
+opening_hours: Tu-Sa 08:30-20:00; Su 08:30-16:00
+website: https://stores.aldi.us/in/portage/5761-u-s-highway-6

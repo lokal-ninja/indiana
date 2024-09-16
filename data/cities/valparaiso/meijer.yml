@@ -1,11 +1,11 @@
 id: 685124395
-type: way
+type: node
 latitude: 41.47168
 longitude: -87.0194
 postcode: "46383"
 city: Valparaiso
-street: "Porter's Vale Boulevard"
-housenumber: 405
-phone: "+1-219-300-8000"
+street: Porter's Vale Boulevard
+housenumber: "405"
+phone: +1-219-300-8000
 opening_hours: ""
 website: ""

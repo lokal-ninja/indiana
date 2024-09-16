@@ -1,11 +1,11 @@
 id: 582403800
-type: way
+type: node
 latitude: 39.28443
 longitude: -86.7624
 postcode: "47460"
 city: Spencer
-street: "South Main Street"
-housenumber: 190
-phone: "+1-812-829-5227"
+street: South Main Street
+housenumber: "190"
+phone: +1-812-829-5227
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 194937224
-type: way
+type: node
 latitude: 39.92614
 longitude: -86.0682
 postcode: "46250"
 city: Indianapolis
-street: "Allisonville Road"
-housenumber: 9546
+street: Allisonville Road
+housenumber: "9546"
 phone: ""
 opening_hours: ""
 website: ""

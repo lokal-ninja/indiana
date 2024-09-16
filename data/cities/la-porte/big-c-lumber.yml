@@ -1,11 +1,11 @@
 id: 1079773825
-type: way
+type: node
 latitude: 41.61171
 longitude: -86.72606
 postcode: "46350"
 city: La Porte
-street: "Washington Street"
-housenumber: 1001
-phone: "+1 219 362 6244"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
-website: "https://bigclumber.com/locations/la-porte/"
+street: Washington Street
+housenumber: "1001"
+phone: +1 219 362 6244
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
+website: https://bigclumber.com/locations/la-porte/

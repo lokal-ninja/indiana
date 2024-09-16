@@ -1,11 +1,11 @@
 id: 283335333
-type: way
+type: node
 latitude: 40.41396
 longitude: -86.83824
 postcode: "47905"
 city: Lafayette
-street: "South Street"
-housenumber: 3819
-phone: "+1 765-449-4309"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/lafayette-in-sams-club/8169"
+street: South Street
+housenumber: "3819"
+phone: +1 765-449-4309
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/lafayette-in-sams-club/8169

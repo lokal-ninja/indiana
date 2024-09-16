@@ -1,11 +1,11 @@
 id: 605101243
-type: way
+type: node
 latitude: 39.68843
 longitude: -86.31656
 postcode: "46241"
 city: Indianapolis
-street: "Exploration Drive"
-housenumber: 5202
+street: Exploration Drive
+housenumber: "5202"
 phone: ""
 opening_hours: ""
 website: ""

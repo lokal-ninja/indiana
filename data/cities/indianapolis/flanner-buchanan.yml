@@ -1,11 +1,11 @@
 id: 1033877301
-type: way
+type: node
 latitude: 39.8981
 longitude: -85.97303
 postcode: "46236"
 city: Indianapolis
-street: "Cork Road"
-housenumber: 7855
-phone: "+1-317-454-7078"
+street: Cork Road
+housenumber: "7855"
+phone: +1-317-454-7078
 opening_hours: ""
-website: "https://flannerbuchanan.com"
+website: https://flannerbuchanan.com

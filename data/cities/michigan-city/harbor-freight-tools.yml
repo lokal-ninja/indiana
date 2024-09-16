@@ -1,11 +1,11 @@
 id: 494085312
-type: way
+type: node
 latitude: 41.67913
 longitude: -86.89267
 postcode: "46360"
 city: Michigan City
-street: "Franklin Street"
-housenumber: 4106
-phone: "+1 219-879-6169"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/4106-franklin-street-michigan-city-46360?number=693"
+street: Franklin Street
+housenumber: "4106"
+phone: +1 219-879-6169
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/4106-franklin-street-michigan-city-46360?number=693

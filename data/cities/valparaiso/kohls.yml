@@ -1,11 +1,11 @@
 id: 458145207
-type: way
+type: node
 latitude: 41.46458
 longitude: -87.02908
 postcode: "46383"
 city: Valparaiso
-street: "Silhavy Road"
-housenumber: 350
-phone: "+1 219-531-6233"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.kohls.com/stores/in/valparaiso-473.shtml"
+street: Silhavy Road
+housenumber: "350"
+phone: +1 219-531-6233
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.kohls.com/stores/in/valparaiso-473.shtml

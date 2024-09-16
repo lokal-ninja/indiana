@@ -4,8 +4,8 @@ latitude: 39.40977
 longitude: -87.40899
 postcode: "47802"
 city: Terre Haute
-street: "US 41"
-housenumber: 4688
+street: US 41
+housenumber: "4688"
 phone: ""
 opening_hours: ""
-website: "https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=39.409771&long=-87.409179"
+website: https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=39.409771&long=-87.409179

@@ -1,11 +1,11 @@
 id: 917326225
-type: way
+type: node
 latitude: 41.60171
 longitude: -87.40581
 postcode: "46406"
 city: Gary
-street: "West 5th Avenue"
-housenumber: 5529
+street: West 5th Avenue
+housenumber: "5529"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/locations/in/gary/21228/"
+website: https://www.familydollar.com/locations/in/gary/21228/

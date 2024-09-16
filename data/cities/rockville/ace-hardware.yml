@@ -2,10 +2,10 @@ id: 3557207877
 type: node
 latitude: 39.77578
 longitude: -87.23549
-postcode: "47872-1214"
+postcode: 47872-1214
 city: Rockville
-street: "North Lincoln Road"
-housenumber: 1221
-phone: "+1 765-569-3263"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: North Lincoln Road
+housenumber: "1221"
+phone: +1 765-569-3263
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

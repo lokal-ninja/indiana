@@ -1,11 +1,11 @@
 id: 1009396210
-type: way
+type: node
 latitude: 39.17175
 longitude: -86.52969
 postcode: "47408"
 city: Bloomington
-street: "East 10th Street"
-housenumber: 401
+street: East 10th Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 486681470
-type: way
+type: node
 latitude: 39.83435
 longitude: -84.88419
 postcode: "47374"
 city: Richmond
-street: "North E Street"
-housenumber: 1307
+street: North E Street
+housenumber: "1307"
 phone: ""
 opening_hours: ""
 website: ""

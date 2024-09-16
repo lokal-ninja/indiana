@@ -4,8 +4,8 @@ latitude: 39.16652
 longitude: -86.58093
 postcode: "47404"
 city: Bloomington
-street: "West 3rd Street"
-housenumber: 3620
-phone: "+1 812-333-8818"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/in/bloomington/3620-w-3rd-st"
+street: West 3rd Street
+housenumber: "3620"
+phone: +1 812-333-8818
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/in/bloomington/3620-w-3rd-st

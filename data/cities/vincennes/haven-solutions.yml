@@ -1,11 +1,11 @@
 id: 731790967
-type: way
+type: node
 latitude: 38.66021
 longitude: -87.50391
 postcode: "47591"
 city: Vincennes
-street: "Ford Road"
-housenumber: 2759
-phone: "+1-812-882-2288"
+street: Ford Road
+housenumber: "2759"
+phone: +1-812-882-2288
 opening_hours: ""
-website: "http://gohavensolutions.com"
+website: http://gohavensolutions.com

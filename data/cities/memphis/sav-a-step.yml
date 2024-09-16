@@ -1,11 +1,11 @@
 id: 820300632
-type: way
+type: node
 latitude: 38.42528
 longitude: -85.80848
 postcode: "47143"
 city: Memphis
-street: "State Road 111"
-housenumber: 8715
-phone: "+1 812 246 3263"
+street: State Road 111
+housenumber: "8715"
+phone: +1 812 246 3263
 opening_hours: ""
-website: "http://savastep.com/"
+website: http://savastep.com/

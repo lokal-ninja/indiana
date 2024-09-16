@@ -1,11 +1,11 @@
 id: 1293299870
-type: way
+type: node
 latitude: 41.63363
 longitude: -87.5078
 postcode: "46320"
 city: Hammond
-street: "Calumet Avenue"
-housenumber: 4415
-phone: "+1 833-462-1018"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/in/hammond/4415-calumet-avenue"
+street: Calumet Avenue
+housenumber: "4415"
+phone: +1 833-462-1018
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/in/hammond/4415-calumet-avenue

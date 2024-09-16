@@ -1,11 +1,11 @@
 id: 992343955
-type: way
+type: node
 latitude: 41.06918
 longitude: -85.20031
 postcode: "46804"
 city: Fort Wayne
-street: "Apple Glen Boulevard"
-housenumber: 1760
-phone: "+1 260-436-7323"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/in/fort-wayne-store1009.html"
+street: Apple Glen Boulevard
+housenumber: "1760"
+phone: +1 260-436-7323
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/in/fort-wayne-store1009.html

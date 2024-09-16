@@ -1,11 +1,11 @@
 id: 843182071
-type: way
+type: node
 latitude: 41.66563
 longitude: -86.20821
 postcode: "46615"
 city: Mishawaka
-street: "Mishawaka Avenue"
-housenumber: 2716
+street: Mishawaka Avenue
+housenumber: "2716"
 phone: ""
 opening_hours: ""
-website: "https://avenuebicyclestation.com"
+website: https://avenuebicyclestation.com

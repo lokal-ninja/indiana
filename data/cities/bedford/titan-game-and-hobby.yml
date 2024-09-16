@@ -4,8 +4,9 @@ latitude: 38.84679
 longitude: -86.49827
 postcode: "47421"
 city: Bedford
-street: "Washington Avenue"
-housenumber: 2821
-phone: "+1-812-329-1112"
-opening_hours: "Tu-We 12:00-18:00; Th 12:00-19:00; Fr 12:00-20:00; Sa 12:00-19:00; Su 12:00-17:00"
+street: Washington Avenue
+housenumber: "2821"
+phone: +1-812-329-1112
+opening_hours: Tu-We 12:00-18:00; Th 12:00-19:00; Fr 12:00-20:00; Sa 12:00-19:00;
+    Su 12:00-17:00
 website: ""

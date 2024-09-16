@@ -1,11 +1,11 @@
 id: 864644974
-type: way
+type: node
 latitude: 40.21949
 longitude: -85.44227
 postcode: "47304"
 city: Muncie
-street: "North Morrison Road"
-housenumber: 3250
+street: North Morrison Road
+housenumber: "3250"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3250+n+morrison+rd-muncie-in-47304/id=10533"
+website: https://www.walgreens.com/locator/walgreens-3250+n+morrison+rd-muncie-in-47304/id=10533

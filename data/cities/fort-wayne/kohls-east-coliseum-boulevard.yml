@@ -1,11 +1,11 @@
 id: 121635208
-type: way
+type: node
 latitude: 41.12052
 longitude: -85.12859
 postcode: "46805"
 city: Fort Wayne
-street: "East Coliseum Boulevard"
-housenumber: 835
-phone: "+1 260-483-0564"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/in/fortwayne-130.shtml"
+street: East Coliseum Boulevard
+housenumber: "835"
+phone: +1 260-483-0564
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/in/fortwayne-130.shtml

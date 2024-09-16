@@ -1,11 +1,11 @@
 id: 1173197976
-type: way
+type: node
 latitude: 39.16805
 longitude: -86.53407
 postcode: "47404"
 city: Bloomington
-street: "West 6th Street"
-housenumber: 110
-phone: "+1-812-320-5050"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.qaisarorientalrugs.com/"
+street: West 6th Street
+housenumber: "110"
+phone: +1-812-320-5050
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.qaisarorientalrugs.com/

@@ -1,11 +1,11 @@
 id: 351714524
-type: way
+type: node
 latitude: 37.97786
 longitude: -87.49316
 postcode: "47715"
 city: Evansville
-street: "North Green River Road"
-housenumber: 150
+street: North Green River Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

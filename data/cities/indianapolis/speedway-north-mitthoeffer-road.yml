@@ -1,11 +1,11 @@
 id: 1043259351
-type: way
+type: node
 latitude: 39.78276
 longitude: -85.98991
 postcode: "46229"
 city: Indianapolis
-street: "North Mitthoeffer Road"
-housenumber: 1005
+street: North Mitthoeffer Road
+housenumber: "1005"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/IN/Indianapolis/1005-North-Mitthoeffer-Road"
+opening_hours: 24/7
+website: https://www.speedway.com/locations/IN/Indianapolis/1005-North-Mitthoeffer-Road

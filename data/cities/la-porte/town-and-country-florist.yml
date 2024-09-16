@@ -1,11 +1,11 @@
 id: 1205549356
-type: way
+type: node
 latitude: 41.60057
 longitude: -86.73261
 postcode: "46350"
 city: La Porte
-street: "West State Road 2"
-housenumber: 1106
-phone: "+1-219-362-6768"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://www.townncountryfloristin.com/"
+street: West State Road 2
+housenumber: "1106"
+phone: +1-219-362-6768
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-15:00
+website: https://www.townncountryfloristin.com/

@@ -1,11 +1,11 @@
 id: 95574084
-type: way
+type: node
 latitude: 41.1191
 longitude: -85.06221
 postcode: "46815"
 city: Fort Wayne
-street: "Plantation Lane"
-housenumber: 6200
+street: Plantation Lane
+housenumber: "6200"
 phone: ""
 opening_hours: ""
 website: ""

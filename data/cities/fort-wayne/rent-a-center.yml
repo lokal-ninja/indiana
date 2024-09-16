@@ -1,11 +1,11 @@
 id: 859783113
-type: way
+type: node
 latitude: 41.09487
 longitude: -85.15689
 postcode: "46808"
 city: Fort Wayne
-street: "West State Boulevard"
-housenumber: 1105
+street: West State Boulevard
+housenumber: "1105"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1009048101
-type: way
+type: node
 latitude: 39.81045
 longitude: -86.12584
 postcode: "46218"
 city: Indianapolis
-street: "East 30th Street"
-housenumber: 2005
+street: East 30th Street
+housenumber: "2005"
 phone: ""
 opening_hours: ""
 website: ""

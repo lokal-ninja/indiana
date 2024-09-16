@@ -1,11 +1,11 @@
 id: 306534991
-type: way
+type: node
 latitude: 41.6132
 longitude: -87.48037
 postcode: "46312"
 city: East Chicago
-street: "Indianapolis Boulevard"
-housenumber: 5539
+street: Indianapolis Boulevard
+housenumber: "5539"
 phone: ""
 opening_hours: ""
 website: ""

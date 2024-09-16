@@ -1,11 +1,11 @@
 id: 1107341005
-type: way
+type: node
 latitude: 40.94604
 longitude: -87.45427
 postcode: ""
 city: Morocco
-street: "East State Street"
-housenumber: 105
-phone: "(219) 285-1022"
+street: East State Street
+housenumber: "105"
+phone: (219) 285-1022
 opening_hours: ""
-website: "https://charmed-salon.business.site/"
+website: https://charmed-salon.business.site/

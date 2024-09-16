@@ -1,11 +1,11 @@
 id: 951720276
-type: way
+type: node
 latitude: 41.11727
 longitude: -85.13446
 postcode: "46805"
 city: Fort Wayne
-street: "Coldwater Road"
-housenumber: 4320
+street: Coldwater Road
+housenumber: "4320"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

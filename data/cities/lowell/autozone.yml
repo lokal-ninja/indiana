@@ -1,11 +1,11 @@
 id: 539152077
-type: way
+type: node
 latitude: 41.29111
 longitude: -87.414
 postcode: "46356"
 city: Lowell
-street: "East Commercial Avenue"
-housenumber: 980
-phone: "+1-219-690-0688"
+street: East Commercial Avenue
+housenumber: "980"
+phone: +1-219-690-0688
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/lowell/980-e-commercial-ave.html"
+website: https://www.autozone.com/locations/in/lowell/980-e-commercial-ave.html

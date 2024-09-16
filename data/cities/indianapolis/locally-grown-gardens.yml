@@ -1,11 +1,11 @@
 id: 387380041
-type: way
+type: node
 latitude: 39.85148
 longitude: -86.14028
 postcode: "46220"
 city: Indianapolis
-street: "East 54th Street"
-housenumber: 1050
+street: East 54th Street
+housenumber: "1050"
 phone: ""
 opening_hours: ""
 website: ""

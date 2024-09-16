@@ -1,11 +1,11 @@
 id: 558373076
-type: way
+type: node
 latitude: 39.16709
 longitude: -86.5389
 postcode: ""
 city: Bloomington
-street: "North Rogers Street"
-housenumber: 115
+street: North Rogers Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

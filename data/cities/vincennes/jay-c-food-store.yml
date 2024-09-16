@@ -1,11 +1,11 @@
 id: 692975053
-type: way
+type: node
 latitude: 38.68275
 longitude: -87.51483
 postcode: "47591"
 city: Vincennes
-street: "Washington Avenue"
-housenumber: 1400
-phone: "+1-812-886-9311"
-opening_hours: "06:00-24:00"
-website: "http://jaycfoods.com"
+street: Washington Avenue
+housenumber: "1400"
+phone: +1-812-886-9311
+opening_hours: 06:00-24:00
+website: http://jaycfoods.com

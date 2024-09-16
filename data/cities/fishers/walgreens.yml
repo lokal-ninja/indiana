@@ -1,11 +1,11 @@
 id: 173039389
-type: way
+type: node
 latitude: 39.95709
 longitude: -85.91974
 postcode: "46037"
 city: Fishers
-street: "East 116th Street"
-housenumber: 13741
+street: East 116th Street
+housenumber: "13741"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-13741+e+116th+st-fishers-in-46037/id=10149"
+website: https://www.walgreens.com/locator/walgreens-13741+e+116th+st-fishers-in-46037/id=10149

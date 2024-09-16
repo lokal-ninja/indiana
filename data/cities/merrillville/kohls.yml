@@ -1,11 +1,11 @@
 id: 1096658059
-type: way
+type: node
 latitude: 41.47018
 longitude: -87.31487
 postcode: "46410"
 city: Merrillville
-street: "Southlake Mall"
-housenumber: 1601
-phone: "+1 219-791-9141"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/in/merrillville-83.shtml"
+street: Southlake Mall
+housenumber: "1601"
+phone: +1 219-791-9141
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/in/merrillville-83.shtml

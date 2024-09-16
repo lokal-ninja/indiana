@@ -1,11 +1,11 @@
 id: 1037872254
-type: way
+type: node
 latitude: 41.47177
 longitude: -87.29639
 postcode: "46410"
 city: Merrillville
-street: "East 81st Avenue"
-housenumber: 3200
+street: East 81st Avenue
+housenumber: "3200"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Merrillville/3200-East-Lincoln-Highway"
+website: https://www.speedway.com/locations/IN/Merrillville/3200-East-Lincoln-Highway

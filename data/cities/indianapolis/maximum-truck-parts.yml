@@ -1,11 +1,11 @@
 id: 978524910
-type: way
+type: node
 latitude: 39.74174
 longitude: -86.21573
 postcode: "46241"
 city: Indianapolis
-street: "South Tibbs Avenue"
-housenumber: 1725
+street: South Tibbs Avenue
+housenumber: "1725"
 phone: ""
 opening_hours: ""
 website: ""

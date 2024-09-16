@@ -1,11 +1,11 @@
 id: 476966296
-type: way
+type: node
 latitude: 41.67716
 longitude: -86.24299
 postcode: ""
 city: South Bend
-street: "North Hill Street"
-housenumber: 123
-phone: "+1 574 287 6724"
-opening_hours: "Mo-Sa 08:00-20:00; Su 11:00-18:00"
-website: "https://www.purpleporch.coop/"
+street: North Hill Street
+housenumber: "123"
+phone: +1 574 287 6724
+opening_hours: Mo-Sa 08:00-20:00; Su 11:00-18:00
+website: https://www.purpleporch.coop/

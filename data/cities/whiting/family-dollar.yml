@@ -1,11 +1,11 @@
 id: 511808894
-type: way
+type: node
 latitude: 41.67941
 longitude: -87.49847
 postcode: "46394"
 city: Whiting
-street: "119th Street"
-housenumber: 1241
+street: 119th Street
+housenumber: "1241"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

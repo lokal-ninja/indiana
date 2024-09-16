@@ -1,11 +1,11 @@
 id: 729380919
-type: way
+type: node
 latitude: 38.67731
 longitude: -87.53008
 postcode: "47591"
 city: Vincennes
-street: "Main Street"
-housenumber: 505
+street: Main Street
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

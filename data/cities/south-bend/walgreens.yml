@@ -1,11 +1,11 @@
 id: 72648063
-type: way
+type: node
 latitude: 41.62905
 longitude: -86.23564
 postcode: "46614"
 city: South Bend
-street: "East Ireland Road"
-housenumber: 1010
+street: East Ireland Road
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1010+e+ireland+rd-south+bend-in-46614/id=3437"
+website: https://www.walgreens.com/locator/walgreens-1010+e+ireland+rd-south+bend-in-46614/id=3437

@@ -1,11 +1,11 @@
 id: 554372792
-type: way
+type: node
 latitude: 39.81039
 longitude: -86.16119
 postcode: "46208"
 city: Indianapolis
-street: "North Capitol Avenue"
-housenumber: 3001
+street: North Capitol Avenue
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

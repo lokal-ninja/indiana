@@ -1,11 +1,11 @@
 id: 743161781
-type: way
+type: node
 latitude: 40.45311
 longitude: -86.92418
 postcode: "47906"
 city: West Lafayette
-street: "Sagamore Parkway West"
-housenumber: 1199
-phone: "+1-765-743-2000"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.wrightflowershop.com/"
+street: Sagamore Parkway West
+housenumber: "1199"
+phone: +1-765-743-2000
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: https://www.wrightflowershop.com/

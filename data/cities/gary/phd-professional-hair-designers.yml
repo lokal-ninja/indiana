@@ -1,11 +1,11 @@
 id: 1146125085
-type: way
+type: node
 latitude: 41.59196
 longitude: -87.35655
 postcode: ""
 city: Gary
 street: ""
-housenumber: 1046
+housenumber: "1046"
 phone: ""
 opening_hours: ""
 website: ""

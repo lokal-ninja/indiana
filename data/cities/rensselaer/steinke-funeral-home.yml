@@ -1,11 +1,11 @@
 id: 531709610
-type: way
+type: node
 latitude: 40.93813
 longitude: -87.15548
 postcode: "47978"
 city: Rensselaer
-street: "North Front Street"
-housenumber: 403
+street: North Front Street
+housenumber: "403"
 phone: ""
 opening_hours: ""
 website: ""

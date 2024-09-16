@@ -1,11 +1,11 @@
 id: 539152062
-type: way
+type: node
 latitude: 41.28942
 longitude: -87.39904
 postcode: "46356"
 city: Lowell
-street: "East Commercial Avenue"
-housenumber: 1720
-phone: "+1 833-462-1078"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/in/lowell/1720-e-commercial-ave"
+street: East Commercial Avenue
+housenumber: "1720"
+phone: +1 833-462-1078
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/in/lowell/1720-e-commercial-ave

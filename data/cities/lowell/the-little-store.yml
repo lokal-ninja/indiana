@@ -1,11 +1,11 @@
 id: 539152104
-type: way
+type: node
 latitude: 41.29112
 longitude: -87.40936
 postcode: "46356"
 city: Lowell
-street: "East Commercial Avenue"
-housenumber: 1255
-phone: "+1-219-696-1255"
+street: East Commercial Avenue
+housenumber: "1255"
+phone: +1-219-696-1255
 opening_hours: ""
-website: "https://sites.google.com/view/storesnwi//"
+website: https://sites.google.com/view/storesnwi//

@@ -1,11 +1,11 @@
 id: 184198475
-type: way
+type: node
 latitude: 41.13477
 longitude: -85.1655
 postcode: "46818"
 city: Fort Wayne
-street: "Lima Road"
-housenumber: 6235
-phone: "+1 260-497-9315"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/ft-wayne/in/fort-wayne/46818/2009"
+street: Lima Road
+housenumber: "6235"
+phone: +1 260-497-9315
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/ft-wayne/in/fort-wayne/46818/2009

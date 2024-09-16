@@ -1,11 +1,11 @@
 id: 681987911
-type: way
+type: node
 latitude: 40.75759
 longitude: -86.33122
 postcode: "46947"
 city: Logansport
-street: "East Market Street"
-housenumber: 2865
-phone: "574-722-5200"
+street: East Market Street
+housenumber: "2865"
+phone: 574-722-5200
 opening_hours: ""
-website: "https://www.doitbest.com/mccords/"
+website: https://www.doitbest.com/mccords/

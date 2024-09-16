@@ -1,11 +1,11 @@
 id: 195594690
-type: way
+type: node
 latitude: 39.96978
 longitude: -86.12657
 postcode: "46032"
 city: Carmel
-street: "South Range Line Road"
-housenumber: 731
-phone: "+1 317-846-2311"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00"
+street: South Range Line Road
+housenumber: "731"
+phone: +1 317-846-2311
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00
 website: ""

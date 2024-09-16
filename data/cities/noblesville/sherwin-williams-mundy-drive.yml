@@ -1,11 +1,11 @@
 id: 580693477
-type: way
+type: node
 latitude: 39.99456
 longitude: -86.00335
 postcode: "46060"
 city: Noblesville
-street: "Mundy Drive"
-housenumber: 14155
+street: Mundy Drive
+housenumber: "14155"
 phone: "+13177705272"
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/noblesville/in/1392"
+website: https://www.sherwin-williams.com/store-locator/paint-store/noblesville/in/1392

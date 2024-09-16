@@ -1,11 +1,11 @@
 id: 629127822
-type: way
+type: node
 latitude: 39.78043
 longitude: -86.2574
 postcode: "46224"
 city: Indianapolis
-street: "West 10th Street"
-housenumber: 5550
+street: West 10th Street
+housenumber: "5550"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 554512216
-type: way
+type: node
 latitude: 39.84574
 longitude: -86.12154
 postcode: "46205"
 city: Indianapolis
-street: "North Keystone Avenue"
-housenumber: 5125
+street: North Keystone Avenue
+housenumber: "5125"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/in/indianapolis/5125-n-keystone-ave"
+website: https://stores.advanceautoparts.com/in/indianapolis/5125-n-keystone-ave

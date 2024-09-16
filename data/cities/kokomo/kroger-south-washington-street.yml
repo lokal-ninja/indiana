@@ -1,11 +1,11 @@
 id: 755875971
-type: way
+type: node
 latitude: 40.4546
 longitude: -86.13161
 postcode: "46902"
 city: Kokomo
-street: "South Washington Street"
-housenumber: 2821
-phone: "+1 765-453-7556"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/in/kokomo/maplecrest-plaza-kroger/021/00071"
+street: South Washington Street
+housenumber: "2821"
+phone: +1 765-453-7556
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/in/kokomo/maplecrest-plaza-kroger/021/00071

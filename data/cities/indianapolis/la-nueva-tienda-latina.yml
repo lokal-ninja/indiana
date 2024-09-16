@@ -1,11 +1,11 @@
 id: 396667085
-type: way
+type: node
 latitude: 39.77434
 longitude: -86.21659
 postcode: "46222"
 city: Indianapolis
-street: "West Michigan Street"
-housenumber: 3410
+street: West Michigan Street
+housenumber: "3410"
 phone: ""
 opening_hours: ""
 website: ""

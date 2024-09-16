@@ -1,11 +1,11 @@
 id: 1243361305
-type: way
+type: node
 latitude: 37.9818
 longitude: -87.45621
 postcode: "47715"
 city: Evansville
-street: "Circle Front Drive"
-housenumber: 445
+street: Circle Front Drive
+housenumber: "445"
 phone: ""
 opening_hours: ""
 website: ""

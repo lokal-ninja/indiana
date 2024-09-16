@@ -1,11 +1,11 @@
 id: 1078554747
-type: way
+type: node
 latitude: 41.61042
 longitude: -86.71848
 postcode: "46350"
 city: La Porte
-street: "Maple Avenue"
-housenumber: 602
-phone: "+1 219 362 3333"
+street: Maple Avenue
+housenumber: "602"
+phone: +1 219 362 3333
 opening_hours: ""
 website: ""

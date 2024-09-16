@@ -1,11 +1,11 @@
 id: 89597469
-type: way
+type: node
 latitude: 41.72729
 longitude: -86.28547
 postcode: "46628"
 city: South Bend
-street: "Portage Road"
-housenumber: 3600
-phone: "+1-574-273-3400"
+street: Portage Road
+housenumber: "3600"
+phone: +1-574-273-3400
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 531373768
-type: way
+type: node
 latitude: 41.13172
 longitude: -85.00838
 postcode: ""
 city: Fort Wayne
-street: "Maysville Road"
-housenumber: 10464
+street: Maysville Road
+housenumber: "10464"
 phone: ""
 opening_hours: ""
 website: ""

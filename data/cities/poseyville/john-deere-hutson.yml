@@ -1,11 +1,11 @@
 id: 352626731
-type: way
+type: node
 latitude: 38.17969
 longitude: -87.78223
 postcode: "47633"
 city: Poseyville
-street: "Frontage Road"
-housenumber: 60
+street: Frontage Road
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

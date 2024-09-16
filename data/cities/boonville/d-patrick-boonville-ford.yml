@@ -1,11 +1,11 @@
 id: 1265035663
-type: way
+type: node
 latitude: 38.04879
 longitude: -87.30322
 postcode: "47601"
 city: Boonville
-street: "State Road 62"
-housenumber: 3100
-phone: "+1-888-377-1640"
+street: State Road 62
+housenumber: "3100"
+phone: +1-888-377-1640
 opening_hours: ""
-website: "http://boonvilleford.com"
+website: http://boonvilleford.com

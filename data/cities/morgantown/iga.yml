@@ -1,11 +1,11 @@
 id: 172797845
-type: way
+type: node
 latitude: 39.37051
 longitude: -86.26359
 postcode: "46160"
 city: Morgantown
-street: "South Marion Street"
-housenumber: 80
+street: South Marion Street
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

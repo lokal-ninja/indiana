@@ -1,11 +1,11 @@
 id: 607091417
-type: way
+type: node
 latitude: 40.06367
 longitude: -85.65024
 postcode: "46013"
 city: Anderson
-street: "Charles Street"
-housenumber: 2321
-phone: "+1 765-642-5025"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1728/anderson-in/whats-new"
+street: Charles Street
+housenumber: "2321"
+phone: +1 765-642-5025
+opening_hours: 24/7
+website: https://www.walmart.com/store/1728/anderson-in/whats-new

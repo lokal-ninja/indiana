@@ -1,11 +1,11 @@
 id: 1201511123
-type: way
+type: node
 latitude: 41.61902
 longitude: -86.70732
 postcode: "46350"
 city: La Porte
-street: "East Lincolnway"
-housenumber: 609
+street: East Lincolnway
+housenumber: "609"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/la-porte/2173"
+website: https://www.dollargeneral.com/store-directory/in/la-porte/2173

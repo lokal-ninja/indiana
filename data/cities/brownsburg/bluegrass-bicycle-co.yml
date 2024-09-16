@@ -1,11 +1,11 @@
 id: 1282133811
-type: way
+type: node
 latitude: 39.87311
 longitude: -86.32755
 postcode: "46112"
 city: Brownsburg
-street: "East County Road 750 North"
-housenumber: 10929
+street: East County Road 750 North
+housenumber: "10929"
 phone: ""
 opening_hours: ""
 website: ""

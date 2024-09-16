@@ -1,11 +1,11 @@
 id: 604313223
-type: way
+type: node
 latitude: 41.05886
 longitude: -85.2244
 postcode: "46804"
 city: Fort Wayne
-street: "West Jefferson Boulevard"
-housenumber: 6306
+street: West Jefferson Boulevard
+housenumber: "6306"
 phone: ""
 opening_hours: ""
 website: ""

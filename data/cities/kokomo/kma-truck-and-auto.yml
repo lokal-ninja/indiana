@@ -1,11 +1,11 @@
 id: 745029428
-type: way
+type: node
 latitude: 40.4443
 longitude: -86.16428
 postcode: "46902"
 city: Kokomo
-street: "South County Road 200 West"
-housenumber: 3618
+street: South County Road 200 West
+housenumber: "3618"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

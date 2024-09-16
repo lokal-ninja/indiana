@@ -1,11 +1,11 @@
 id: 1078219860
-type: way
+type: node
 latitude: 41.61184
 longitude: -86.71976
 postcode: "46350"
 city: La Porte
-street: "Lincolnway"
-housenumber: 610
-phone: "+1-219-362-1502"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.thodefloral.com/"
+street: Lincolnway
+housenumber: "610"
+phone: +1-219-362-1502
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: https://www.thodefloral.com/

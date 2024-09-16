@@ -1,11 +1,11 @@
 id: 722774768
-type: way
+type: node
 latitude: 41.17808
 longitude: -85.09716
 postcode: "46825"
 city: Fort Wayne
-street: "East Dupont Road"
-housenumber: 3718
+street: East Dupont Road
+housenumber: "3718"
 phone: ""
 opening_hours: ""
 website: ""

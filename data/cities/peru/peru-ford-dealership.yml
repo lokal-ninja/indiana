@@ -1,11 +1,11 @@
 id: 740793641
-type: way
+type: node
 latitude: 40.76766
 longitude: -86.07926
 postcode: "46970"
 city: Peru
-street: "North Broadway"
-housenumber: 800
-phone: "+1 844-792-4307"
-opening_hours: "Mo, Tu, Th 08:30-19:00; We, Fr 08:30-18:00; Sa 09:00-16:00"
-website: "https://www.peruford.com/"
+street: North Broadway
+housenumber: "800"
+phone: +1 844-792-4307
+opening_hours: Mo, Tu, Th 08:30-19:00; We, Fr 08:30-18:00; Sa 09:00-16:00
+website: https://www.peruford.com/

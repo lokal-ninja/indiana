@@ -1,11 +1,11 @@
 id: 1033622642
-type: way
+type: node
 latitude: 39.79012
 longitude: -86.0984
 postcode: "46218"
 city: Indianapolis
-street: "Wales Avenue"
-housenumber: 1725
+street: Wales Avenue
+housenumber: "1725"
 phone: ""
 opening_hours: ""
 website: ""

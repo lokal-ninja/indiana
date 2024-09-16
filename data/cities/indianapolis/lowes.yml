@@ -4,8 +4,8 @@ latitude: 39.63712
 longitude: -86.11959
 postcode: "46227"
 city: Indianapolis
-street: "Madison Avenue"
-housenumber: 8850
-phone: "+1 317-881-0050"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-indianapolis/0442"
+street: Madison Avenue
+housenumber: "8850"
+phone: +1 317-881-0050
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-indianapolis/0442

@@ -1,11 +1,11 @@
 id: 987701766
-type: way
+type: node
 latitude: 41.71753
 longitude: -86.1741
 postcode: "46530"
 city: Granger
-street: "East University Drive"
-housenumber: 355
+street: East University Drive
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

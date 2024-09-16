@@ -4,8 +4,8 @@ latitude: 39.91409
 longitude: -86.13514
 postcode: "46240"
 city: Indianapolis
-street: "East 86th Street"
-housenumber: 1460
-phone: "+1 317-708-4190"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:00-20:00"
-website: "https://www.totalwine.com/store-info/indiana-nora-indianapolis/2701"
+street: East 86th Street
+housenumber: "1460"
+phone: +1 317-708-4190
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:00-20:00
+website: https://www.totalwine.com/store-info/indiana-nora-indianapolis/2701

@@ -1,11 +1,11 @@
 id: 1014524222
-type: way
+type: node
 latitude: 39.16217
 longitude: -86.53568
 postcode: "47403"
 city: Bloomington
-street: "South College Avenue"
-housenumber: 424
+street: South College Avenue
+housenumber: "424"
 phone: ""
 opening_hours: ""
 website: ""

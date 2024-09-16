@@ -1,11 +1,11 @@
 id: 1228345040
-type: way
+type: node
 latitude: 38.11923
 longitude: -86.92379
 postcode: "47579"
 city: Santa Claus
-street: "North Louis J Koch Boulevard"
-housenumber: 23
+street: North Louis J Koch Boulevard
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

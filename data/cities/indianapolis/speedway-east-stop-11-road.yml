@@ -1,11 +1,11 @@
 id: 620707476
-type: way
+type: node
 latitude: 39.65091
 longitude: -86.06423
 postcode: "46237"
 city: Indianapolis
-street: "East Stop 11 Road"
-housenumber: 5945
+street: East Stop 11 Road
+housenumber: "5945"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Indianapolis/5945-E-Stop-11-Rd"
+website: https://www.speedway.com/locations/IN/Indianapolis/5945-E-Stop-11-Rd

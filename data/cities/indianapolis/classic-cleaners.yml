@@ -3,9 +3,9 @@ type: node
 latitude: 39.93211
 longitude: -86.23193
 postcode: ""
-city: Indianapolis 
-street: "North Michigan Road"
-housenumber: 9893
+city: 'Indianapolis '
+street: North Michigan Road
+housenumber: "9893"
 phone: ""
 opening_hours: ""
 website: ""

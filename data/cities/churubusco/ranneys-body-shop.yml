@@ -1,11 +1,11 @@
 id: 1274249919
-type: way
+type: node
 latitude: 41.23111
 longitude: -85.32008
 postcode: "46723"
 city: Churubusco
-street: "West Washington Street"
-housenumber: 107
+street: West Washington Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

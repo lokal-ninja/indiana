@@ -1,11 +1,11 @@
 id: 661058827
-type: way
+type: node
 latitude: 41.0784
 longitude: -85.12676
 postcode: "46803"
 city: Fort Wayne
-street: "East Jefferson Boulevard"
-housenumber: 831
+street: East Jefferson Boulevard
+housenumber: "831"
 phone: ""
 opening_hours: ""
 website: ""

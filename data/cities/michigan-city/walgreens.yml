@@ -1,11 +1,11 @@
 id: 1038589391
-type: way
+type: node
 latitude: 41.68103
 longitude: -86.89498
 postcode: "46360"
 city: Michigan City
-street: "West US Highway 20"
-housenumber: 101
+street: West US Highway 20
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-101+w+us+highway+20-michigan+city-in-46360/id=4635"
+website: https://www.walgreens.com/locator/walgreens-101+w+us+highway+20-michigan+city-in-46360/id=4635

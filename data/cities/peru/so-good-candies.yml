@@ -1,11 +1,11 @@
 id: 846843465
-type: way
+type: node
 latitude: 40.75233
 longitude: -86.06935
 postcode: "46970"
 city: Peru
-street: "West 3rd Street"
-housenumber: 25
+street: West 3rd Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.sogoodcandies.com/"
+website: https://www.sogoodcandies.com/

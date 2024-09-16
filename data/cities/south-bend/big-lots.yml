@@ -1,11 +1,11 @@
 id: 732120752
-type: way
+type: node
 latitude: 41.63126
 longitude: -86.21921
 postcode: "46614"
 city: South Bend
-street: "East Ireland Road"
-housenumber: 1911
-phone: "+1 574-299-1591"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/in/south-bend/1911-e-ireland-rd"
+street: East Ireland Road
+housenumber: "1911"
+phone: +1 574-299-1591
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/in/south-bend/1911-e-ireland-rd

@@ -4,8 +4,8 @@ latitude: 41.66495
 longitude: -86.29245
 postcode: "46619"
 city: South Bend
-street: "West Sample Street"
-housenumber: 3105
-phone: "+1 574 287 4945"
+street: West Sample Street
+housenumber: "3105"
+phone: +1 574 287 4945
 opening_hours: ""
-website: "https://roantone.github.io/"
+website: https://roantone.github.io/

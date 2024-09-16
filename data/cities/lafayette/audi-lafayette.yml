@@ -1,11 +1,11 @@
 id: 741031924
-type: way
+type: node
 latitude: 40.39911
 longitude: -86.85669
 postcode: "47905"
 city: Lafayette
-street: "Sagamore Parkway"
-housenumber: 1701
+street: Sagamore Parkway
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://www.audilafayettein.com/"
+website: https://www.audilafayettein.com/

@@ -2,10 +2,10 @@ id: 8848995851
 type: node
 latitude: 39.75182
 longitude: -86.25126
-postcode: "46241-2122"
+postcode: 46241-2122
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 5331
-phone: "+1 317-244-9569"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+street: West Washington Street
+housenumber: "5331"
+phone: +1 317-244-9569
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 587776968
-type: way
+type: node
 latitude: 38.33188
 longitude: -85.76017
 postcode: "47129"
 city: Clarksville
-street: "Veterans Parkway"
-housenumber: 1351
-phone: "+1 812-284-9926"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1476/clarksville-in/whats-new"
+street: Veterans Parkway
+housenumber: "1351"
+phone: +1 812-284-9926
+opening_hours: 24/7
+website: https://www.walmart.com/store/1476/clarksville-in/whats-new

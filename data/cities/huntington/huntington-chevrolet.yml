@@ -1,11 +1,11 @@
 id: 592895599
-type: way
+type: node
 latitude: 40.89624
 longitude: -85.51425
 postcode: "46750"
 city: Huntington
-street: "Hauenstein Road"
-housenumber: 239
+street: Hauenstein Road
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1240818716
-type: way
+type: node
 latitude: 41.52197
 longitude: -87.3356
 postcode: "46410"
 city: Merrillville
-street: "Broadway"
-housenumber: 5301
+street: Broadway
+housenumber: "5301"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/merrillville-in-pharmacies/5301-broadway-merrillville-in-46410/storeid=6917"
+website: https://www.cvs.com/store-locator/merrillville-in-pharmacies/5301-broadway-merrillville-in-46410/storeid=6917

@@ -1,11 +1,11 @@
 id: 637697124
-type: way
+type: node
 latitude: 41.0751
 longitude: -85.18518
 postcode: "46804"
 city: Fort Wayne
-street: "Illinois Road"
-housenumber: 3422
+street: Illinois Road
+housenumber: "3422"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1092882148
-type: way
+type: node
 latitude: 41.63223
 longitude: -86.73871
 postcode: "46350"
 city: La Porte
-street: "Pine Lake Avenue"
-housenumber: 1207
-phone: "+1 219 362 2605"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://www.hubersmarine.com/"
+street: Pine Lake Avenue
+housenumber: "1207"
+phone: +1 219 362 2605
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-15:00
+website: https://www.hubersmarine.com/

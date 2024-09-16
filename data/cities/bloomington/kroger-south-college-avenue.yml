@@ -1,11 +1,11 @@
 id: 106191731
-type: way
+type: node
 latitude: 39.16014
 longitude: -86.53608
 postcode: "47403"
 city: Bloomington
-street: "South College Avenue"
-housenumber: 528
-phone: "+1 812-336-5118"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/bloomington/seminary-square/021/00091"
+street: South College Avenue
+housenumber: "528"
+phone: +1 812-336-5118
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.kroger.com/stores/grocery/in/bloomington/seminary-square/021/00091

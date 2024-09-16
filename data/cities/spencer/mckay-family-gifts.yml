@@ -1,11 +1,11 @@
 id: 582403843
-type: way
+type: node
 latitude: 39.28749
 longitude: -86.75897
 postcode: "47460"
 city: Spencer
-street: "East Morgan Street"
-housenumber: 305
-phone: "+1-812-829-4821"
+street: East Morgan Street
+housenumber: "305"
+phone: +1-812-829-4821
 opening_hours: ""
 website: ""

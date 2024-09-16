@@ -1,6 +1,6 @@
 ---
 title: Kendallville
 url: /kendallville/
-latitude: 41.453
-longitude: -85.272
+latitude: 41.451
+longitude: -85.293
 ---

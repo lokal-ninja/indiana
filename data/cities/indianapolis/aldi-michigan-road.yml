@@ -4,8 +4,8 @@ latitude: 39.90724
 longitude: -86.22204
 postcode: "46268"
 city: Indianapolis
-street: "Michigan Road"
-housenumber: 8404
-phone: "+1 844-444-1072"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/indianapolis/8404-michigan-rd"
+street: Michigan Road
+housenumber: "8404"
+phone: +1 844-444-1072
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/indianapolis/8404-michigan-rd

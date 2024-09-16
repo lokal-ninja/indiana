@@ -1,11 +1,11 @@
 id: 500713420
-type: way
+type: node
 latitude: 39.93189
 longitude: -86.22951
 postcode: "46032"
 city: Carmel
-street: "North Michigan Road"
-housenumber: 9855
-phone: "+1 317-870-7680"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Carmel/IN/Carmel/46032/2037"
+street: North Michigan Road
+housenumber: "9855"
+phone: +1 317-870-7680
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Carmel/IN/Carmel/46032/2037

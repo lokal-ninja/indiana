@@ -1,11 +1,11 @@
 id: 267162907
-type: way
+type: node
 latitude: 41.73588
 longitude: -86.33652
 postcode: "46628"
 city: South Bend
-street: "West Brick Road"
-housenumber: 6424
+street: West Brick Road
+housenumber: "6424"
 phone: ""
 opening_hours: ""
 website: ""

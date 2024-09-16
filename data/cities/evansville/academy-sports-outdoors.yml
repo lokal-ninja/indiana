@@ -1,11 +1,11 @@
 id: 910095574
-type: way
+type: node
 latitude: 37.98492
 longitude: -87.47124
 postcode: "47715"
 city: Evansville
-street: "E Columbia Street"
-housenumber: 6700
+street: E Columbia Street
+housenumber: "6700"
 phone: ""
-opening_hours: "Su-Th 09:00-21:00; Fr 09:00-22:00; Sa 08:00-22:00"
-website: "https://www.academy.com/storelocator/indiana/evansville/store-0203"
+opening_hours: Su-Th 09:00-21:00; Fr 09:00-22:00; Sa 08:00-22:00
+website: https://www.academy.com/storelocator/indiana/evansville/store-0203

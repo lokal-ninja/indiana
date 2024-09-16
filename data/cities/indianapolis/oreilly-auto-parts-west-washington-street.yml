@@ -1,11 +1,11 @@
 id: 970021370
-type: way
+type: node
 latitude: 39.75601
 longitude: -86.24119
 postcode: "46241"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 4726
+street: West Washington Street
+housenumber: "4726"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/in/indianapolis/autoparts-2266.html"
+website: https://locations.oreillyauto.com/in/indianapolis/autoparts-2266.html

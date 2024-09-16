@@ -1,11 +1,11 @@
 id: 628081292
-type: way
+type: node
 latitude: 38.86888
 longitude: -86.51783
 postcode: "47421"
 city: Bedford
-street: "Constitution Avenue"
-housenumber: 908
-phone: "+1-844-444-1028"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/bedford/908-constitution-avenue"
+street: Constitution Avenue
+housenumber: "908"
+phone: +1-844-444-1028
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/bedford/908-constitution-avenue

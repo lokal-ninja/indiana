@@ -1,11 +1,11 @@
 id: 703188255
-type: way
+type: node
 latitude: 39.87032
 longitude: -86.14689
 postcode: "46220"
 city: Indianapolis
-street: "North College Avenue"
-housenumber: 6290
-phone: "+1-317-251-4145"
+street: North College Avenue
+housenumber: "6290"
+phone: +1-317-251-4145
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indianapolis-in-pharmacies/6290-92-n-college-ave-indianapolis-in-46220/storeid=6569"
+website: https://www.cvs.com/store-locator/indianapolis-in-pharmacies/6290-92-n-college-ave-indianapolis-in-46220/storeid=6569

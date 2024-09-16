@@ -1,11 +1,11 @@
 id: 720078762
-type: way
+type: node
 latitude: 40.41704
 longitude: -86.87894
 postcode: "47905"
 city: Lafayette
-street: "South 16th Street"
-housenumber: 20
+street: South 16th Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

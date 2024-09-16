@@ -1,11 +1,11 @@
 id: 227816613
-type: way
+type: node
 latitude: 41.45313
-longitude: -85.25452
+longitude: -85.25451
 postcode: "46755"
 city: Kendallville
-street: "East North Street"
-housenumber: 801
+street: East North Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/in/kendallville/801-e-north-st"
+website: https://stores.advanceautoparts.com/in/kendallville/801-e-north-st

@@ -1,11 +1,11 @@
 id: 594755458
-type: way
+type: node
 latitude: 41.1185
 longitude: -85.15121
 postcode: "46808"
 city: Fort Wayne
-street: "West Coliseum Boulevard"
-housenumber: 606
+street: West Coliseum Boulevard
+housenumber: "606"
 phone: ""
 opening_hours: ""
 website: ""

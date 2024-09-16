@@ -1,11 +1,11 @@
 id: 662933432
-type: way
+type: node
 latitude: 41.6201
 longitude: -87.52152
 postcode: "46320"
 city: Hammond
-street: "Sibley Street"
-housenumber: 147
+street: Sibley Street
+housenumber: "147"
 phone: ""
 opening_hours: ""
-website: "https://locations.familydollar.com/in/hammond/30371/"
+website: https://locations.familydollar.com/in/hammond/30371/

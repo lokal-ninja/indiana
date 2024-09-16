@@ -1,11 +1,11 @@
 id: 1017071094
-type: way
+type: node
 latitude: 39.82474
 longitude: -86.11724
 postcode: "46218"
 city: Indianapolis
-street: "East 38th Street"
-housenumber: 2739
+street: East 38th Street
+housenumber: "2739"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/indianapolis/2739-e-38th-st.html"
+website: https://www.autozone.com/locations/in/indianapolis/2739-e-38th-st.html

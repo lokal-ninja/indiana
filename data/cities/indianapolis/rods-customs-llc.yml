@@ -1,11 +1,11 @@
 id: 967715522
-type: way
+type: node
 latitude: 39.81077
 longitude: -86.1369
 postcode: "46205"
 city: Indianapolis
-street: "East 30th Street"
-housenumber: 1360
+street: East 30th Street
+housenumber: "1360"
 phone: ""
 opening_hours: ""
 website: ""

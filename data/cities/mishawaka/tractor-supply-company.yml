@@ -1,11 +1,11 @@
 id: 835943433
-type: way
+type: node
 latitude: 41.63015
 longitude: -86.17816
 postcode: "46544"
 city: Mishawaka
-street: "Ireland Road"
-housenumber: 330
-phone: "+1 574-257-0753"
-opening_hours: "08:00-20:00"
+street: Ireland Road
+housenumber: "330"
+phone: +1 574-257-0753
+opening_hours: 08:00-20:00
 website: ""

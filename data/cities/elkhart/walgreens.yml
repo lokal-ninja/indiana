@@ -1,11 +1,11 @@
 id: 773642609
-type: way
+type: node
 latitude: 41.68358
 longitude: -86.0025
 postcode: "46514"
 city: Elkhart
-street: "South Nappanee Street"
-housenumber: 202
+street: South Nappanee Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-200+s+nappanee+st-elkhart-in-46514/id=12264"
+website: https://www.walgreens.com/locator/walgreens-200+s+nappanee+st-elkhart-in-46514/id=12264

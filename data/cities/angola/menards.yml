@@ -1,11 +1,11 @@
 id: 363658025
-type: way
+type: node
 latitude: 41.67371
 longitude: -84.99744
 postcode: "46703"
 city: Angola
-street: "North Wayne Street"
-housenumber: 3200
+street: North Wayne Street
+housenumber: "3200"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3196"
+website: https://www.menards.com/store-details/store.html?store=3196

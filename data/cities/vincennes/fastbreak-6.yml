@@ -1,11 +1,11 @@
 id: 689316125
-type: way
+type: node
 latitude: 38.69424
 longitude: -87.49689
 postcode: "47591"
 city: Vincennes
-street: "Executive Boulevard"
-housenumber: 1
+street: Executive Boulevard
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

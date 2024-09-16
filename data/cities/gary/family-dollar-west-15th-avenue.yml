@@ -1,11 +1,11 @@
 id: 1023826784
-type: way
+type: node
 latitude: 41.588
 longitude: -87.37999
 postcode: "46404"
 city: Gary
-street: "West 15th Avenue"
-housenumber: 3400
+street: West 15th Avenue
+housenumber: "3400"
 phone: ""
 opening_hours: ""
 website: ""

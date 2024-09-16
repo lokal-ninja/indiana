@@ -1,11 +1,11 @@
 id: 705462021
-type: way
+type: node
 latitude: 41.12445
 longitude: -85.21247
 postcode: "46818"
 city: Fort Wayne
-street: "US 30"
-housenumber: 5501
-phone: "+1 800 222 4700"
-opening_hours: "Mo-Th 09:00-21:00; Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.sweetwater.com/"
+street: US 30
+housenumber: "5501"
+phone: +1 800 222 4700
+opening_hours: Mo-Th 09:00-21:00; Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.sweetwater.com/

@@ -1,11 +1,11 @@
 id: 875793283
-type: way
+type: node
 latitude: 41.1243
 longitude: -84.92497
 postcode: "46797"
 city: Woodburn
-street: "Old US 24"
-housenumber: 16817
+street: Old US 24
+housenumber: "16817"
 phone: ""
 opening_hours: ""
 website: ""

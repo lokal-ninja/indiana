@@ -1,11 +1,11 @@
 id: 556371248
-type: way
+type: node
 latitude: 38.95756
 longitude: -85.86206
 postcode: "47274"
 city: Seymour
-street: "East Tipton Street"
-housenumber: 1710
-phone: "+1 844-444-7023"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/seymour/1710-east-tipton-st"
+street: East Tipton Street
+housenumber: "1710"
+phone: +1 844-444-7023
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/seymour/1710-east-tipton-st

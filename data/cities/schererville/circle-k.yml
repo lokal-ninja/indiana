@@ -1,11 +1,11 @@
 id: 1037326952
-type: way
+type: node
 latitude: 41.48491
 longitude: -87.44561
 postcode: "46375"
 city: Schererville
-street: "East Lincoln Highway"
-housenumber: 200
-phone: "+1 219 322 2301"
-opening_hours: "24/7"
+street: East Lincoln Highway
+housenumber: "200"
+phone: +1 219 322 2301
+opening_hours: 24/7
 website: ""

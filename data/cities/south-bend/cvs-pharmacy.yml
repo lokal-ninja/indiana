@@ -1,11 +1,11 @@
 id: 473438973
-type: way
+type: node
 latitude: 41.69417
 longitude: -86.21588
 postcode: "46615"
 city: South Bend
-street: "Edison Road"
-housenumber: 2210
+street: Edison Road
+housenumber: "2210"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/south-bend-in-pharmacies/2210-e-edison-south-bend-in-46615/storeid=6463"
+website: https://www.cvs.com/store-locator/south-bend-in-pharmacies/2210-e-edison-south-bend-in-46615/storeid=6463

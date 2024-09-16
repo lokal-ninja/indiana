@@ -1,11 +1,11 @@
 id: 823042964
-type: way
+type: node
 latitude: 38.32456
 longitude: -85.81888
 postcode: "47150"
 city: New Albany
-street: "Grant Line Road"
-housenumber: 3118
-phone: "+1 888-444-1037"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://stores.aldi.us/in/new-albany/3118-grant-line-road"
+street: Grant Line Road
+housenumber: "3118"
+phone: +1 888-444-1037
+opening_hours: Mo-Sa 08:00-20:00
+website: https://stores.aldi.us/in/new-albany/3118-grant-line-road

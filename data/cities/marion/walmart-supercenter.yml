@@ -1,11 +1,11 @@
 id: 666811896
-type: way
+type: node
 latitude: 40.52934
 longitude: -85.67685
 postcode: "46953"
 city: Marion
-street: "South Western Avenue"
-housenumber: 3240
-phone: "+1 765-662-0809"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1294/marion-in/whats-new"
+street: South Western Avenue
+housenumber: "3240"
+phone: +1 765-662-0809
+opening_hours: 24/7
+website: https://www.walmart.com/store/1294/marion-in/whats-new

@@ -1,11 +1,11 @@
 id: 1221765606
-type: way
+type: node
 latitude: 41.59917
 longitude: -86.73709
 postcode: "46350"
 city: La Porte
-street: "State Road 2"
-housenumber: 1460
+street: State Road 2
+housenumber: "1460"
 phone: "+12192435336"
 opening_hours: ""
 website: ""

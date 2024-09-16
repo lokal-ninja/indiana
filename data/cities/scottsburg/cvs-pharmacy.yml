@@ -1,11 +1,11 @@
 id: 823931150
-type: way
+type: node
 latitude: 38.68536
 longitude: -85.77877
 postcode: "47170"
 city: Scottsburg
-street: "West McClain Avenue"
-housenumber: 815
+street: West McClain Avenue
+housenumber: "815"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/scottsburg-in-pharmacies/815-w-mcclain-st-scottsburg-in-47170/storeid=6780"
+website: https://www.cvs.com/store-locator/scottsburg-in-pharmacies/815-w-mcclain-st-scottsburg-in-47170/storeid=6780

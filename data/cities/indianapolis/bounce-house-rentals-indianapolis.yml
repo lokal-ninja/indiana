@@ -1,11 +1,11 @@
 id: 956984286
-type: way
+type: node
 latitude: 39.76478
 longitude: -86.11868
 postcode: "46201"
 city: Indianapolis
-street: "South Temple Avenue"
-housenumber: 212
+street: South Temple Avenue
+housenumber: "212"
 phone: ""
 opening_hours: ""
 website: ""

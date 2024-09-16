@@ -1,11 +1,11 @@
 id: 720086911
-type: way
+type: node
 latitude: 39.774
 longitude: -85.98834
 postcode: "46229"
 city: Indianapolis
-street: "East Washington Street"
-housenumber: 10069
-phone: "+1-317-897-6414"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.zenloungeindy.com"
+street: East Washington Street
+housenumber: "10069"
+phone: +1-317-897-6414
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.zenloungeindy.com

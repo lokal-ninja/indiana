@@ -1,11 +1,11 @@
 id: 1025959132
-type: way
+type: node
 latitude: 39.82287
 longitude: -86.27094
 postcode: "46224"
 city: Indianapolis
-street: "North High School Road"
-housenumber: 3748
+street: North High School Road
+housenumber: "3748"
 phone: ""
 opening_hours: ""
 website: ""

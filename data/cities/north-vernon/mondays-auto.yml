@@ -1,11 +1,11 @@
 id: 627191721
-type: way
+type: node
 latitude: 39.00459
 longitude: -85.62632
 postcode: "47265"
 city: North Vernon
-street: "East Walnut Street"
-housenumber: 44
+street: East Walnut Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

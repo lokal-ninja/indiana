@@ -1,11 +1,11 @@
 id: 1231161871
-type: way
+type: node
 latitude: 40.42252
 longitude: -85.64091
 postcode: "46928"
 city: Fairmount
-street: "E 900 South"
-housenumber: 1702
+street: E 900 South
+housenumber: "1702"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/fairmount/17289"
+website: https://www.dollargeneral.com/store-directory/in/fairmount/17289

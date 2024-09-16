@@ -1,11 +1,11 @@
 id: 274898764
-type: way
+type: node
 latitude: 39.41352
 longitude: -86.41539
 postcode: "46151"
 city: Martinsville
-street: "Robert Curry Drive"
-housenumber: 333
+street: Robert Curry Drive
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

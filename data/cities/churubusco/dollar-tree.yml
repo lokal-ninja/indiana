@@ -1,11 +1,11 @@
 id: 1274249892
-type: way
+type: node
 latitude: 41.22856
 longitude: -85.31935
 postcode: "46723"
 city: Churubusco
-street: "West Pleasant Street"
-housenumber: 110
+street: West Pleasant Street
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/in/churubusco/6961/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/in/churubusco/6961/

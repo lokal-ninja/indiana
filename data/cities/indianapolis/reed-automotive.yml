@@ -1,11 +1,11 @@
 id: 958028332
-type: way
+type: node
 latitude: 39.74299
 longitude: -86.12777
 postcode: "46203"
 city: Indianapolis
-street: "Dawson Street"
-housenumber: 1823
+street: Dawson Street
+housenumber: "1823"
 phone: ""
 opening_hours: ""
 website: ""

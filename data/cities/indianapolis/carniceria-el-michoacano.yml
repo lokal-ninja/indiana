@@ -1,11 +1,11 @@
 id: 1025960414
-type: way
+type: node
 latitude: 39.81665
 longitude: -86.26929
 postcode: "46224"
 city: Indianapolis
-street: "West 34th Street"
-housenumber: 6240
+street: West 34th Street
+housenumber: "6240"
 phone: ""
 opening_hours: ""
 website: ""

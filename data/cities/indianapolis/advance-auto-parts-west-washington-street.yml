@@ -1,11 +1,11 @@
 id: 987899021
-type: way
+type: node
 latitude: 39.75286
 longitude: -86.24793
 postcode: "46241"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 5205
+street: West Washington Street
+housenumber: "5205"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/in/indianapolis/5205-w-washington-st"
+website: https://stores.advanceautoparts.com/in/indianapolis/5205-w-washington-st

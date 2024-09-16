@@ -1,11 +1,11 @@
 id: 816596350
-type: way
+type: node
 latitude: 41.24028
 longitude: -85.85261
 postcode: "46580"
 city: Warsaw
-street: "North Detroit Street"
-housenumber: 314
+street: North Detroit Street
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

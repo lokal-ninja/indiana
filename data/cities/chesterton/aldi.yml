@@ -1,11 +1,11 @@
 id: 1211359086
-type: way
+type: node
 latitude: 41.61571
 longitude: -87.0397
 postcode: "46304"
 city: Chesterton
-street: "Indian Boundary Road"
-housenumber: 750
-phone: "+1 844-462-1049"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/in/chesterton/750-indian-boundary-rd"
+street: Indian Boundary Road
+housenumber: "750"
+phone: +1 844-462-1049
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/in/chesterton/750-indian-boundary-rd

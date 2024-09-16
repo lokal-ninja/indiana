@@ -1,11 +1,11 @@
 id: 507323011
-type: way
+type: node
 latitude: 39.93555
 longitude: -86.23535
 postcode: "46032"
 city: Carmel
-street: "North Michigan Road"
-housenumber: 10350
+street: North Michigan Road
+housenumber: "10350"
 phone: ""
 opening_hours: ""
 website: ""

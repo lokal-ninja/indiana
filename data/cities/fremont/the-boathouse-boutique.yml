@@ -1,11 +1,11 @@
 id: 909662020
-type: way
+type: node
 latitude: 41.74687
 longitude: -84.82615
 postcode: "46737"
 city: Fremont
-street: "East 700 North"
-housenumber: 8775
+street: East 700 North
+housenumber: "8775"
 phone: ""
-opening_hours: "Th-Sa 11:00-16:00"
-website: "https://shopboathouseboutique.square.site/"
+opening_hours: Th-Sa 11:00-16:00
+website: https://shopboathouseboutique.square.site/

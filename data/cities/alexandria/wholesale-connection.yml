@@ -4,8 +4,8 @@ latitude: 40.26424
 longitude: -85.67463
 postcode: "46001"
 city: Alexandria
-street: "North Harrison Street"
-housenumber: 220
+street: North Harrison Street
+housenumber: "220"
 phone: "7657240038"
-opening_hours: "Mo-Sa 09:00-18:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 12:00-17:00
 website: ""

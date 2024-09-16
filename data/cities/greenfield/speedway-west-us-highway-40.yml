@@ -1,11 +1,11 @@
 id: 1006623233
-type: way
+type: node
 latitude: 39.77942
 longitude: -85.91405
 postcode: "46140"
 city: Greenfield
-street: "West US Highway 40"
-housenumber: 5972
+street: West US Highway 40
+housenumber: "5972"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/IN/Greenfield/5972-W-Us-40"
+opening_hours: 24/7
+website: https://www.speedway.com/locations/IN/Greenfield/5972-W-Us-40

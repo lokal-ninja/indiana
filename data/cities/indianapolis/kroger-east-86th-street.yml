@@ -4,8 +4,8 @@ latitude: 39.91143
 longitude: -86.13797
 postcode: "46240"
 city: Indianapolis
-street: "East 86th Street"
-housenumber: 1365
-phone: "+1 317-396-5230"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/indianapolis/nora-kroger/021/00998"
+street: East 86th Street
+housenumber: "1365"
+phone: +1 317-396-5230
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/indianapolis/nora-kroger/021/00998

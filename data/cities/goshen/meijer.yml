@@ -1,11 +1,11 @@
 id: 180061268
-type: way
+type: node
 latitude: 41.62439
 longitude: -85.91098
 postcode: "46526"
 city: Goshen
-street: "US 33"
-housenumber: 4522
-phone: "+1-574-875-3000"
+street: US 33
+housenumber: "4522"
+phone: +1-574-875-3000
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 552902948
-type: way
+type: node
 latitude: 39.82459
 longitude: -86.16252
 postcode: "46208"
 city: Indianapolis
-street: "West 38th Street"
-housenumber: 227
+street: West 38th Street
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

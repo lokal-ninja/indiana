@@ -1,11 +1,11 @@
 id: 507341901
-type: way
+type: node
 latitude: 39.93615
 longitude: -86.24061
 postcode: "46077"
 city: Zionsville
-street: "Northwestern Drive"
-housenumber: 4806
+street: Northwestern Drive
+housenumber: "4806"
 phone: ""
 opening_hours: ""
 website: ""

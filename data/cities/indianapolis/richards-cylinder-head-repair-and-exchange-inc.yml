@@ -1,11 +1,11 @@
 id: 1041812630
-type: way
+type: node
 latitude: 39.69175
 longitude: -86.2715
 postcode: "46221"
 city: Indianapolis
-street: "West Thompson Road"
-housenumber: 6403
-phone: "+1-317-856-9163"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://richardscylinderrepair.com/"
+street: West Thompson Road
+housenumber: "6403"
+phone: +1-317-856-9163
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://richardscylinderrepair.com/

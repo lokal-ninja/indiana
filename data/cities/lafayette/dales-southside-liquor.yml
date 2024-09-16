@@ -1,11 +1,11 @@
 id: 894315827
-type: way
+type: node
 latitude: 40.38135
 longitude: -86.87584
 postcode: "47909"
 city: Lafayette
-street: "South 18th Street"
-housenumber: 3209
+street: South 18th Street
+housenumber: "3209"
 phone: ""
 opening_hours: ""
 website: ""

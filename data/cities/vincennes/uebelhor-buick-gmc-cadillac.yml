@@ -1,11 +1,11 @@
 id: 667284385
-type: way
+type: node
 latitude: 38.66098
 longitude: -87.5072
 postcode: "47591"
 city: Vincennes
-street: "Kimmell Road"
-housenumber: 626
-phone: "+1-812-809-4144"
+street: Kimmell Road
+housenumber: "626"
+phone: +1-812-809-4144
 opening_hours: ""
-website: "https://www.uebelhorvincennes.com"
+website: https://www.uebelhorvincennes.com

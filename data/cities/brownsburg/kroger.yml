@@ -1,11 +1,11 @@
 id: 1073233720
-type: way
+type: node
 latitude: 39.85685
 longitude: -86.38941
 postcode: "46112"
 city: Brownsburg
-street: "North Green Street"
-housenumber: 975
-phone: "+1 317-852-6076"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/in/brownsburg/brownsburg/021/00215"
+street: North Green Street
+housenumber: "975"
+phone: +1 317-852-6076
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/in/brownsburg/brownsburg/021/00215

@@ -1,11 +1,11 @@
 id: 1030214765
-type: way
+type: node
 latitude: 39.78381
 longitude: -86.06504
 postcode: "46219"
 city: Indianapolis
-street: "North Arlington Avenue"
-housenumber: 1170
+street: North Arlington Avenue
+housenumber: "1170"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/indianapolis/1170-n-arlington-ave.html"
+website: https://www.autozone.com/locations/in/indianapolis/1170-n-arlington-ave.html

@@ -1,11 +1,11 @@
 id: 871637597
-type: way
+type: node
 latitude: 40.88904
 longitude: -85.16555
 postcode: "46777"
 city: Ossian
-street: "Dehner Drive"
-housenumber: 1013
+street: Dehner Drive
+housenumber: "1013"
 phone: ""
 opening_hours: ""
 website: ""

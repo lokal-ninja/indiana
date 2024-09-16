@@ -1,11 +1,11 @@
 id: 1285751976
-type: way
+type: node
 latitude: 40.75281
 longitude: -86.36541
 postcode: "46947"
 city: Logansport
-street: "East Market Street"
-housenumber: 401
+street: East Market Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
-website: "https://logansportfarmersmarket.org/"
+website: https://logansportfarmersmarket.org/

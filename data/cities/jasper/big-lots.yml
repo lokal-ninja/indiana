@@ -4,8 +4,8 @@ latitude: 38.38833
 longitude: -86.94446
 postcode: "47546"
 city: Jasper
-street: "US-231"
-housenumber: 195
-phone: "+1 812-482-2150"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://local.biglots.com/in/jasper/195-s-us-hwy-231"
+street: US-231
+housenumber: "195"
+phone: +1 812-482-2150
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://local.biglots.com/in/jasper/195-s-us-hwy-231

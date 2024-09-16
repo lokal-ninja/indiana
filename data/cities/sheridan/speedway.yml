@@ -1,11 +1,11 @@
 id: 1041701992
-type: way
+type: node
 latitude: 40.13327
 longitude: -86.22006
 postcode: "46069"
 city: Sheridan
-street: "South Main Street"
-housenumber: 511
+street: South Main Street
+housenumber: "511"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Sheridan/511-South-Main-Street"
+website: https://www.speedway.com/locations/IN/Sheridan/511-South-Main-Street

@@ -1,11 +1,11 @@
 id: 499126364
-type: way
+type: node
 latitude: 39.82447
 longitude: -86.14482
 postcode: "46205"
 city: Indianapolis
-street: "East 38th Street"
-housenumber: 711
+street: East 38th Street
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

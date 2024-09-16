@@ -1,11 +1,11 @@
 id: 477140998
-type: way
+type: node
 latitude: 39.16227
 longitude: -86.49596
 postcode: "47401"
 city: Bloomington
-street: "East 3rd Street"
-housenumber: 2894
-phone: "+1 812-323-6059"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/bloomington-in-1081"
+street: East 3rd Street
+housenumber: "2894"
+phone: +1 812-323-6059
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/bloomington-in-1081

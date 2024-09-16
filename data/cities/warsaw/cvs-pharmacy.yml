@@ -1,11 +1,11 @@
 id: 816596353
-type: way
+type: node
 latitude: 41.23889
 longitude: -85.85231
 postcode: "46580"
 city: Warsaw
-street: "North Detroit Street"
-housenumber: 100
+street: North Detroit Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/warsaw-in-pharmacies/100-north-detroit-st-warsaw-in-46580/storeid=6462"
+website: https://www.cvs.com/store-locator/warsaw-in-pharmacies/100-north-detroit-st-warsaw-in-46580/storeid=6462

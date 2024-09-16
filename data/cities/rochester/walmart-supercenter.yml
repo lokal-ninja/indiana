@@ -1,11 +1,11 @@
 id: 556780574
-type: way
+type: node
 latitude: 41.05091
 longitude: -86.21488
 postcode: "46975"
 city: Rochester
-street: "Main Street"
-housenumber: 2395
-phone: "+1 574-223-9481"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1639/rochester-in/whats-new"
+street: Main Street
+housenumber: "2395"
+phone: +1 574-223-9481
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1639/rochester-in/whats-new

@@ -1,11 +1,11 @@
 id: 1243362778
-type: way
+type: node
 latitude: 37.99067
 longitude: -87.47483
 postcode: "47715"
 city: Evansville
-street: "North Burkhardt Road"
-housenumber: 1500
+street: North Burkhardt Road
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

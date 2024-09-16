@@ -1,11 +1,11 @@
 id: 644919427
-type: way
+type: node
 latitude: 39.16693
 longitude: -86.53706
 postcode: "47404"
 city: Bloomington
-street: "West Kirkwood Avenue"
-housenumber: 314
-phone: "+1-812-334-3305"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "http://framemakersbloomington.com/"
+street: West Kirkwood Avenue
+housenumber: "314"
+phone: +1-812-334-3305
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: http://framemakersbloomington.com/

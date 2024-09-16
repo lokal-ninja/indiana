@@ -1,11 +1,11 @@
 id: 619470331
-type: way
+type: node
 latitude: 39.01941
 longitude: -85.64451
 postcode: "47265"
 city: North Vernon
-street: "Indiana Highway 7"
-housenumber: 2260
+street: Indiana Highway 7
+housenumber: "2260"
 phone: ""
 opening_hours: ""
 website: ""

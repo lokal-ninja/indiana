@@ -1,11 +1,11 @@
 id: 381823201
-type: way
+type: node
 latitude: 41.42495
 longitude: -87.33796
 postcode: "46307"
 city: Crown Point
-street: "North Superior Drive"
-housenumber: 845
-phone: "+1 833-462-1025"
-opening_hours: "Mo-Th 08:30-20:00; Fr-Su 08:30-20:00"
-website: "https://stores.aldi.us/in/crown-point/845-n-superior-drive"
+street: North Superior Drive
+housenumber: "845"
+phone: +1 833-462-1025
+opening_hours: Mo-Th 08:30-20:00; Fr-Su 08:30-20:00
+website: https://stores.aldi.us/in/crown-point/845-n-superior-drive

@@ -1,11 +1,11 @@
 id: 907904362
-type: way
+type: node
 latitude: 41.4599
 longitude: -87.06274
 postcode: "46383"
 city: Valparaiso
-street: "Morthland Drive"
-housenumber: 150
+street: Morthland Drive
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/valparaiso-in-pharmacies/150-morthland-drive-valparaiso-in-46383/storeid=6915"
+website: https://www.cvs.com/store-locator/valparaiso-in-pharmacies/150-morthland-drive-valparaiso-in-46383/storeid=6915

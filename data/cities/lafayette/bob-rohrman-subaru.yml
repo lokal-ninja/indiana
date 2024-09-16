@@ -1,11 +1,11 @@
 id: 965031271
-type: way
+type: node
 latitude: 40.39517
 longitude: -86.83966
 postcode: "47905"
 city: Lafayette
-street: "South Creasy Lane"
-housenumber: 1600
+street: South Creasy Lane
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://www.bobrohrmansubaru.com/"
+website: https://www.bobrohrmansubaru.com/

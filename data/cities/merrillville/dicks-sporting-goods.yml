@@ -1,11 +1,11 @@
 id: 1309109076
-type: way
+type: node
 latitude: 41.47425
 longitude: -87.30415
 postcode: "46410"
 city: Merrillville
-street: "East 79th Avenue"
-housenumber: 2644
-phone: "+1 219-940-6205"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/in/merrillville/1521/"
+street: East 79th Avenue
+housenumber: "2644"
+phone: +1 219-940-6205
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/in/merrillville/1521/

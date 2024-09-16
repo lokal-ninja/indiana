@@ -1,11 +1,11 @@
 id: 266051740
-type: way
+type: node
 latitude: 39.95614
 longitude: -86.04403
 postcode: "46038"
 city: Fishers
-street: "East 116th Street"
-housenumber: 7235
+street: East 116th Street
+housenumber: "7235"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Fishers/7235-E-116th-St"
+website: https://www.speedway.com/locations/IN/Fishers/7235-E-116th-St

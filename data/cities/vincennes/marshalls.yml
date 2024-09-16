@@ -1,11 +1,11 @@
 id: 1229661922
-type: way
+type: node
 latitude: 38.65907
 longitude: -87.51081
 postcode: "47591"
 city: Vincennes
-street: "Kimmell Road"
-housenumber: 210
-phone: "+1-812-882-0056"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Kimmell Road
+housenumber: "210"
+phone: +1-812-882-0056
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

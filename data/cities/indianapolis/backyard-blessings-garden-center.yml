@@ -4,8 +4,8 @@ latitude: 39.8108
 longitude: -86.02625
 postcode: "46226"
 city: Indianapolis
-street: "East 30th Street"
-housenumber: 8005
-phone: "+1-317-399-5535"
+street: East 30th Street
+housenumber: "8005"
+phone: +1-317-399-5535
 opening_hours: ""
-website: "https://indygardencenter.com/"
+website: https://indygardencenter.com/

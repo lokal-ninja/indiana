@@ -1,11 +1,11 @@
 id: 306792838
-type: way
+type: node
 latitude: 41.62914
 longitude: -87.49508
 postcode: "46327"
 city: Hammond
-street: "Chicago Street"
-housenumber: 1343
+street: Chicago Street
+housenumber: "1343"
 phone: ""
 opening_hours: ""
 website: ""

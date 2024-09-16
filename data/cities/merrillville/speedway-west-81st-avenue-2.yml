@@ -1,11 +1,11 @@
 id: 1037334270
-type: way
+type: node
 latitude: 41.47259
 longitude: -87.3846
 postcode: "46410"
 city: Merrillville
-street: "West 81st Avenue"
-housenumber: 3990
+street: West 81st Avenue
+housenumber: "3990"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Merrillville/3990-West-Lincoln-Highway"
+website: https://www.speedway.com/locations/IN/Merrillville/3990-West-Lincoln-Highway

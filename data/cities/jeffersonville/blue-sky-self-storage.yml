@@ -1,11 +1,11 @@
 id: 1291942042
-type: way
+type: node
 latitude: 38.30948
 longitude: -85.74648
 postcode: ""
 city: Jeffersonville
-street: "Research Drive"
-housenumber: 1510
+street: Research Drive
+housenumber: "1510"
 phone: ""
 opening_hours: ""
 website: ""

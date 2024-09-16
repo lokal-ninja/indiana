@@ -1,11 +1,11 @@
 id: 1274643518
-type: way
+type: node
 latitude: 40.74429
 longitude: -86.77887
 postcode: "47960"
 city: Monticello
-street: "West Broadway Street"
-housenumber: 1005
+street: West Broadway Street
+housenumber: "1005"
 phone: ""
 opening_hours: ""
-website: "https://www.greenmarkequipment.com/"
+website: https://www.greenmarkequipment.com/

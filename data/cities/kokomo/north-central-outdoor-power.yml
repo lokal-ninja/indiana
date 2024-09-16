@@ -1,11 +1,11 @@
 id: 675907812
-type: way
+type: node
 latitude: 40.46459
 longitude: -86.11438
 postcode: "46902"
 city: Kokomo
-street: "South Elizabeth Street"
-housenumber: 1947
-phone: "+1-765-457-1633"
+street: South Elizabeth Street
+housenumber: "1947"
+phone: +1-765-457-1633
 opening_hours: ""
-website: "https://www.northcentraloutdoorpower.com/index.htm"
+website: https://www.northcentraloutdoorpower.com/index.htm

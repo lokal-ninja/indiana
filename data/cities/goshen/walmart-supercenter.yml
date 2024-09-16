@@ -1,11 +1,11 @@
 id: 184280853
-type: way
+type: node
 latitude: 41.55807
 longitude: -85.78813
 postcode: "46526"
 city: Goshen
-street: "Lincolnway East"
-housenumber: 2304
-phone: "+1 574-534-4094"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1378/goshen-in/whats-new"
+street: Lincolnway East
+housenumber: "2304"
+phone: +1 574-534-4094
+opening_hours: 24/7
+website: https://www.walmart.com/store/1378/goshen-in/whats-new

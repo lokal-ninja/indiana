@@ -1,11 +1,11 @@
 id: 608358255
-type: way
+type: node
 latitude: 41.65812
 longitude: -86.21426
 postcode: "46544"
 city: Mishawaka
-street: "Lincoln Way West"
-housenumber: 2720
+street: Lincoln Way West
+housenumber: "2720"
 phone: ""
-opening_hours: "Mo-Tu 10:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-16:00"
-website: "http://albrights.bike/"
+opening_hours: Mo-Tu 10:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-16:00
+website: http://albrights.bike/

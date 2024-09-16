@@ -1,11 +1,11 @@
 id: 1242292124
-type: way
+type: node
 latitude: 41.52331
 longitude: -87.51004
 postcode: "46321"
 city: Munster
-street: "Calumet Avenue"
-housenumber: 10444
+street: Calumet Avenue
+housenumber: "10444"
 phone: ""
 opening_hours: ""
 website: ""

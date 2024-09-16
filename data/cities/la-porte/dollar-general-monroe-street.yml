@@ -1,11 +1,11 @@
 id: 1085814375
-type: way
+type: node
 latitude: 41.60175
 longitude: -86.69871
 postcode: "46350"
 city: La Porte
-street: "Monroe Street"
-housenumber: 2429
-phone: "+1 219 402 0282"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/in/la-porte/6036"
+street: Monroe Street
+housenumber: "2429"
+phone: +1 219 402 0282
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/in/la-porte/6036

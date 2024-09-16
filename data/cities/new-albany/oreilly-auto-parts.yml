@@ -1,11 +1,11 @@
 id: 823042966
-type: way
+type: node
 latitude: 38.32379
 longitude: -85.81912
 postcode: "47150"
 city: New Albany
-street: "Grant Line Road"
-housenumber: 3112
+street: Grant Line Road
+housenumber: "3112"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/in/newalbany/autoparts-6309.html"
+website: https://locations.oreillyauto.com/in/newalbany/autoparts-6309.html

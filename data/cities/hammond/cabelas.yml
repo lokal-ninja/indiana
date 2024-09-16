@@ -1,11 +1,11 @@
 id: 255913649
-type: way
+type: node
 latitude: 41.57306
 longitude: -87.48367
 postcode: "46324"
 city: Hammond
-street: "Cabela Drive"
-housenumber: 7700
+street: Cabela Drive
+housenumber: "7700"
 phone: ""
 opening_hours: ""
 website: ""

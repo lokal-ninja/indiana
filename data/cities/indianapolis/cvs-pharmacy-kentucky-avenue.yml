@@ -1,11 +1,11 @@
 id: 248053472
-type: way
+type: node
 latitude: 39.71179
 longitude: -86.24176
 postcode: "46221"
 city: Indianapolis
-street: "Kentucky Avenue"
-housenumber: 3705
+street: Kentucky Avenue
+housenumber: "3705"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indianapolis-in-pharmacies/3705-kentucky-ave-indianapolis-in-46221/storeid=6548"
+website: https://www.cvs.com/store-locator/indianapolis-in-pharmacies/3705-kentucky-ave-indianapolis-in-46221/storeid=6548

@@ -1,11 +1,11 @@
 id: 539152054
-type: way
+type: node
 latitude: 41.29054
 longitude: -87.40403
 postcode: "46356"
 city: Lowell
-street: "East Commercial Avenue"
-housenumber: 1523
+street: East Commercial Avenue
+housenumber: "1523"
 phone: ""
 opening_hours: ""
 website: ""

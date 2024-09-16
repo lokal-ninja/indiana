@@ -1,11 +1,11 @@
 id: 669512145
-type: way
+type: node
 latitude: 39.66002
 longitude: -86.14242
 postcode: "46227"
 city: Indianapolis
-street: "Us 31 South"
-housenumber: 7245
-phone: "+1 317-888-7906"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1459/indianapolis-in/whats-new"
+street: Us 31 South
+housenumber: "7245"
+phone: +1 317-888-7906
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1459/indianapolis-in/whats-new

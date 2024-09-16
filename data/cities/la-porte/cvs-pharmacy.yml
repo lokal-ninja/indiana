@@ -1,11 +1,11 @@
 id: 810650872
-type: way
+type: node
 latitude: 41.60823
 longitude: -86.72777
 postcode: "46350"
 city: La Porte
-street: "Lincolnway"
-housenumber: 1407
-phone: "+1 219-362-3446"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/la-porte-in-pharmacies/1407-lincolnway-la-porte-in-46350/storeid=6483"
+street: Lincolnway
+housenumber: "1407"
+phone: +1 219-362-3446
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/la-porte-in-pharmacies/1407-lincolnway-la-porte-in-46350/storeid=6483

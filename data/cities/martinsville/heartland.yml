@@ -1,11 +1,11 @@
 id: 274898761
-type: way
+type: node
 latitude: 39.56695
 longitude: -86.24803
 postcode: "46151"
 city: Martinsville
-street: "State Road 144"
-housenumber: 9610
+street: State Road 144
+housenumber: "9610"
 phone: ""
 opening_hours: ""
 website: ""

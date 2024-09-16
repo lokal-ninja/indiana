@@ -1,11 +1,11 @@
 id: 855953227
-type: way
+type: node
 latitude: 40.36671
 longitude: -86.86346
 postcode: "47909"
 city: Lafayette
-street: "Promenade Parkway"
-housenumber: 3528
-phone: "+1-765-607-6000"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:30-21:00"
-website: "https://locations.oreillyauto.com/in/lafayette/autoparts-4977.html"
+street: Promenade Parkway
+housenumber: "3528"
+phone: +1-765-607-6000
+opening_hours: Mo-Sa 07:00-22:00; Su 08:30-21:00
+website: https://locations.oreillyauto.com/in/lafayette/autoparts-4977.html

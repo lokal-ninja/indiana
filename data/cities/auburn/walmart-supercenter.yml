@@ -1,11 +1,11 @@
 id: 122136396
-type: way
+type: node
 latitude: 41.36286
 longitude: -85.07947
 postcode: "46706"
 city: Auburn
-street: "Touring Drive"
-housenumber: 505
-phone: "+1 260-925-8080"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1570/auburn-in/whats-new"
+street: Touring Drive
+housenumber: "505"
+phone: +1 260-925-8080
+opening_hours: 24/7
+website: https://www.walmart.com/store/1570/auburn-in/whats-new

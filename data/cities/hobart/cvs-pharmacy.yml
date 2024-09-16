@@ -1,11 +1,11 @@
 id: 1229624454
-type: way
+type: node
 latitude: 41.55132
 longitude: -87.24008
 postcode: "46342"
 city: Hobart
-street: "East Ridge Road"
-housenumber: 8100
+street: East Ridge Road
+housenumber: "8100"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/hobart-in-pharmacies/8100-east-ridge-rd-hobart-in-46342/storeid=434"
+website: https://www.cvs.com/store-locator/hobart-in-pharmacies/8100-east-ridge-rd-hobart-in-46342/storeid=434

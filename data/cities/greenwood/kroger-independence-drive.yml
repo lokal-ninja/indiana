@@ -1,11 +1,11 @@
 id: 108134672
-type: way
+type: node
 latitude: 39.58356
 longitude: -86.10225
 postcode: "46143"
 city: Greenwood
-street: "Independence Drive"
-housenumber: 2200
-phone: "+1 317-883-4140"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/in/greenwood/whiteland/021/00864"
+street: Independence Drive
+housenumber: "2200"
+phone: +1 317-883-4140
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/in/greenwood/whiteland/021/00864

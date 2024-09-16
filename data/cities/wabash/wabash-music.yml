@@ -1,11 +1,11 @@
 id: 552147379
-type: way
+type: node
 latitude: 40.78157
 longitude: -85.82249
 postcode: "46992"
 city: Wabash
-street: "Hale Drive"
-housenumber: 124
-phone: "+1-260-569-0500"
+street: Hale Drive
+housenumber: "124"
+phone: +1-260-569-0500
 opening_hours: ""
 website: ""

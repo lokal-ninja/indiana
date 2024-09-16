@@ -1,11 +1,11 @@
 id: 541449369
-type: way
+type: node
 latitude: 41.09095
 longitude: -85.1343
 postcode: "46805"
 city: Fort Wayne
-street: "Riverside Avenue"
-housenumber: 610
+street: Riverside Avenue
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

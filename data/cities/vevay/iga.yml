@@ -1,11 +1,11 @@
 id: 932660477
-type: way
+type: node
 latitude: 38.75165
 longitude: -85.05855
 postcode: "47043"
 city: Vevay
-street: "East Main Street"
-housenumber: 705
-phone: "+1 229-248-0832"
+street: East Main Street
+housenumber: "705"
+phone: +1 229-248-0832
 opening_hours: ""
 website: ""

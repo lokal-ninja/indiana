@@ -1,11 +1,11 @@
 id: 910547019
-type: way
+type: node
 latitude: 41.72883
 longitude: -84.93309
 postcode: "46737"
 city: Fremont
-street: "South Wayne Street"
-housenumber: 300
+street: South Wayne Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

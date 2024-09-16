@@ -4,8 +4,9 @@ latitude: 38.27595
 longitude: -85.74082
 postcode: "47130"
 city: Jeffersonville
-street: "East Court Avenue"
-housenumber: 211
+street: East Court Avenue
+housenumber: "211"
 phone: ""
-opening_hours: "Fr[2] 10:00-13:00; Fr[4] 10:00-13:00; Sa[2] 10:00-13:00; Sa[4] 10:00-13:00; PH off"
-website: "https://jtplfriends.org"
+opening_hours: Fr[2] 10:00-13:00; Fr[4] 10:00-13:00; Sa[2] 10:00-13:00; Sa[4] 10:00-13:00;
+    PH off
+website: https://jtplfriends.org

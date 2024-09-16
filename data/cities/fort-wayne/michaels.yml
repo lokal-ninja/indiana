@@ -1,11 +1,11 @@
 id: 182554942
-type: way
+type: node
 latitude: 41.12599
 longitude: -85.0095
 postcode: "46835"
 city: Fort Wayne
-street: "Maysville Road"
-housenumber: 10240
-phone: "+1 260-492-6957"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/in/fort-wayne/8787"
+street: Maysville Road
+housenumber: "10240"
+phone: +1 260-492-6957
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/in/fort-wayne/8787

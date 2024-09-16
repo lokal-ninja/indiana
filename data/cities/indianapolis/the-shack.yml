@@ -1,11 +1,11 @@
 id: 1186650151
-type: way
+type: node
 latitude: 39.77491
 longitude: -86.09639
 postcode: "46201"
 city: Indianapolis
-street: "East Michigan Street"
-housenumber: 4154
+street: East Michigan Street
+housenumber: "4154"
 phone: ""
 opening_hours: ""
 website: ""

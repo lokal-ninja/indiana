@@ -1,11 +1,11 @@
 id: 956999544
-type: way
+type: node
 latitude: 39.76746
 longitude: -86.1026
 postcode: "46201"
 city: Indianapolis
-street: "East Washington Street"
-housenumber: 3737
+street: East Washington Street
+housenumber: "3737"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/indianapolis-46201-61196/"
+website: https://savealot.com/grocery-stores/indianapolis-46201-61196/

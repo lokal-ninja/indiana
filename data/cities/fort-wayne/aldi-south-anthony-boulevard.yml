@@ -1,11 +1,11 @@
 id: 783044660
-type: way
+type: node
 latitude: 41.01831
 longitude: -85.11155
 postcode: "46816"
 city: Fort Wayne
-street: "South Anthony Boulevard"
-housenumber: 7325
-phone: "+1 855-444-7033"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/fort-wayne/7325-s-anthony-blvd"
+street: South Anthony Boulevard
+housenumber: "7325"
+phone: +1 855-444-7033
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/fort-wayne/7325-s-anthony-blvd

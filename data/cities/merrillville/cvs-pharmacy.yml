@@ -1,11 +1,11 @@
 id: 1037858442
-type: way
+type: node
 latitude: 41.47193
 longitude: -87.33509
 postcode: "46410"
 city: Merrillville
-street: "East 81st Avenue"
-housenumber: 10
+street: East 81st Avenue
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/merrillville-in-pharmacies/10-east-81st-avenue-merrillville-in-46410/storeid=10176"
+website: https://www.cvs.com/store-locator/merrillville-in-pharmacies/10-east-81st-avenue-merrillville-in-46410/storeid=10176

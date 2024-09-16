@@ -1,11 +1,11 @@
 id: 110422681
-type: way
+type: node
 latitude: 41.12005
 longitude: -85.1366
-postcode: "46805-1003"
+postcode: 46805-1003
 city: Fort Wayne
-street: "East Coliseum Boulevard"
-housenumber: 315
-phone: "+1 260-471-4350"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/in/ftwayne/pet-supplies-ftwayne-in-1950.html"
+street: East Coliseum Boulevard
+housenumber: "315"
+phone: +1 260-471-4350
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/in/ftwayne/pet-supplies-ftwayne-in-1950.html

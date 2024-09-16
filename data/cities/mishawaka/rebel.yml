@@ -1,11 +1,11 @@
 id: 610197616
-type: way
+type: node
 latitude: 41.66156
 longitude: -86.18397
 postcode: "46544"
 city: Mishawaka
-street: "Lincolnway West"
-housenumber: 302
+street: Lincolnway West
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

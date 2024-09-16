@@ -1,11 +1,11 @@
 id: 856022725
-type: way
+type: node
 latitude: 40.36939
 longitude: -86.87564
 postcode: "47909"
 city: Lafayette
-street: "South 18th Street"
-housenumber: 3607
-phone: "+1-765-477-7867"
+street: South 18th Street
+housenumber: "3607"
+phone: +1-765-477-7867
 opening_hours: ""
 website: ""

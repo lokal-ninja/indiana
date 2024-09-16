@@ -1,11 +1,11 @@
 id: 391395617
-type: way
+type: node
 latitude: 39.79425
 longitude: -86.1173
 postcode: "46218"
 city: Indianapolis
-street: "Roosevelt Avenue"
-housenumber: 2707
+street: Roosevelt Avenue
+housenumber: "2707"
 phone: ""
 opening_hours: ""
 website: ""

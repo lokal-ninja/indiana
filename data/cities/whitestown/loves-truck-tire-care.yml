@@ -1,11 +1,11 @@
 id: 225347311
-type: way
+type: node
 latitude: 39.97852
 longitude: -86.39465
 postcode: "46075"
 city: Whitestown
-street: "South Indianapolis Road"
-housenumber: 4155
+street: South Indianapolis Road
+housenumber: "4155"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 918499451
-type: way
+type: node
 latitude: 40.76846
 longitude: -87.43888
 postcode: "47951"
 city: Brook
-street: "North 7th Street"
-housenumber: 102
+street: North 7th Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 42770286
-type: way
+type: node
 latitude: 38.34233
 longitude: -85.80081
 postcode: "47150"
 city: New Albany
-street: "Charlestown Road"
-housenumber: 3899
-phone: "+1 812-948-1888"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/in/newalbany-512.shtml"
+street: Charlestown Road
+housenumber: "3899"
+phone: +1 812-948-1888
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/in/newalbany-512.shtml

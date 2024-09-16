@@ -1,11 +1,11 @@
 id: 1080438212
-type: way
+type: node
 latitude: 39.52627
 longitude: -86.80354
 postcode: "46120"
 city: Cloverdale
-street: "Pickens Drive"
-housenumber: 1
+street: Pickens Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 314794894
-type: way
+type: node
 latitude: 40.47061
 longitude: -86.11009
 postcode: "46902"
 city: Kokomo
-street: "South Reed Road"
-housenumber: 1403
-phone: "+1 765-452-7422"
+street: South Reed Road
+housenumber: "1403"
+phone: +1 765-452-7422
 opening_hours: ""
-website: "https://stores.bestbuy.com/in/kokomo/1403-s-reed-rd-371.html"
+website: https://stores.bestbuy.com/in/kokomo/1403-s-reed-rd-371.html

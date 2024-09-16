@@ -1,11 +1,11 @@
 id: 757745486
-type: way
+type: node
 latitude: 41.12005
 longitude: -85.14344
 postcode: "46825"
 city: Fort Wayne
-street: "Hovan Drive"
-housenumber: 317
+street: Hovan Drive
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

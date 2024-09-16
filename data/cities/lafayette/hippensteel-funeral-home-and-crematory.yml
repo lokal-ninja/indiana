@@ -1,11 +1,11 @@
 id: 888242801
-type: way
+type: node
 latitude: 40.42559
 longitude: -86.88752
 postcode: "47904"
 city: Lafayette
-street: "North 9th Street"
-housenumber: 822
+street: North 9th Street
+housenumber: "822"
 phone: ""
 opening_hours: ""
 website: ""

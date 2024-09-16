@@ -1,11 +1,11 @@
 id: 680615772
-type: way
+type: node
 latitude: 39.84081
 longitude: -86.12288
 postcode: "46205"
 city: Indianapolis
-street: "East 46th Street"
-housenumber: 2330
+street: East 46th Street
+housenumber: "2330"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indianapolis-in-pharmacies/2330-east-46th-st-indianapolis-in-46205/storeid=6573"
+website: https://www.cvs.com/store-locator/indianapolis-in-pharmacies/2330-east-46th-st-indianapolis-in-46205/storeid=6573

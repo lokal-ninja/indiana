@@ -1,11 +1,11 @@
 id: 997159759
-type: way
+type: node
 latitude: 39.15653
 longitude: -86.49537
 postcode: "47401"
 city: Bloomington
-street: "East Auto Mall Road"
-housenumber: 849
+street: East Auto Mall Road
+housenumber: "849"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00; Su 11:00-19:00"
-website: "https://www.morgensternbooks.com/"
+opening_hours: Mo-Sa 08:30-21:00; Su 11:00-19:00
+website: https://www.morgensternbooks.com/

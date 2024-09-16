@@ -1,11 +1,11 @@
 id: 276650126
-type: way
+type: node
 latitude: 41.08369
 longitude: -85.14421
 postcode: "46808"
 city: Fort Wayne
-street: "Cass Street"
-housenumber: 1004
-phone: "+1-260-420-3962"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.fwoutfitters.com/"
+street: Cass Street
+housenumber: "1004"
+phone: +1-260-420-3962
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.fwoutfitters.com/

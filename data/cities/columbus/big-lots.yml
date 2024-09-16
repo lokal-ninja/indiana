@@ -1,11 +1,11 @@
 id: 534122889
-type: way
+type: node
 latitude: 39.22163
 longitude: -85.88695
 postcode: "47203"
 city: Columbus
-street: "25th Street"
-housenumber: 3075
-phone: "+1 812-390-4013"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/in/columbus/3075-e-25th-st"
+street: 25th Street
+housenumber: "3075"
+phone: +1 812-390-4013
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/in/columbus/3075-e-25th-st

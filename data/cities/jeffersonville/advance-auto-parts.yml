@@ -1,11 +1,11 @@
 id: 690930121
-type: way
+type: node
 latitude: 38.28063
 longitude: -85.74425
 postcode: "47130"
 city: Jeffersonville
-street: "East 10th Street"
-housenumber: 215
+street: East 10th Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/in/jeffersonville/215-e-10th-street"
+website: https://stores.advanceautoparts.com/in/jeffersonville/215-e-10th-street

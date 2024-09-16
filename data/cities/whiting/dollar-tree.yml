@@ -1,11 +1,11 @@
 id: 511808880
-type: way
+type: node
 latitude: 41.67926
 longitude: -87.49536
 postcode: "46394"
 city: Whiting
-street: "119th Street"
-housenumber: 1410
+street: 119th Street
+housenumber: "1410"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/in/whiting/3780/"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/in/whiting/3780/

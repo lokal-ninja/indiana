@@ -1,11 +1,11 @@
 id: 903119559
-type: way
+type: node
 latitude: 39.74587
 longitude: -86.149
 postcode: "46225"
 city: Indianapolis
-street: "South East Street"
-housenumber: 1531
+street: South East Street
+housenumber: "1531"
 phone: ""
 opening_hours: ""
 website: ""

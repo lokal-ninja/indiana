@@ -1,11 +1,11 @@
 id: 448289239
-type: way
+type: node
 latitude: 38.27544
 longitude: -85.74673
 postcode: "47130"
 city: Jeffersonville
-street: "Broadway Street"
-housenumber: 630
+street: Broadway Street
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

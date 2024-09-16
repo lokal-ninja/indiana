@@ -1,11 +1,11 @@
 id: 1033480339
-type: way
+type: node
 latitude: 39.47946
 longitude: -86.06491
 postcode: "46131"
 city: Franklin
-street: "South Morton Street"
-housenumber: 20
+street: South Morton Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-20+s+morton+st-franklin-in-46131/id=5393"
+website: https://www.walgreens.com/locator/walgreens-20+s+morton+st-franklin-in-46131/id=5393

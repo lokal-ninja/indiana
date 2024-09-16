@@ -1,11 +1,11 @@
 id: 328647651
-type: way
+type: node
 latitude: 39.85866
 longitude: -86.41098
 postcode: "46112"
 city: Brownsburg
-street: "West Northfield Drive"
-housenumber: 630
-phone: "+1 317-456-8000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-brownsburg/2681"
+street: West Northfield Drive
+housenumber: "630"
+phone: +1 317-456-8000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-brownsburg/2681

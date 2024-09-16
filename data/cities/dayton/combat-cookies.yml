@@ -1,11 +1,11 @@
 id: 1195261716
-type: way
+type: node
 latitude: 40.37447
 longitude: -86.768
 postcode: "47941"
 city: Dayton
-street: "Market Street"
-housenumber: 294
+street: Market Street
+housenumber: "294"
 phone: "+17652451984"
-opening_hours: "Sa 10:00-14:00"
-website: "https://www.combatcookies.org/"
+opening_hours: Sa 10:00-14:00
+website: https://www.combatcookies.org/

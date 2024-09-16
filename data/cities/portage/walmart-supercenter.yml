@@ -1,11 +1,11 @@
 id: 668365559
-type: way
+type: node
 latitude: 41.54723
 longitude: -87.17778
 postcode: "46368"
 city: Portage
-street: "US Highway 6"
-housenumber: 6087
-phone: "+1 219-759-5900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2544/portage-in/whats-new"
+street: US Highway 6
+housenumber: "6087"
+phone: +1 219-759-5900
+opening_hours: 24/7
+website: https://www.walmart.com/store/2544/portage-in/whats-new

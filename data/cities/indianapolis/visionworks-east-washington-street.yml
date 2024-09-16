@@ -1,11 +1,11 @@
 id: 356124991
-type: way
+type: node
 latitude: 39.77515
 longitude: -85.97516
 postcode: ""
 city: Indianapolis
-street: "East Washington Street"
-housenumber: 10777
-phone: "+1-317-897-0480"
+street: East Washington Street
+housenumber: "10777"
+phone: +1-317-897-0480
 opening_hours: ""
-website: "https://www.visionworks.com/"
+website: https://www.visionworks.com/

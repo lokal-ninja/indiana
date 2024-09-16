@@ -1,11 +1,11 @@
 id: 251249346
-type: way
+type: node
 latitude: 41.45228
 longitude: -85.58666
 postcode: "46767"
 city: Ligonier
-street: "West US Highway 6"
-housenumber: 100
+street: West US Highway 6
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

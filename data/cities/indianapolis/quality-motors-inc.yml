@@ -1,11 +1,11 @@
 id: 1026525844
-type: way
+type: node
 latitude: 39.84585
 longitude: -86.25662
 postcode: "46254"
 city: Indianapolis
-street: "Lafayette Road"
-housenumber: 5202
+street: Lafayette Road
+housenumber: "5202"
 phone: ""
 opening_hours: ""
 website: ""

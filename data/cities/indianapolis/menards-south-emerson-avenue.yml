@@ -1,11 +1,11 @@
 id: 297976597
-type: way
+type: node
 latitude: 39.66417
 longitude: -86.08386
 postcode: "46237"
 city: Indianapolis
-street: "South Emerson Avenue"
-housenumber: 7140
-phone: "+1 317-885-7900"
+street: South Emerson Avenue
+housenumber: "7140"
+phone: +1 317-885-7900
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3084"
+website: https://www.menards.com/store-details/store.html?store=3084

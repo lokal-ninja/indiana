@@ -1,11 +1,11 @@
 id: 310104642
-type: way
+type: node
 latitude: 39.93064
 longitude: -85.37994
 postcode: "47362"
 city: New Castle
-street: "South Memorial Drive"
-housenumber: 120
-phone: "+1 765-529-7330"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/new-castle/trojan-plaza/021/00920"
+street: South Memorial Drive
+housenumber: "120"
+phone: +1 765-529-7330
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/new-castle/trojan-plaza/021/00920

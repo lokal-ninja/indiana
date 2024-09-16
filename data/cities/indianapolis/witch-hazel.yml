@@ -1,11 +1,11 @@
 id: 1035431617
-type: way
+type: node
 latitude: 39.75512
 longitude: -86.14284
 postcode: "46203"
 city: Indianapolis
-street: "Virginia Avenue"
-housenumber: 874
+street: Virginia Avenue
+housenumber: "874"
 phone: ""
 opening_hours: ""
 website: ""

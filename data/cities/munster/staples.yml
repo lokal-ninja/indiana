@@ -1,11 +1,11 @@
 id: 975320014
-type: way
+type: node
 latitude: 41.56865
 longitude: -87.50754
 postcode: "46321"
 city: Munster
-street: "Calumet Avenue"
-housenumber: 7951
+street: Calumet Avenue
+housenumber: "7951"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/in/munster/7951-calumet-ave"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/in/munster/7951-calumet-ave

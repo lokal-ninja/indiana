@@ -1,11 +1,11 @@
 id: 199424865
-type: way
+type: node
 latitude: 41.70972
 longitude: -86.18189
 postcode: "46545"
 city: Mishawaka
-street: "Douglas Road"
-housenumber: 210
-phone: "+1 833-462-1002"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://stores.aldi.us/in/mishawaka/210-w-douglas-road"
+street: Douglas Road
+housenumber: "210"
+phone: +1 833-462-1002
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://stores.aldi.us/in/mishawaka/210-w-douglas-road

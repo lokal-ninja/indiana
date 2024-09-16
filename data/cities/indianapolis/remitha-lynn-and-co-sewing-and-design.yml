@@ -1,11 +1,11 @@
 id: 1007898678
-type: way
+type: node
 latitude: 39.85399
 longitude: -86.11676
 postcode: "46220"
 city: Indianapolis
-street: "55th Place"
-housenumber: 2804
+street: 55th Place
+housenumber: "2804"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 410966603
-type: way
+type: node
 latitude: 39.91753
 longitude: -86.22898
 postcode: "46268"
 city: Indianapolis
-street: "Michigan Road"
-housenumber: 9010
-phone: "+1 317-532-1608"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/fortune-park-indianapolis-in-347.html"
+street: Michigan Road
+housenumber: "9010"
+phone: +1 317-532-1608
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/fortune-park-indianapolis-in-347.html

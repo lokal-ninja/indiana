@@ -1,11 +1,11 @@
 id: 769534262
-type: way
+type: node
 latitude: 41.68277
 longitude: -86.90151
 postcode: "46360"
 city: Michigan City
-street: "Saint John Road"
-housenumber: 432
-phone: "+1 219-872-5431"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Saint John Road
+housenumber: "432"
+phone: +1 219-872-5431
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

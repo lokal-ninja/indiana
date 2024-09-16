@@ -1,11 +1,11 @@
 id: 559350172
-type: way
+type: node
 latitude: 39.12068
 longitude: -86.52975
 postcode: "47401"
 city: Bloomington
-street: "South Old State Road 37"
-housenumber: 4025
-phone: "+1 812-803-7245"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/bloomington/bloomington-south/021/00900"
+street: South Old State Road 37
+housenumber: "4025"
+phone: +1 812-803-7245
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/bloomington/bloomington-south/021/00900

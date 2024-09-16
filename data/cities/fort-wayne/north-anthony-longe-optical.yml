@@ -4,8 +4,9 @@ latitude: 41.10723
 longitude: -85.11652
 postcode: "46805"
 city: Fort Wayne
-street: "North Anthony Boulevard"
-housenumber: 3409
-phone: "+1-260-484-2691"
-opening_hours: "Mo 08:00-17:00; Tu-Th 09:00-19:00; Fr 08:00-17:00; Sa 09:00-14:00; Su off"
-website: "https://www.longeoptical.com/find-a-store/north-anthony/"
+street: North Anthony Boulevard
+housenumber: "3409"
+phone: +1-260-484-2691
+opening_hours: Mo 08:00-17:00; Tu-Th 09:00-19:00; Fr 08:00-17:00; Sa 09:00-14:00;
+    Su off
+website: https://www.longeoptical.com/find-a-store/north-anthony/

@@ -1,11 +1,11 @@
 id: 969292524
-type: way
+type: node
 latitude: 39.76068
 longitude: -86.08332
 postcode: "46219"
 city: Indianapolis
-street: "South Emerson Avenue"
-housenumber: 456
+street: South Emerson Avenue
+housenumber: "456"
 phone: ""
 opening_hours: ""
 website: ""

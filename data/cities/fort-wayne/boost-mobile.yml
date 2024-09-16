@@ -1,11 +1,11 @@
 id: 845943004
-type: way
+type: node
 latitude: 41.09982
 longitude: -85.15642
 postcode: "46808"
 city: Fort Wayne
-street: "Goshen Avenue"
-housenumber: 1101
+street: Goshen Avenue
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

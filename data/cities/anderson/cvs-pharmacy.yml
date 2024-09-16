@@ -1,11 +1,11 @@
 id: 347005637
-type: way
+type: node
 latitude: 40.11378
 longitude: -85.65384
 postcode: "46012"
 city: Anderson
-street: "South Scatterfield Road"
-housenumber: 265
+street: South Scatterfield Road
+housenumber: "265"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/anderson-in-pharmacies/265-so-scatterfield-rd-anderson-in-46012/storeid=6640"
+website: https://www.cvs.com/store-locator/anderson-in-pharmacies/265-so-scatterfield-rd-anderson-in-46012/storeid=6640

@@ -1,11 +1,11 @@
 id: 195631583
-type: way
+type: node
 latitude: 39.95713
 longitude: -86.11816
 postcode: "46032"
 city: Carmel
-street: "East 116th Street"
-housenumber: 2100
+street: East 116th Street
+housenumber: "2100"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/in/carmel/autoparts-4421.html"
+website: https://locations.oreillyauto.com/in/carmel/autoparts-4421.html

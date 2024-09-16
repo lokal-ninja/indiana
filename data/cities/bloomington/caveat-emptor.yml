@@ -1,11 +1,11 @@
 id: 1014528366
-type: way
+type: node
 latitude: 39.16706
 longitude: -86.53345
 postcode: "47404"
 city: Bloomington
-street: "North Walnut Street"
-housenumber: 112
+street: North Walnut Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

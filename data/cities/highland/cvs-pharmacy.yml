@@ -1,11 +1,11 @@
 id: 1229707691
-type: way
+type: node
 latitude: 41.53816
 longitude: -87.43694
 postcode: "46322"
 city: Highland
-street: "45th Street"
-housenumber: 3835
+street: 45th Street
+housenumber: "3835"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/highland-in-pharmacies/3835-45th-street-highland-in-46322/storeid=8518"
+website: https://www.cvs.com/store-locator/highland-in-pharmacies/3835-45th-street-highland-in-46322/storeid=8518

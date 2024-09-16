@@ -1,11 +1,11 @@
 id: 1209188941
-type: way
+type: node
 latitude: 41.46752
 longitude: -87.05178
 postcode: "46383"
 city: Valparaiso
-street: "East Lincolnway"
-housenumber: 708
-phone: "+1 219-462-7802"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/in/valparaiso/708-e-lincoln-way-15534"
+street: East Lincolnway
+housenumber: "708"
+phone: +1 219-462-7802
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/in/valparaiso/708-e-lincoln-way-15534

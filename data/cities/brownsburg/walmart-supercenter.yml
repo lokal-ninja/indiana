@@ -1,11 +1,11 @@
 id: 325348742
-type: way
+type: node
 latitude: 39.85915
 longitude: -86.39785
 postcode: "46112"
 city: Brownsburg
-street: "West Northfield Drive"
-housenumber: 400
-phone: "+1 317-858-0206"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2788/brownsburg-in/whats-new"
+street: West Northfield Drive
+housenumber: "400"
+phone: +1 317-858-0206
+opening_hours: 24/7
+website: https://www.walmart.com/store/2788/brownsburg-in/whats-new

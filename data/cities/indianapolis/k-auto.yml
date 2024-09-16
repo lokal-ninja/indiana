@@ -1,11 +1,11 @@
 id: 898050219
-type: way
+type: node
 latitude: 39.76064
 longitude: -86.0747
 postcode: "46219"
 city: Indianapolis
-street: "Brookville Road"
-housenumber: 5452
+street: Brookville Road
+housenumber: "5452"
 phone: ""
 opening_hours: ""
 website: ""

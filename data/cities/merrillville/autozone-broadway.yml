@@ -1,11 +1,11 @@
 id: 1240818721
-type: way
+type: node
 latitude: 41.50662
 longitude: -87.33527
 postcode: "46410"
 city: Merrillville
-street: "Broadway"
-housenumber: 6115
+street: Broadway
+housenumber: "6115"
 phone: ""
 opening_hours: ""
 website: ""

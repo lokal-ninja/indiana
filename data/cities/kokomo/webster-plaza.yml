@@ -1,11 +1,11 @@
 id: 726881963
-type: way
+type: node
 latitude: 40.4406
 longitude: -86.13521
 postcode: "46902"
 city: Kokomo
-street: "South Webster Street"
-housenumber: 4053
+street: South Webster Street
+housenumber: "4053"
 phone: ""
 opening_hours: ""
 website: ""

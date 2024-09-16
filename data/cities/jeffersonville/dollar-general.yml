@@ -1,11 +1,11 @@
 id: 539265195
-type: way
+type: node
 latitude: 38.35629
 longitude: -85.70179
 postcode: "47130"
 city: Jeffersonville
-street: "IN 62 East"
-housenumber: 5414
+street: IN 62 East
+housenumber: "5414"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/in/jeffersonville/15953"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/in/jeffersonville/15953

@@ -1,11 +1,11 @@
 id: 821983710
-type: way
+type: node
 latitude: 38.32643
 longitude: -85.75808
 postcode: "47129"
 city: Clarksville
-street: "Veterans Parkway"
-housenumber: 1350
-phone: "+1 812-258-3100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/in-clarksville/2542"
+street: Veterans Parkway
+housenumber: "1350"
+phone: +1 812-258-3100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/in-clarksville/2542

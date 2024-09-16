@@ -1,11 +1,11 @@
 id: 1021359737
-type: way
+type: node
 latitude: 39.76608
 longitude: -86.23362
 postcode: "46222"
 city: Speedway
-street: "Gasoline Alley"
-housenumber: 101
+street: Gasoline Alley
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

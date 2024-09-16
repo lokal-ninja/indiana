@@ -1,11 +1,11 @@
 id: 282514030
-type: way
+type: node
 latitude: 39.15669
 longitude: -86.49667
 postcode: "47401"
 city: Bloomington
-street: "South Auto Mall Road"
-housenumber: 805
-phone: "+1-812-331-2660"
-opening_hours: "Tu-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "btownrestore.org"
+street: South Auto Mall Road
+housenumber: "805"
+phone: +1-812-331-2660
+opening_hours: Tu-Fr 10:00-17:00; Sa 10:00-16:00
+website: btownrestore.org

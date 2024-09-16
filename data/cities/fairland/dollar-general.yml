@@ -1,11 +1,11 @@
 id: 1205006098
-type: way
+type: node
 latitude: 39.58352
 longitude: -85.86589
 postcode: "46126"
 city: Fairland
-street: "West Carey Street"
-housenumber: 385
+street: West Carey Street
+housenumber: "385"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/fairland/25375"
+website: https://www.dollargeneral.com/store-directory/in/fairland/25375

@@ -1,11 +1,11 @@
 id: 1153392790
-type: way
+type: node
 latitude: 39.35486
 longitude: -86.66638
 postcode: "47433"
 city: Gosport
-street: "N 7th Street"
-housenumber: 600
-phone: "+1-812-879-5595"
+street: N 7th Street
+housenumber: "600"
+phone: +1-812-879-5595
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/gosport/11053"
+website: https://www.dollargeneral.com/store-directory/in/gosport/11053

@@ -4,8 +4,8 @@ latitude: 39.70338
 longitude: -86.25834
 postcode: "46221"
 city: Indianapolis
-street: "Kentucky Avenue"
-housenumber: 4515
+street: Kentucky Avenue
+housenumber: "4515"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/in/indianapolis/1100/"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/in/indianapolis/1100/

@@ -1,11 +1,11 @@
 id: 248045320
-type: way
+type: node
 latitude: 39.7135
 longitude: -86.23803
 postcode: "46221"
 city: Indianapolis
-street: "Mann Road"
-housenumber: 3455
+street: Mann Road
+housenumber: "3455"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3455+mann+rd-indianapolis-in-46221/id=3142"
+website: https://www.walgreens.com/locator/walgreens-3455+mann+rd-indianapolis-in-46221/id=3142

@@ -1,11 +1,11 @@
 id: 1035431589
-type: way
+type: node
 latitude: 39.75508
 longitude: -86.1418
 postcode: "46203"
 city: Indianapolis
-street: "Hosbrook Street"
-housenumber: 1001
+street: Hosbrook Street
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

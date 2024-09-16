@@ -1,11 +1,11 @@
 id: 685026044
-type: way
+type: node
 latitude: 41.52938
 longitude: -87.47332
 postcode: "46322"
 city: Highland
-street: "Indianapolis Boulevard"
-housenumber: 10138
-phone: "+1-219-934-2100"
+street: Indianapolis Boulevard
+housenumber: "10138"
+phone: +1-219-934-2100
 opening_hours: ""
 website: ""

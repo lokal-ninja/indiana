@@ -1,11 +1,11 @@
 id: 605741268
-type: way
+type: node
 latitude: 39.8831
 longitude: -86.06819
 postcode: "46220"
 city: Indianapolis
-street: "East 71st Street"
-housenumber: 5849
+street: East 71st Street
+housenumber: "5849"
 phone: ""
 opening_hours: ""
 website: ""

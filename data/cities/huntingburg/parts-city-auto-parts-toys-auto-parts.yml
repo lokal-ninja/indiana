@@ -1,11 +1,11 @@
 id: 1277929782
-type: way
+type: node
 latitude: 38.30396
 longitude: -86.95487
 postcode: "47542"
 city: Huntingburg
-street: "North Main Street"
-housenumber: 1007
+street: North Main Street
+housenumber: "1007"
 phone: "+18126835588"
 opening_hours: ""
-website: "https://www.partscityauto.com/store/216"
+website: https://www.partscityauto.com/store/216

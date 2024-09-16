@@ -1,11 +1,11 @@
 id: 724812670
-type: way
+type: node
 latitude: 39.44908
 longitude: -87.41418
 postcode: "47802"
 city: Terre Haute
-street: "South 3rd Street"
-housenumber: 
+street: South 3rd Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.easternhouseterrehaute.com/"
+website: https://www.easternhouseterrehaute.com/

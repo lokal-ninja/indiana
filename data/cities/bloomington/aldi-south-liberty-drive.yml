@@ -1,11 +1,11 @@
 id: 282527731
-type: way
+type: node
 latitude: 39.14727
 longitude: -86.57648
 postcode: "47403"
 city: Bloomington
-street: "South Liberty Drive"
-housenumber: 2035
-phone: "+1 844-444-1030"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/bloomington/2035-s-liberty-dr"
+street: South Liberty Drive
+housenumber: "2035"
+phone: +1 844-444-1030
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/bloomington/2035-s-liberty-dr

@@ -1,11 +1,11 @@
 id: 1282124038
-type: way
+type: node
 latitude: 41.69324
 longitude: -86.93835
 postcode: "46360"
 city: Michigan City
-street: "West Dunes Highway"
-housenumber: 2865
-phone: "+1-219-851-1273"
-opening_hours: "Mo-Su 08:00-18:00; Ph off"
-website: "https://dnaautoshop.com"
+street: West Dunes Highway
+housenumber: "2865"
+phone: +1-219-851-1273
+opening_hours: Mo-Su 08:00-18:00; Ph off
+website: https://dnaautoshop.com

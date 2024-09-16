@@ -1,11 +1,11 @@
 id: 902040308
-type: way
+type: node
 latitude: 39.75139
 longitude: -86.15002
 postcode: "46225"
 city: Indianapolis
-street: "East Morris Street"
-housenumber: 449
+street: East Morris Street
+housenumber: "449"
 phone: ""
 opening_hours: ""
 website: ""

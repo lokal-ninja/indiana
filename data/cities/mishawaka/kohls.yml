@@ -1,11 +1,11 @@
 id: 265732607
-type: way
+type: node
 latitude: 41.70039
 longitude: -86.18685
 postcode: "46545"
 city: Mishawaka
-street: "Grape Road"
-housenumber: 4410
-phone: "+1 574-273-6266"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/in/mishawaka-259.shtml"
+street: Grape Road
+housenumber: "4410"
+phone: +1 574-273-6266
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/in/mishawaka-259.shtml

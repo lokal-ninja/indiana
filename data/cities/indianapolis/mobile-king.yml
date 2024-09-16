@@ -1,11 +1,11 @@
 id: 237181270
-type: way
+type: node
 latitude: 39.74556
 longitude: -86.14037
 postcode: "46203"
 city: Indianapolis
-street: "Shelby Street"
-housenumber: 1638
+street: Shelby Street
+housenumber: "1638"
 phone: ""
 opening_hours: ""
 website: ""

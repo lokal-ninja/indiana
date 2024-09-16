@@ -1,11 +1,11 @@
 id: 115420604
-type: way
+type: node
 latitude: 40.45412
 longitude: -86.90895
 postcode: "47906"
 city: West Lafayette
-street: "Sagamore Parkway West"
-housenumber: 210
-phone: "+1-844-444-1060"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/west-lafayette/210-sagamore-pkwy-w"
+street: Sagamore Parkway West
+housenumber: "210"
+phone: +1-844-444-1060
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/west-lafayette/210-sagamore-pkwy-w

@@ -1,11 +1,11 @@
 id: 736389408
-type: way
+type: node
 latitude: 37.95468
 longitude: -87.44236
 postcode: "47630"
 city: Newburgh
-street: "SR 662 W"
-housenumber: 10520
+street: SR 662 W
+housenumber: "10520"
 phone: ""
 opening_hours: ""
 website: ""

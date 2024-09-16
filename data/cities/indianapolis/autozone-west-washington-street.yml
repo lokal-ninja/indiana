@@ -1,11 +1,11 @@
 id: 240157839
-type: way
+type: node
 latitude: 39.75477
 longitude: -86.24483
 postcode: "46241"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 5050
+street: West Washington Street
+housenumber: "5050"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/indianapolis/5050-w-washington-st.html"
+website: https://www.autozone.com/locations/in/indianapolis/5050-w-washington-st.html

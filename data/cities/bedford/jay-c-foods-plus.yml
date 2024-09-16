@@ -1,11 +1,11 @@
 id: 156513043
-type: way
+type: node
 latitude: 38.86261
 longitude: -86.50907
 postcode: "47421"
 city: Bedford
-street: "16th Street"
-housenumber: 2631
-phone: "+1-812-275-0725"
-opening_hours: "Su-Sa 07:00-22:00"
-website: "https://www.jaycfoods.com/"
+street: 16th Street
+housenumber: "2631"
+phone: +1-812-275-0725
+opening_hours: Su-Sa 07:00-22:00
+website: https://www.jaycfoods.com/

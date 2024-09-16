@@ -1,11 +1,11 @@
 id: 903599844
-type: way
+type: node
 latitude: 38.66254
 longitude: -86.45181
 postcode: "47452"
 city: Orleans
-street: "East Jefferson Street"
-housenumber: 187
-phone: "+1-812-865-2590"
+street: East Jefferson Street
+housenumber: "187"
+phone: +1-812-865-2590
 opening_hours: ""
-website: "https://www.ochstetrick.net/"
+website: https://www.ochstetrick.net/

@@ -1,11 +1,11 @@
 id: 828327181
-type: way
+type: node
 latitude: 40.8957
 longitude: -86.02701
 postcode: ""
 city: Denver
-street: "North State Road 19"
-housenumber: 8971
-phone: "+1 765-985-3937"
-opening_hours: "Mo-Su 11:00-18:00; Mo, Su 09:00-18:00"
-website: "https://www.doudsorchards.com/"
+street: North State Road 19
+housenumber: "8971"
+phone: +1 765-985-3937
+opening_hours: Mo-Su 11:00-18:00; Mo, Su 09:00-18:00
+website: https://www.doudsorchards.com/

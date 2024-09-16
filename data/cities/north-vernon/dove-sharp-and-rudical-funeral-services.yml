@@ -1,11 +1,11 @@
 id: 736557900
-type: way
+type: node
 latitude: 39.00136
 longitude: -85.62307
 postcode: "47265"
 city: North Vernon
-street: "South State Street"
-housenumber: 420
+street: South State Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

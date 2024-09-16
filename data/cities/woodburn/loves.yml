@@ -1,11 +1,11 @@
 id: 545374594
-type: way
+type: node
 latitude: 41.14097
 longitude: -84.85033
 postcode: "46797"
 city: Woodburn
-street: "North State Rd 101"
-housenumber: 5955
+street: North State Rd 101
+housenumber: "5955"
 phone: ""
 opening_hours: ""
 website: ""

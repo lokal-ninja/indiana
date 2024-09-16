@@ -1,11 +1,11 @@
 id: 525974800
-type: way
+type: node
 latitude: 41.07812
 longitude: -85.20211
 postcode: "46804"
 city: Fort Wayne
-street: "South Thomas Road"
-housenumber: 902
-phone: "+1-260-434-0068"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hobbylobby.com/stores/search/962?lat=41.079273&long=-85.1393513"
+street: South Thomas Road
+housenumber: "902"
+phone: +1-260-434-0068
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hobbylobby.com/stores/search/962?lat=41.079273&long=-85.1393513

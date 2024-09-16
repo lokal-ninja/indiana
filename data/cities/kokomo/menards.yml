@@ -1,11 +1,11 @@
 id: 753024969
-type: way
+type: node
 latitude: 40.49528
 longitude: -86.11019
 postcode: "46901"
 city: Kokomo
-street: "East Havens Street"
-housenumber: 1715
+street: East Havens Street
+housenumber: "1715"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3146"
+website: https://www.menards.com/store-details/store.html?store=3146

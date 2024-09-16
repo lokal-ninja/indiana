@@ -1,11 +1,11 @@
 id: 356859152
-type: way
+type: node
 latitude: 39.83961
 longitude: -86.38351
 postcode: "46112"
 city: Danville
-street: "East Main Street"
-housenumber: 800
-phone: "+1 317-939-0026"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00"
+street: East Main Street
+housenumber: "800"
+phone: +1 317-939-0026
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00
 website: ""

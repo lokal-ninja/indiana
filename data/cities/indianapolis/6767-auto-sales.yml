@@ -1,11 +1,11 @@
 id: 240723594
-type: way
+type: node
 latitude: 39.74416
 longitude: -86.27733
 postcode: "46241"
 city: Indianapolis
-street: "West Washington Street"
-housenumber: 6767
-phone: "+1-317-244-2277"
+street: West Washington Street
+housenumber: "6767"
+phone: +1-317-244-2277
 opening_hours: ""
-website: "https://6767autosales.com/"
+website: https://6767autosales.com/

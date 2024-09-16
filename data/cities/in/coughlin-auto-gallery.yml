@@ -1,11 +1,11 @@
 id: 733485933
-type: way
+type: node
 latitude: 39.47013
 longitude: -87.38484
 postcode: ""
 city: IN
-street: "Wabash Avenue"
-housenumber: 2150
+street: Wabash Avenue
+housenumber: "2150"
 phone: ""
 opening_hours: ""
-website: "http://www.coughlinautogallery.com/"
+website: http://www.coughlinautogallery.com/

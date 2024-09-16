@@ -1,11 +1,11 @@
 id: 531562227
-type: way
+type: node
 latitude: 41.11818
 longitude: -85.1002
 postcode: "46815"
 city: Fort Wayne
-street: "Hobson Road"
-housenumber: 4225
+street: Hobson Road
+housenumber: "4225"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fort-wayne-in-pharmacies/4225-hobson-rd-fort-wayne-in-46815/storeid=6737"
+website: https://www.cvs.com/store-locator/fort-wayne-in-pharmacies/4225-hobson-rd-fort-wayne-in-46815/storeid=6737

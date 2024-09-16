@@ -4,8 +4,9 @@ latitude: 41.12706
 longitude: -85.01204
 postcode: "46835"
 city: Fort Wayne
-street: "Maysville Road"
-housenumber: 10120
-phone: "+1 260-255-3470"
-opening_hours: "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed"
-website: "https://www.belletire.com/stores/detail/131/belle-tire-fort-wayne-in"
+street: Maysville Road
+housenumber: "10120"
+phone: +1 260-255-3470
+opening_hours: Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00;
+    Sa 08:00-17:00; Su closed
+website: https://www.belletire.com/stores/detail/131/belle-tire-fort-wayne-in

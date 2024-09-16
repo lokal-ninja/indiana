@@ -1,11 +1,11 @@
 id: 968605598
-type: way
+type: node
 latitude: 39.76922
 longitude: -86.09944
 postcode: "46201"
 city: Indianapolis
-street: "East Washington Street"
-housenumber: 3901
+street: East Washington Street
+housenumber: "3901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 150249009
-type: way
+type: node
 latitude: 41.67993
 longitude: -86.21567
 postcode: ""
 city: South Bend
-street: "North Ironwood Drive"
-housenumber: 326
+street: North Ironwood Drive
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

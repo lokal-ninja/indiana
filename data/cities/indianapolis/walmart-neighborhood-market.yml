@@ -1,11 +1,11 @@
 id: 233949518
-type: way
+type: node
 latitude: 39.85351
 longitude: -86.08473
 postcode: "46226"
 city: Indianapolis
-street: "Fall Creek Parkway North Drive"
-housenumber: 5550
-phone: "+1 317-614-4046"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/6390/indianapolis-in/whats-new"
+street: Fall Creek Parkway North Drive
+housenumber: "5550"
+phone: +1 317-614-4046
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/6390/indianapolis-in/whats-new

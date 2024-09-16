@@ -1,11 +1,11 @@
 id: 749595628
-type: way
+type: node
 latitude: 40.47707
 longitude: -86.13859
 postcode: "46901"
 city: Kokomo
-street: "West Markland Avenue"
-housenumber: 610
+street: West Markland Avenue
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kokomo-in-pharmacies/610-w-markland-ave-kokomo-in-46901/storeid=2941"
+website: https://www.cvs.com/store-locator/kokomo-in-pharmacies/610-w-markland-ave-kokomo-in-46901/storeid=2941

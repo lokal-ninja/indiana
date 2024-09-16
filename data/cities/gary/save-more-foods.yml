@@ -1,11 +1,11 @@
 id: 769990173
-type: way
+type: node
 latitude: 41.59418
 longitude: -87.33644
 postcode: "46402"
 city: Gary
-street: "Broadway"
-housenumber: 921
+street: Broadway
+housenumber: "921"
 phone: ""
 opening_hours: ""
 website: ""

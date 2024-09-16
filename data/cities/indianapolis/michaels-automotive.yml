@@ -1,11 +1,11 @@
 id: 1029429037
-type: way
+type: node
 latitude: 39.782
 longitude: -86.08281
 postcode: "46219"
 city: Indianapolis
-street: "North Emerson Avenue"
-housenumber: 1011
+street: North Emerson Avenue
+housenumber: "1011"
 phone: ""
 opening_hours: ""
 website: ""

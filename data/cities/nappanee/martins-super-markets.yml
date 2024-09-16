@@ -1,11 +1,11 @@
 id: 375333026
-type: way
+type: node
 latitude: 41.44481
 longitude: -85.98385
 postcode: "46550"
 city: Nappanee
-street: "North Oakland Avenue"
-housenumber: 242
-phone: "+1 574 773 3013"
-opening_hours: "6:00-22:00"
-website: "https://martins-supermarkets.com/stores/nappanee"
+street: North Oakland Avenue
+housenumber: "242"
+phone: +1 574 773 3013
+opening_hours: 6:00-22:00
+website: https://martins-supermarkets.com/stores/nappanee

@@ -1,11 +1,11 @@
 id: 817953520
-type: way
+type: node
 latitude: 41.35909
 longitude: -86.31057
 postcode: "46563"
 city: Plymouth
-street: "North Michigan Street"
-housenumber: 2014
+street: North Michigan Street
+housenumber: "2014"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2014+n+michigan+st-plymouth-in-46563/id=9100"
+website: https://www.walgreens.com/locator/walgreens-2014+n+michigan+st-plymouth-in-46563/id=9100

@@ -1,11 +1,11 @@
 id: 587746070
-type: way
+type: node
 latitude: 41.56896
 longitude: -87.48316
 postcode: "46324"
 city: Hammond
-street: "Cabela Drive"
-housenumber: 7850
-phone: "+1 219-989-0258"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/2818/hammond-in/whats-new"
+street: Cabela Drive
+housenumber: "7850"
+phone: +1 219-989-0258
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/2818/hammond-in/whats-new

@@ -1,11 +1,11 @@
 id: 835943426
-type: way
+type: node
 latitude: 41.62995
 longitude: -86.21479
 postcode: "46614"
 city: South Bend
-street: "East Ireland Road"
-housenumber: 2101
+street: East Ireland Road
+housenumber: "2101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/south-bend-in-pharmacies/2101-east-ireland-rd-south-bend-in-46614/storeid=6487"
+website: https://www.cvs.com/store-locator/south-bend-in-pharmacies/2101-east-ireland-rd-south-bend-in-46614/storeid=6487

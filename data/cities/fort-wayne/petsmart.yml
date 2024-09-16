@@ -1,11 +1,11 @@
 id: 182554938
-type: way
+type: node
 latitude: 41.12674
 longitude: -85.00951
 postcode: "46835"
 city: Fort Wayne
-street: "Maysville Road"
-housenumber: 10260
-phone: "+1 260-486-6151"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/in/ft-wayne-store1840.html"
+street: Maysville Road
+housenumber: "10260"
+phone: +1 260-486-6151
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/in/ft-wayne-store1840.html

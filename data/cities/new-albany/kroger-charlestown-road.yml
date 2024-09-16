@@ -1,11 +1,11 @@
 id: 857706424
-type: way
+type: node
 latitude: 38.33208
 longitude: -85.79856
 postcode: "47150"
 city: New Albany
-street: "Charlestown Road"
-housenumber: 2864
-phone: "+1 812-944-7016"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/in/new-albany/silver-run/024/00744"
+street: Charlestown Road
+housenumber: "2864"
+phone: +1 812-944-7016
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/in/new-albany/silver-run/024/00744

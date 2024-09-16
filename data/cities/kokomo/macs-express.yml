@@ -1,11 +1,11 @@
 id: 740734619
-type: way
+type: node
 latitude: 40.43407
 longitude: -86.1249
 postcode: "46902"
 city: Kokomo
-street: "East Center Road"
-housenumber: 300
+street: East Center Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

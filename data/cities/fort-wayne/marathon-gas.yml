@@ -1,11 +1,11 @@
 id: 935919135
-type: way
+type: node
 latitude: 41.07843
 longitude: -85.16682
 postcode: "46808"
 city: Fort Wayne
-street: "West Main Street"
-housenumber: 1817
-phone: "+1 260 420 0008"
-opening_hours: "24/7"
+street: West Main Street
+housenumber: "1817"
+phone: +1 260 420 0008
+opening_hours: 24/7
 website: ""

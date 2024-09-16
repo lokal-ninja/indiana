@@ -1,11 +1,11 @@
 id: 659745659
-type: way
+type: node
 latitude: 41.07567
 longitude: -85.11398
 postcode: "46803"
 city: Fort Wayne
-street: "Maumee Avenue"
-housenumber: 1802
+street: Maumee Avenue
+housenumber: "1802"
 phone: ""
 opening_hours: ""
 website: ""

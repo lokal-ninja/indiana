@@ -1,11 +1,11 @@
 id: 252122758
-type: way
+type: node
 latitude: 41.45959
 longitude: -85.58686
 postcode: "46767"
 city: Ligonier
-street: "Lincoln Way S"
-housenumber: 705
+street: Lincoln Way S
+housenumber: "705"
 phone: ""
-opening_hours: "Mo-Su 08:30-20:30"
+opening_hours: Mo-Su 08:30-20:30
 website: ""

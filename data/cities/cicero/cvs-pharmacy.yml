@@ -1,11 +1,11 @@
 id: 1041699474
-type: way
+type: node
 latitude: 40.12445
 longitude: -86.01455
 postcode: "46034"
 city: Cicero
-street: "South Peru Street"
-housenumber: 950
+street: South Peru Street
+housenumber: "950"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cicero-in-pharmacies/950-south-peru-st-cicero-in-46034/storeid=6574"
+website: https://www.cvs.com/store-locator/cicero-in-pharmacies/950-south-peru-st-cicero-in-46034/storeid=6574

@@ -1,11 +1,11 @@
 id: 862758849
-type: way
+type: node
 latitude: 41.09096
 longitude: -85.17402
 postcode: "46808"
 city: Fort Wayne
-street: "Lakeview Drive"
-housenumber: 1818
-phone: "+1 (260) 432-8636"
-opening_hours: "Mo-Sa 08:00-17:00, Su closed"
-website: "https://muttonrentals.com/"
+street: Lakeview Drive
+housenumber: "1818"
+phone: +1 (260) 432-8636
+opening_hours: Mo-Sa 08:00-17:00, Su closed
+website: https://muttonrentals.com/

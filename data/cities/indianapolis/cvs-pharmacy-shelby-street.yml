@@ -1,11 +1,11 @@
 id: 238798135
-type: way
+type: node
 latitude: 39.73717
 longitude: -86.13876
 postcode: "46203"
 city: Indianapolis
-street: "Shelby Street"
-housenumber: 2215
+street: Shelby Street
+housenumber: "2215"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indianapolis-in-pharmacies/2215-south-shelby-street-indianapolis-in-46203/storeid=2311"
+website: https://www.cvs.com/store-locator/indianapolis-in-pharmacies/2215-south-shelby-street-indianapolis-in-46203/storeid=2311

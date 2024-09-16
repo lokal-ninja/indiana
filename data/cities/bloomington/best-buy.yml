@@ -1,11 +1,11 @@
 id: 282513993
-type: way
+type: node
 latitude: 39.16591
 longitude: -86.4974
 postcode: "47401"
 city: Bloomington
-street: "East 3rd Street"
-housenumber: 2721
-phone: "+1 812-336-7921"
+street: East 3rd Street
+housenumber: "2721"
+phone: +1 812-336-7921
 opening_hours: ""
-website: "https://stores.bestbuy.com/in/bloomington/2721-e-3rd-st-858.html"
+website: https://stores.bestbuy.com/in/bloomington/2721-e-3rd-st-858.html

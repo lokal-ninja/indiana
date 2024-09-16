@@ -1,11 +1,11 @@
 id: 1023440894
-type: way
+type: node
 latitude: 39.80865
 longitude: -86.23819
 postcode: "46222"
 city: Indianapolis
-street: "West 30th Street"
-housenumber: 4701
+street: West 30th Street
+housenumber: "4701"
 phone: ""
 opening_hours: ""
 website: ""

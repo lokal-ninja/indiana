@@ -1,11 +1,11 @@
 id: 547130894
-type: way
+type: node
 latitude: 39.96035
 longitude: -85.92288
 postcode: "46037"
 city: Fishers
-street: "Olio Road"
-housenumber: 11700
-phone: "+1 317-598-8515"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/in/fishers/116th-olio-road/021/00869"
+street: Olio Road
+housenumber: "11700"
+phone: +1 317-598-8515
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/in/fishers/116th-olio-road/021/00869

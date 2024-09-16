@@ -1,11 +1,11 @@
 id: 978849952
-type: way
+type: node
 latitude: 39.74317
 longitude: -86.22381
 postcode: "46241"
 city: Indianapolis
-street: "West Minnesota Street"
-housenumber: 3702
+street: West Minnesota Street
+housenumber: "3702"
 phone: ""
 opening_hours: ""
 website: ""

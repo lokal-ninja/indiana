@@ -1,11 +1,11 @@
 id: 1131858876
-type: way
+type: node
 latitude: 41.06111
 longitude: -85.2164
 postcode: "46804"
 city: Fort Wayne
-street: "West Jefferson Boulevard"
-housenumber: 5900
-phone: "+1-574-800-2244"
+street: West Jefferson Boulevard
+housenumber: "5900"
+phone: +1-574-800-2244
 opening_hours: ""
-website: "https://www.solasalonstudios.com/locations/fort-wayne?utm_source=gmb&utm_medium=organic"
+website: https://www.solasalonstudios.com/locations/fort-wayne?utm_source=gmb&utm_medium=organic

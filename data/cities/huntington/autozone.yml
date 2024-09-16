@@ -1,11 +1,11 @@
 id: 592205818
-type: way
+type: node
 latitude: 40.89879
 longitude: -85.50603
 postcode: "46750"
 city: Huntington
-street: "Guilford Street"
-housenumber: 2600
+street: Guilford Street
+housenumber: "2600"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/in/huntington/2600-n-guilford-st.html"
+website: https://www.autozone.com/locations/in/huntington/2600-n-guilford-st.html

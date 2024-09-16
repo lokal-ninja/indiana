@@ -1,11 +1,11 @@
 id: 1098424756
-type: way
+type: node
 latitude: 41.48567
 longitude: -87.05024
 postcode: "46383"
 city: Valparaiso
-street: "East Glendale Boulevard"
-housenumber: 803
-phone: "+1 219 462 2665"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://boyconn.com"
+street: East Glendale Boulevard
+housenumber: "803"
+phone: +1 219 462 2665
+opening_hours: Mo-Fr 08:00-17:30
+website: https://boyconn.com

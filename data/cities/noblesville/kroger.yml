@@ -4,8 +4,8 @@ latitude: 40.04989
 longitude: -86.01977
 postcode: "46060"
 city: Noblesville
-street: "West Logan Street"
-housenumber: 172
-phone: "+1 317-776-3344"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/in/noblesville/noblesville/021/00957"
+street: West Logan Street
+housenumber: "172"
+phone: +1 317-776-3344
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/in/noblesville/noblesville/021/00957

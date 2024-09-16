@@ -1,11 +1,11 @@
 id: 582700699
-type: way
+type: node
 latitude: 39.97326
 longitude: -86.00175
 postcode: "46038"
 city: Fishers
-street: "Parkside Drive"
-housenumber: 12727
+street: Parkside Drive
+housenumber: "12727"
 phone: ""
 opening_hours: ""
 website: ""

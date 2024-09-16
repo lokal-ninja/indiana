@@ -1,11 +1,11 @@
 id: 856022711
-type: way
+type: node
 latitude: 40.3651
 longitude: -86.86286
 postcode: "47909"
 city: Lafayette
-street: "Promenade Parkway"
-housenumber: 3700
-phone: "+1-765-588-3670"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://lafayetteinselfstorage.com"
+street: Promenade Parkway
+housenumber: "3700"
+phone: +1-765-588-3670
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00
+website: https://lafayetteinselfstorage.com

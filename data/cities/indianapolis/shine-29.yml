@@ -4,8 +4,8 @@ latitude: 39.84003
 longitude: -86.12697
 postcode: "46205"
 city: Indianapolis
-street: "East 46th Street"
-housenumber: 2019
+street: East 46th Street
+housenumber: "2019"
 phone: ""
-opening_hours: "By Appointment"
-website: "https://www.shinetwentynine.com"
+opening_hours: '"By Appointment"'
+website: https://www.shinetwentynine.com

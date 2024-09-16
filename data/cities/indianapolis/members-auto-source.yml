@@ -1,11 +1,11 @@
 id: 204033649
-type: way
+type: node
 latitude: 39.76053
 longitude: -86.14809
 postcode: "46203"
 city: Indianapolis
-street: "Virginia Avenue"
-housenumber: 438
+street: Virginia Avenue
+housenumber: "438"
 phone: ""
 opening_hours: ""
 website: ""

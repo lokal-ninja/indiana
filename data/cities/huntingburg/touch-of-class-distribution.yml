@@ -1,11 +1,11 @@
 id: 1288536621
-type: way
+type: node
 latitude: 38.30511
 longitude: -86.97115
 postcode: "47542"
 city: Huntingburg
-street: "West 12th Street"
-housenumber: 709
+street: West 12th Street
+housenumber: "709"
 phone: ""
 opening_hours: ""
 website: ""

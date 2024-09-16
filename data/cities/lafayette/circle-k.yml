@@ -1,11 +1,11 @@
 id: 721725769
-type: way
+type: node
 latitude: 40.41823
 longitude: -86.82559
 postcode: "47905"
 city: Lafayette
-street: "South Street"
-housenumber: 4250
+street: South Street
+housenumber: "4250"
 phone: ""
 opening_hours: ""
 website: ""

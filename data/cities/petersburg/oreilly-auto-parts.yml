@@ -1,11 +1,11 @@
 id: 1201490749
-type: way
+type: node
 latitude: 38.48619
 longitude: -87.28686
 postcode: "47567"
 city: Petersburg
-street: "West Main Street"
-housenumber: 240
+street: West Main Street
+housenumber: "240"
 phone: "+18123541780"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-19:00"
-website: "https://locations.oreillyauto.com/in/petersburg/autoparts-4603.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-19:00
+website: https://locations.oreillyauto.com/in/petersburg/autoparts-4603.html

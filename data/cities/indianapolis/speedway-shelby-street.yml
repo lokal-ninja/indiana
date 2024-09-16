@@ -1,11 +1,11 @@
 id: 934332217
-type: way
+type: node
 latitude: 39.73919
 longitude: -86.13937
 postcode: "46203"
 city: Indianapolis
-street: "Shelby Street"
-housenumber: 2053
+street: Shelby Street
+housenumber: "2053"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Indianapolis/2053-Shelby-Street"
+website: https://www.speedway.com/locations/IN/Indianapolis/2053-Shelby-Street

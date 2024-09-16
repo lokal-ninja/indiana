@@ -1,11 +1,11 @@
 id: 927126666
-type: way
+type: node
 latitude: 41.39617
 longitude: -87.20628
 postcode: "46341"
 city: Hebron
-street: "South 725 West"
-housenumber: 254
-phone: "+1-219-327-4926"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://sroa.com/storage_units/indiana/hebron-725-west"
+street: South 725 West
+housenumber: "254"
+phone: +1-219-327-4926
+opening_hours: Mo-Su 06:00-22:00
+website: https://sroa.com/storage_units/indiana/hebron-725-west

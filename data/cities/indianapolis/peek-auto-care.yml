@@ -1,11 +1,11 @@
 id: 900981654
-type: way
+type: node
 latitude: 39.745
 longitude: -86.15957
 postcode: "46225"
 city: Indianapolis
-street: "South Meridian Street"
-housenumber: 1644
+street: South Meridian Street
+housenumber: "1644"
 phone: ""
 opening_hours: ""
 website: ""

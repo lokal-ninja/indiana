@@ -1,11 +1,11 @@
 id: 1216367600
-type: way
+type: node
 latitude: 41.60182
 longitude: -87.26838
 postcode: "46403"
 city: Gary
-street: "South Lake Street"
-housenumber: 430
+street: South Lake Street
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 957359614
-type: way
+type: node
 latitude: 39.75958
 longitude: -86.10969
 postcode: "46201"
 city: Indianapolis
-street: "English Avenue"
-housenumber: 3301
+street: English Avenue
+housenumber: "3301"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/indianapolis/3731"
+website: https://www.dollargeneral.com/store-directory/in/indianapolis/3731

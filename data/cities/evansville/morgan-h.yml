@@ -1,11 +1,11 @@
 id: 353219115
-type: way
+type: node
 latitude: 37.9918
 longitude: -87.50393
 postcode: "47715"
 city: Evansville
-street: "East Morgan Avenue"
-housenumber: 3800
+street: East Morgan Avenue
+housenumber: "3800"
 phone: ""
 opening_hours: ""
 website: ""

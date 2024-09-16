@@ -1,11 +1,11 @@
 id: 285885607
-type: way
+type: node
 latitude: 39.86845
 longitude: -86.12278
 postcode: "46220"
 city: Indianapolis
-street: "Broad Ripple Avenue"
-housenumber: 2369
+street: Broad Ripple Avenue
+housenumber: "2369"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 771734895
-type: way
+type: node
 latitude: 39.23447
 longitude: -85.57474
 postcode: "47240"
 city: Greensburg
-street: "West County Road 700 South"
-housenumber: 4987
-phone: "+1 812-591-2221"
+street: West County Road 700 South
+housenumber: "4987"
+phone: +1 812-591-2221
 opening_hours: ""
-website: "https://www.lettshardware.com/"
+website: https://www.lettshardware.com/

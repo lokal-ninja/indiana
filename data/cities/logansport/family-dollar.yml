@@ -1,11 +1,11 @@
 id: 625491302
-type: way
+type: node
 latitude: 40.75372
 longitude: -86.36387
 postcode: "46947"
 city: Logansport
-street: "East Market Street"
-housenumber: 500
+street: East Market Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204918772
-type: way
+type: node
 latitude: 39.75841
 longitude: -86.18704
 postcode: "46221"
 city: Indianapolis
-street: "South Harding Street"
-housenumber: 601
+street: South Harding Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

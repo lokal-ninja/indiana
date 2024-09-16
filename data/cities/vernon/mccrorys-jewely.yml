@@ -1,11 +1,11 @@
 id: 619505731
-type: way
+type: node
 latitude: 38.98539
 longitude: -85.6095
 postcode: "47282"
 city: Vernon
-street: "North Pike Street"
-housenumber: 45
+street: North Pike Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

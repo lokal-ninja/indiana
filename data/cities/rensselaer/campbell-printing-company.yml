@@ -1,11 +1,11 @@
 id: 1112429934
-type: way
+type: node
 latitude: 40.93658
 longitude: -87.15221
 postcode: "47978"
 city: Rensselaer
-street: "North Van Rensselaer Street"
-housenumber: 125
-phone: "(219) 866-5913"
+street: North Van Rensselaer Street
+housenumber: "125"
+phone: (219) 866-5913
 opening_hours: ""
 website: ""

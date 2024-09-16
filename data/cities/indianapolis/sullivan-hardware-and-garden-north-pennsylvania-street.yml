@@ -1,11 +1,11 @@
 id: 935110280
-type: way
+type: node
 latitude: 39.84232
 longitude: -86.15539
 postcode: "46205"
 city: Indianapolis
-street: "North Pennsylvania Street"
-housenumber: 4838
+street: North Pennsylvania Street
+housenumber: "4838"
 phone: ""
 opening_hours: ""
 website: ""

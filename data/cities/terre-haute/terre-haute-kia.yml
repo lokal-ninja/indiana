@@ -1,11 +1,11 @@
 id: 731917433
-type: way
+type: node
 latitude: 39.41911
 longitude: -87.41503
 postcode: "47802"
 city: Terre Haute
-street: "US 41"
-housenumber: 3968
+street: US 41
+housenumber: "3968"
 phone: ""
 opening_hours: ""
-website: "https://www.terrehautekia.com/"
+website: https://www.terrehautekia.com/

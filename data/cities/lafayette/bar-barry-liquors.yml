@@ -1,11 +1,11 @@
 id: 720078764
-type: way
+type: node
 latitude: 40.41672
 longitude: -86.87853
 postcode: "47904"
 city: Lafayette
-street: "Main Street"
-housenumber: 1601
+street: Main Street
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

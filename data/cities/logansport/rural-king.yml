@@ -1,11 +1,11 @@
 id: 583995241
-type: way
+type: node
 latitude: 40.75506
 longitude: -86.31379
 postcode: "46947"
 city: Logansport
-street: "East Market Street"
-housenumber: 3919
-phone: "+1 574-753-2030"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.ruralking.com/logansport-in"
+street: East Market Street
+housenumber: "3919"
+phone: +1 574-753-2030
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.ruralking.com/logansport-in

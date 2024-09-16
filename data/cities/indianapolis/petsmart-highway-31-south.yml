@@ -4,8 +4,8 @@ latitude: 39.65316
 longitude: -86.13603
 postcode: "46227"
 city: Indianapolis
-street: "Highway 31 South"
-housenumber: 7801
-phone: "+1 317-865-3509"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/in/indianapolis-store1065.html"
+street: Highway 31 South
+housenumber: "7801"
+phone: +1 317-865-3509
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/in/indianapolis-store1065.html

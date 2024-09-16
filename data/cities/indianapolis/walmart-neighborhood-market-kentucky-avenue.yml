@@ -1,11 +1,11 @@
 id: 669491244
-type: way
+type: node
 latitude: 39.69546
 longitude: -86.26615
 postcode: "46221"
 city: Indianapolis
-street: "Kentucky Avenue"
-housenumber: 4837
-phone: "+1 317-830-4950"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4054/indianapolis-in/whats-new"
+street: Kentucky Avenue
+housenumber: "4837"
+phone: +1 317-830-4950
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4054/indianapolis-in/whats-new

@@ -1,11 +1,11 @@
 id: 1076450676
-type: way
+type: node
 latitude: 41.60163
 longitude: -87.37015
 postcode: "46404"
 city: Gary
-street: "West 5th Avenue"
-housenumber: 2642
+street: West 5th Avenue
+housenumber: "2642"
 phone: ""
 opening_hours: ""
 website: ""

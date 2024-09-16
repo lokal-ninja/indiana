@@ -1,11 +1,11 @@
 id: 625106249
-type: way
+type: node
 latitude: 39.87556
 longitude: -86.14344
 postcode: "46220"
 city: Indianapolis
-street: "Ferguson Street"
-housenumber: 6551
+street: Ferguson Street
+housenumber: "6551"
 phone: ""
 opening_hours: ""
 website: ""

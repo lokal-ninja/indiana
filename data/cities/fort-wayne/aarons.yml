@@ -1,11 +1,11 @@
 id: 594759272
-type: way
+type: node
 latitude: 41.12907
 longitude: -85.13531
 postcode: "46825"
 city: Fort Wayne
-street: "Coldwater Road"
-housenumber: 5410
+street: Coldwater Road
+housenumber: "5410"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed"
-website: "https://locations.aarons.com/us/in/fort-wayne/5410-coldwater-rd"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed
+website: https://locations.aarons.com/us/in/fort-wayne/5410-coldwater-rd

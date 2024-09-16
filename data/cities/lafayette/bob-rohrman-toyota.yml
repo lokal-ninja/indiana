@@ -1,11 +1,11 @@
 id: 283335316
-type: way
+type: node
 latitude: 40.419
 longitude: -86.83302
 postcode: "47905"
 city: Lafayette
-street: "South Street"
-housenumber: 3900
+street: South Street
+housenumber: "3900"
 phone: ""
 opening_hours: ""
 website: ""

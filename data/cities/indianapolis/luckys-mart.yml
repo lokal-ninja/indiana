@@ -4,8 +4,8 @@ latitude: 39.78036
 longitude: -86.2488
 postcode: "46224"
 city: Indianapolis
-street: "West 10th Street"
-housenumber: 5208
-phone: "+1-317-243-9790"
-opening_hours: "05:00-23:00"
+street: West 10th Street
+housenumber: "5208"
+phone: +1-317-243-9790
+opening_hours: 05:00-23:00
 website: ""

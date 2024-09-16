@@ -1,11 +1,11 @@
 id: 1231162089
-type: way
+type: node
 latitude: 40.51966
 longitude: -85.67681
 postcode: "46953"
 city: Marion
-street: "South Western Ave"
-housenumber: 4022
+street: South Western Ave
+housenumber: "4022"
 phone: ""
 opening_hours: ""
 website: ""

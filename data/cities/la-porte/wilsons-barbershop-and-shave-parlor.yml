@@ -1,11 +1,11 @@
 id: 1078537298
-type: way
+type: node
 latitude: 41.61073
 longitude: -86.7219
 postcode: "46350"
 city: La Porte
-street: "Lincolnway"
-housenumber: 818
-phone: "+1 219 326 1600"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00; Jul 04-11 off"
-website: "https://wilsonsbarbershop.com/"
+street: Lincolnway
+housenumber: "818"
+phone: +1 219 326 1600
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00; Jul 04-11 off
+website: https://wilsonsbarbershop.com/

@@ -1,11 +1,11 @@
 id: 548485870
-type: way
+type: node
 latitude: 40.19443
 longitude: -86.66811
 postcode: "46035"
 city: Colfax
-street: "North Oakland Street"
-housenumber: 101
+street: North Oakland Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

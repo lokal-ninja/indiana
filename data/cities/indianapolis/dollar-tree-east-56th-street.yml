@@ -4,8 +4,8 @@ latitude: 39.85563
 longitude: -86.08496
 postcode: "46220"
 city: Indianapolis
-street: "East 56th Street"
-housenumber: 5050
+street: East 56th Street
+housenumber: "5050"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/in/indianapolis/7533/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/in/indianapolis/7533/

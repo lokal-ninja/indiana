@@ -1,11 +1,11 @@
 id: 538383420
-type: way
+type: node
 latitude: 41.12087
 longitude: -85.12972
 postcode: "46805"
 city: Fort Wayne
-street: "Northcrest Shopping Center"
-housenumber: 737
-phone: "+1 260-471-5501"
+street: Northcrest Shopping Center
+housenumber: "737"
+phone: +1 260-471-5501
 opening_hours: ""
-website: "https://stores.bestbuy.com/in/fort-wayne/737-northcrest-shopping-ctr-228.html"
+website: https://stores.bestbuy.com/in/fort-wayne/737-northcrest-shopping-ctr-228.html

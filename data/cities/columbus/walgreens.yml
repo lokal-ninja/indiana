@@ -1,11 +1,11 @@
 id: 545277025
-type: way
+type: node
 latitude: 39.20122
 longitude: -85.94778
 postcode: "47201"
 city: Columbus
-street: "West Jonathan Moore Pike"
-housenumber: 2140
+street: West Jonathan Moore Pike
+housenumber: "2140"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2140+w+jonathan+moore+pike-columbus-in-47201/id=10857"
+website: https://www.walgreens.com/locator/walgreens-2140+w+jonathan+moore+pike-columbus-in-47201/id=10857

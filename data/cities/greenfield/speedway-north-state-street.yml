@@ -1,11 +1,11 @@
 id: 323037904
-type: way
+type: node
 latitude: 39.81789
 longitude: -85.77097
 postcode: "46140"
 city: Greenfield
-street: "North State Street"
-housenumber: 2242
+street: North State Street
+housenumber: "2242"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/IN/Greenfield/2242-N-State-St"
+website: https://www.speedway.com/locations/IN/Greenfield/2242-N-State-St

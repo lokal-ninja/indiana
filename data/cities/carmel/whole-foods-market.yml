@@ -1,11 +1,11 @@
 id: 197000557
-type: way
+type: node
 latitude: 39.99925
 longitude: -86.13069
 postcode: "46032"
 city: Carmel
-street: "Clay Terrace Boulevard"
-housenumber: 14598
-phone: "+1 317-569-1517"
-opening_hours: "Mo-Sa 08:00-22:00; Su08:00-21:00"
-website: "https://wholefoodsmarket.com/stores/carmel/"
+street: Clay Terrace Boulevard
+housenumber: "14598"
+phone: +1 317-569-1517
+opening_hours: Mo-Sa 08:00-22:00; Su08:00-21:00
+website: https://wholefoodsmarket.com/stores/carmel/

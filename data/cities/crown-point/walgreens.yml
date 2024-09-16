@@ -1,11 +1,11 @@
 id: 238912274
-type: way
+type: node
 latitude: 41.41997
 longitude: -87.23991
 postcode: "46307"
 city: Crown Point
-street: "Randolph Street"
-housenumber: 10920
+street: Randolph Street
+housenumber: "10920"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10920+randolph+st-crown+point-in-46307/id=4829"
+website: https://www.walgreens.com/locator/walgreens-10920+randolph+st-crown+point-in-46307/id=4829

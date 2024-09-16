@@ -1,11 +1,11 @@
 id: 1240818717
-type: way
+type: node
 latitude: 41.51281
 longitude: -87.33682
 postcode: "46410"
 city: Merrillville
-street: "Broadway"
-housenumber: 5790
+street: Broadway
+housenumber: "5790"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/in/merrillville/5790-broadway"
+website: https://stores.advanceautoparts.com/in/merrillville/5790-broadway

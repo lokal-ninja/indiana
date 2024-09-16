@@ -1,11 +1,11 @@
 id: 974172321
-type: way
+type: node
 latitude: 41.7316
 longitude: -85.00248
 postcode: "46737"
 city: Fremont
-street: "North Old US 27"
-housenumber: 6245
+street: North Old US 27
+housenumber: "6245"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
 website: ""

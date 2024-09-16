@@ -1,11 +1,11 @@
 id: 1195262774
-type: way
+type: node
 latitude: 40.37424
 longitude: -86.77179
 postcode: "47941"
 city: Dayton
-street: "Walnut Street"
-housenumber: 692
-phone: "765-449-0817"
-opening_hours: "by appointment"
+street: Walnut Street
+housenumber: "692"
+phone: 765-449-0817
+opening_hours: '"by appointment"'
 website: ""

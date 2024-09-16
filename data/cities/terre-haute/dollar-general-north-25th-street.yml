@@ -1,11 +1,11 @@
 id: 744700168
-type: way
+type: node
 latitude: 39.51506
 longitude: -87.37982
 postcode: "47805"
 city: Terre Haute
-street: "North 25th Street"
-housenumber: 4050
+street: North 25th Street
+housenumber: "4050"
 phone: ""
 opening_hours: ""
 website: ""

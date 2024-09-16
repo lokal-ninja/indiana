@@ -1,11 +1,11 @@
 id: 963311283
-type: way
+type: node
 latitude: 39.79889
 longitude: -85.77037
 postcode: "46140"
 city: Greenfield
-street: "North State Street"
-housenumber: 1136
+street: North State Street
+housenumber: "1136"
 phone: ""
 opening_hours: ""
 website: ""

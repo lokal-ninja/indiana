@@ -1,11 +1,11 @@
 id: 274901113
-type: way
+type: node
 latitude: 39.41869
 longitude: -86.40938
 postcode: "46151"
 city: Martinsville
-street: "Birk Road"
-housenumber: 640
+street: Birk Road
+housenumber: "640"
 phone: ""
 opening_hours: ""
 website: ""

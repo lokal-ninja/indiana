@@ -1,11 +1,11 @@
 id: 685106641
-type: way
+type: node
 latitude: 41.26011
 longitude: -85.84005
 postcode: "46580"
 city: Warsaw
-street: "Lake City Highway"
-housenumber: 1200
-phone: "+1-574-371-4100"
+street: Lake City Highway
+housenumber: "1200"
+phone: +1-574-371-4100
 opening_hours: ""
 website: ""

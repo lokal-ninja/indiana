@@ -1,11 +1,11 @@
 id: 258010060
-type: way
+type: node
 latitude: 39.84882
 longitude: -86.12139
 postcode: "46220"
 city: Indianapolis
-street: "North Keystone Avenue"
-housenumber: 5235
-phone: "+1 844-444-7075"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/in/indianapolis/5235-n-keystone-ave"
+street: North Keystone Avenue
+housenumber: "5235"
+phone: +1 844-444-7075
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/in/indianapolis/5235-n-keystone-ave

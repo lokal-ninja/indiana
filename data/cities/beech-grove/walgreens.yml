@@ -1,11 +1,11 @@
 id: 1033651689
-type: way
+type: node
 latitude: 39.72368
 longitude: -86.10356
 postcode: "46107"
 city: Beech Grove
-street: "Albany Street"
-housenumber: 1808
+street: Albany Street
+housenumber: "1808"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1808+albany+st-beech+grove-in-46107/id=2956"
+website: https://www.walgreens.com/locator/walgreens-1808+albany+st-beech+grove-in-46107/id=2956

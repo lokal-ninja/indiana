@@ -1,11 +1,11 @@
 id: 237181269
-type: way
+type: node
 latitude: 39.74622
 longitude: -86.13994
 postcode: "46203"
 city: Indianapolis
-street: "Shelby Street"
-housenumber: 1618
+street: Shelby Street
+housenumber: "1618"
 phone: ""
 opening_hours: ""
 website: ""

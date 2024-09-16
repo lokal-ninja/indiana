@@ -1,11 +1,11 @@
 id: 653292065
-type: way
+type: node
 latitude: 41.46825
 longitude: -87.30092
 postcode: "46410"
 city: Merrillville
-street: "East 81st Avenue"
-housenumber: 2851
-phone: "+1 219-942-2136"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/southlake/in/merrillville/46410/2001"
+street: East 81st Avenue
+housenumber: "2851"
+phone: +1 219-942-2136
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/southlake/in/merrillville/46410/2001

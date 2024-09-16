@@ -1,11 +1,11 @@
 id: 684981402
-type: way
+type: node
 latitude: 39.41541
 longitude: -87.41744
 postcode: "47802"
 city: Terre Haute
-street: "Mayfair Drive"
-housenumber: 105
+street: Mayfair Drive
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.dorsettnissan.com/"
+website: https://www.dorsettnissan.com/

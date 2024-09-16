@@ -1,11 +1,11 @@
 id: 644919467
-type: way
+type: node
 latitude: 39.16214
 longitude: -86.53207
 postcode: "47401"
 city: Bloomington
-street: "South Washington Street"
-housenumber: 415
+street: South Washington Street
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

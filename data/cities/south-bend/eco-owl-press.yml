@@ -1,11 +1,11 @@
 id: 1150599139
-type: way
+type: node
 latitude: 41.6839
 longitude: -86.25688
 postcode: "46616"
 city: South Bend
-street: "Portage Avenue"
-housenumber: 626
+street: Portage Avenue
+housenumber: "626"
 phone: "+15747033941"
-opening_hours: "Tu-Fr 9:00-17:00"
-website: "https://www.ecoowlpress.com/"
+opening_hours: Tu-Fr 9:00-17:00
+website: https://www.ecoowlpress.com/

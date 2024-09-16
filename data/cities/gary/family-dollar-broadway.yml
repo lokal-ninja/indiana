@@ -1,11 +1,11 @@
 id: 1160299719
-type: way
+type: node
 latitude: 41.53995
 longitude: -87.33688
 postcode: "46409"
 city: Gary
-street: "Broadway"
-housenumber: 4330
+street: Broadway
+housenumber: "4330"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/locations/in/gary/30370/"
+website: https://www.familydollar.com/locations/in/gary/30370/

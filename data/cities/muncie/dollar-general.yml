@@ -1,11 +1,11 @@
 id: 1044777429
-type: way
+type: node
 latitude: 40.22001
 longitude: -85.37086
 postcode: ""
 city: Muncie
-street: "East McGalliard Road"
-housenumber: 1410
+street: East McGalliard Road
+housenumber: "1410"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/in/muncie/3755"
+website: https://www.dollargeneral.com/store-directory/in/muncie/3755

@@ -1,11 +1,11 @@
 id: 752139994
-type: way
+type: node
 latitude: 41.7326
 longitude: -86.16112
 postcode: "46530"
 city: Granger
-street: "Edwardsburg Highway"
-housenumber: 15065
-phone: "+1 574 271 0202"
+street: Edwardsburg Highway
+housenumber: "15065"
+phone: +1 574 271 0202
 opening_hours: ""
-website: "https://gingervalley.com"
+website: https://gingervalley.com

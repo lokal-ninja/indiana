@@ -1,11 +1,11 @@
 id: 885542118
-type: way
+type: node
 latitude: 41.09148
 longitude: -85.17408
 postcode: "46808"
 city: Fort Wayne
-street: "Lakeview Drive"
-housenumber: 1918
-phone: "+1 (260) 240-9001"
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-13:00, Su closed"
-website: "http://www.dkconceptsinc.com/"
+street: Lakeview Drive
+housenumber: "1918"
+phone: +1 (260) 240-9001
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-13:00, Su closed
+website: http://www.dkconceptsinc.com/
