@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /valparaiso/speedway-us-30/
+url: /anderson/speedway-east-53rd-street/
 shop: convenience
 ---

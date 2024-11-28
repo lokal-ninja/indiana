@@ -2,5 +2,5 @@
 title: New Albany
 url: /new-albany/
 latitude: 38.285
-longitude: -85.821
+longitude: -85.823
 ---

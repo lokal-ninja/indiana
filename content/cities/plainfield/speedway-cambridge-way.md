@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /terre-haute/speedway-wabash-avenue/
+url: /plainfield/speedway-cambridge-way/
 shop: convenience
 ---
