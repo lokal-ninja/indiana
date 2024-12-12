@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /valparaiso/speedway-us-30/
+url: /terre-haute/speedway-wabash-avenue/
 shop: convenience
 ---
