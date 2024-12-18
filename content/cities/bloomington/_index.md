@@ -1,6 +1,6 @@
 ---
 title: Bloomington
 url: /bloomington/
-latitude: 39.138
-longitude: -86.53
+latitude: 39.158
+longitude: -86.536
 ---
