@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /hammond/autozone-columbia-avenue/
+url: /hammond/autozone-calumet-avenue/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /anderson/speedway-west-53rd-street/
+url: /hobart/speedway-west-61st-avenue-2/
 shop: convenience
 ---
