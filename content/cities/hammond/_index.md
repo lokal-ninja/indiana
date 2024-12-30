@@ -1,6 +1,6 @@
 ---
 title: Hammond
 url: /hammond/
-latitude: 41.633
-longitude: -87.525
+latitude: 41.571
+longitude: -87.474
 ---
