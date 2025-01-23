@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /valparaiso/speedway-us-30/
+url: /angola/speedway-east-maumee-street/
 shop: convenience
 ---
