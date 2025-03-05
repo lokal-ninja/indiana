@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kokomo/speedway-west-alto-road/
+url: /westfield/speedway-in-32/
 shop: convenience
 ---
