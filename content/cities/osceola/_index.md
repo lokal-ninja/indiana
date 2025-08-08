@@ -1,6 +1,6 @@
 ---
 title: Osceola
 url: /osceola/
-latitude: 41.688
-longitude: -86.064
+latitude: 41.663
+longitude: -86.081
 ---

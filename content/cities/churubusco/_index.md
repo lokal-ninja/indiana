@@ -1,6 +1,6 @@
 ---
 title: Churubusco
 url: /churubusco/
-latitude: 41.224
-longitude: -85.317
+latitude: 41.23
+longitude: -85.319
 ---
