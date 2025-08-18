@@ -1,5 +1,5 @@
 ---
 title: "Storage Express"
-url: /bedford/storage-express-bundy-lane/
+url: /bedford/storage-express-o-street/
 shop: storage rental
 ---
