@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /anderson/speedway-west-53rd-street/
+url: /kokomo/speedway-west-alto-road/
 shop: convenience
 ---
