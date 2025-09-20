@@ -1,5 +1,5 @@
 ---
 title: "Runnings"
 url: /elkhart/runnings/
-shop: general
+shop: department store
 ---
