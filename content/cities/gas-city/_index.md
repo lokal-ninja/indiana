@@ -1,6 +1,6 @@
 ---
 title: Gas City
 url: /gas-city/
-latitude: 40.488
-longitude: -85.6
+latitude: 40.489
+longitude: -85.601
 ---
