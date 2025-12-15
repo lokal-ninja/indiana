@@ -1,6 +1,6 @@
 ---
 title: Francesville
 url: /francesville/
-latitude: 40.986
+latitude: 40.985
 longitude: -86.892
 ---
