@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /valparaiso/speedway-us-30/
+url: /fort-wayne/speedway-stellhorn-road/
 shop: convenience
 ---
