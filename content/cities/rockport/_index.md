@@ -1,6 +1,6 @@
 ---
 title: Rockport
 url: /rockport/
-latitude: 37.884
-longitude: -87.05
+latitude: 37.826
+longitude: -87.11
 ---
