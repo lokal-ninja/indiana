@@ -1,6 +1,6 @@
 ---
 title: Fairland
 url: /fairland/
-latitude: 39.583
-longitude: -85.866
+latitude: 39.586
+longitude: -85.863
 ---
