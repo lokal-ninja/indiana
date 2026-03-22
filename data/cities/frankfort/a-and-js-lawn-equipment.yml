@@ -7,5 +7,6 @@ city: Frankfort
 street: Walnut Avenue
 housenumber: "800"
 phone: +1-765-659-5260
-opening_hours: Mo-Fr 08:30-12:00, 13:30-17:00, Sa 08:30-12:00
+opening_hours: Su CLOSED, Mo-Tu, Th-Fr 08:30-12:00, 13:30-17:00, We 09:30-12:00, 13:30-17:00,
+    Sa 08:30-12:00
 website: https://aandjslawnequipment.com/

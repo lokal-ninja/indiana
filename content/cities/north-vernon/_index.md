@@ -1,6 +1,6 @@
 ---
 title: North Vernon
 url: /north-vernon/
-latitude: 39.021
-longitude: -85.637
+latitude: 39.013
+longitude: -85.64
 ---
