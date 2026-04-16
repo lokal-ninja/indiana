@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /brownsburg/aldi/
 shop: supermarket
 ---
