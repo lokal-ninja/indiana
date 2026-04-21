@@ -1,6 +1,6 @@
 ---
 title: Jeffersonville
 url: /jeffersonville/
-latitude: 38.273
-longitude: -85.741
+latitude: 38.274
+longitude: -85.743
 ---
