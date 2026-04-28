@@ -1,6 +1,6 @@
 ---
 title: Columbus
 url: /columbus/
-latitude: 39.203
-longitude: -85.921
+latitude: 39.213
+longitude: -85.88
 ---
