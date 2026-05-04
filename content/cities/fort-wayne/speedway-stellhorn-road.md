@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /terre-haute/speedway-hulman-street/
+url: /fort-wayne/speedway-stellhorn-road/
 shop: convenience
 ---
