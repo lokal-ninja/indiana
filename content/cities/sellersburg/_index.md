@@ -1,6 +1,6 @@
 ---
 title: Sellersburg
 url: /sellersburg/
-latitude: 38.393
-longitude: -85.757
+latitude: 38.372
+longitude: -85.759
 ---
