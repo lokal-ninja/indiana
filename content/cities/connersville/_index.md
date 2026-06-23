@@ -1,6 +1,6 @@
 ---
 title: Connersville
 url: /connersville/
-latitude: 39.671
-longitude: -85.135
+latitude: 39.639
+longitude: -85.141
 ---
