@@ -1,6 +1,6 @@
 ---
 title: Marengo
 url: /marengo/
-latitude: 38.374
-longitude: -86.344
+latitude: 38.375
+longitude: -86.345
 ---

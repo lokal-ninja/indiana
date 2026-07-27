@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /marion/speedway-north-wabash-avenue/
+url: /marion/speedway-south-adams-street/
 shop: convenience
 ---
