@@ -1,6 +1,6 @@
 ---
 title: Culver
 url: /culver/
-latitude: 41.218
-longitude: -86.424
+latitude: 41.225
+longitude: -86.418
 ---

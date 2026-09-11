@@ -1,6 +1,6 @@
 ---
 title: New Carlisle
 url: /new-carlisle/
-latitude: 41.71
-longitude: -86.5
+latitude: 41.706
+longitude: -86.519
 ---

@@ -1,6 +1,6 @@
 ---
 title: Michigan City
 url: /michigan-city/
-latitude: 41.683
-longitude: -86.896
+latitude: 41.653
+longitude: -86.893
 ---

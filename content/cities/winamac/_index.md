@@ -1,6 +1,6 @@
 ---
 title: Winamac
 url: /winamac/
-latitude: 41.039
-longitude: -86.597
+latitude: 41.06
+longitude: -86.602
 ---

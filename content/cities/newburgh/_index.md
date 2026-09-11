@@ -1,6 +1,6 @@
 ---
 title: Newburgh
 url: /newburgh/
-latitude: 37.955
-longitude: -87.443
+latitude: 37.975
+longitude: -87.395
 ---

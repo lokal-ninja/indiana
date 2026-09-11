@@ -1,6 +1,6 @@
 ---
 title: Evansville
 url: /evansville/
-latitude: 38.015
-longitude: -87.577
+latitude: 37.989
+longitude: -87.54
 ---
