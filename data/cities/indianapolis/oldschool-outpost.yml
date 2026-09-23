@@ -7,5 +7,5 @@ city: Indianapolis
 street: East Thompson Road
 housenumber: "5215"
 phone: "+13177751781"
-opening_hours: We 12:00-18:00; Th-Su 10:00-18:30
+opening_hours: 'Mo: 12p - 9p Tu - Fr: 11a - 9p Sa: 10a - 9p Sun: 12p - 8p'
 website: ""
